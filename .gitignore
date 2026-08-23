@@ -1,0 +1,16 @@
+# Source PDFs are copyrighted course material — never commit them.
+pdfs/*
+!pdfs/.gitkeep
+
+# Local scratch
+tmp/
+*.local.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node (only used by tools/validate.mjs, which has no dependencies)
+node_modules/

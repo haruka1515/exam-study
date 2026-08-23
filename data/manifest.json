@@ -1,0 +1,576 @@
+{
+  "course": "TODO course name",
+  "exam": "TODO exam date (YYYY-MM-DD)",
+  "chapters": [
+    {
+      "id": "ch01",
+      "number": 1,
+      "title": "TODO chapter 1 title",
+      "profile": "balanced",
+      "sections": [
+        {
+          "id": "s01",
+          "number": 1,
+          "title": "TODO section 1.1 title",
+          "file": "ch01/s01.json",
+          "status": "pending"
+        },
+        {
+          "id": "s02",
+          "number": 2,
+          "title": "TODO section 1.2 title",
+          "file": "ch01/s02.json",
+          "status": "pending"
+        },
+        {
+          "id": "s03",
+          "number": 3,
+          "title": "TODO section 1.3 title",
+          "file": "ch01/s03.json",
+          "status": "pending"
+        },
+        {
+          "id": "s04",
+          "number": 4,
+          "title": "TODO section 1.4 title",
+          "file": "ch01/s04.json",
+          "status": "pending"
+        },
+        {
+          "id": "s05",
+          "number": 5,
+          "title": "TODO section 1.5 title",
+          "file": "ch01/s05.json",
+          "status": "pending"
+        },
+        {
+          "id": "s06",
+          "number": 6,
+          "title": "TODO section 1.6 title",
+          "file": "ch01/s06.json",
+          "status": "pending"
+        },
+        {
+          "id": "s07",
+          "number": 7,
+          "title": "TODO section 1.7 title",
+          "file": "ch01/s07.json",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "number": 2,
+      "title": "TODO chapter 2 title",
+      "profile": "balanced",
+      "sections": [
+        {
+          "id": "s01",
+          "number": 1,
+          "title": "TODO section 2.1 title",
+          "file": "ch02/s01.json",
+          "status": "pending"
+        },
+        {
+          "id": "s02",
+          "number": 2,
+          "title": "TODO section 2.2 title",
+          "file": "ch02/s02.json",
+          "status": "pending"
+        },
+        {
+          "id": "s03",
+          "number": 3,
+          "title": "TODO section 2.3 title",
+          "file": "ch02/s03.json",
+          "status": "pending"
+        },
+        {
+          "id": "s04",
+          "number": 4,
+          "title": "TODO section 2.4 title",
+          "file": "ch02/s04.json",
+          "status": "pending"
+        },
+        {
+          "id": "s05",
+          "number": 5,
+          "title": "TODO section 2.5 title",
+          "file": "ch02/s05.json",
+          "status": "pending"
+        },
+        {
+          "id": "s06",
+          "number": 6,
+          "title": "TODO section 2.6 title",
+          "file": "ch02/s06.json",
+          "status": "pending"
+        },
+        {
+          "id": "s07",
+          "number": 7,
+          "title": "TODO section 2.7 title",
+          "file": "ch02/s07.json",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "number": 3,
+      "title": "TODO chapter 3 title",
+      "profile": "balanced",
+      "sections": [
+        {
+          "id": "s01",
+          "number": 1,
+          "title": "TODO section 3.1 title",
+          "file": "ch03/s01.json",
+          "status": "pending"
+        },
+        {
+          "id": "s02",
+          "number": 2,
+          "title": "TODO section 3.2 title",
+          "file": "ch03/s02.json",
+          "status": "pending"
+        },
+        {
+          "id": "s03",
+          "number": 3,
+          "title": "TODO section 3.3 title",
+          "file": "ch03/s03.json",
+          "status": "pending"
+        },
+        {
+          "id": "s04",
+          "number": 4,
+          "title": "TODO section 3.4 title",
+          "file": "ch03/s04.json",
+          "status": "pending"
+        },
+        {
+          "id": "s05",
+          "number": 5,
+          "title": "TODO section 3.5 title",
+          "file": "ch03/s05.json",
+          "status": "pending"
+        },
+        {
+          "id": "s06",
+          "number": 6,
+          "title": "TODO section 3.6 title",
+          "file": "ch03/s06.json",
+          "status": "pending"
+        },
+        {
+          "id": "s07",
+          "number": 7,
+          "title": "TODO section 3.7 title",
+          "file": "ch03/s07.json",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "number": 4,
+      "title": "TODO chapter 4 title",
+      "profile": "balanced",
+      "sections": [
+        {
+          "id": "s01",
+          "number": 1,
+          "title": "TODO section 4.1 title",
+          "file": "ch04/s01.json",
+          "status": "pending"
+        },
+        {
+          "id": "s02",
+          "number": 2,
+          "title": "TODO section 4.2 title",
+          "file": "ch04/s02.json",
+          "status": "pending"
+        },
+        {
+          "id": "s03",
+          "number": 3,
+          "title": "TODO section 4.3 title",
+          "file": "ch04/s03.json",
+          "status": "pending"
+        },
+        {
+          "id": "s04",
+          "number": 4,
+          "title": "TODO section 4.4 title",
+          "file": "ch04/s04.json",
+          "status": "pending"
+        },
+        {
+          "id": "s05",
+          "number": 5,
+          "title": "TODO section 4.5 title",
+          "file": "ch04/s05.json",
+          "status": "pending"
+        },
+        {
+          "id": "s06",
+          "number": 6,
+          "title": "TODO section 4.6 title",
+          "file": "ch04/s06.json",
+          "status": "pending"
+        },
+        {
+          "id": "s07",
+          "number": 7,
+          "title": "TODO section 4.7 title",
+          "file": "ch04/s07.json",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "number": 5,
+      "title": "TODO chapter 5 title",
+      "profile": "balanced",
+      "sections": [
+        {
+          "id": "s01",
+          "number": 1,
+          "title": "TODO section 5.1 title",
+          "file": "ch05/s01.json",
+          "status": "pending"
+        },
+        {
+          "id": "s02",
+          "number": 2,
+          "title": "TODO section 5.2 title",
+          "file": "ch05/s02.json",
+          "status": "pending"
+        },
+        {
+          "id": "s03",
+          "number": 3,
+          "title": "TODO section 5.3 title",
+          "file": "ch05/s03.json",
+          "status": "pending"
+        },
+        {
+          "id": "s04",
+          "number": 4,
+          "title": "TODO section 5.4 title",
+          "file": "ch05/s04.json",
+          "status": "pending"
+        },
+        {
+          "id": "s05",
+          "number": 5,
+          "title": "TODO section 5.5 title",
+          "file": "ch05/s05.json",
+          "status": "pending"
+        },
+        {
+          "id": "s06",
+          "number": 6,
+          "title": "TODO section 5.6 title",
+          "file": "ch05/s06.json",
+          "status": "pending"
+        },
+        {
+          "id": "s07",
+          "number": 7,
+          "title": "TODO section 5.7 title",
+          "file": "ch05/s07.json",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "number": 6,
+      "title": "TODO chapter 6 title",
+      "profile": "balanced",
+      "sections": [
+        {
+          "id": "s01",
+          "number": 1,
+          "title": "TODO section 6.1 title",
+          "file": "ch06/s01.json",
+          "status": "pending"
+        },
+        {
+          "id": "s02",
+          "number": 2,
+          "title": "TODO section 6.2 title",
+          "file": "ch06/s02.json",
+          "status": "pending"
+        },
+        {
+          "id": "s03",
+          "number": 3,
+          "title": "TODO section 6.3 title",
+          "file": "ch06/s03.json",
+          "status": "pending"
+        },
+        {
+          "id": "s04",
+          "number": 4,
+          "title": "TODO section 6.4 title",
+          "file": "ch06/s04.json",
+          "status": "pending"
+        },
+        {
+          "id": "s05",
+          "number": 5,
+          "title": "TODO section 6.5 title",
+          "file": "ch06/s05.json",
+          "status": "pending"
+        },
+        {
+          "id": "s06",
+          "number": 6,
+          "title": "TODO section 6.6 title",
+          "file": "ch06/s06.json",
+          "status": "pending"
+        },
+        {
+          "id": "s07",
+          "number": 7,
+          "title": "TODO section 6.7 title",
+          "file": "ch06/s07.json",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "number": 7,
+      "title": "TODO chapter 7 title",
+      "profile": "balanced",
+      "sections": [
+        {
+          "id": "s01",
+          "number": 1,
+          "title": "TODO section 7.1 title",
+          "file": "ch07/s01.json",
+          "status": "pending"
+        },
+        {
+          "id": "s02",
+          "number": 2,
+          "title": "TODO section 7.2 title",
+          "file": "ch07/s02.json",
+          "status": "pending"
+        },
+        {
+          "id": "s03",
+          "number": 3,
+          "title": "TODO section 7.3 title",
+          "file": "ch07/s03.json",
+          "status": "pending"
+        },
+        {
+          "id": "s04",
+          "number": 4,
+          "title": "TODO section 7.4 title",
+          "file": "ch07/s04.json",
+          "status": "pending"
+        },
+        {
+          "id": "s05",
+          "number": 5,
+          "title": "TODO section 7.5 title",
+          "file": "ch07/s05.json",
+          "status": "pending"
+        },
+        {
+          "id": "s06",
+          "number": 6,
+          "title": "TODO section 7.6 title",
+          "file": "ch07/s06.json",
+          "status": "pending"
+        },
+        {
+          "id": "s07",
+          "number": 7,
+          "title": "TODO section 7.7 title",
+          "file": "ch07/s07.json",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "number": 8,
+      "title": "TODO chapter 8 title",
+      "profile": "balanced",
+      "sections": [
+        {
+          "id": "s01",
+          "number": 1,
+          "title": "TODO section 8.1 title",
+          "file": "ch08/s01.json",
+          "status": "pending"
+        },
+        {
+          "id": "s02",
+          "number": 2,
+          "title": "TODO section 8.2 title",
+          "file": "ch08/s02.json",
+          "status": "pending"
+        },
+        {
+          "id": "s03",
+          "number": 3,
+          "title": "TODO section 8.3 title",
+          "file": "ch08/s03.json",
+          "status": "pending"
+        },
+        {
+          "id": "s04",
+          "number": 4,
+          "title": "TODO section 8.4 title",
+          "file": "ch08/s04.json",
+          "status": "pending"
+        },
+        {
+          "id": "s05",
+          "number": 5,
+          "title": "TODO section 8.5 title",
+          "file": "ch08/s05.json",
+          "status": "pending"
+        },
+        {
+          "id": "s06",
+          "number": 6,
+          "title": "TODO section 8.6 title",
+          "file": "ch08/s06.json",
+          "status": "pending"
+        },
+        {
+          "id": "s07",
+          "number": 7,
+          "title": "TODO section 8.7 title",
+          "file": "ch08/s07.json",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "number": 9,
+      "title": "TODO chapter 9 title",
+      "profile": "balanced",
+      "sections": [
+        {
+          "id": "s01",
+          "number": 1,
+          "title": "TODO section 9.1 title",
+          "file": "ch09/s01.json",
+          "status": "pending"
+        },
+        {
+          "id": "s02",
+          "number": 2,
+          "title": "TODO section 9.2 title",
+          "file": "ch09/s02.json",
+          "status": "pending"
+        },
+        {
+          "id": "s03",
+          "number": 3,
+          "title": "TODO section 9.3 title",
+          "file": "ch09/s03.json",
+          "status": "pending"
+        },
+        {
+          "id": "s04",
+          "number": 4,
+          "title": "TODO section 9.4 title",
+          "file": "ch09/s04.json",
+          "status": "pending"
+        },
+        {
+          "id": "s05",
+          "number": 5,
+          "title": "TODO section 9.5 title",
+          "file": "ch09/s05.json",
+          "status": "pending"
+        },
+        {
+          "id": "s06",
+          "number": 6,
+          "title": "TODO section 9.6 title",
+          "file": "ch09/s06.json",
+          "status": "pending"
+        },
+        {
+          "id": "s07",
+          "number": 7,
+          "title": "TODO section 9.7 title",
+          "file": "ch09/s07.json",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "number": 10,
+      "title": "TODO chapter 10 title",
+      "profile": "balanced",
+      "sections": [
+        {
+          "id": "s01",
+          "number": 1,
+          "title": "TODO section 10.1 title",
+          "file": "ch10/s01.json",
+          "status": "pending"
+        },
+        {
+          "id": "s02",
+          "number": 2,
+          "title": "TODO section 10.2 title",
+          "file": "ch10/s02.json",
+          "status": "pending"
+        },
+        {
+          "id": "s03",
+          "number": 3,
+          "title": "TODO section 10.3 title",
+          "file": "ch10/s03.json",
+          "status": "pending"
+        },
+        {
+          "id": "s04",
+          "number": 4,
+          "title": "TODO section 10.4 title",
+          "file": "ch10/s04.json",
+          "status": "pending"
+        },
+        {
+          "id": "s05",
+          "number": 5,
+          "title": "TODO section 10.5 title",
+          "file": "ch10/s05.json",
+          "status": "pending"
+        },
+        {
+          "id": "s06",
+          "number": 6,
+          "title": "TODO section 10.6 title",
+          "file": "ch10/s06.json",
+          "status": "pending"
+        },
+        {
+          "id": "s07",
+          "number": 7,
+          "title": "TODO section 10.7 title",
+          "file": "ch10/s07.json",
+          "status": "pending"
+        }
+      ]
+    }
+  ]
+}

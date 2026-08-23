@@ -1,0 +1,12 @@
+{
+  "name": "exam-study",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static exam-prep quiz player. Question sets are generated offline and committed as JSON.",
+  "type": "module",
+  "scripts": {
+    "validate": "node tools/validate.mjs"
+  },
+  "comment": "No dependencies and no build step by design — the site is plain HTML/CSS/ES modules served straight from the repo. This file exists only so Node treats .js as ES modules for tools/validate.mjs.",
+  "license": "UNLICENSED"
+}

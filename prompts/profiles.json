@@ -1,0 +1,27 @@
+{
+  "knowledge-heavy": {
+    "label": "Knowledge / recall",
+    "mix": { "recall": 50, "understand": 35, "apply": 15, "analyze": 0 },
+    "guidance": "Test definitions, terminology, classifications, ordering of steps, and properties stated directly in the section. Distractors must be adjacent terms from this same section that a student who half-learned the material would confuse with the correct one — never invented jargon."
+  },
+  "balanced": {
+    "label": "Balanced",
+    "mix": { "recall": 25, "understand": 30, "apply": 30, "analyze": 15 },
+    "guidance": "Mix definitional questions with situations that require applying a rule. Roughly half the questions should be answerable only by someone who understands the mechanism, not just its name."
+  },
+  "scenario-heavy": {
+    "label": "Scenario / application",
+    "mix": { "recall": 0, "understand": 15, "apply": 55, "analyze": 30 },
+    "guidance": "Every stem is a concrete situation with specific conditions or values. The student must trace a mechanism, predict an outcome, or choose the correct action. No question may be answerable by recognizing a definition. Vary the scenarios — do not reuse the same setup with different numbers."
+  },
+  "calculation": {
+    "label": "Numeric / calculation",
+    "mix": { "recall": 0, "understand": 10, "apply": 60, "analyze": 30 },
+    "guidance": "Numeric problems solvable in under two minutes without a calculator where possible. Each distractor must be the result of one specific plausible error — a unit slip, an off-by-one, a swapped numerator/denominator, applying the wrong formula — and whyWrong must name that error. Never use random numbers as distractors."
+  },
+  "compare-contrast": {
+    "label": "Compare / contrast",
+    "mix": { "recall": 15, "understand": 40, "apply": 25, "analyze": 20 },
+    "guidance": "Focus on distinguishing similar concepts, protocols, algorithms, or categories covered in the section: which one applies, how they differ, what trade-off each makes. Distractors are the sibling concepts themselves."
+  }
+}

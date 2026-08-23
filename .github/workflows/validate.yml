@@ -1,0 +1,21 @@
+name: validate question sets
+
+on:
+  push:
+    paths:
+      - "data/**"
+      - "js/validate-core.js"
+      - "tools/**"
+      - "prompts/profiles.json"
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: node tools/validate.mjs
