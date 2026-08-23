@@ -1,0 +1,4 @@
+# Keep line endings LF in the repo — generated JSON and shared ES modules
+# should look identical whether they came from Windows, CI, or Claude.
+* text=auto eol=lf
+*.pdf binary
