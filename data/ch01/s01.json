@@ -1,0 +1,2465 @@
+{
+  "id": "ch01-s01",
+  "chapter": 1,
+  "chapterTitle": "Clinical Psychology",
+  "section": 1,
+  "sectionTitle": "Psychodynamic Psychotherapies",
+  "profile": "knowledge-heavy",
+  "sourceFile": "Clinical1_dynamic_humanistic_constructivist.pdf",
+  "generatedAt": "2026-08-23",
+  "questions": [
+    {
+      "id": "q01",
+      "type": "single",
+      "stem": "Which set of assumptions is shared by all therapies categorized as psychodynamic?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Behavior is motivated largely by unconscious processes, early development profoundly affects adult functioning, and insight is a key component of therapy"
+        },
+        {
+          "id": "b",
+          "text": "Behavior is learned through reinforcement, and symptom removal is the goal of treatment"
+        },
+        {
+          "id": "c",
+          "text": "Perceived reality is socially constructed, and meaning creation is the focus of therapy"
+        },
+        {
+          "id": "d",
+          "text": "People have an inherent self-actualizing tendency that guides them toward healthy growth"
+        },
+        {
+          "id": "e",
+          "text": "Mental illness results from the choices a person makes rather than from past events"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The psychodynamic label groups therapies by a shared set of premises about causation rather than by technique: unconscious motivation, the formative weight of early development, universal principles of personality, and insight as the mechanism of change.",
+      "whyWrong": {
+        "b": "This is the behavioral position, which explicitly rejects unconscious motivation and treats symptoms as the disorder rather than as signs of underlying conflict.",
+        "c": "This is the constructivist assumption, covered in the humanistic and constructivist section, not the psychodynamic one.",
+        "d": "The self-actualizing tendency is Rogers's humanistic premise, not a psychodynamic assumption.",
+        "e": "This is Glasser's reality therapy position, which stresses conscious choice rather than unconscious process."
+      },
+      "topic": "Psychodynamic shared assumptions",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§I, Psychodynamic Psychotherapies, p. 1"
+    },
+    {
+      "id": "q02",
+      "type": "single",
+      "stem": "The worldview underlying Freudian psychoanalysis has been summarized as essentially:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Optimistic, holistic, and phenomenological"
+        },
+        {
+          "id": "b",
+          "text": "Pessimistic, deterministic, mechanistic, and reductionistic"
+        },
+        {
+          "id": "c",
+          "text": "Teleological, social, and goal-directed"
+        },
+        {
+          "id": "d",
+          "text": "Egalitarian, collaborative, and non-directive"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Freud held that people are determined by irrational forces, unconscious motivations, biological drives, and psychosexual events of the first five years — a view that leaves little room for free choice, hence the pessimistic and deterministic characterization.",
+      "whyWrong": {
+        "a": "This describes the humanistic worldview, which Rogers and Perls adopted in explicit contrast to Freud.",
+        "c": "Teleological is Adler's term; Adler broke with Freud precisely because he saw behavior as pulled by future goals rather than pushed by past causes.",
+        "d": "An egalitarian, collaborative stance describes recent modifications to the Freudian approach and the humanistic therapies, not Freud's original worldview."
+      },
+      "topic": "Freudian worldview and structure",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§I.A, Freudian Psychoanalysis, p. 2"
+    },
+    {
+      "id": "q03",
+      "type": "single",
+      "stem": "According to Freud's structural theory, which structure is present at birth and serves as the source of all psychic energy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The ego"
+        },
+        {
+          "id": "b",
+          "text": "The superego"
+        },
+        {
+          "id": "c",
+          "text": "The id"
+        },
+        {
+          "id": "d",
+          "text": "The self"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The id consists of the person's life and death instincts, and those instincts supply the psychic energy that the later-developing structures draw on. Its presence at birth is what makes the ego's and superego's later emergence developmental achievements.",
+      "whyWrong": {
+        "a": "The ego develops at about six months of age, in response to the id's inability to gratify all of its needs.",
+        "b": "The superego emerges between four and five years of age as an internalization of society's values.",
+        "d": "The self is a central concept in Rogers's and Perls's theories, not a structure in Freud's structural theory."
+      },
+      "topic": "Freudian worldview and structure",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§I.A, Personality Theory, p. 2"
+    },
+    {
+      "id": "q04",
+      "type": "single",
+      "stem": "A therapist notes that a client demands immediate gratification and becomes intensely uncomfortable when any need goes unmet. In Freudian terms, this describes the operation of which principle?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The reality principle"
+        },
+        {
+          "id": "b",
+          "text": "Secondary process thinking"
+        },
+        {
+          "id": "c",
+          "text": "Psychic determinism"
+        },
+        {
+          "id": "d",
+          "text": "The pleasure principle"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The id operates on the pleasure principle, seeking immediate gratification of instinctual drives in order to avoid tension. The intolerance of delay is the defining feature that separates it from the ego's mode of operating.",
+      "whyWrong": {
+        "a": "The reality principle governs the ego, which defers gratification until an appropriate object is available in reality — the opposite of what is described.",
+        "b": "Secondary process thinking is the ego's realistic, rational thinking and planning, not the demand for immediate gratification.",
+        "c": "Psychic determinism is the assumption that all behaviors are meaningful and serve a psychological function; it is a premise underlying analysis, not a principle of gratification."
+      },
+      "topic": "Freudian worldview and structure",
+      "bloom": "apply",
+      "difficulty": 2,
+      "sourceRef": "§I.A, Personality Theory, p. 2"
+    },
+    {
+      "id": "q05",
+      "type": "single",
+      "stem": "What is the primary task of the ego?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "To mediate the often-conflicting demands of the id, reality, and the superego"
+        },
+        {
+          "id": "b",
+          "text": "To permanently block the id's socially unacceptable impulses"
+        },
+        {
+          "id": "c",
+          "text": "To supply the psychic energy that drives all behavior"
+        },
+        {
+          "id": "d",
+          "text": "To internalize the values and standards conveyed by parents"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The ego sits between competing pressures and its job is arbitration, not suppression. Once the superego has developed, the ego must reconcile three sets of demands rather than two.",
+      "whyWrong": {
+        "b": "This is the superego's aim. The text contrasts the two directly: the ego postpones gratification, whereas the superego attempts to permanently block the impulse.",
+        "c": "The id is the source of all psychic energy; the ego draws on it rather than supplying it.",
+        "d": "Internalizing society's values as conveyed by parents through rewards and punishments describes the formation of the superego."
+      },
+      "topic": "Freudian worldview and structure",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§I.A, Personality Theory, p. 2"
+    },
+    {
+      "id": "q06",
+      "type": "single",
+      "stem": "In what order do Freud's five psychosexual stages of development occur?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Oral, phallic, anal, genital, latency"
+        },
+        {
+          "id": "b",
+          "text": "Oral, anal, phallic, latency, genital"
+        },
+        {
+          "id": "c",
+          "text": "Anal, oral, latency, phallic, genital"
+        },
+        {
+          "id": "d",
+          "text": "Oral, anal, latency, phallic, genital"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Freud's developmental theory proposes that personality is formed through experiences during five predetermined stages, with the id's libido centered on a different part of the body at each one, in the fixed sequence oral, anal, phallic, latency, genital.",
+      "whyWrong": {
+        "a": "This transposes the anal and phallic stages and places latency after genital; latency precedes the genital stage.",
+        "c": "The oral stage comes first, not the anal, and latency does not precede the phallic stage.",
+        "d": "This places latency before the phallic stage. Latency falls between the phallic and genital stages."
+      },
+      "topic": "Psychosexual development and anxiety",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.A, Personality Theory, p. 2"
+    },
+    {
+      "id": "q07",
+      "type": "single",
+      "stem": "According to Freud's developmental theory, excessive frustration of the id's needs during the oral stage can lead to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A mistaken style of life"
+        },
+        {
+          "id": "b",
+          "text": "A failure identity"
+        },
+        {
+          "id": "c",
+          "text": "An oral-dependent personality"
+        },
+        {
+          "id": "d",
+          "text": "Difficulty with object constancy"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Over- or under-gratification of sexual needs at each psychosexual stage is associated with a distinct personality outcome. Because oral-stage needs are gratified through the mouth and the infant depends on others to meet them, excessive frustration at this stage yields an oral-dependent personality.",
+      "whyWrong": {
+        "a": "A mistaken style of life is Adler's concept, associated with pampering or neglect rather than with psychosexual frustration.",
+        "b": "A failure identity is Glasser's concept from reality therapy, tied to irresponsible need satisfaction.",
+        "d": "Object constancy is a subphase in Mahler's separation-individuation model, not an outcome of Freud's oral stage."
+      },
+      "topic": "Psychosexual development and anxiety",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§I.A, Personality Theory, p. 2"
+    },
+    {
+      "id": "q08",
+      "type": "single",
+      "stem": "As Freud described it, what is the function of anxiety?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "To signal that the unified self is being threatened by incongruence"
+        },
+        {
+          "id": "b",
+          "text": "To indicate that events lie outside the range of one's construct system"
+        },
+        {
+          "id": "c",
+          "text": "To motivate the person to confront the ultimate concerns of existence"
+        },
+        {
+          "id": "d",
+          "text": "To alert the ego to an impending internal or external threat"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Freud treated anxiety as a signal function: an unpleasant feeling linked with autonomic arousal whose purpose is to warn the ego of danger, whether from a conflict between the id and superego or reality, or from an actual external threat.",
+      "whyWrong": {
+        "a": "This is Rogers's account of anxiety, which arises from incongruence between self and experience rather than from intrapsychic conflict.",
+        "b": "This is Kelly's definition of anxiety in personal construct therapy.",
+        "c": "This describes existential anxiety, which existential therapists regard as a normal response to ultimate concerns."
+      },
+      "topic": "Psychosexual development and anxiety",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§I.A, Personality Theory, p. 2"
+    },
+    {
+      "id": "q09",
+      "type": "single",
+      "stem": "Which two characteristics do all of Freud's defense mechanisms share?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "They operate on an unconscious level and serve to deny or distort reality"
+        },
+        {
+          "id": "b",
+          "text": "They are learned through reinforcement and can be unlearned through extinction"
+        },
+        {
+          "id": "c",
+          "text": "They are consciously chosen and become automatic with repetition"
+        },
+        {
+          "id": "d",
+          "text": "They emerge during the phallic stage and resolve by adolescence"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Defense mechanisms are the ego's recourse when it cannot ward off danger by rational, realistic means, so by definition they work outside awareness and buy relief by falsifying reality rather than by addressing it.",
+      "whyWrong": {
+        "b": "This applies a behavioral learning account to a psychodynamic concept; Freud did not describe defenses as reinforced habits.",
+        "c": "Conscious choice is precisely what defense mechanisms lack — their unconscious operation is one of the two defining characteristics.",
+        "d": "The text ties defenses to the ego's management of anxiety generally, not to a single psychosexual stage or an adolescent endpoint."
+      },
+      "topic": "Defense mechanisms",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§I.A, Personality Theory, p. 2"
+    },
+    {
+      "id": "q10",
+      "type": "single",
+      "stem": "Which defense mechanism is described as the most \"basic\" one, underlying all the others?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Projection"
+        },
+        {
+          "id": "b",
+          "text": "Repression"
+        },
+        {
+          "id": "c",
+          "text": "Reaction formation"
+        },
+        {
+          "id": "d",
+          "text": "Displacement"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Repression excludes the id's drives and needs from conscious awareness by maintaining them in the unconscious. Because every other defense presupposes that the threatening material has first been kept out of awareness, repression underlies them all.",
+      "whyWrong": {
+        "a": "Projection attributes a threatening impulse to another person or external source; it is one of the other defenses, not the foundational one.",
+        "c": "Reaction formation avoids an anxiety-evoking impulse by expressing its opposite; it is listed as an additional defense alongside projection.",
+        "d": "Displacement appears in the text as the mechanism behind phobias, not as the most basic defense."
+      },
+      "topic": "Defense mechanisms",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§I.A, Personality Theory, p. 2"
+    },
+    {
+      "id": "q11",
+      "type": "single",
+      "stem": "A man who is strongly attracted to a coworker instead treats her with conspicuous coldness and disapproval. Which defense mechanism does this best illustrate?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Projection"
+        },
+        {
+          "id": "b",
+          "text": "Repression"
+        },
+        {
+          "id": "c",
+          "text": "Reaction formation"
+        },
+        {
+          "id": "d",
+          "text": "Retroflection"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Reaction formation avoids an anxiety-evoking impulse by expressing its opposite. The conspicuousness of the opposite behavior is the diagnostic feature: the outward stance is the reverse of the disowned impulse.",
+      "whyWrong": {
+        "a": "Projection would have him accuse the coworker of being attracted to him, attributing the threatening impulse to another person rather than inverting it.",
+        "b": "Repression alone would keep the attraction out of awareness without generating the opposing behavior that is the point of this example.",
+        "d": "Retroflection is a Gestalt boundary disturbance, not a Freudian defense, and involves doing to oneself what one wants to do to others."
+      },
+      "topic": "Defense mechanisms",
+      "bloom": "apply",
+      "difficulty": 2,
+      "sourceRef": "§I.A, Personality Theory, p. 2"
+    },
+    {
+      "id": "q12",
+      "type": "single",
+      "stem": "Although defense mechanisms reduce anxiety and can be considered adaptive, when do they lead to dysfunctional behavior?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "When they are used consciously rather than unconsciously"
+        },
+        {
+          "id": "b",
+          "text": "When they are interpreted by the therapist too early in treatment"
+        },
+        {
+          "id": "c",
+          "text": "When they arise before the superego has fully developed"
+        },
+        {
+          "id": "d",
+          "text": "When they become the ego's habitual way of dealing with danger"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The text frames the problem as one of rigidity rather than of the defenses themselves. Occasional use reduces anxiety adaptively; habitual reliance substitutes distortion for realistic coping.",
+      "whyWrong": {
+        "a": "Defense mechanisms operate unconsciously by definition, so conscious use is not a condition the theory describes.",
+        "b": "Timing of interpretation is a technique consideration in analysis, not the reason defenses become dysfunctional.",
+        "c": "The text does not tie the dysfunction of defenses to superego development."
+      },
+      "topic": "Defense mechanisms",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§I.A, Personality Theory, p. 2"
+    },
+    {
+      "id": "q13",
+      "type": "single",
+      "stem": "For Freudian practitioners, psychopathology stems from:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "An unconscious, unresolved conflict that occurred during childhood"
+        },
+        {
+          "id": "b",
+          "text": "Abnormalities in early object relations"
+        },
+        {
+          "id": "c",
+          "text": "Inadequate personal constructs"
+        },
+        {
+          "id": "d",
+          "text": "A mistaken style of life and a lack of social interest"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "In the Freudian view, symptoms are not the disorder but the surface expression of a childhood conflict that was never resolved and remains outside awareness. This is why treatment aims at the conflict rather than at the symptom.",
+      "whyWrong": {
+        "b": "This is the object-relations view of maladaptive behavior, a later development within the psychodynamic family.",
+        "c": "Inadequate personal constructs is Kelly's account of maladaptive behavior in personal construct therapy.",
+        "d": "A mistaken style of life with a lack of social interest is Adler's view of mental disorders."
+      },
+      "topic": "Freudian view of pathology",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§I.A, View of Maladaptive Behavior, pp. 2-3"
+    },
+    {
+      "id": "q14",
+      "type": "single",
+      "stem": "According to the Freudian account given in the text, phobias are the result of:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Object loss coupled with anger toward the object turned inward"
+        },
+        {
+          "id": "b",
+          "text": "Displacement of anxiety onto an object or event that is symbolic of the object or event involved in an unresolved conflict"
+        },
+        {
+          "id": "c",
+          "text": "A defense against libidinal or aggressive urges that threaten to overwhelm the ego"
+        },
+        {
+          "id": "d",
+          "text": "Inadequate resolution of the splitting of objects into good and bad"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The phobic object is not itself the source of the fear; it stands in symbolically for whatever is bound up in the unresolved conflict, with anxiety displaced onto the substitute.",
+      "whyWrong": {
+        "a": "This is the Freudian explanation of depression, not of phobias.",
+        "c": "This is the Freudian explanation of mania.",
+        "d": "Inadequate resolution of splitting is Kernberg's object-relations account of Borderline Personality Disorder."
+      },
+      "topic": "Freudian view of pathology",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§I.A, View of Maladaptive Behavior, pp. 2-3"
+    },
+    {
+      "id": "q15",
+      "type": "single",
+      "stem": "In the Freudian view, depression is due to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A conscious choice to \"depress\" in order to obtain attention from others"
+        },
+        {
+          "id": "b",
+          "text": "Incongruence between the self and experience"
+        },
+        {
+          "id": "c",
+          "text": "Object loss coupled with anger toward the object turned inward"
+        },
+        {
+          "id": "d",
+          "text": "An inability to cope authentically with meaninglessness"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The Freudian formulation treats depression as aggression that cannot be directed outward at the lost object and is therefore redirected against the self.",
+      "whyWrong": {
+        "a": "This is Glasser's reality therapy position, which holds that people choose to depress themselves and explicitly rejects unconscious causation.",
+        "b": "Incongruence between self and experience is Rogers's account of disorganization of the self.",
+        "d": "Failure to cope authentically with ultimate concerns such as meaninglessness is the existential account of maladaptive behavior."
+      },
+      "topic": "Freudian view of pathology",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.A, View of Maladaptive Behavior, pp. 2-3"
+    },
+    {
+      "id": "q16",
+      "type": "single",
+      "stem": "What is the goal of psychoanalytic psychotherapy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "To help the client become a unified whole by integrating aspects of the self"
+        },
+        {
+          "id": "b",
+          "text": "To help the client achieve congruence between self and experience"
+        },
+        {
+          "id": "c",
+          "text": "To help the client identify responsible ways to satisfy their needs"
+        },
+        {
+          "id": "d",
+          "text": "To reduce or eliminate pathological symptoms by bringing the unconscious into conscious awareness and integrating repressed material into the personality"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Because symptoms are understood as expressions of repressed material, relief follows from making that material conscious and assimilating it — the goal names both the uncovering and the integration.",
+      "whyWrong": {
+        "a": "Integration into a unified whole is the major goal of Gestalt therapy.",
+        "b": "Congruence between self and experience is the primary goal of person-centered therapy.",
+        "c": "Identifying responsible and effective ways to satisfy needs is the primary goal of reality therapy."
+      },
+      "topic": "Analysis and psychoanalytic technique",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
+    },
+    {
+      "id": "q17",
+      "type": "single",
+      "stem": "What are the four main targets of analysis in psychoanalytic psychotherapy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Free associations, dreams, resistances, and transferences"
+        },
+        {
+          "id": "b",
+          "text": "Introjection, projection, retroflection, and confluence"
+        },
+        {
+          "id": "c",
+          "text": "Actions, thoughts, emotions, and physiology"
+        },
+        {
+          "id": "d",
+          "text": "Differentiation, practicing, rapprochement, and object constancy"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Analysis is the primary technique of psychoanalysis, and these four phenomena are the material it works on because each is taken to be a route by which unconscious content reaches observable form.",
+      "whyWrong": {
+        "b": "These are the four boundary disturbances in Gestalt therapy.",
+        "c": "These four components make up \"total behavior\" in Glasser's reality therapy.",
+        "d": "These are the four subphases of Mahler's separation-individuation phase."
+      },
+      "topic": "Analysis and psychoanalytic technique",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
+    },
+    {
+      "id": "q18",
+      "type": "single",
+      "stem": "The belief that all behaviors are meaningful and serve some psychological function is known as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The teleological approach"
+        },
+        {
+          "id": "b",
+          "text": "Psychic determinism"
+        },
+        {
+          "id": "c",
+          "text": "Secondary process thinking"
+        },
+        {
+          "id": "d",
+          "text": "Phenomenology"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Psychic determinism is the assumption underlying the analysis of free associations, dreams, resistances, and transferences. It is what licenses treating apparent accidents, such as slips of the tongue, as expressions of unconscious motives.",
+      "whyWrong": {
+        "a": "The teleological approach is Adler's, and it concerns behavior being motivated by future goals rather than all behavior being meaningful.",
+        "c": "Secondary process thinking refers to the ego's realistic, rational thinking and planning.",
+        "d": "Phenomenology is the humanistic assumption that understanding a person requires understanding their subjective experience."
+      },
+      "topic": "Analysis and psychoanalytic technique",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
+    },
+    {
+      "id": "q19",
+      "type": "single",
+      "stem": "Freud believed that slips of the tongue (parapraxes) are:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Meaningless accidents of speech production"
+        },
+        {
+          "id": "b",
+          "text": "Symbolic messages that something is awry with the individual"
+        },
+        {
+          "id": "c",
+          "text": "Expressions of unconscious motives"
+        },
+        {
+          "id": "d",
+          "text": "Evidence of a boundary disturbance between self and environment"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Parapraxes are the illustration the text uses for psychic determinism: if all behavior is meaningful, then even apparently accidental speech errors carry unconscious motivation.",
+      "whyWrong": {
+        "a": "This is exactly the interpretation Freud rejected; the example is offered to show that nothing in behavior is accidental.",
+        "b": "Symptoms as unconscious messages that something is awry is the Jungian view of maladaptive behavior.",
+        "d": "Boundary disturbances belong to Gestalt therapy, not to Freud's account of slips."
+      },
+      "topic": "Analysis and psychoanalytic technique",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
+    },
+    {
+      "id": "q20",
+      "type": "single",
+      "stem": "Which four components make up the analysis of free associations, dreams, resistances, and transferences?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Catharsis, insight, awareness, and integration"
+        },
+        {
+          "id": "b",
+          "text": "Assessment, reorientation, encouragement, and commitment"
+        },
+        {
+          "id": "c",
+          "text": "Reflection, empathy, genuineness, and acceptance"
+        },
+        {
+          "id": "d",
+          "text": "Confrontation, clarification, interpretation, and working through"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "These four form a sequence of increasing depth, from helping clients notice their behavior, to sharpening what they have said, to linking it explicitly to unconscious processes, to assimilating the result over time.",
+      "whyWrong": {
+        "a": "Catharsis, insight, and working through are the factors to which improvement is attributed, not the components of analysis. Awareness and integration are Gestalt terms.",
+        "b": "These describe the Adlerian therapy process rather than the components of psychoanalytic analysis.",
+        "c": "These describe person-centered technique, including the facilitative conditions."
+      },
+      "topic": "Analysis and psychoanalytic technique",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
+    },
+    {
+      "id": "q21",
+      "type": "single",
+      "stem": "A therapist restates a client's remarks in clearer terms and helps the client identify what they are feeling, without yet linking the material to unconscious processes. This describes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Clarification"
+        },
+        {
+          "id": "b",
+          "text": "Confrontation"
+        },
+        {
+          "id": "c",
+          "text": "Interpretation"
+        },
+        {
+          "id": "d",
+          "text": "Working through"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Clarification involves clarifying the client's feelings and restating their remarks in clearer terms. What marks it off from interpretation is that it stops short of explicitly connecting current behavior to unconscious processes.",
+      "whyWrong": {
+        "b": "Confrontation entails making statements that help clients see their behavior in a new way, rather than restating and clarifying what they have expressed.",
+        "c": "Interpretation goes a step further than clarification by explicitly connecting current behavior to unconscious processes, which this therapist has not yet done.",
+        "d": "Working through is the final and longest stage, in which the client gradually assimilates new insights into their personality."
+      },
+      "topic": "Analysis and psychoanalytic technique",
+      "bloom": "apply",
+      "difficulty": 2,
+      "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
+    },
+    {
+      "id": "q22",
+      "type": "single",
+      "stem": "Interpretations are described as more effective when they address motives and conflicts that are:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Buried deep in the unconscious, where the core conflict resides"
+        },
+        {
+          "id": "b",
+          "text": "Close to a client's consciousness"
+        },
+        {
+          "id": "c",
+          "text": "Rooted in the collective unconscious"
+        },
+        {
+          "id": "d",
+          "text": "Expressed symbolically in dreams rather than in speech"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Interpretations that stay near the edge of awareness are less likely to elicit anxiety and resistance, and it is that lower defensive reaction that makes them more effective.",
+      "whyWrong": {
+        "a": "Material buried deep in the unconscious is precisely what makes an interpretation more likely to provoke anxiety and resistance, reducing its effectiveness.",
+        "c": "The collective unconscious is Jung's concept and does not figure in this Freudian principle about interpretation depth.",
+        "d": "The principle concerns how close material is to consciousness, not which channel it appears in."
+      },
+      "topic": "Analysis and psychoanalytic technique",
+      "bloom": "understand",
+      "difficulty": 3,
+      "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
+    },
+    {
+      "id": "q23",
+      "type": "single",
+      "stem": "Improvement in psychoanalysis is attributed to a combination of which three factors?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Awareness, integration, and closure"
+        },
+        {
+          "id": "b",
+          "text": "Empathy, genuineness, and unconditional positive regard"
+        },
+        {
+          "id": "c",
+          "text": "Catharsis, insight, and working through"
+        },
+        {
+          "id": "d",
+          "text": "Confrontation, clarification, and interpretation"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "These three describe the arc of change: emotional release of unconscious material, the understanding it opens up, and the extended process of assimilating that understanding.",
+      "whyWrong": {
+        "a": "Awareness, integration, and closure are Gestalt concepts, with awareness being the primary curative factor in that approach.",
+        "b": "These are the three facilitative conditions in person-centered therapy.",
+        "d": "These are three of the four components of analysis, which are techniques rather than the factors to which improvement is attributed."
+      },
+      "topic": "Analysis and psychoanalytic technique",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
+    },
+    {
+      "id": "q24",
+      "type": "single",
+      "stem": "In psychoanalysis, catharsis is best described as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The gradual assimilation of new insights into the personality"
+        },
+        {
+          "id": "b",
+          "text": "The client's understanding of the link between unconscious processes and current behavior"
+        },
+        {
+          "id": "c",
+          "text": "The projection of the personal and collective unconscious onto the therapist"
+        },
+        {
+          "id": "d",
+          "text": "The emotional release resulting from the recall of unconscious material"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Catharsis is the affective component of change, and it is positioned as preparatory: the emotional release paves the way for the client's insight into the relationship between unconscious processes and current behaviors.",
+      "whyWrong": {
+        "a": "Gradual assimilation of new insights into the personality defines working through, the final and longest stage.",
+        "b": "That understanding is insight, which catharsis paves the way for rather than being.",
+        "c": "This is the Jungian view of transference, not a definition of catharsis."
+      },
+      "topic": "Analysis and psychoanalytic technique",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
+    },
+    {
+      "id": "q25",
+      "type": "single",
+      "stem": "Which stage of psychoanalysis is identified as the final and longest?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Working through"
+        },
+        {
+          "id": "b",
+          "text": "Catharsis"
+        },
+        {
+          "id": "c",
+          "text": "Confrontation"
+        },
+        {
+          "id": "d",
+          "text": "Free association"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Working through allows the client to gradually assimilate new insights into their personality. Its length follows from the nature of the task: insight has to be consolidated across many contexts rather than achieved once.",
+      "whyWrong": {
+        "b": "Catharsis is the emotional release that precedes and enables insight, not a final stage.",
+        "c": "Confrontation is one of the four components of analysis, used to help clients see their behavior in a new way.",
+        "d": "Free association is one of the targets of analysis rather than a stage of treatment."
+      },
+      "topic": "Analysis and psychoanalytic technique",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
+    },
+    {
+      "id": "q26",
+      "type": "single",
+      "stem": "Recent modifications to the Freudian approach include which reconceptualization of the therapeutic relationship?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A more authoritative stance in which the analyst functions as a neutral expert"
+        },
+        {
+          "id": "b",
+          "text": "A more collaborative, egalitarian view of the therapeutic relationship"
+        },
+        {
+          "id": "c",
+          "text": "Elimination of the therapeutic relationship in favor of standardized technique"
+        },
+        {
+          "id": "d",
+          "text": "A view of the relationship as detrimental to therapeutic progress"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The modern revisions move away from the analyst as detached authority, and this shift is what makes the accompanying reconceptualizations of transference and countertransference coherent.",
+      "whyWrong": {
+        "a": "This describes the traditional stance that the modifications moved away from, not the modification itself.",
+        "c": "No such elimination is described; the relationship remains central and is reconceived rather than removed.",
+        "d": "Reality therapy views transference as detrimental, but that is a different approach and concerns transference specifically rather than the relationship."
+      },
+      "topic": "Current status of psychoanalysis",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.A, Current Status, p. 3"
+    },
+    {
+      "id": "q27",
+      "type": "single",
+      "stem": "Some experts now suggest that transference is not a distortion but instead:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A projection of the personal and collective unconscious"
+        },
+        {
+          "id": "b",
+          "text": "A boundary disturbance between the self and the external environment"
+        },
+        {
+          "id": "c",
+          "text": "The patient's response to the therapist's actual behavior and an attempt to imbue that behavior with personal meaning"
+        },
+        {
+          "id": "d",
+          "text": "An obstacle that should be neither fostered nor interpreted"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "This reconceptualization relocates the source of transference: rather than a misperception imported wholesale from the past, it becomes a meaning-making response to something the therapist is really doing.",
+      "whyWrong": {
+        "a": "This is the Jungian view of transference rather than the recent Freudian reconceptualization.",
+        "b": "Boundary disturbance is a Gestalt concept and does not describe transference.",
+        "d": "Acknowledging but not fostering or interpreting transference is the person-centered stance, not the modern psychoanalytic one."
+      },
+      "topic": "Current status of psychoanalysis",
+      "bloom": "understand",
+      "difficulty": 3,
+      "sourceRef": "§I.A, Current Status, p. 3"
+    },
+    {
+      "id": "q28",
+      "type": "single",
+      "stem": "Under what condition is countertransference now viewed as a potential source of information and an important contributor to the curative process?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "When it is eliminated through the therapist's own analysis"
+        },
+        {
+          "id": "b",
+          "text": "When it is disclosed to the patient in full"
+        },
+        {
+          "id": "c",
+          "text": "When it occurs only in brief, time-limited treatment"
+        },
+        {
+          "id": "d",
+          "text": "When it is recognized and appropriately managed"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The reappraisal is conditional rather than blanket: countertransference stops being merely the therapist's distorted response and becomes usable data only once it is noticed and handled appropriately.",
+      "whyWrong": {
+        "a": "The modern view puts countertransference to use rather than treating its elimination as the goal.",
+        "b": "Full disclosure is not the stated condition; recognition and management are.",
+        "c": "Nothing restricts this reconceptualization to brief therapy; it is presented as a general modification of the Freudian approach."
+      },
+      "topic": "Current status of psychoanalysis",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§I.A, Current Status, p. 3"
+    },
+    {
+      "id": "q29",
+      "type": "single",
+      "stem": "According to Prochaska and Norcross (2003), brief psychodynamic therapies share several characteristics. Which is one of them?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "They target a specific interpersonal problem that is usually identified in the first session"
+        },
+        {
+          "id": "b",
+          "text": "They avoid interpretation until late in treatment, once the alliance is secure"
+        },
+        {
+          "id": "c",
+          "text": "They regard negative transference as more clinically useful than positive transference"
+        },
+        {
+          "id": "d",
+          "text": "They reject the medical model conceptualization of mental illness"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Time-limited work requires an early focus, so identifying a specific interpersonal problem at the outset is what makes the compressed format workable.",
+      "whyWrong": {
+        "b": "Brief psychodynamic therapies begin using interpretation early in the therapeutic relationship, not late.",
+        "c": "The reverse is stated: positive transference is considered more important than negative transference by many practitioners of brief psychodynamic psychotherapy.",
+        "d": "Rejecting the medical model is a feature of reality therapy and of Kelly's approach, not of brief psychodynamic therapy."
+      },
+      "topic": "Current status of psychoanalysis",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.A, Current Status, p. 3"
+    },
+    {
+      "id": "q30",
+      "type": "single",
+      "stem": "Why do many practitioners of brief psychodynamic psychotherapy consider positive transference more important than negative transference?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Because it allows the therapist to remain a neutral blank screen"
+        },
+        {
+          "id": "b",
+          "text": "Because it promotes a positive therapeutic relationship, maximizes motivation, and reduces the likelihood of a full-scale transference neurosis"
+        },
+        {
+          "id": "c",
+          "text": "Because it shortens the working-through stage by producing catharsis more quickly"
+        },
+        {
+          "id": "d",
+          "text": "Because negative transference indicates that the client is unsuitable for brief treatment"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "In a time-limited format, anything that slows progress is costly. Positive transference supports the alliance and motivation while heading off the development of a full-scale transference neurosis, which would consume the available time.",
+      "whyWrong": {
+        "a": "Neutrality is associated with the traditional stance that recent modifications moved away from, and it is not the stated rationale.",
+        "c": "The rationale given concerns the alliance, motivation, and avoiding transference neurosis, not accelerating catharsis.",
+        "d": "Nothing in the text treats negative transference as a criterion of unsuitability for brief treatment."
+      },
+      "topic": "Current status of psychoanalysis",
+      "bloom": "analyze",
+      "difficulty": 3,
+      "sourceRef": "§I.A, Current Status, p. 3"
+    },
+    {
+      "id": "q31",
+      "type": "single",
+      "stem": "On what two grounds did Adler disagree with Freud?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Freud's rejection of the medical model and his focus on conscious choice"
+        },
+        {
+          "id": "b",
+          "text": "Freud's emphasis on the collective unconscious and his neglect of dreams"
+        },
+        {
+          "id": "c",
+          "text": "Freud's emphasis on unconscious instinctual forces and his lack of attention to social factors"
+        },
+        {
+          "id": "d",
+          "text": "Freud's use of interpretation and his insistence on a collaborative relationship"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Adler's two objections were to the content Freud emphasized, especially sexual instinctual forces, and to what he left out, namely the social context of development. Both objections shape Adler's own emphases.",
+      "whyWrong": {
+        "a": "Freud did not reject the medical model or focus on conscious choice; those positions belong to Glasser and Kelly.",
+        "b": "The collective unconscious is Jung's concept, not Freud's, and Freud made dreams a central target of analysis.",
+        "d": "Freud used interpretation extensively, and the collaborative, egalitarian stance is a recent modification rather than Freud's own."
+      },
+      "topic": "Adlerian individual psychology",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§I.B, Adler's Individual Psychology, p. 4"
+    },
+    {
+      "id": "q32",
+      "type": "single",
+      "stem": "Adler's teleological approach regards behavior as being largely motivated by:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Unconscious conflicts formed in the first five years of life"
+        },
+        {
+          "id": "b",
+          "text": "Latent memory traces passed down across generations"
+        },
+        {
+          "id": "c",
+          "text": "Reinforcement contingencies in the current environment"
+        },
+        {
+          "id": "d",
+          "text": "A person's future goals rather than determined by past events"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Adler agreed with Freud that all behavior is purposeful but reversed the direction of causation: purpose points forward to goals rather than backward to determining events.",
+      "whyWrong": {
+        "a": "This is Freud's deterministic position, which the teleological approach was formulated against.",
+        "b": "Latent memory traces passed down between generations describe Jung's collective unconscious.",
+        "c": "Reinforcement contingencies belong to behavioral theory, which is covered in a different chapter."
+      },
+      "topic": "Adlerian individual psychology",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§I.B, Adler's Individual Psychology, p. 4"
+    },
+    {
+      "id": "q33",
+      "type": "single",
+      "stem": "In Adler's theory, what determines a person's style of life?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The specific ways the person chooses to compensate for inferiority and achieve superiority"
+        },
+        {
+          "id": "b",
+          "text": "The psychosexual stage at which the person became fixated"
+        },
+        {
+          "id": "c",
+          "text": "Which of the four psychological functions predominates in consciousness"
+        },
+        {
+          "id": "d",
+          "text": "The degree of congruence between the person's self and their experience"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Inferiority feelings and the striving for superiority are universal in Adler's account, so what individuates a person is the particular route they take between them. That route is the style of life, and it unifies the various aspects of personality.",
+      "whyWrong": {
+        "b": "Fixation at a psychosexual stage is Freud's mechanism for personality outcomes.",
+        "c": "The four psychological functions of thinking, feeling, sensing, and intuiting are Jung's.",
+        "d": "Congruence between self and experience is Rogers's concept."
+      },
+      "topic": "Adlerian individual psychology",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§I.B, Personality Theory, p. 4"
+    },
+    {
+      "id": "q34",
+      "type": "single",
+      "stem": "According to Adler, what is the primary characteristic that differentiates a healthy from a mistaken style of life?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Individuation"
+        },
+        {
+          "id": "b",
+          "text": "Social interest"
+        },
+        {
+          "id": "c",
+          "text": "Object constancy"
+        },
+        {
+          "id": "d",
+          "text": "Self-actualization"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "A healthy style of life is marked by goals reflecting optimism, confidence, and concern for the welfare of others, while a mistaken one is marked by self-centeredness, competitiveness, and striving for personal power. Social interest is the dimension on which those two profiles differ.",
+      "whyWrong": {
+        "a": "Individuation is Jung's concept, referring to integration of conscious and unconscious aspects of the psyche.",
+        "c": "Object constancy is a subphase in Mahler's separation-individuation model.",
+        "d": "Self-actualization is central to Rogers's and Perls's theories rather than to Adler's distinction between styles of life."
+      },
+      "topic": "Adlerian individual psychology",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.B, Personality Theory, p. 4"
+    },
+    {
+      "id": "q35",
+      "type": "single",
+      "stem": "According to Adler, by what age is a person's style of life fairly well established?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "By about six months of age"
+        },
+        {
+          "id": "b",
+          "text": "By about three years of age"
+        },
+        {
+          "id": "c",
+          "text": "By four or five years of age"
+        },
+        {
+          "id": "d",
+          "text": "Not until the mid-30s"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Style of life is shaped by early experiences, especially those within the family, and is fairly well established by four or five years of age.",
+      "whyWrong": {
+        "a": "Six months is when the ego develops in Freud's structural theory.",
+        "b": "About three years of age is when, in Mahler's model, the child achieves object constancy.",
+        "d": "Growth after the mid-30s is what Jung was most interested in, and it concerns individuation rather than style of life."
+      },
+      "topic": "Adlerian individual psychology",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.B, Personality Theory, p. 4"
+    },
+    {
+      "id": "q36",
+      "type": "single",
+      "stem": "In Adler's account, pampered and neglected children develop differently in what way?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Pampered children are dominated by a need for revenge, while neglected children fail to develop social feelings"
+        },
+        {
+          "id": "b",
+          "text": "Both develop an exaggerated social interest that masks inferiority feelings"
+        },
+        {
+          "id": "c",
+          "text": "Both develop a healthy style of life provided the family constellation is stable"
+        },
+        {
+          "id": "d",
+          "text": "Pampered children do not develop social feelings, while neglected children are dominated by a need for revenge"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Adler treated both pampering and neglect as failures of the family environment but with distinct consequences: pampering forecloses the development of social feeling, while neglect breeds a need for revenge.",
+      "whyWrong": {
+        "a": "This reverses the two outcomes.",
+        "b": "Neither outcome involves exaggerated social interest; both represent deficits relevant to a mistaken style of life.",
+        "c": "Adler singled out pampering and neglect as being of particular importance precisely because they impede healthy development."
+      },
+      "topic": "Adlerian individual psychology",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§I.B, Personality Theory, p. 4"
+    },
+    {
+      "id": "q37",
+      "type": "single",
+      "stem": "For Adler, mental disorders represent a mistaken style of life characterized by:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Maladaptive attempts to compensate for feelings of inferiority, a preoccupation with achieving personal power, and a lack of social interest"
+        },
+        {
+          "id": "b",
+          "text": "An unresolved unconscious conflict originating in the psychosexual stages"
+        },
+        {
+          "id": "c",
+          "text": "An abandonment of the self for the self-image"
+        },
+        {
+          "id": "d",
+          "text": "Symptoms that present the individual with a task that demands to be fulfilled"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Because social interest is the marker of health in Adler's system, pathology appears as its absence, combined with compensation for inferiority that has gone wrong and a substitution of personal power for social concern.",
+      "whyWrong": {
+        "b": "Unresolved unconscious childhood conflict is the Freudian view of pathology.",
+        "c": "Abandonment of the self for the self-image is the Gestalt view of neurotic behavior.",
+        "d": "Symptoms as a task demanding fulfillment is the Jungian view of maladaptive behavior."
+      },
+      "topic": "Adlerian individual psychology",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.B, View of Maladaptive Behavior, p. 4"
+    },
+    {
+      "id": "q38",
+      "type": "single",
+      "stem": "Adlerians use \"lifestyle investigation\" primarily to obtain information about a client's:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Repressed psychosexual conflicts and dream symbolism"
+        },
+        {
+          "id": "b",
+          "text": "Family constellation, fictional (hidden) goals, and basic mistakes"
+        },
+        {
+          "id": "c",
+          "text": "Personal constructs and the ways they construe significant others"
+        },
+        {
+          "id": "d",
+          "text": "Total behavior, including actions, thoughts, emotions, and physiology"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Lifestyle investigation is the assessment step that identifies the nature of a client's style of life, so it targets exactly the material that constitutes that style: the family context in which it formed, the hidden goals it serves, and the distorted beliefs sustaining it.",
+      "whyWrong": {
+        "a": "Repressed conflicts and dream symbolism are the targets of Freudian analysis, not Adlerian lifestyle investigation.",
+        "c": "Personal constructs and how a client construes significant others are assessed with Kelly's repertory grid.",
+        "d": "Total behavior is attended to in Glasser's reality therapy."
+      },
+      "topic": "Adlerian therapy and application",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.B, Therapy Goals and Techniques, p. 4"
+    },
+    {
+      "id": "q39",
+      "type": "single",
+      "stem": "In Adlerian therapy, \"basic mistakes\" refer to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Errors the therapist makes by interpreting material that is too deeply unconscious"
+        },
+        {
+          "id": "b",
+          "text": "The four goals of childhood misbehavior"
+        },
+        {
+          "id": "c",
+          "text": "Distorted beliefs and attitudes"
+        },
+        {
+          "id": "d",
+          "text": "Inaccurate predictions derived from a person's construct system"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Basic mistakes are one of the three products of lifestyle investigation and name the distorted beliefs and attitudes that support a mistaken style of life.",
+      "whyWrong": {
+        "a": "This misreads the term as a therapist error; it refers to the client's beliefs.",
+        "b": "Attention, power, revenge, and displaying deficiency are the four goals of misbehavior in the STET application, not basic mistakes.",
+        "d": "Inaccurate predictions from a construct system belong to Kelly's personal construct theory."
+      },
+      "topic": "Adlerian therapy and application",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.B, Therapy Goals and Techniques, p. 4"
+    },
+    {
+      "id": "q40",
+      "type": "single",
+      "stem": "Systematic Training for Effective Teaching (STET) assumes that the misbehavior of young children reflects one of four goals. Which set is correct?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Survival, love and belonging, power, and freedom"
+        },
+        {
+          "id": "b",
+          "text": "Differentiation, practicing, rapprochement, and object constancy"
+        },
+        {
+          "id": "c",
+          "text": "Introjection, projection, retroflection, and confluence"
+        },
+        {
+          "id": "d",
+          "text": "Attention, power, revenge, or to display deficiency"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "STET applies Adler's premise that all behavior is goal-directed and purposeful. Each of the four goals reflects a desire to belong, accompanied by faulty beliefs about what is needed to do so.",
+      "whyWrong": {
+        "a": "These are four of Glasser's five basic innate needs in reality therapy, and the fifth is fun.",
+        "b": "These are the four subphases of Mahler's separation-individuation phase.",
+        "c": "These are the four boundary disturbances in Gestalt therapy."
+      },
+      "topic": "Adlerian therapy and application",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.B, Application, p. 4"
+    },
+    {
+      "id": "q41",
+      "type": "single",
+      "stem": "In the STET framework, a child's attention-seeking behavior stems from which mistaken belief?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "\"I belong only when I'm being noticed or served.\""
+        },
+        {
+          "id": "b",
+          "text": "\"I belong only when I am in control.\""
+        },
+        {
+          "id": "c",
+          "text": "\"I belong only when others are hurt as I have been.\""
+        },
+        {
+          "id": "d",
+          "text": "\"I do not belong and cannot succeed, so I should not try.\""
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Each of the four goals is paired with a faulty belief about what belonging requires. For attention-seeking, that belief makes being noticed or served the condition of belonging.",
+      "whyWrong": {
+        "b": "This belief corresponds to the goal of power rather than attention.",
+        "c": "This belief corresponds to the goal of revenge.",
+        "d": "This belief corresponds to displaying deficiency."
+      },
+      "topic": "Adlerian therapy and application",
+      "bloom": "apply",
+      "difficulty": 3,
+      "sourceRef": "§I.B, Application, p. 4"
+    },
+    {
+      "id": "q42",
+      "type": "single",
+      "stem": "How did Jung define libido?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "As sexual energy centered in a different body part at each stage"
+        },
+        {
+          "id": "b",
+          "text": "As general psychic energy"
+        },
+        {
+          "id": "c",
+          "text": "As the striving for superiority"
+        },
+        {
+          "id": "d",
+          "text": "As the inherent tendency toward self-actualization"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Jung's broadening of libido from sexual energy to general psychic energy is the concrete expression of his broader view of personality development, which he shared with Adler.",
+      "whyWrong": {
+        "a": "This is Freud's definition, in which the id's libido is sexual energy centered on a different part of the body at each psychosexual stage.",
+        "c": "Striving for superiority is Adler's concept, an inherent tendency toward perfect completion.",
+        "d": "The self-actualizing tendency is Rogers's central motivational concept."
+      },
+      "topic": "Jungian analytical psychotherapy",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.C, Jung's Analytical Psychotherapy, p. 4"
+    },
+    {
+      "id": "q43",
+      "type": "single",
+      "stem": "In Jung's theory, what distinguishes the personal unconscious from the collective unconscious?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The personal unconscious holds latent memory traces passed down between generations, while the collective unconscious holds forgotten personal experiences"
+        },
+        {
+          "id": "b",
+          "text": "The personal unconscious is governed by the ego, while the collective unconscious is governed by the persona"
+        },
+        {
+          "id": "c",
+          "text": "The personal unconscious contains experiences unconsciously perceived or once conscious but now repressed or forgotten, while the collective unconscious is the repository of latent memory traces passed down from one generation to the next"
+        },
+        {
+          "id": "d",
+          "text": "The personal unconscious develops after the mid-30s, while the collective unconscious is present at birth"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The division turns on the origin of the material: the personal unconscious is stocked from the individual's own history, whereas the collective unconscious is inherited across generations and is where archetypes reside.",
+      "whyWrong": {
+        "a": "This reverses the two definitions.",
+        "b": "The ego governs the conscious, which is oriented toward the external world; the persona is an archetype, not a governing structure of the personal unconscious.",
+        "d": "Jung's interest in growth after the mid-30s concerns individuation and wisdom, not the timing of the personal unconscious."
+      },
+      "topic": "Jungian analytical psychotherapy",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§I.C, Personality Theory, p. 5"
+    },
+    {
+      "id": "q44",
+      "type": "single",
+      "stem": "Jung described archetypes as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Bipolar dimensions of meaning that begin to develop in infancy"
+        },
+        {
+          "id": "b",
+          "text": "Internalized representations of objects that become part of the self"
+        },
+        {
+          "id": "c",
+          "text": "Perceptions of parts as wholes that reflect a person's current needs"
+        },
+        {
+          "id": "d",
+          "text": "\"Primordial images\" that cause people to experience and understand certain phenomena in a universal way"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Archetypes are contained in the collective unconscious, and their inherited character is what produces the universality: because everyone carries the same primordial images, certain phenomena are experienced in a shared way.",
+      "whyWrong": {
+        "a": "Bipolar dimensions of meaning are Kelly's personal constructs, which are explicitly individual rather than universal.",
+        "b": "Internalized representations of objects, or introjects, belong to object relations theory.",
+        "c": "Perceptions of parts as wholes reflecting current needs describes gestalts in Gestalt psychology."
+      },
+      "topic": "Jungian analytical psychotherapy",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.C, Personality Theory, p. 5"
+    },
+    {
+      "id": "q45",
+      "type": "single",
+      "stem": "In Jung's theory, which archetype represents the \"dark side\" of the personality?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The shadow"
+        },
+        {
+          "id": "b",
+          "text": "The persona"
+        },
+        {
+          "id": "c",
+          "text": "The self"
+        },
+        {
+          "id": "d",
+          "text": "The anima"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Among the archetypes of particular importance to personality development, the shadow is the one identified as the dark side of the personality.",
+      "whyWrong": {
+        "b": "The persona is the public mask, the face presented to the external world.",
+        "c": "The self represents a striving for unity of the different parts of the personality.",
+        "d": "The anima is the feminine aspect of the personality, paired with the animus as the masculine aspect."
+      },
+      "topic": "Jungian analytical psychotherapy",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§I.C, Personality Theory, p. 5"
+    },
+    {
+      "id": "q46",
+      "type": "single",
+      "stem": "Jung described personality as consisting of two attitudes and four basic psychological functions. Which option lists the four functions?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Extraversion, introversion, sensing, and intuiting"
+        },
+        {
+          "id": "b",
+          "text": "Thinking, feeling, sensing, and intuiting"
+        },
+        {
+          "id": "c",
+          "text": "The self, the persona, the shadow, and the anima"
+        },
+        {
+          "id": "d",
+          "text": "Actions, thoughts, emotions, and physiology"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Extraversion and introversion are the two attitudes; thinking, feeling, sensing, and intuiting are the four functions. All four operate unconsciously in everyone, but one ordinarily predominates in consciousness.",
+      "whyWrong": {
+        "a": "This mixes the two attitudes in with two of the functions.",
+        "c": "These are archetypes of particular importance to personality development, not psychological functions.",
+        "d": "These four components make up total behavior in Glasser's reality therapy."
+      },
+      "topic": "Jungian analytical psychotherapy",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.C, Personality Theory, p. 5"
+    },
+    {
+      "id": "q47",
+      "type": "single",
+      "stem": "How does Jung's view of the timing of personality development contrast with Freud's?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Jung held that personality is essentially fixed by four or five years of age, whereas Freud emphasized adolescence"
+        },
+        {
+          "id": "b",
+          "text": "Both confined personality development to the first six years, differing only on its content"
+        },
+        {
+          "id": "c",
+          "text": "Jung viewed development as continuing throughout the lifespan and was most interested in growth after the mid-30s, whereas Freud emphasized the first six years of life"
+        },
+        {
+          "id": "d",
+          "text": "Jung emphasized the first month of life, whereas Freud emphasized the first five years"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Extending development across the lifespan is what makes room for individuation and for the wisdom that emerges in later years, when a person's interests turn toward spiritual and philosophical issues.",
+      "whyWrong": {
+        "a": "Establishment by four or five years is Adler's claim about style of life, and Freud emphasized the first five to six years rather than adolescence.",
+        "b": "Jung explicitly rejected confining development to the early years.",
+        "d": "The first month of life is the normal infantile autism phase in Mahler's model."
+      },
+      "topic": "Jungian analytical psychotherapy",
+      "bloom": "analyze",
+      "difficulty": 2,
+      "sourceRef": "§I.C, Personality Theory, p. 5"
+    },
+    {
+      "id": "q48",
+      "type": "single",
+      "stem": "In Jung's theory, individuation refers to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The infant's emergence from the normal symbiotic phase into a separate identity"
+        },
+        {
+          "id": "b",
+          "text": "The process of compensating for inferiority to achieve superiority"
+        },
+        {
+          "id": "c",
+          "text": "The client's gradual assimilation of new insights into the personality"
+        },
+        {
+          "id": "d",
+          "text": "An integration of the conscious and unconscious aspects of the psyche that leads to the development of a unique identity"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Individuation is the integrative achievement at the center of Jung's developmental theory, and its important outcome is wisdom, which occurs in the later years.",
+      "whyWrong": {
+        "a": "This describes separation-individuation in Mahler's object relations model, a similar-sounding term with a different referent.",
+        "b": "Compensating for inferiority to achieve superiority is Adler's mechanism, which determines style of life.",
+        "c": "Gradual assimilation of new insights defines working through in psychoanalysis."
+      },
+      "topic": "Jungian analytical psychotherapy",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.C, Personality Theory, p. 5"
+    },
+    {
+      "id": "q49",
+      "type": "single",
+      "stem": "What is the primary goal of Jung's analytical psychotherapy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "To re-bridge the gap between the conscious and the personal and collective unconscious"
+        },
+        {
+          "id": "b",
+          "text": "To reduce symptoms by making repressed psychosexual conflicts conscious"
+        },
+        {
+          "id": "c",
+          "text": "To reorient the client's beliefs and goals to support a more adaptive lifestyle"
+        },
+        {
+          "id": "d",
+          "text": "To restore the client's ability to relate to others in meaningful, realistic ways"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Because Jung located health in the integration of conscious and unconscious material, the therapeutic goal is stated as reconnecting them, which is why interpretation aimed at awareness of the inner world is the primary method.",
+      "whyWrong": {
+        "b": "Making repressed material conscious to reduce symptoms is the Freudian goal, framed around psychosexual conflict rather than conscious-unconscious integration.",
+        "c": "Reorienting beliefs and goals toward a more adaptive lifestyle is the aim of Adlerian psychotherapy.",
+        "d": "Restoring the ability to relate to others in meaningful, realistic ways is the object relations goal."
+      },
+      "topic": "Jungian therapy and technique",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.C, Therapy Goals and Techniques, p. 5"
+    },
+    {
+      "id": "q50",
+      "type": "single",
+      "stem": "Why are Jungians particularly interested in dreams?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Because dream elements represent disowned parts of the self that the client can role-play"
+        },
+        {
+          "id": "b",
+          "text": "Because material in the collective unconscious is often expressed symbolically"
+        },
+        {
+          "id": "c",
+          "text": "Because dreams provide the clearest evidence of psychosexual fixation"
+        },
+        {
+          "id": "d",
+          "text": "Because dreams reveal the client's fictional goals and basic mistakes"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The symbolic mode of the collective unconscious is what makes dreamwork necessary rather than optional: for Jungians a dream is an unconscious message revealed in symbolic form, so interpretation is the route to its content.",
+      "whyWrong": {
+        "a": "Role-playing dream elements as disowned parts of the self is the Gestalt approach to dream work.",
+        "c": "Psychosexual fixation is a Freudian concern, and the text does not present dreams as evidence for it in Jung's system.",
+        "d": "Fictional goals and basic mistakes are uncovered through Adlerian lifestyle investigation."
+      },
+      "topic": "Jungian therapy and technique",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§I.C, Therapy Goals and Techniques, p. 5"
+    },
+    {
+      "id": "q51",
+      "type": "single",
+      "stem": "How do Jungians regard transference?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "As counterproductive, to be addressed by distinguishing transference fantasy from reality"
+        },
+        {
+          "id": "b",
+          "text": "As detrimental to therapy progress and therefore avoided"
+        },
+        {
+          "id": "c",
+          "text": "As a projection of the personal and collective unconscious, whose analysis is a crucial part of therapy"
+        },
+        {
+          "id": "d",
+          "text": "As acknowledged and accepted but neither fostered nor interpreted"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Jungians retain transference analysis as central but redefine what is being projected, extending it beyond personal history to include collective unconscious material.",
+      "whyWrong": {
+        "a": "Treating transference as counterproductive and correcting the transference fantasy is the Gestalt position.",
+        "b": "Viewing transference as detrimental to progress is characteristic of reality therapy.",
+        "d": "Acknowledging transference without fostering or interpreting it is the person-centered stance."
+      },
+      "topic": "Jungian therapy and technique",
+      "bloom": "understand",
+      "difficulty": 3,
+      "sourceRef": "§I.C, Therapy Goals and Techniques, p. 5"
+    },
+    {
+      "id": "q52",
+      "type": "single",
+      "stem": "Which statement best characterizes the Jungian approach to human nature and to time focus in therapy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Pessimistic about human nature, with an exclusive focus on early childhood"
+        },
+        {
+          "id": "b",
+          "text": "Neutral about human nature, with attention divided evenly between past and present"
+        },
+        {
+          "id": "c",
+          "text": "Optimistic about human nature, but with therapy conducted almost entirely through reconstruction of the past"
+        },
+        {
+          "id": "d",
+          "text": "Optimistic about human nature, emphasizing healthy aspects of the personality, with a primary focus on the here-and-now"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The Jungian approach emphasizes the healthy aspects of the client's personality and works primarily in the present, seeking information from the past only when it helps the client understand the present.",
+      "whyWrong": {
+        "a": "Pessimism about human nature characterizes the Freudian worldview, not the Jungian one.",
+        "b": "The text describes an optimistic view and a primary here-and-now focus rather than neutrality and an even split.",
+        "c": "The optimism is correct but the time focus is reversed; past material is sought only when it illuminates the present."
+      },
+      "topic": "Jungian therapy and technique",
+      "bloom": "analyze",
+      "difficulty": 3,
+      "sourceRef": "§I.C, Therapy Goals and Techniques, p. 5"
+    },
+    {
+      "id": "q53",
+      "type": "single",
+      "stem": "What do object relations theorists consider to be a basic inborn drive?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Object-seeking, meaning relationships with others"
+        },
+        {
+          "id": "b",
+          "text": "The striving for superiority"
+        },
+        {
+          "id": "c",
+          "text": "The self-actualizing tendency"
+        },
+        {
+          "id": "d",
+          "text": "The pleasure principle"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Making relationship itself the primary drive is the defining move of object relations theory, and it is what shifts the emphasis onto a child's early relationships with objects and their internalized representations.",
+      "whyWrong": {
+        "b": "Striving for superiority is Adler's inherent tendency toward perfect completion.",
+        "c": "The self-actualizing tendency is Rogers's innate motivational principle in person-centered therapy.",
+        "d": "The pleasure principle is the basis on which Freud's id operates, not an inborn drive in object relations theory."
+      },
+      "topic": "Object relations theory",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§I.D, Object Relations Theory, pp. 5-6"
+    },
+    {
+      "id": "q54",
+      "type": "single",
+      "stem": "In object relations theory, \"introjects\" refer to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Concepts swallowed whole from the environment without being assimilated"
+        },
+        {
+          "id": "b",
+          "text": "The client's internalized representations of objects and object relations that become part of the self"
+        },
+        {
+          "id": "c",
+          "text": "Primordial images inherited through the collective unconscious"
+        },
+        {
+          "id": "d",
+          "text": "Bipolar dimensions of meaning used to construe events"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Introjects are the mechanism by which early relationships exert lasting influence: once internalized, these representations become part of the self and shape future interactions with other people.",
+      "whyWrong": {
+        "a": "This defines introjection as a Gestalt boundary disturbance. The similar name conceals a different concept, since the Gestalt term names a pathological process rather than the internalized representations themselves.",
+        "c": "Primordial images inherited across generations are Jung's archetypes.",
+        "d": "Bipolar dimensions of meaning are Kelly's personal constructs."
+      },
+      "topic": "Object relations theory",
+      "bloom": "understand",
+      "difficulty": 3,
+      "sourceRef": "§I.D, Object Relations Theory, pp. 5-6"
+    },
+    {
+      "id": "q55",
+      "type": "single",
+      "stem": "Which group of theorists are identified as the object-relations theorists?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Perls, Rogers, Frankl, and Glasser"
+        },
+        {
+          "id": "b",
+          "text": "Adler, Jung, Dreikurs, and Dinkmeyer"
+        },
+        {
+          "id": "c",
+          "text": "Melanie Klein, Ronald Fairbairn, Margaret Mahler, and Otto Kernberg"
+        },
+        {
+          "id": "d",
+          "text": "Kelly, Schneider, Leitner, and Epting"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "These four are named as the object-relations theorists, each with a unique theory of personality development built on the primacy of object-seeking.",
+      "whyWrong": {
+        "a": "Perls, Rogers, Frankl, and Glasser are associated with the humanistic and constructivist psychotherapies.",
+        "b": "Adler and Dreikurs are associated with individual psychology and Jung with analytical psychotherapy; these are distinct psychodynamic approaches.",
+        "d": "Kelly founded personal construct therapy, and the others are cited in connection with constructivist psychotherapies."
+      },
+      "topic": "Object relations theory",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.D, Object Relations Theory, p. 6"
+    },
+    {
+      "id": "q56",
+      "type": "single",
+      "stem": "In Mahler's model of early development, what characterizes the initial phase of normal infantile autism?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The child is aware of the mother but cannot differentiate between \"me\" and \"not-me\""
+        },
+        {
+          "id": "b",
+          "text": "The child perceives others as both separate and related"
+        },
+        {
+          "id": "c",
+          "text": "The child experiences conflict between independence and dependence"
+        },
+        {
+          "id": "d",
+          "text": "The infant is self-absorbed and essentially oblivious to the external environment"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Normal infantile autism occupies the first month of life and is defined by the absence of engagement with the external environment, which is the baseline from which the later phases represent successive steps outward.",
+      "whyWrong": {
+        "a": "Awareness of the mother without differentiating \"me\" from \"not-me\" defines the normal symbiotic phase that follows.",
+        "b": "Perceiving others as both separate and related is the achievement of object constancy at about three years of age.",
+        "c": "Conflict between independence and dependence, manifested as separation anxiety, occurs during the separation-individuation subphases."
+      },
+      "topic": "Mahler's separation-individuation",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.D, Personality Theory, p. 6"
+    },
+    {
+      "id": "q57",
+      "type": "single",
+      "stem": "At what age does Mahler's separation-individuation phase begin?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "At four to five months of age"
+        },
+        {
+          "id": "b",
+          "text": "During the first month of life"
+        },
+        {
+          "id": "c",
+          "text": "At about six months of age"
+        },
+        {
+          "id": "d",
+          "text": "At about three years of age"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The actual development of object relations occurs during the separation-individuation phase, which begins at four to five months and comprises four overlapping subphases.",
+      "whyWrong": {
+        "b": "The first month of life is the normal infantile autism phase.",
+        "c": "Six months is when the ego develops in Freud's structural theory, not when separation-individuation begins.",
+        "d": "About three years of age is when the phase culminates in object constancy, not when it begins."
+      },
+      "topic": "Mahler's separation-individuation",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.D, Personality Theory, p. 6"
+    },
+    {
+      "id": "q58",
+      "type": "single",
+      "stem": "What are the four overlapping subphases of Mahler's separation-individuation phase, in order?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Symbiosis, differentiation, practicing, and individuation"
+        },
+        {
+          "id": "b",
+          "text": "Differentiation, practicing, rapprochement, and object constancy"
+        },
+        {
+          "id": "c",
+          "text": "Practicing, differentiation, object constancy, and rapprochement"
+        },
+        {
+          "id": "d",
+          "text": "Autism, symbiosis, separation, and constancy"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The four subphases track a progression from sensory exploration, through physical exploration as locomotor skills improve, to a conflict between independence and dependence, and finally to a permanent sense of self and object.",
+      "whyWrong": {
+        "a": "Symbiosis is the phase preceding separation-individuation, not one of its subphases, and individuation is Jung's term in this context.",
+        "c": "The order is wrong: differentiation precedes practicing, and object constancy is the final subphase rather than the third.",
+        "d": "Autism and symbiosis are the two phases that precede separation-individuation."
+      },
+      "topic": "Mahler's separation-individuation",
+      "bloom": "recall",
+      "difficulty": 3,
+      "sourceRef": "§I.D, Personality Theory, p. 6"
+    },
+    {
+      "id": "q59",
+      "type": "single",
+      "stem": "During the separation-individuation subphases, the period of conflict between independence and dependence is manifested as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Existential anxiety"
+        },
+        {
+          "id": "b",
+          "text": "Neurotic anxiety"
+        },
+        {
+          "id": "c",
+          "text": "Separation anxiety"
+        },
+        {
+          "id": "d",
+          "text": "Signal anxiety alerting the ego to danger"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "After the child moves toward separation through sensory and then physical exploration, the pull between independence and dependence surfaces as separation anxiety.",
+      "whyWrong": {
+        "a": "Existential anxiety is a normal response to the ultimate concerns of existence in existential therapy.",
+        "b": "Neurotic anxiety, in the existential framing, results from an attempt to avoid existential anxiety.",
+        "d": "Anxiety as a signal alerting the ego to internal or external danger is Freud's account rather than Mahler's."
+      },
+      "topic": "Mahler's separation-individuation",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§I.D, Personality Theory, p. 6"
+    },
+    {
+      "id": "q60",
+      "type": "single",
+      "stem": "By about three years of age, a child who has achieved object constancy is able to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Differentiate between \"me\" and \"not-me\" for the first time"
+        },
+        {
+          "id": "b",
+          "text": "Integrate the conscious and unconscious aspects of the psyche"
+        },
+        {
+          "id": "c",
+          "text": "Suppress the id's socially unacceptable impulses through the superego"
+        },
+        {
+          "id": "d",
+          "text": "Perceive others as both separate and related"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Object constancy marks the development of a permanent sense of self and object, which is what allows others to be held in mind as separate people with whom one is nonetheless connected.",
+      "whyWrong": {
+        "a": "The inability to differentiate \"me\" from \"not-me\" characterizes the earlier normal symbiotic phase.",
+        "b": "Integration of conscious and unconscious aspects of the psyche is Jung's individuation.",
+        "c": "Blocking the id's socially unacceptable impulses is the superego's aim in Freud's structural theory."
+      },
+      "topic": "Mahler's separation-individuation",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§I.D, Personality Theory, p. 6"
+    },
+    {
+      "id": "q61",
+      "type": "single",
+      "stem": "For object-relations theorists, maladaptive behavior is the result of:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Abnormalities in early object relations"
+        },
+        {
+          "id": "b",
+          "text": "A mistaken style of life"
+        },
+        {
+          "id": "c",
+          "text": "Conditions of worth imposed by parents"
+        },
+        {
+          "id": "d",
+          "text": "An inability to cope authentically with the ultimate concerns of existence"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Since object-seeking is the basic drive and early relationships supply the internalized representations that shape later interaction, pathology is traced to disturbances in those early object relations.",
+      "whyWrong": {
+        "b": "A mistaken style of life is Adler's view of mental disorders.",
+        "c": "Conditions of worth producing incongruence is Rogers's account of how the self becomes disorganized.",
+        "d": "Failure to cope authentically with ultimate concerns is the existential view."
+      },
+      "topic": "Object relations and pathology",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§I.D, View of Maladaptive Behavior, p. 6"
+    },
+    {
+      "id": "q62",
+      "type": "single",
+      "stem": "Mahler traces adult psychopathology specifically to problems that occurred during:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The normal symbiotic phase"
+        },
+        {
+          "id": "b",
+          "text": "Separation-individuation"
+        },
+        {
+          "id": "c",
+          "text": "The phallic stage"
+        },
+        {
+          "id": "d",
+          "text": "The period of individuation after the mid-30s"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Separation-individuation is where the actual development of object relations takes place in Mahler's model, so disruptions there have the most direct consequences for adult functioning.",
+      "whyWrong": {
+        "a": "The symbiotic phase precedes the development of object relations proper, which occurs during separation-individuation.",
+        "c": "The phallic stage belongs to Freud's psychosexual sequence, not Mahler's model.",
+        "d": "Growth after the mid-30s is the period of Jung's interest in individuation, an unrelated concept."
+      },
+      "topic": "Object relations and pathology",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§I.D, View of Maladaptive Behavior, p. 6"
+    },
+    {
+      "id": "q63",
+      "type": "single",
+      "stem": "Many object relations theorists believe that, in infancy, there is a natural tendency to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Introject concepts from the environment without assimilating them"
+        },
+        {
+          "id": "b",
+          "text": "Construe events using bipolar personal constructs"
+        },
+        {
+          "id": "c",
+          "text": "Split mental representations of the self and others into \"good\" and \"bad\""
+        },
+        {
+          "id": "d",
+          "text": "Displace anxiety onto symbolic objects"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Splitting is described as a normal infantile tendency, which is why the theory locates pathology in its inadequate resolution rather than in its occurrence.",
+      "whyWrong": {
+        "a": "Introjection in the sense of swallowing concepts whole is a Gestalt boundary disturbance.",
+        "b": "Construing events through bipolar constructs is Kelly's account and is not described as an infantile splitting tendency.",
+        "d": "Displacement of anxiety onto symbolic objects is the Freudian explanation of phobias."
+      },
+      "topic": "Object relations and pathology",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.D, View of Maladaptive Behavior, p. 6"
+    },
+    {
+      "id": "q64",
+      "type": "single",
+      "stem": "According to Kernberg, an individual with Borderline Personality Disorder shifts back and forth between overidealizing others and devaluating them because they:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Have adopted a failure identity through irresponsible need satisfaction"
+        },
+        {
+          "id": "b",
+          "text": "Experience incongruence between their self and their experience"
+        },
+        {
+          "id": "c",
+          "text": "Continue to rely on constructs despite invalidating evidence"
+        },
+        {
+          "id": "d",
+          "text": "Never integrated the positive and negative aspects of their experiences with others"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "If the good and bad representations are never brought together into a single whole, the person is left holding contradictory images and alternating between them rather than sustaining an integrated view.",
+      "whyWrong": {
+        "a": "Failure identity is Glasser's concept in reality therapy.",
+        "b": "Incongruence between self and experience is Rogers's account of the disorganized self.",
+        "c": "Persisting with constructs despite invalidating evidence describes hostility in Kelly's personal construct theory."
+      },
+      "topic": "Object relations and pathology",
+      "bloom": "understand",
+      "difficulty": 3,
+      "sourceRef": "§I.D, View of Maladaptive Behavior, p. 6"
+    },
+    {
+      "id": "q65",
+      "type": "single",
+      "stem": "A primary goal of object relations therapy is to bring \"maladaptive unconscious relationship dynamics into consciousness\" so that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Dysfunctional internalized object representations can be replaced with more appropriate ones"
+        },
+        {
+          "id": "b",
+          "text": "The client can achieve congruence between self and experience"
+        },
+        {
+          "id": "c",
+          "text": "The client can develop a success identity"
+        },
+        {
+          "id": "d",
+          "text": "The client can revise constructs that lead to inaccurate predictions"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Because internalized representations are what carry early object relations into present functioning, making the dynamics conscious serves the aim of replacing those representations, thereby restoring the ability to relate realistically to others.",
+      "whyWrong": {
+        "b": "Achieving congruence between self and experience is the primary goal of person-centered therapy.",
+        "c": "Developing a success identity is the primary goal of reality therapy.",
+        "d": "Revising constructs that yield inaccurate predictions belongs to Kelly's personal construct therapy."
+      },
+      "topic": "Object relations and pathology",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§I.D, Therapy Goals and Techniques, p. 6"
+    },
+    {
+      "id": "q66",
+      "type": "single",
+      "stem": "In object relations therapy, a primary focus is placed on which defenses?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Repression and displacement"
+        },
+        {
+          "id": "b",
+          "text": "Splitting, projective identification, and other defenses that maintain pathological object relations"
+        },
+        {
+          "id": "c",
+          "text": "Introjection, projection, retroflection, and confluence"
+        },
+        {
+          "id": "d",
+          "text": "Perceptual distortion and denial"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The defenses singled out are those that keep object relations pathological, which follows from a theory in which the disorder consists in unintegrated representations of self and others.",
+      "whyWrong": {
+        "a": "Repression and displacement are Freudian defenses discussed in the psychoanalysis section rather than the focus of object relations technique.",
+        "c": "These four are the Gestalt boundary disturbances.",
+        "d": "Perceptual distortion and denial are the defensive maneuvers Rogers described for alleviating anxiety from incongruence."
+      },
+      "topic": "Object relations and pathology",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§I.D, Therapy Goals and Techniques, p. 6"
+    },
+    {
+      "id": "q67",
+      "type": "single",
+      "stem": "A therapist works to provide a client with support, acceptance, and other conditions that restore the client's ability to relate to others in meaningful, realistic ways. This describes the therapeutic stance of which approach?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Freudian psychoanalysis"
+        },
+        {
+          "id": "b",
+          "text": "Adlerian individual psychology"
+        },
+        {
+          "id": "c",
+          "text": "Object relations therapy"
+        },
+        {
+          "id": "d",
+          "text": "Jungian analytical psychotherapy"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Object relations theorists view psychotherapy as an opportunity to supply the relational conditions that were deficient early on, which is why support and acceptance are framed as restoring a capacity to relate.",
+      "whyWrong": {
+        "a": "Freudian analysis aims at making unconscious conflict conscious through analysis rather than at providing corrective relational conditions.",
+        "b": "Adlerian therapy focuses on identifying and reorienting the client's style of life.",
+        "d": "Jungian therapy aims at re-bridging the conscious and the personal and collective unconscious, primarily through interpretation."
+      },
+      "topic": "Object relations and pathology",
+      "bloom": "apply",
+      "difficulty": 2,
+      "sourceRef": "§I.D, Therapy Goals and Techniques, p. 6"
+    },
+    {
+      "id": "q68",
+      "type": "single",
+      "stem": "A client's therapist explains that the client's difficulties stem from goals they are pursuing rather than from events that happened to them, and focuses on increasing the client's concern for the welfare of others. Which approach is the therapist most likely using?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Freudian psychoanalysis"
+        },
+        {
+          "id": "b",
+          "text": "Object relations therapy"
+        },
+        {
+          "id": "c",
+          "text": "Jungian analytical psychotherapy"
+        },
+        {
+          "id": "d",
+          "text": "Adlerian individual psychology"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Two markers identify this as Adlerian: the teleological framing of behavior as goal-motivated rather than past-determined, and the emphasis on social interest, which is the characteristic distinguishing a healthy from a mistaken style of life.",
+      "whyWrong": {
+        "a": "Freudian work is deterministic and traces difficulties to unresolved childhood conflict, the opposite of the teleological framing described.",
+        "b": "Object relations therapy traces difficulties to abnormalities in early object relations rather than to present goals.",
+        "c": "Jung shared the view that behavior is influenced by future goals, but the emphasis on social interest is distinctively Adlerian."
+      },
+      "topic": "Adlerian therapy and application",
+      "bloom": "analyze",
+      "difficulty": 3,
+      "sourceRef": "§I.B, Adler's Individual Psychology, p. 4"
+    }
+  ]
+}

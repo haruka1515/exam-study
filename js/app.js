@@ -147,13 +147,15 @@ function scoreBand(r) {
 function openDetail(setId) {
   const s = sections.find((x) => x.setId === setId);
   if (!s) return;
-  const ready = s.status === "generated";
+
+  if (s.status === "generated") {
+    location.href = `quiz.html?set=${encodeURIComponent(setId)}`;
+    return;
+  }
+
   notice(
     `<strong>${escape(s.setId)}</strong> — ${escape(s.profile ?? "no profile")} · ` +
-      (ready
-        ? `generated, ${s.attempted ? `last score ${Math.round(s.ratio * 100)}%` : "not yet attempted"}. `
-        : `not generated yet. Run <code>prompts/generate.md</code> against the section PDF. `) +
-      `<em>The test player is the next thing to build.</em>`
+      `not generated yet. Run <code>prompts/generate.md</code> against the section PDF.`
   );
 }
 

@@ -1,0 +1,2460 @@
+{
+  "id": "ch01-s02",
+  "chapter": 1,
+  "chapterTitle": "Clinical Psychology",
+  "section": 2,
+  "sectionTitle": "Humanistic and Constructivist Psychotherapies",
+  "profile": "knowledge-heavy",
+  "sourceFile": "Clinical1_dynamic_humanistic_constructivist.pdf",
+  "generatedAt": "2026-08-23",
+  "questions": [
+    {
+      "id": "q01",
+      "type": "single",
+      "stem": "The phenomenological approach shared by the humanistic psychotherapies assumes that to understand a person, one must understand their:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Subjective experience"
+        },
+        {
+          "id": "b",
+          "text": "Unconscious conflicts from early childhood"
+        },
+        {
+          "id": "c",
+          "text": "Reinforcement history"
+        },
+        {
+          "id": "d",
+          "text": "Internalized object representations"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Phenomenology treats the person's own experience as the primary data of psychology, which is why humanistic therapists work from the client's frame of reference rather than from an external theoretical framework.",
+      "whyWrong": {
+        "b": "Unconscious childhood conflict is the Freudian focus, which the humanistic approach was formulated against.",
+        "c": "Reinforcement history belongs to the behavioral approach, covered in a different chapter.",
+        "d": "Internalized object representations are the concern of object relations theory, a psychodynamic approach."
+      },
+      "topic": "Humanistic shared characteristics",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§II, Humanistic and Constructivist Psychotherapies, p. 8"
+    },
+    {
+      "id": "q02",
+      "type": "single",
+      "stem": "Which characteristic is shared by the humanistic psychotherapies?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A reliance on standardized diagnostic labels to guide treatment planning"
+        },
+        {
+          "id": "b",
+          "text": "A rejection of traditional assessment techniques and diagnostic labels"
+        },
+        {
+          "id": "c",
+          "text": "An emphasis on the analysis of transference and resistance"
+        },
+        {
+          "id": "d",
+          "text": "A focus on events occurring in the first five years of life"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Rejecting traditional assessment and diagnosis follows from the humanistic premises: if understanding requires entering the client's subjective experience, then categories imposed from outside distort rather than clarify.",
+      "whyWrong": {
+        "a": "This is the opposite of the humanistic position, which rejects diagnostic labels.",
+        "c": "Analysis of transference and resistance is the core of psychoanalytic technique, not a humanistic characteristic.",
+        "d": "Humanistic therapies focus on current behaviors rather than on early childhood events."
+      },
+      "topic": "Humanistic shared characteristics",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§II, Humanistic and Constructivist Psychotherapies, p. 8"
+    },
+    {
+      "id": "q03",
+      "type": "single",
+      "stem": "How is the therapeutic relationship viewed in the humanistic psychotherapies?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "As a neutral screen onto which the client projects unconscious material"
+        },
+        {
+          "id": "b",
+          "text": "As a hierarchy in which the therapist's expertise directs the client's progress"
+        },
+        {
+          "id": "c",
+          "text": "As an authentic, collaborative, and egalitarian relationship between therapist and client"
+        },
+        {
+          "id": "d",
+          "text": "As secondary to the specific techniques the therapist applies"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "An egalitarian relationship is a defining feature of the humanistic approach and is consistent with its belief in the client's inherent potential for self-determination.",
+      "whyWrong": {
+        "a": "The neutral screen belongs to traditional psychoanalysis, and it conflicts with the humanistic requirement of therapist authenticity.",
+        "b": "Person-centered therapists explicitly avoid the superior, authoritarian expert role.",
+        "d": "In humanistic therapy the relationship itself is central; existential therapy calls it the most important therapeutic tool."
+      },
+      "topic": "Humanistic shared characteristics",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§II, Humanistic and Constructivist Psychotherapies, p. 8"
+    },
+    {
+      "id": "q04",
+      "type": "single",
+      "stem": "Which four therapies are included in the humanistic category?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Person-centered, Gestalt, personal construct, and object relations therapy"
+        },
+        {
+          "id": "b",
+          "text": "Psychoanalysis, individual psychology, analytical psychotherapy, and Gestalt therapy"
+        },
+        {
+          "id": "c",
+          "text": "Existential, reality, personal construct, and analytical therapy"
+        },
+        {
+          "id": "d",
+          "text": "Person-centered, Gestalt, existential, and reality therapy"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "These four are grouped as humanistic. Kelly's personal construct therapy is treated separately as a forerunner of the constructivist psychotherapies rather than as a humanistic therapy.",
+      "whyWrong": {
+        "a": "Personal construct therapy is classed as constructivist, and object relations therapy is psychodynamic.",
+        "b": "Psychoanalysis, individual psychology, and analytical psychotherapy are all psychodynamic approaches.",
+        "c": "Personal construct therapy is constructivist and analytical psychotherapy is Jung's psychodynamic approach."
+      },
+      "topic": "Humanistic shared characteristics",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II, Humanistic and Constructivist Psychotherapies, p. 8"
+    },
+    {
+      "id": "q05",
+      "type": "single",
+      "stem": "What is the distinguishing characteristic of the psychotherapies categorized as constructivist?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Their emphasis on the client's perceived reality, viewed as individually and/or socially constructed"
+        },
+        {
+          "id": "b",
+          "text": "Their reliance on the systematic analysis of dreams, free associations, and resistances"
+        },
+        {
+          "id": "c",
+          "text": "Their assumption that behavior is controlled by environmental contingencies of reinforcement"
+        },
+        {
+          "id": "d",
+          "text": "Their focus on identifying and correcting the irrationality of the beliefs the client holds"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Treating reality as constructed rather than given is what sets these therapies apart, and it is the premise from which their focus on meaning creation follows.",
+      "whyWrong": {
+        "b": "Dream and free association analysis is psychoanalytic technique.",
+        "c": "Environmental control of behavior is the behavioral position.",
+        "d": "Constructivist therapies focus on the process of meaning creation rather than on the accuracy or rationality of the meanings created."
+      },
+      "topic": "Constructivist psychotherapies",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II, Humanistic and Constructivist Psychotherapies, p. 8"
+    },
+    {
+      "id": "q06",
+      "type": "single",
+      "stem": "In constructivist psychotherapy, the focus of therapy is on:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The accuracy of the meanings the client has created"
+        },
+        {
+          "id": "b",
+          "text": "The process of meaning creation"
+        },
+        {
+          "id": "c",
+          "text": "The rationality of the client's beliefs relative to objective evidence"
+        },
+        {
+          "id": "d",
+          "text": "The unconscious origins of the client's constructs"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "If reality is constructed rather than discovered, then judging a client's meanings against an external standard of accuracy has no footing. What remains available for therapeutic work is the process by which meanings are made.",
+      "whyWrong": {
+        "a": "Accuracy is explicitly contrasted with the constructivist focus; the text says the focus is on process rather than accuracy.",
+        "c": "Rationality is likewise contrasted with the constructivist focus.",
+        "d": "Kelly notes that constructs may operate unconsciously, but uncovering unconscious origins is not the stated focus of constructivist therapy."
+      },
+      "topic": "Constructivist psychotherapies",
+      "bloom": "understand",
+      "difficulty": 3,
+      "sourceRef": "§II, Humanistic and Constructivist Psychotherapies, p. 8"
+    },
+    {
+      "id": "q07",
+      "type": "single",
+      "stem": "Whose approach is considered a forerunner of the constructivist psychotherapies?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fritz Perls"
+        },
+        {
+          "id": "b",
+          "text": "Carl Rogers"
+        },
+        {
+          "id": "c",
+          "text": "George Kelly"
+        },
+        {
+          "id": "d",
+          "text": "Viktor Frankl"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Kelly's personal construct therapy anticipated the constructivist emphasis on how the client experiences and construes the world rather than on an objectively given reality.",
+      "whyWrong": {
+        "a": "Perls founded Gestalt therapy, which is classed as humanistic.",
+        "b": "Rogers founded person-centered therapy, also humanistic.",
+        "d": "Frankl developed logotherapy, an existential therapy."
+      },
+      "topic": "Constructivist psychotherapies",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§II, Humanistic and Constructivist Psychotherapies, p. 8"
+    },
+    {
+      "id": "q08",
+      "type": "single",
+      "stem": "Person-centered therapy is based on Rogers's belief that all people have an innate:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Striving for superiority that drives the person toward \"perfect completion\""
+        },
+        {
+          "id": "b",
+          "text": "Drive to seek out relationships with others as a basic and inborn motivation"
+        },
+        {
+          "id": "c",
+          "text": "Set of five basic innate needs including survival, power, freedom, and fun"
+        },
+        {
+          "id": "d",
+          "text": "Self-actualizing tendency that serves as the major source of motivation"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The self-actualizing tendency is the engine of Rogers's system: because it is innate and guides people toward healthy growth, therapy needs only to remove obstacles rather than supply direction.",
+      "whyWrong": {
+        "a": "Striving for superiority is Adler's inherent tendency.",
+        "b": "Object-seeking as a basic inborn drive is the object relations position.",
+        "c": "The five basic innate needs are Glasser's in reality therapy."
+      },
+      "topic": "Person-centered theory of self",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§II.A, Person-Centered Therapy, p. 8"
+    },
+    {
+      "id": "q09",
+      "type": "single",
+      "stem": "By what other names is person-centered therapy known?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Client-centered and Rogerian therapy"
+        },
+        {
+          "id": "b",
+          "text": "Logotherapy and existential analysis"
+        },
+        {
+          "id": "c",
+          "text": "Choice theory and control theory"
+        },
+        {
+          "id": "d",
+          "text": "Fixed-role therapy and repertory therapy"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Person-centered, client-centered, and Rogerian all name Carl Rogers's approach.",
+      "whyWrong": {
+        "b": "Logotherapy is Frankl's existential therapy.",
+        "c": "Choice theory, previously called control theory, underlies Glasser's reality therapy.",
+        "d": "Fixed-role therapy and the repertory grid are techniques within Kelly's personal construct therapy."
+      },
+      "topic": "Person-centered theory of self",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§II.A, Person-Centered Therapy, p. 8"
+    },
+    {
+      "id": "q10",
+      "type": "single",
+      "stem": "According to Rogers, in order for a person to become self-actualized, the self must remain:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Subordinate to the demands of the superego"
+        },
+        {
+          "id": "b",
+          "text": "Unified, organized, and whole"
+        },
+        {
+          "id": "c",
+          "text": "Split into good and bad representations until adolescence"
+        },
+        {
+          "id": "d",
+          "text": "Free of any conscious awareness of anxiety"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Rogers defined the self as an organized, consistent conceptual gestalt, so its integrity is the precondition for reaching full potential. Disorganization of the self is precisely what blocks self-actualization.",
+      "whyWrong": {
+        "a": "The superego is a structure in Freud's theory and has no role in Rogers's account.",
+        "c": "Splitting into good and bad representations is an object relations concept.",
+        "d": "Rogers treats anxiety as a signal that the unified self is threatened, not as something that must be absent for self-actualization."
+      },
+      "topic": "Person-centered theory of self",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§II.A, Personality Theory, p. 8"
+    },
+    {
+      "id": "q11",
+      "type": "single",
+      "stem": "In Rogers's theory, the self becomes disorganized as the result of:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A boundary disturbance between self and environment"
+        },
+        {
+          "id": "b",
+          "text": "Inadequate resolution of splitting"
+        },
+        {
+          "id": "c",
+          "text": "Incongruence between self and experience"
+        },
+        {
+          "id": "d",
+          "text": "Constructs that lie outside the range of one's construct system"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Incongruence is the central pathological process in Rogers's account: when the person's sense of self and their experience in the world pull apart, the organized whole that self-actualization requires breaks down.",
+      "whyWrong": {
+        "a": "Boundary disturbance is the Gestalt account of neurotic behavior.",
+        "b": "Inadequate resolution of splitting is an object relations explanation.",
+        "d": "Events lying outside the range of one's construct system is Kelly's definition of anxiety."
+      },
+      "topic": "Person-centered theory of self",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§II.A, View of Maladaptive Behavior, p. 9"
+    },
+    {
+      "id": "q12",
+      "type": "single",
+      "stem": "A child learns that they will receive affection and attention from their parents only when they behave in certain ways. In Rogers's terms, the child is experiencing:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Confluence"
+        },
+        {
+          "id": "b",
+          "text": "A failure identity"
+        },
+        {
+          "id": "c",
+          "text": "Introjection"
+        },
+        {
+          "id": "d",
+          "text": "Conditions of worth"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Conditions of worth arise when positive regard is conditional rather than unconditional. They matter because they produce the incongruence between the child's sense of self and their experience that disorganizes the self.",
+      "whyWrong": {
+        "a": "Confluence is a Gestalt boundary disturbance involving the absence of a boundary between self and environment.",
+        "b": "Failure identity is Glasser's term for the result of irresponsible need satisfaction.",
+        "c": "Introjection is a Gestalt boundary disturbance involving swallowing concepts whole."
+      },
+      "topic": "Conditions of worth and incongruence",
+      "bloom": "apply",
+      "difficulty": 2,
+      "sourceRef": "§II.A, View of Maladaptive Behavior, p. 9"
+    },
+    {
+      "id": "q13",
+      "type": "single",
+      "stem": "According to Rogers, incongruence produces unpleasant visceral sensations that are subjectively experienced as anxiety and serve as a signal that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The unified self is being threatened"
+        },
+        {
+          "id": "b",
+          "text": "The ego is facing an impending internal or external threat"
+        },
+        {
+          "id": "c",
+          "text": "The person is confronting an ultimate concern of existence"
+        },
+        {
+          "id": "d",
+          "text": "The person's needs are being satisfied irresponsibly"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Rogers gives anxiety a signal function, as Freud did, but tied to a different referent: what is under threat is the unity of the self rather than the ego's management of instinct.",
+      "whyWrong": {
+        "b": "Alerting the ego to internal or external danger is Freud's account of the function of anxiety.",
+        "c": "Confronting ultimate concerns produces existential anxiety in existential therapy.",
+        "d": "Irresponsible need satisfaction produces a failure identity in Glasser's reality therapy."
+      },
+      "topic": "Conditions of worth and incongruence",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§II.A, View of Maladaptive Behavior, p. 9"
+    },
+    {
+      "id": "q14",
+      "type": "single",
+      "stem": "Which two defensive maneuvers did Rogers identify as attempts to alleviate the anxiety produced by incongruence?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Repression and reaction formation"
+        },
+        {
+          "id": "b",
+          "text": "Perceptual distortion and denial"
+        },
+        {
+          "id": "c",
+          "text": "Splitting and projective identification"
+        },
+        {
+          "id": "d",
+          "text": "Retroflection and confluence"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Perceptual distortion and denial can relieve the discomfort of incongruence temporarily, but because they falsify experience rather than reconcile it with the self, they work counter to self-actualization.",
+      "whyWrong": {
+        "a": "Repression and reaction formation are Freudian defense mechanisms.",
+        "c": "Splitting and projective identification are the defenses emphasized in object relations therapy.",
+        "d": "Retroflection and confluence are two of the four Gestalt boundary disturbances."
+      },
+      "topic": "Conditions of worth and incongruence",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.A, View of Maladaptive Behavior, p. 9"
+    },
+    {
+      "id": "q15",
+      "type": "single",
+      "stem": "What is the primary goal of person-centered therapy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "To help the client become a unified, integrated whole by reclaiming the aspects of the self that have been disowned or denied"
+        },
+        {
+          "id": "b",
+          "text": "To help the client find responsible and effective ways of satisfying their basic needs and thereby develop a success identity"
+        },
+        {
+          "id": "c",
+          "text": "To help the client achieve congruence between self and experience so they can become a more fully functioning, self-actualizing person"
+        },
+        {
+          "id": "d",
+          "text": "To help the client identify and then revise or replace the maladaptive personal constructs through which they construe events"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Since incongruence is what disorganizes the self and blocks the self-actualizing tendency, restoring congruence is the goal, after which the client's own inherent tendency carries the growth.",
+      "whyWrong": {
+        "a": "Integration into a unified whole is the major goal of Gestalt therapy.",
+        "b": "Developing a success identity is the primary goal of reality therapy.",
+        "d": "Revising maladaptive personal constructs is the goal of personal construct therapy."
+      },
+      "topic": "Facilitative conditions",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§II.A, Therapy Goals, p. 9"
+    },
+    {
+      "id": "q16",
+      "type": "single",
+      "stem": "What are Rogers's three facilitative conditions?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Confrontation, clarification, and interpretation of unconscious material"
+        },
+        {
+          "id": "b",
+          "text": "Support, acceptance, and realistic feedback about the client's behavior"
+        },
+        {
+          "id": "c",
+          "text": "Awareness, integration, and closure in the immediate here-and-now"
+        },
+        {
+          "id": "d",
+          "text": "Unconditional positive regard, genuineness, and accurate empathic understanding"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "These three constitute the \"right environment\" that Rogerian therapy is premised on: provide them, and the client's own self-actualizing tendency does the rest.",
+      "whyWrong": {
+        "a": "These are three of the four components of psychoanalytic analysis.",
+        "b": "Support and acceptance describe the object relations therapeutic stance rather than Rogers's named conditions.",
+        "c": "Awareness is the primary curative factor in Gestalt therapy, and integration is its goal."
+      },
+      "topic": "Facilitative conditions",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§II.A, Therapy Techniques, p. 9"
+    },
+    {
+      "id": "q17",
+      "type": "single",
+      "stem": "Why are both positive and negative judgments of a client's actions considered non-therapeutic in person-centered therapy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Because an evaluation of any kind represents a condition of worth"
+        },
+        {
+          "id": "b",
+          "text": "Because judgments of any kind interfere with accurate empathy"
+        },
+        {
+          "id": "c",
+          "text": "Because they encourage the development of transference"
+        },
+        {
+          "id": "d",
+          "text": "Because they place the therapist in a phenomenological stance"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Conditions of worth are what produce incongruence in the first place, so a therapist who evaluates, even favorably, reintroduces the very mechanism that disorganized the client's self.",
+      "whyWrong": {
+        "b": "The stated reason concerns conditions of worth rather than interference with empathy.",
+        "c": "Person-centered therapists acknowledge transference but do not foster or interpret it, and this is not the reason judgments are avoided.",
+        "d": "The phenomenological stance is a characteristic of the humanistic approach, not a consequence of judging."
+      },
+      "topic": "Facilitative conditions",
+      "bloom": "analyze",
+      "difficulty": 3,
+      "sourceRef": "§II.A, Therapy Techniques, p. 9"
+    },
+    {
+      "id": "q18",
+      "type": "single",
+      "stem": "Does the requirement for genuineness mean that a person-centered therapist must always self-disclose?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Yes, since withholding any genuine reaction from the client would itself constitute a form of incongruence"
+        },
+        {
+          "id": "b",
+          "text": "No, but the therapist must honestly communicate their feelings to a client when it is appropriate to do so"
+        },
+        {
+          "id": "c",
+          "text": "Yes, since honest self-disclosure is formally listed as one of the three facilitative conditions"
+        },
+        {
+          "id": "d",
+          "text": "No, since any self-disclosure by the therapist would impose a new condition of worth on the client"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Genuineness concerns the absence of pretense rather than total transparency. What it rules out is incongruence between the therapist's words and behaviors, which would undermine the client's trust.",
+      "whyWrong": {
+        "a": "The text explicitly denies that genuineness requires constant self-disclosure.",
+        "c": "The three facilitative conditions are unconditional positive regard, genuineness, and accurate empathic understanding; self-disclosure is not among them.",
+        "d": "The conclusion is right but the reason is wrong; conditions of worth arise from evaluation, not from self-disclosure."
+      },
+      "topic": "Facilitative conditions",
+      "bloom": "understand",
+      "difficulty": 3,
+      "sourceRef": "§II.A, Therapy Techniques, p. 9"
+    },
+    {
+      "id": "q19",
+      "type": "single",
+      "stem": "\"Reflection of feeling\" is a technique person-centered therapists use to express:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Unconditional positive regard"
+        },
+        {
+          "id": "b",
+          "text": "Genuineness"
+        },
+        {
+          "id": "c",
+          "text": "Accurate empathy"
+        },
+        {
+          "id": "d",
+          "text": "Awareness"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Accurate empathy requires not only seeing the world as the client does but conveying that understanding back, and reflection of feeling, along with nodding and eye contact, is one of the techniques used to do so.",
+      "whyWrong": {
+        "a": "Unconditional positive regard is expressed by accepting the client without evaluation rather than by reflecting feeling.",
+        "b": "Genuineness concerns the therapist's authenticity and honest communication of their own feelings.",
+        "d": "Awareness is the primary curative factor in Gestalt therapy, not a person-centered condition."
+      },
+      "topic": "Facilitative conditions",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§II.A, Therapy Techniques, p. 9"
+    },
+    {
+      "id": "q20",
+      "type": "single",
+      "stem": "Why do person-centered therapists object to assigning a diagnosis?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Because psychiatric diagnoses have repeatedly been shown to be unreliable when applied by different clinicians"
+        },
+        {
+          "id": "b",
+          "text": "Because assigning a diagnosis interferes with the analysis of the client's developing transference"
+        },
+        {
+          "id": "c",
+          "text": "Because mental illness is understood to result from the choices the client has made rather than from illness"
+        },
+        {
+          "id": "d",
+          "text": "Because it places the therapist in a superior, authoritarian role that can simplify or distort the client's experience"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Diagnosis is a directive technique, and the objection is twofold: it disturbs the egalitarian relationship and it substitutes a category for the client's actual experience.",
+      "whyWrong": {
+        "a": "The stated objection is about the therapeutic relationship and distortion of experience, not about psychometric reliability.",
+        "b": "Person-centered therapists do not treat transference as a necessary component of therapy, so protecting its analysis is not their concern.",
+        "c": "Attributing mental illness to the client's choices is Glasser's reality therapy assumption."
+      },
+      "topic": "Facilitative conditions",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§II.A, Therapy Techniques, p. 9"
+    },
+    {
+      "id": "q21",
+      "type": "single",
+      "stem": "How do person-centered therapists handle a client's transference?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "They acknowledge and accept it but do not foster and interpret it"
+        },
+        {
+          "id": "b",
+          "text": "They analyze it as a projection of the personal and collective unconscious"
+        },
+        {
+          "id": "c",
+          "text": "They help the client distinguish transference fantasy from reality"
+        },
+        {
+          "id": "d",
+          "text": "They regard it as detrimental to therapy progress and redirect the client"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Because they do not view transference as a necessary component of therapy, person-centered therapists neither cultivate nor interpret it, though acceptance of whatever the client brings follows from unconditional positive regard.",
+      "whyWrong": {
+        "b": "Analyzing transference as a projection of the personal and collective unconscious is the Jungian approach.",
+        "c": "Correcting the transference fantasy against reality is the Gestalt response.",
+        "d": "Viewing transference as detrimental to progress is characteristic of reality therapy."
+      },
+      "topic": "Facilitative conditions",
+      "bloom": "analyze",
+      "difficulty": 3,
+      "sourceRef": "§II.A, Therapy Techniques, p. 9"
+    },
+    {
+      "id": "q22",
+      "type": "single",
+      "stem": "Who founded Gestalt therapy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "William Glasser"
+        },
+        {
+          "id": "b",
+          "text": "Fritz Perls"
+        },
+        {
+          "id": "c",
+          "text": "George Kelly"
+        },
+        {
+          "id": "d",
+          "text": "Viktor Frankl"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Perls founded Gestalt therapy on the premise that each person can assume personal responsibility for their own thoughts, feelings, and actions and live as an integrated whole.",
+      "whyWrong": {
+        "a": "Glasser developed reality therapy.",
+        "c": "Kelly developed personal construct therapy.",
+        "d": "Frankl developed logotherapy."
+      },
+      "topic": "Gestalt personality theory",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§II.B, Gestalt Therapy, p. 9"
+    },
+    {
+      "id": "q23",
+      "type": "single",
+      "stem": "Which principle from Gestalt psychology is incorporated into Gestalt therapy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Behavior is shaped and maintained by the consequences that reliably follow it"
+        },
+        {
+          "id": "b",
+          "text": "Personality is essentially fixed and complete by four or five years of age"
+        },
+        {
+          "id": "c",
+          "text": "A person's behavior represents a whole that is greater than the sum of its parts"
+        },
+        {
+          "id": "d",
+          "text": "All behavior is motivated by the future goals a person is striving toward"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Gestalt psychology is a branch concerned with perception, and its principles carry over to therapy: people seek closure, gestalts reflect current needs, behavior is more than the sum of its parts, context is required for understanding, and experience follows figure/ground.",
+      "whyWrong": {
+        "a": "Shaping by consequences is a behavioral principle from a different chapter.",
+        "b": "Personality being fairly well established by four or five years is Adler's claim about style of life.",
+        "d": "Motivation by future goals is Adler's teleological approach."
+      },
+      "topic": "Gestalt personality theory",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.B, Gestalt Therapy, p. 10"
+    },
+    {
+      "id": "q24",
+      "type": "single",
+      "stem": "According to Perls, the personality consists of the self and the self-image. What role does the self play?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "It is the \"darker side\" of the personality that hinders growth by imposing external standards on the person"
+        },
+        {
+          "id": "b",
+          "text": "It is the public mask the person presents to the external world in place of their true nature"
+        },
+        {
+          "id": "c",
+          "text": "It mediates the conflicting demands of instinct, external reality, and internalized social standards"
+        },
+        {
+          "id": "d",
+          "text": "It is the creative aspect that promotes the individual's inherent tendency for self-actualization"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "In Perls's two-part account the self is the growth-promoting component, enabling the person to live as a fully integrated whole, while the self-image works against that integration.",
+      "whyWrong": {
+        "a": "This describes the self-image, the other component of Perls's personality.",
+        "b": "The public mask is Jung's persona archetype.",
+        "c": "Mediating conflicting demands is the function of Freud's ego."
+      },
+      "topic": "Gestalt personality theory",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§II.B, Personality Theory, p. 10"
+    },
+    {
+      "id": "q25",
+      "type": "single",
+      "stem": "According to Perls, which childhood circumstance curtails development of the self and facilitates development of the self-image?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Being given support only in the form of approval, or being shielded from all frustration"
+        },
+        {
+          "id": "b",
+          "text": "Being given consistent support along with real opportunities to overcome frustration"
+        },
+        {
+          "id": "c",
+          "text": "Being neglected by parents, which produces a dominating need for revenge"
+        },
+        {
+          "id": "d",
+          "text": "Being unable to differentiate between \"me\" and \"not-me\" in infancy"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Perls held that the self develops through support combined with opportunities to overcome frustration. Removing the frustration, or making support contingent on approval, removes what the self needs to grow.",
+      "whyWrong": {
+        "b": "Opportunities to overcome frustration are precisely what the self requires in order to develop.",
+        "c": "Neglect producing a need for revenge is Adler's account.",
+        "d": "The inability to differentiate \"me\" from \"not-me\" characterizes Mahler's normal symbiotic phase."
+      },
+      "topic": "Gestalt personality theory",
+      "bloom": "understand",
+      "difficulty": 3,
+      "sourceRef": "§II.B, Personality Theory, p. 10"
+    },
+    {
+      "id": "q26",
+      "type": "single",
+      "stem": "In Gestalt therapy, neurotic behavior is considered a \"growth disorder\" that involves:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "An unresolved unconscious conflict originating in early childhood experience"
+        },
+        {
+          "id": "b",
+          "text": "An abandonment of the self for the self-image and a resulting lack of integration"
+        },
+        {
+          "id": "c",
+          "text": "A growing incongruence between the person's self and their lived experience"
+        },
+        {
+          "id": "d",
+          "text": "A preoccupation with achieving personal power at the expense of social interest"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Since the self promotes integration and the self-image imposes external standards, abandoning the former for the latter is what leaves the personality unintegrated.",
+      "whyWrong": {
+        "a": "Unresolved unconscious childhood conflict is the Freudian view of psychopathology.",
+        "c": "Incongruence between self and experience is Rogers's account.",
+        "d": "Preoccupation with personal power characterizes Adler's mistaken style of life."
+      },
+      "topic": "Gestalt view of pathology",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.B, View of Maladaptive Behavior, p. 10"
+    },
+    {
+      "id": "q27",
+      "type": "single",
+      "stem": "In Gestalt therapy, neurotic behavior often stems from a disturbance in the boundary between the self and the external environment that interferes with the person's ability to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Construe events accurately and revise faulty predictions"
+        },
+        {
+          "id": "b",
+          "text": "Integrate the conscious and unconscious aspects of the psyche"
+        },
+        {
+          "id": "c",
+          "text": "Satisfy their needs and maintain a state of homeostasis"
+        },
+        {
+          "id": "d",
+          "text": "Perceive others as both separate and related"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The boundary is where needs are met, since satisfying a need requires contact with the environment. A disturbed boundary therefore disrupts both need satisfaction and the homeostasis it maintains.",
+      "whyWrong": {
+        "a": "Construing events and revising predictions belongs to Kelly's personal construct theory.",
+        "b": "Integration of conscious and unconscious aspects of the psyche is Jung's individuation.",
+        "d": "Perceiving others as separate and related is the achievement of object constancy in Mahler's model."
+      },
+      "topic": "Gestalt view of pathology",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§II.B, View of Maladaptive Behavior, p. 10"
+    },
+    {
+      "id": "q28",
+      "type": "single",
+      "stem": "What are the four major boundary disturbances identified by Perls?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Repression, projection, displacement, and reaction formation"
+        },
+        {
+          "id": "b",
+          "text": "Differentiation, practicing, rapprochement, and object constancy"
+        },
+        {
+          "id": "c",
+          "text": "Distortion, denial, splitting, and projective identification"
+        },
+        {
+          "id": "d",
+          "text": "Introjection, projection, retroflection, and confluence"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Each of the four names a different way the boundary between self and environment can fail: taking in without assimilating, pushing out what belongs to the self, turning outward impulses inward, and losing the boundary altogether.",
+      "whyWrong": {
+        "a": "These are Freudian defense mechanisms; only projection appears in both lists, and with a different emphasis.",
+        "b": "These are the four subphases of Mahler's separation-individuation phase.",
+        "c": "Distortion and denial are Rogers's defensive maneuvers; splitting and projective identification are object relations defenses."
+      },
+      "topic": "Boundary disturbances",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.B, View of Maladaptive Behavior, p. 10"
+    },
+    {
+      "id": "q29",
+      "type": "single",
+      "stem": "A client accepts standards from their environment without actually understanding or fully assimilating them, has trouble distinguishing between \"me\" and \"not me,\" and is overly compliant in therapy. Which boundary disturbance does this describe?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Introjection"
+        },
+        {
+          "id": "b",
+          "text": "Confluence"
+        },
+        {
+          "id": "c",
+          "text": "Retroflection"
+        },
+        {
+          "id": "d",
+          "text": "Projection"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Introjection is psychologically swallowing concepts whole. Because the material is taken in without being digested, the person cannot tell which standards are genuinely their own, which shows up clinically as overcompliance.",
+      "whyWrong": {
+        "b": "Confluence is the absence of a boundary altogether, producing intolerance of differences between oneself and others.",
+        "c": "Retroflection entails doing to oneself what one wants to do to others, such as turning anger inward.",
+        "d": "Projection involves disowning aspects of the self by assigning them to other people."
+      },
+      "topic": "Boundary disturbances",
+      "bloom": "apply",
+      "difficulty": 2,
+      "sourceRef": "§II.B, View of Maladaptive Behavior, p. 10"
+    },
+    {
+      "id": "q30",
+      "type": "single",
+      "stem": "In Gestalt therapy, extreme projection can result in:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Depression"
+        },
+        {
+          "id": "b",
+          "text": "Paranoia"
+        },
+        {
+          "id": "c",
+          "text": "Borderline Personality Disorder"
+        },
+        {
+          "id": "d",
+          "text": "Immobilizing neurotic anxiety"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Projection disowns aspects of the self by assigning them to other people, so carried to an extreme the person experiences their own disowned content as coming at them from others.",
+      "whyWrong": {
+        "a": "Depression is explained by object loss with anger turned inward in the Freudian account, and by chosen behavior in reality therapy.",
+        "c": "Borderline Personality Disorder is attributed by Kernberg to inadequate resolution of splitting.",
+        "d": "Immobilizing neurotic anxiety is described in the existential account as resulting from avoidance of existential anxiety."
+      },
+      "topic": "Boundary disturbances",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.B, View of Maladaptive Behavior, p. 10"
+    },
+    {
+      "id": "q31",
+      "type": "single",
+      "stem": "A client who is furious with their supervisor instead becomes harshly self-critical and develops tension headaches. Which boundary disturbance does this best illustrate?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Introjection"
+        },
+        {
+          "id": "b",
+          "text": "Confluence"
+        },
+        {
+          "id": "c",
+          "text": "Retroflection"
+        },
+        {
+          "id": "d",
+          "text": "Projection"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Retroflection entails doing to oneself what one wants to do to others; the example given in the text is a person turning their anger toward another person inward.",
+      "whyWrong": {
+        "a": "Introjection is swallowing concepts from the environment whole, without redirecting an impulse back at the self.",
+        "b": "Confluence is the absence of a boundary between self and environment, underlying guilt and resentment through intolerance of difference.",
+        "d": "Projection would involve the client attributing the anger to the supervisor rather than turning it inward."
+      },
+      "topic": "Boundary disturbances",
+      "bloom": "apply",
+      "difficulty": 2,
+      "sourceRef": "§II.B, View of Maladaptive Behavior, p. 10"
+    },
+    {
+      "id": "q32",
+      "type": "single",
+      "stem": "Confluence refers to the absence of a boundary between the self and the environment, and it causes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Excessive compliance with external standards"
+        },
+        {
+          "id": "b",
+          "text": "A tendency toward paranoid interpretation of others' motives"
+        },
+        {
+          "id": "c",
+          "text": "An inability to recall previously conscious material"
+        },
+        {
+          "id": "d",
+          "text": "Intolerance of any differences between oneself and others"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Without a boundary there is no room for difference, so difference itself becomes intolerable. This intolerance is what often underlies the feelings of guilt and resentment associated with confluence.",
+      "whyWrong": {
+        "a": "Overcompliance is characteristic of introjectors.",
+        "b": "Paranoia can result from extreme projection.",
+        "c": "Inability to recall previously conscious material relates to repression in the Freudian framework."
+      },
+      "topic": "Boundary disturbances",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§II.B, View of Maladaptive Behavior, p. 10"
+    },
+    {
+      "id": "q33",
+      "type": "single",
+      "stem": "What is the major goal of Gestalt therapy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "To help the client become a unified whole by integrating the various aspects of the self"
+        },
+        {
+          "id": "b",
+          "text": "To help the client resolve incongruence and achieve congruence between self and experience"
+        },
+        {
+          "id": "c",
+          "text": "To bring repressed unconscious material into conscious awareness and integrate it"
+        },
+        {
+          "id": "d",
+          "text": "To help the client find responsible and effective ways to satisfy their basic needs"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Since neurotic behavior is defined as a lack of integration following the abandonment of the self, the goal is stated as its remedy: reintegration into a unified whole.",
+      "whyWrong": {
+        "b": "Congruence between self and experience is the goal of person-centered therapy.",
+        "c": "Bringing the unconscious into conscious awareness is the psychoanalytic goal.",
+        "d": "Identifying responsible ways to satisfy needs is the goal of reality therapy."
+      },
+      "topic": "Gestalt technique and awareness",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§II.B, Therapy Goals, p. 10"
+    },
+    {
+      "id": "q34",
+      "type": "single",
+      "stem": "Gestaltians consider the primary curative factor in therapy to be awareness, which is defined as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Insight into the relationship between unconscious processes and current behavior"
+        },
+        {
+          "id": "b",
+          "text": "A full understanding of one's thoughts, feelings, and actions in the here-and-now"
+        },
+        {
+          "id": "c",
+          "text": "Recognition of the freedom to choose one's own destiny"
+        },
+        {
+          "id": "d",
+          "text": "Understanding of the content and process of one's construing"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The here-and-now qualifier is essential and consistent with the Gestalt view that historical events matter only when they directly impinge on current functioning.",
+      "whyWrong": {
+        "a": "Insight into unconscious processes and current behavior is the psychoanalytic curative factor.",
+        "c": "Recognizing freedom to choose one's destiny is an aim of existential therapy.",
+        "d": "Identifying the content and process of construing is the goal of assessment in personal construct therapy."
+      },
+      "topic": "Gestalt technique and awareness",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.B, Therapy Techniques, p. 10"
+    },
+    {
+      "id": "q35",
+      "type": "single",
+      "stem": "How do Gestalt therapists regard and respond to a client's transference?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "As crucial clinical material whose systematic analysis forms a central and indispensable part of the therapeutic work"
+        },
+        {
+          "id": "b",
+          "text": "As something to be acknowledged and accepted when it arises, but neither deliberately fostered nor interpreted to the client"
+        },
+        {
+          "id": "c",
+          "text": "As counterproductive, responding by helping the client recognize the difference between their \"transference fantasy\" and reality"
+        },
+        {
+          "id": "d",
+          "text": "As a projection of both the personal and the collective unconscious, to be explored through its symbols"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Treating transference as counterproductive follows from the emphasis on here-and-now awareness: a transference fantasy substitutes an imported perception for accurate contact with the present.",
+      "whyWrong": {
+        "a": "Treating transference analysis as crucial is the psychoanalytic and Jungian position.",
+        "b": "Acknowledging without fostering or interpreting is the person-centered stance.",
+        "d": "Transference as a projection of the personal and collective unconscious is Jung's view."
+      },
+      "topic": "Gestalt technique and awareness",
+      "bloom": "analyze",
+      "difficulty": 3,
+      "sourceRef": "§II.B, Therapy Techniques, p. 10"
+    },
+    {
+      "id": "q36",
+      "type": "single",
+      "stem": "A Gestalt therapist asks a client to role-play an interaction between opposing aspects of their personality, such as Top Dog and Underdog. This is an example of:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Paradoxical intention, in which the feared situation is exaggerated humorously"
+        },
+        {
+          "id": "b",
+          "text": "Fixed-role therapy, in which the client enacts a different character in daily life"
+        },
+        {
+          "id": "c",
+          "text": "The self-characterization sketch, written from another person's point of view"
+        },
+        {
+          "id": "d",
+          "text": "The empty-chair technique and other games of dialogue"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The empty-chair technique and related dialogue games help clients become aware of and integrate aspects of the personality that have been disowned or denied, which is exactly what the Top Dog/Underdog role-play targets.",
+      "whyWrong": {
+        "a": "Paradoxical intention is an existential technique that reduces fear by having the client focus on the feared situation in an exaggerated, humorous way.",
+        "b": "Fixed-role therapy is Kelly's technique in which the client acts out a fictional character in daily life.",
+        "c": "The self-characterization sketch is a Kelly assessment technique in which the client describes themselves from another's perspective."
+      },
+      "topic": "Gestalt technique and awareness",
+      "bloom": "apply",
+      "difficulty": 2,
+      "sourceRef": "§II.B, Therapy Techniques, p. 10"
+    },
+    {
+      "id": "q37",
+      "type": "single",
+      "stem": "For Gestaltians, elements of a dream represent:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Different parts of the self, including parts not fully accepted and integrated"
+        },
+        {
+          "id": "b",
+          "text": "Symbolic messages arising from the collective unconscious that are shared across all people"
+        },
+        {
+          "id": "c",
+          "text": "Disguised expressions of repressed psychosexual wishes that the ego finds unacceptable"
+        },
+        {
+          "id": "d",
+          "text": "Predictions generated by the client's personal constructs as they anticipate future events"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Because the dream is treated as a portrait of the divided self rather than as a coded message, Gestalt dream work has the client role-play its elements in order to reintegrate the parts they represent.",
+      "whyWrong": {
+        "b": "Dreams as symbolic messages from the collective unconscious is the Jungian view.",
+        "c": "Dreams as disguised expressions of repressed wishes is the Freudian view.",
+        "d": "Predictions derived from constructs belong to Kelly's theory, which does not treat dreams this way."
+      },
+      "topic": "Gestalt technique and awareness",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§II.B, Therapy Techniques, pp. 10-11"
+    },
+    {
+      "id": "q38",
+      "type": "single",
+      "stem": "Existential therapies, including Frankl's logotherapy, share an emphasis on:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The formative influence of unconscious instinctual drives laid down in early childhood"
+        },
+        {
+          "id": "b",
+          "text": "Personal choice and responsibility for developing a meaningful life"
+        },
+        {
+          "id": "c",
+          "text": "The correction of distorted beliefs by testing them against objective evidence"
+        },
+        {
+          "id": "d",
+          "text": "The internalization of early object relations and their effect on later functioning"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Existential therapies assume people are not static but constantly evolving and becoming, so choice and responsibility for making a meaningful life are the central emphases.",
+      "whyWrong": {
+        "a": "Unconscious instinctual drives are the Freudian emphasis.",
+        "c": "Correcting distorted beliefs against evidence describes cognitive approaches; constructivists explicitly reject accuracy as the target.",
+        "d": "Internalization of early object relations is the object relations emphasis."
+      },
+      "topic": "Existential therapy",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§II.C, Existential Therapy, p. 11"
+    },
+    {
+      "id": "q39",
+      "type": "single",
+      "stem": "What are the four ultimate concerns of existence identified by existential therapists?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Survival, love and belonging, power, and freedom"
+        },
+        {
+          "id": "b",
+          "text": "Attention, power, revenge, and displaying deficiency"
+        },
+        {
+          "id": "c",
+          "text": "Death, freedom, existential isolation, and meaninglessness"
+        },
+        {
+          "id": "d",
+          "text": "Anxiety, hostility, guilt, and resentment"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Maladaptive behavior in the existential view results from an inability to cope authentically with these four ultimate concerns.",
+      "whyWrong": {
+        "a": "These are four of Glasser's five basic innate needs; the fifth is fun.",
+        "b": "These are the four goals of childhood misbehavior in the Adlerian STET framework.",
+        "d": "Anxiety and hostility are forms of maladaptive behavior in Kelly's theory; guilt and resentment are associated with confluence in Gestalt therapy."
+      },
+      "topic": "Existential therapy",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.C, View of Maladaptive Behavior, p. 11"
+    },
+    {
+      "id": "q40",
+      "type": "single",
+      "stem": "How do existential therapists distinguish existential anxiety from neurotic anxiety?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Existential anxiety operates entirely outside conscious awareness and cannot be reflected on, while neurotic anxiety is always available to conscious reflection and deliberate control"
+        },
+        {
+          "id": "b",
+          "text": "Existential anxiety is out of proportion to the situation that elicited it and is often immobilizing, while neurotic anxiety remains proportionate to the person's real circumstances"
+        },
+        {
+          "id": "c",
+          "text": "Existential anxiety signals that the unified self is under threat, while neurotic anxiety signals an unresolved conflict between the id and the superego"
+        },
+        {
+          "id": "d",
+          "text": "Existential anxiety is a normal response to ultimate concerns that can motivate growth, while neurotic anxiety frequently results from an attempt to avoid existential anxiety and can be immobilizing"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The distinction is evaluative rather than merely descriptive: existential anxiety is a legitimate response to real conditions of existence and can be productive, whereas neurotic anxiety is a byproduct of evading them.",
+      "whyWrong": {
+        "a": "It is neurotic anxiety that is often outside conscious awareness, so this reverses the relationship.",
+        "b": "Being out of proportion to the eliciting situation is a feature of neurotic anxiety, not existential anxiety.",
+        "c": "A threat to the unified self is Rogers's account of anxiety, and id-superego conflict is Freud's; neither is the existential distinction."
+      },
+      "topic": "Existential therapy",
+      "bloom": "analyze",
+      "difficulty": 3,
+      "sourceRef": "§II.C, View of Maladaptive Behavior, p. 11"
+    },
+    {
+      "id": "q41",
+      "type": "single",
+      "stem": "In existential therapy, what is considered the most important therapeutic tool?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The therapist-client relationship"
+        },
+        {
+          "id": "b",
+          "text": "Paradoxical intention"
+        },
+        {
+          "id": "c",
+          "text": "Interpretation of symbolic material"
+        },
+        {
+          "id": "d",
+          "text": "The repertory grid"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Specific interventions are sometimes used, but the relationship itself is identified as the most important tool, consistent with the humanistic emphasis on an authentic encounter.",
+      "whyWrong": {
+        "b": "Paradoxical intention is one of the specific interventions that is sometimes used, not the most important tool.",
+        "c": "Interpretation of symbolic material is central to Jungian analytical psychotherapy.",
+        "d": "The repertory grid is an assessment method in personal construct therapy."
+      },
+      "topic": "Existential therapy",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§II.C, Therapy Goals and Techniques, p. 11"
+    },
+    {
+      "id": "q42",
+      "type": "single",
+      "stem": "Paradoxical intention reduces a client's fear by requiring the client to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Gradually approach the feared situation in a hierarchy of steps"
+        },
+        {
+          "id": "b",
+          "text": "Focus in an exaggerated and humorous way on the feared situation"
+        },
+        {
+          "id": "c",
+          "text": "Role-play the feared situation with an empty chair"
+        },
+        {
+          "id": "d",
+          "text": "Act out the role of a person who does not have the fear"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The exaggeration and humor are what make the technique paradoxical: rather than avoiding or gradually approaching the fear, the client deliberately amplifies it.",
+      "whyWrong": {
+        "a": "Graduated approach through a hierarchy describes systematic desensitization, a behavioral technique from another chapter.",
+        "c": "The empty-chair technique is a Gestalt game of dialogue.",
+        "d": "Acting out the role of a psychologically different person is Kelly's fixed-role therapy."
+      },
+      "topic": "Existential therapy",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§II.C, Therapy Goals and Techniques, p. 11"
+    },
+    {
+      "id": "q43",
+      "type": "single",
+      "stem": "Glasser's reality therapy is based on choice theory, which was previously known as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Field theory"
+        },
+        {
+          "id": "b",
+          "text": "Construct theory"
+        },
+        {
+          "id": "c",
+          "text": "Control theory"
+        },
+        {
+          "id": "d",
+          "text": "Drive theory"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Choice theory, previously control theory, assumes that people are responsible for the choices they make and focuses on how those choices affect the course of their lives.",
+      "whyWrong": {
+        "a": "Field theory is not the prior name of choice theory in this material.",
+        "b": "Construct theory relates to Kelly's personal construct approach.",
+        "d": "Drive theory is another name for Freud's structural theory."
+      },
+      "topic": "Reality therapy needs and identity",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.D, Reality Therapy, p. 11"
+    },
+    {
+      "id": "q44",
+      "type": "single",
+      "stem": "What are Glasser's five basic innate needs?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Safety, esteem, belonging, autonomy, and self-actualization"
+        },
+        {
+          "id": "b",
+          "text": "Attention, power, revenge, deficiency, and belonging"
+        },
+        {
+          "id": "c",
+          "text": "Death, freedom, isolation, meaning, and choice"
+        },
+        {
+          "id": "d",
+          "text": "Survival, love and belonging, power, freedom, and fun"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "These five serve as the primary source of motivation in reality therapy, and Glasser singles out love and belonging as the most important because relationships are necessary to fulfill all the others.",
+      "whyWrong": {
+        "a": "This mixes in terms associated with Maslow's hierarchy rather than Glasser's list.",
+        "b": "Attention, power, revenge, and displaying deficiency are the four goals of misbehavior in the Adlerian STET framework.",
+        "c": "Death, freedom, isolation, and meaninglessness are the existential ultimate concerns."
+      },
+      "topic": "Reality therapy needs and identity",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.D, Personality Theory, p. 11"
+    },
+    {
+      "id": "q45",
+      "type": "single",
+      "stem": "Which of Glasser's five needs is considered most important, and why?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Love and belonging, because relationships with others are necessary to fulfill all other needs"
+        },
+        {
+          "id": "b",
+          "text": "Survival, because the physical needs of the body must be met before any psychological need can be addressed"
+        },
+        {
+          "id": "c",
+          "text": "Power, because the ability to influence others is what ultimately determines the person's identity"
+        },
+        {
+          "id": "d",
+          "text": "Freedom, because the responsible choice that reality therapy depends on presupposes it"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Love and belonging is primary for an instrumental reason rather than an intensity one: the other four needs are met through relationships, so this need underwrites all of them.",
+      "whyWrong": {
+        "b": "Glasser does not rank the needs by a physical-before-psychological principle; that ordering belongs to Maslow's hierarchy.",
+        "c": "Power is one of the five needs but is not identified as most important.",
+        "d": "Freedom is one of the five needs but is not the one singled out."
+      },
+      "topic": "Reality therapy needs and identity",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§II.D, Personality Theory, p. 11"
+    },
+    {
+      "id": "q46",
+      "type": "single",
+      "stem": "In reality therapy, a person who fulfills their needs in a conscious and realistic manner that does not infringe on the rights of others has adopted a:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Failure identity"
+        },
+        {
+          "id": "b",
+          "text": "Success identity"
+        },
+        {
+          "id": "c",
+          "text": "Healthy style of life"
+        },
+        {
+          "id": "d",
+          "text": "Fully functioning self"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Glasser defines responsible need satisfaction by two conditions, conscious realism and respect for others' rights, and meeting them constitutes a success identity.",
+      "whyWrong": {
+        "a": "A failure identity results when a person cannot satisfy their needs or does so irresponsibly.",
+        "c": "A healthy style of life is Adler's term, differentiated by social interest.",
+        "d": "The fully functioning, self-actualizing person is Rogers's description of the goal of person-centered therapy."
+      },
+      "topic": "Reality therapy needs and identity",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.D, Personality Theory, p. 11"
+    },
+    {
+      "id": "q47",
+      "type": "single",
+      "stem": "According to Glasser, what underlies most forms of mental and emotional disturbance?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A success identity that has become rigid"
+        },
+        {
+          "id": "b",
+          "text": "Inadequate personal constructs"
+        },
+        {
+          "id": "c",
+          "text": "A failure identity"
+        },
+        {
+          "id": "d",
+          "text": "Conditions of worth imposed in childhood"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "A failure identity follows from being unable to satisfy one's needs or doing so irresponsibly, and Glasser treats it as the common root of most mental and emotional disturbance.",
+      "whyWrong": {
+        "a": "A success identity is the healthy outcome in Glasser's framework, not a source of disturbance.",
+        "b": "Inadequate personal constructs is Kelly's account of maladaptive behavior.",
+        "d": "Conditions of worth are the source of incongruence in Rogers's theory."
+      },
+      "topic": "Reality therapy needs and identity",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.D, Personality Theory, p. 11"
+    },
+    {
+      "id": "q48",
+      "type": "single",
+      "stem": "A key assumption underlying reality therapy is that a person is not depressed due to unpleasant childhood experiences or a chemical imbalance, but because:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "They have repressed anger toward a lost object"
+        },
+        {
+          "id": "b",
+          "text": "They are experiencing incongruence between self and experience"
+        },
+        {
+          "id": "c",
+          "text": "They have abandoned the self for the self-image"
+        },
+        {
+          "id": "d",
+          "text": "They have chosen to \"depress\" themselves"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Reality therapy treats mental illness as the result of the individual's choices, which is why the text frames depressing as something a person does rather than something that happens to them.",
+      "whyWrong": {
+        "a": "Object loss with anger turned inward is the Freudian explanation of depression, which reality therapy explicitly rejects.",
+        "b": "Incongruence between self and experience is Rogers's account.",
+        "c": "Abandoning the self for the self-image is the Gestalt view of neurotic behavior."
+      },
+      "topic": "Reality therapy goals and technique",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§II.D, View of Maladaptive Behavior, p. 11"
+    },
+    {
+      "id": "q49",
+      "type": "single",
+      "stem": "Why might a person \"depress\" themselves, according to reality therapy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Because they believe it will help them obtain attention from others or allow them to avoid unpleasant activities"
+        },
+        {
+          "id": "b",
+          "text": "Because doing so discharges libidinal energy that would otherwise threaten to overwhelm the ego"
+        },
+        {
+          "id": "c",
+          "text": "Because it restores homeostasis at the disturbed boundary between the self and the environment"
+        },
+        {
+          "id": "d",
+          "text": "Because it protects them from having to recognize an ultimate concern of existence"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Treating depression as chosen requires identifying what the choice accomplishes, and the reasons given are practical: securing attention or avoiding unpleasant activities.",
+      "whyWrong": {
+        "b": "Discharge of libidinal energy that threatens the ego is a Freudian explanation, offered for mania rather than depression.",
+        "c": "Restoring homeostasis at the self-environment boundary is a Gestalt concern.",
+        "d": "Avoidance of ultimate concerns produces neurotic anxiety in the existential account, not chosen depression."
+      },
+      "topic": "Reality therapy goals and technique",
+      "bloom": "understand",
+      "difficulty": 3,
+      "sourceRef": "§II.D, View of Maladaptive Behavior, p. 11"
+    },
+    {
+      "id": "q50",
+      "type": "single",
+      "stem": "Which is one of the five ways reality therapy contrasts with more traditional therapies?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "It stresses unconscious processes"
+        },
+        {
+          "id": "b",
+          "text": "It views transference as detrimental to therapy progress"
+        },
+        {
+          "id": "c",
+          "text": "It avoids value judgments in order to remain neutral"
+        },
+        {
+          "id": "d",
+          "text": "It focuses on historical causes of current behavior"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The five contrasts are rejecting the medical model, focusing on current behaviors and beliefs, viewing transference as detrimental, stressing conscious processes, and emphasizing value judgments.",
+      "whyWrong": {
+        "a": "Reality therapy stresses conscious processes, not unconscious ones.",
+        "c": "Reality therapy emphasizes value judgments, especially the client's ability to judge right and wrong in daily life.",
+        "d": "Reality therapy focuses on current behaviors and beliefs rather than historical causes."
+      },
+      "topic": "Reality therapy goals and technique",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.D, Therapy Goals and Techniques, p. 12"
+    },
+    {
+      "id": "q51",
+      "type": "single",
+      "stem": "In reality therapy, a client's \"total behavior\" consists of which four components?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Thinking, feeling, sensing, and intuiting"
+        },
+        {
+          "id": "b",
+          "text": "Perceptions, needs, choices, and plans"
+        },
+        {
+          "id": "c",
+          "text": "Actions, thoughts, emotions, and physiology"
+        },
+        {
+          "id": "d",
+          "text": "Free associations, dreams, resistances, and transferences"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Total behavior comprises all four components, but the primary emphasis falls on actions and thoughts because those are the ones the client can most easily control.",
+      "whyWrong": {
+        "a": "Thinking, feeling, sensing, and intuiting are Jung's four basic psychological functions.",
+        "b": "These terms appear in reality therapy but are not the four components of total behavior.",
+        "d": "These are the four main targets of psychoanalytic analysis."
+      },
+      "topic": "Reality therapy goals and technique",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.D, Therapy Goals and Techniques, p. 12"
+    },
+    {
+      "id": "q52",
+      "type": "single",
+      "stem": "Within a client's total behavior, why does reality therapy place primary emphasis on actions and thoughts?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Because they are the components most accessible to unconscious analysis"
+        },
+        {
+          "id": "b",
+          "text": "Because emotions and physiology are considered clinically irrelevant"
+        },
+        {
+          "id": "c",
+          "text": "Because they are the only components that reflect the client's five basic needs"
+        },
+        {
+          "id": "d",
+          "text": "Because they are the components most easily controlled by the client"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Controllability is the deciding criterion, and it follows directly from a therapy built on choice and personal responsibility: intervention targets what the client can actually choose.",
+      "whyWrong": {
+        "a": "Reality therapy stresses conscious processes and does not use unconscious analysis.",
+        "b": "Emotions and physiology remain part of total behavior and receive attention; they are simply not the primary emphasis.",
+        "c": "All four components belong to total behavior, and the emphasis is justified by controllability rather than by any link to the five needs."
+      },
+      "topic": "Reality therapy goals and technique",
+      "bloom": "analyze",
+      "difficulty": 3,
+      "sourceRef": "§II.D, Therapy Goals and Techniques, p. 12"
+    },
+    {
+      "id": "q53",
+      "type": "single",
+      "stem": "What is the primary goal of reality therapy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "To help clients identify responsible and effective ways to satisfy their needs and thereby develop a success identity"
+        },
+        {
+          "id": "b",
+          "text": "To help clients recognize their fundamental freedom to choose their own destinies and accept responsibility for them"
+        },
+        {
+          "id": "c",
+          "text": "To help clients resolve incongruence and achieve congruence between their self and their experience"
+        },
+        {
+          "id": "d",
+          "text": "To help clients become aware of and integrate the disowned aspects of their personality"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Because a failure identity underlies most disturbance and arises from irresponsible need satisfaction, the goal is to replace that pattern with responsible and effective need satisfaction.",
+      "whyWrong": {
+        "b": "Recognizing freedom to choose one's destiny is an existential therapy aim; although both stress choice, the reality therapy goal is framed around needs and identity.",
+        "c": "Congruence between self and experience is the person-centered goal.",
+        "d": "Integrating disowned aspects of the personality is the Gestalt goal."
+      },
+      "topic": "Reality therapy goals and technique",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.D, Therapy Goals and Techniques, p. 12"
+    },
+    {
+      "id": "q54",
+      "type": "single",
+      "stem": "According to Kelly, a person's psychological processes are determined by:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The shifting balance between the self and the self-image within the personality"
+        },
+        {
+          "id": "b",
+          "text": "The way they \"construe\" events, meaning how they perceive, interpret, and predict them"
+        },
+        {
+          "id": "c",
+          "text": "The degree to which their five basic needs are being met in a responsible way"
+        },
+        {
+          "id": "d",
+          "text": "The particular archetypes that are active within their collective unconscious"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Construing covers perception, interpretation, and prediction together, and it is carried out through personal constructs, which makes it the central process in Kelly's theory.",
+      "whyWrong": {
+        "a": "The self and self-image are the two components of personality in Perls's Gestalt theory.",
+        "c": "Responsible need satisfaction determines identity in Glasser's reality therapy.",
+        "d": "Archetypes in the collective unconscious belong to Jung's analytical psychotherapy."
+      },
+      "topic": "Personal construct theory",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.E, Personal Construct Therapy, p. 12"
+    },
+    {
+      "id": "q55",
+      "type": "single",
+      "stem": "How did Kelly define personal constructs?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Primordial images inherited across generations that cause people to experience certain phenomena in a universal way"
+        },
+        {
+          "id": "b",
+          "text": "Internalized representations of early caregivers that become part of the self and shape later relationships"
+        },
+        {
+          "id": "c",
+          "text": "Bipolar dimensions of meaning that begin to develop in infancy and may operate on an unconscious or conscious level"
+        },
+        {
+          "id": "d",
+          "text": "Perceptions of parts as wholes that reflect the person's current needs and organize their field of experience"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Examples such as happy/sad and competent/incompetent show the bipolarity: each construct is a dimension with two poles, and no two people share the same set or the same way of organizing them.",
+      "whyWrong": {
+        "a": "Primordial images inherited across generations are Jung's archetypes, which are universal rather than individual.",
+        "b": "Internalized representations of early caregivers are introjects in object relations theory.",
+        "d": "Perceptions of parts as wholes reflecting current needs describes gestalts."
+      },
+      "topic": "Personal construct theory",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.E, Personality Theory, p. 12"
+    },
+    {
+      "id": "q56",
+      "type": "single",
+      "stem": "Kelly proposed that people act as scientists, meaning that they:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Seek objective truth about a reality that exists independently of how any individual happens to perceive it"
+        },
+        {
+          "id": "b",
+          "text": "Apply the universal principles of personality development that are held to govern everyone to the interpretation and prediction of their own behavior"
+        },
+        {
+          "id": "c",
+          "text": "Systematically observe the people around them in order to identify behavior that appears successful and then imitate it in similar situations"
+        },
+        {
+          "id": "d",
+          "text": "Continually test their constructs by checking the accuracy of the predictions derived from them and revise constructs that lead to inaccurate predictions"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The scientist metaphor is about method rather than subject matter: constructs function as hypotheses, predictions test them, and disconfirmation prompts revision.",
+      "whyWrong": {
+        "a": "Constructivist approaches treat reality as constructed rather than independently given, so objective truth is not the aim.",
+        "b": "Universal principles of personality development are a psychodynamic assumption; Kelly emphasized that no two people share the same constructs.",
+        "c": "Observational learning and imitation belong to social learning theory."
+      },
+      "topic": "Personal construct theory",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§II.E, Personality Theory, p. 12"
+    },
+    {
+      "id": "q57",
+      "type": "single",
+      "stem": "Kelly rejected the medical model of mental illness and replaced it with a description of maladaptive behavior as the result of:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Inadequate personal constructs"
+        },
+        {
+          "id": "b",
+          "text": "Boundary disturbances between self and environment"
+        },
+        {
+          "id": "c",
+          "text": "Irresponsible attempts to satisfy basic needs"
+        },
+        {
+          "id": "d",
+          "text": "Conditions of worth learned in childhood"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "If construing determines psychological processes, then failures of construing are what produce anxiety, hostility, and other maladaptive behavior, which is why Kelly needed no disease category.",
+      "whyWrong": {
+        "b": "Boundary disturbances are the Gestalt account of neurotic behavior.",
+        "c": "Irresponsible need satisfaction produces a failure identity in reality therapy, which also rejects the medical model but on different grounds.",
+        "d": "Conditions of worth produce incongruence in Rogers's theory."
+      },
+      "topic": "Personal construct theory",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.E, View of Maladaptive Behavior, p. 12"
+    },
+    {
+      "id": "q58",
+      "type": "single",
+      "stem": "As described by Kelly, anxiety is the result of:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "An internal signal alerting the ego to impending danger arising from within or from the external environment"
+        },
+        {
+          "id": "b",
+          "text": "The recognition that the events with which one is confronted lie outside the range of one's construct system"
+        },
+        {
+          "id": "c",
+          "text": "An unpleasant visceral sensation serving as a signal that the unified self is being threatened by incongruence"
+        },
+        {
+          "id": "d",
+          "text": "A normal and expected response to the ultimate concerns of human existence, which can motivate growth"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Anxiety in Kelly's system is a failure of coverage: the construct system has no dimension that applies to the situation, so the person cannot construe it. His example is a person developing stroke-related paralysis who lacks constructs for behaving as a person with a disability.",
+      "whyWrong": {
+        "a": "Anxiety as a signal to the ego is Freud's account.",
+        "c": "Anxiety as a visceral signal that the unified self is threatened is Rogers's account.",
+        "d": "A normal response to ultimate concerns describes existential anxiety."
+      },
+      "topic": "Constructs and maladaptive behavior",
+      "bloom": "understand",
+      "difficulty": 3,
+      "sourceRef": "§II.E, View of Maladaptive Behavior, p. 12"
+    },
+    {
+      "id": "q59",
+      "type": "single",
+      "stem": "In Kelly's theory, hostility occurs when a person:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Turns the anger they feel toward another person inward against themselves rather than expressing it outwardly"
+        },
+        {
+          "id": "b",
+          "text": "Disowns unwanted aspects of the self by assigning them to other people, which in the extreme can result in paranoia"
+        },
+        {
+          "id": "c",
+          "text": "Continues to rely on constructs despite invalidating evidence and tries to force people, objects, or events to fit those constructs"
+        },
+        {
+          "id": "d",
+          "text": "Encounters events that lie entirely outside the range of their existing construct system and cannot be construed"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Hostility is the opposite failure from anxiety: rather than lacking an applicable construct, the person has one that has been invalidated and coerces reality to fit it instead of revising it as the scientist model requires.",
+      "whyWrong": {
+        "a": "Turning anger inward is retroflection, a Gestalt boundary disturbance.",
+        "b": "Disowning aspects of the self by assigning them to others is projection.",
+        "d": "Events outside the range of one's construct system produce anxiety in Kelly's theory, not hostility."
+      },
+      "topic": "Constructs and maladaptive behavior",
+      "bloom": "understand",
+      "difficulty": 3,
+      "sourceRef": "§II.E, View of Maladaptive Behavior, p. 12"
+    },
+    {
+      "id": "q60",
+      "type": "single",
+      "stem": "A client insists that a longtime friend is untrustworthy and reinterprets every kind act as manipulation, dismissing evidence to the contrary. In Kelly's terms, this best illustrates:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Anxiety"
+        },
+        {
+          "id": "b",
+          "text": "Introjection"
+        },
+        {
+          "id": "c",
+          "text": "Confluence"
+        },
+        {
+          "id": "d",
+          "text": "Hostility"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The client is holding on to a construct in the face of invalidating evidence and forcing the friend's behavior to fit it, which is precisely Kelly's definition of hostility.",
+      "whyWrong": {
+        "a": "Anxiety would arise if the events fell outside the range of the client's construct system, whereas here an existing construct is being imposed.",
+        "b": "Introjection is a Gestalt boundary disturbance involving swallowing concepts whole.",
+        "c": "Confluence is a Gestalt boundary disturbance involving the absence of a boundary between self and environment."
+      },
+      "topic": "Constructs and maladaptive behavior",
+      "bloom": "apply",
+      "difficulty": 3,
+      "sourceRef": "§II.E, View of Maladaptive Behavior, p. 12"
+    },
+    {
+      "id": "q61",
+      "type": "single",
+      "stem": "How do practitioners of personal construct therapy characterize the therapist-client relationship?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "As mutual experts and \"co-experimenters\""
+        },
+        {
+          "id": "b",
+          "text": "As an expert clinician guiding a naive client"
+        },
+        {
+          "id": "c",
+          "text": "As a neutral screen for the client's projections"
+        },
+        {
+          "id": "d",
+          "text": "As a teacher-student relationship focused on correcting irrational beliefs"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The co-experimenter framing follows from Kelly's view of people as scientists: if the client is already testing constructs, therapy extends that activity collaboratively rather than replacing the client's expertise with the therapist's.",
+      "whyWrong": {
+        "b": "An expert-guiding-naive-client structure conflicts with the mutual expertise Kelly describes.",
+        "c": "The neutral screen belongs to traditional psychoanalysis.",
+        "d": "Constructivist therapy focuses on the process of meaning creation rather than on correcting irrationality."
+      },
+      "topic": "Personal construct technique",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§II.E, Therapy Goals and Techniques, p. 12"
+    },
+    {
+      "id": "q62",
+      "type": "single",
+      "stem": "What is the goal of assessment in personal construct therapy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "To assign an accurate diagnosis that will guide treatment selection"
+        },
+        {
+          "id": "b",
+          "text": "To identify the content and process of the client's construing"
+        },
+        {
+          "id": "c",
+          "text": "To determine which of the five basic needs is unmet"
+        },
+        {
+          "id": "d",
+          "text": "To uncover repressed material from the client's early childhood"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Because maladaptive behavior results from inadequate constructs, assessment has to reveal both what the client's constructs are and how they are being used before any revision can be attempted.",
+      "whyWrong": {
+        "a": "Kelly rejected the medical model of mental illness, and constructivist approaches reject traditional diagnostic labeling.",
+        "c": "The five basic needs belong to Glasser's reality therapy.",
+        "d": "Uncovering repressed childhood material is the psychoanalytic aim."
+      },
+      "topic": "Personal construct technique",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§II.E, Therapy Goals and Techniques, p. 12"
+    },
+    {
+      "id": "q63",
+      "type": "single",
+      "stem": "The repertory grid is an assessment method that involves having the client:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Describe themselves in the third person from the perspective of someone who knows them intimately well"
+        },
+        {
+          "id": "b",
+          "text": "Act out the role of an invented fictional character over the course of their ordinary daily life"
+        },
+        {
+          "id": "c",
+          "text": "Identify people who have various roles in their lives and the ways those individuals are similar and different"
+        },
+        {
+          "id": "d",
+          "text": "Report whatever comes to mind without censoring or editing any of it"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Asking how significant people are similar and different elicits the bipolar dimensions the client actually uses, which is how the grid surfaces personal constructs.",
+      "whyWrong": {
+        "a": "Describing oneself from another's perspective is the self-characterization sketch, a different Kelly technique.",
+        "b": "Acting out a fictional character in daily life is fixed-role therapy, a treatment rather than assessment technique.",
+        "d": "Reporting whatever comes to mind is free association in psychoanalysis."
+      },
+      "topic": "Personal construct technique",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.E, Therapy Goals and Techniques, p. 12"
+    },
+    {
+      "id": "q64",
+      "type": "single",
+      "stem": "In the self-characterization sketch, the client is asked to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "List their five most important needs in order of priority"
+        },
+        {
+          "id": "b",
+          "text": "Role-play a dialogue between opposing parts of their personality"
+        },
+        {
+          "id": "c",
+          "text": "Record situations in which they experienced anxiety during the week"
+        },
+        {
+          "id": "d",
+          "text": "Describe themselves from the perspective of someone who knows them well"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The shift to an outside perspective is the point of the technique: it surfaces how the client construes themselves in a way that a first-person account tends not to.",
+      "whyWrong": {
+        "a": "Ranking needs relates to Glasser's five basic needs rather than to Kelly's assessment.",
+        "b": "Role-playing a dialogue between opposing parts of the personality is a Gestalt game of dialogue.",
+        "c": "Recording anxiety-provoking situations describes self-monitoring in behavioral approaches."
+      },
+      "topic": "Personal construct technique",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§II.E, Therapy Goals and Techniques, p. 12"
+    },
+    {
+      "id": "q65",
+      "type": "single",
+      "stem": "Fixed-role therapy helps clients \"try on\" alternative personal constructs by having them:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Act out in their daily life the role of a fictional character who is psychologically different from the client"
+        },
+        {
+          "id": "b",
+          "text": "Visualize and imagine an event unfolding in the here-and-now through the use of guided fantasy"
+        },
+        {
+          "id": "c",
+          "text": "Focus on the situation they most fear in a deliberately exaggerated and humorous way"
+        },
+        {
+          "id": "d",
+          "text": "Rehearse an unfamiliar new behavior repeatedly in session with coaching from the therapist"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Enacting the role in daily life gives the client direct experience of construing the world differently, which is what makes an alternative construct available rather than merely described.",
+      "whyWrong": {
+        "b": "Guided fantasy is a Gestalt technique for building here-and-now awareness.",
+        "c": "Focusing on a feared situation in an exaggerated, humorous way is paradoxical intention in existential therapy.",
+        "d": "In-session behavioral rehearsal is not how the text describes fixed-role therapy, which is carried out in the client's daily life."
+      },
+      "topic": "Personal construct technique",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§II.E, Therapy Goals and Techniques, p. 12"
+    },
+    {
+      "id": "q66",
+      "type": "single",
+      "stem": "A therapist avoids diagnostic labels, treats the client's own account of their experience as primary, and believes the client already possesses the capacity to move toward health. This therapist's assumptions are most consistent with which grouping?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The psychodynamic psychotherapies"
+        },
+        {
+          "id": "b",
+          "text": "The humanistic psychotherapies"
+        },
+        {
+          "id": "c",
+          "text": "The behavioral therapies"
+        },
+        {
+          "id": "d",
+          "text": "The brief psychodynamic therapies"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Three humanistic markers appear together here: rejection of diagnostic labels, the phenomenological priority of subjective experience, and belief in an inherent potential for self-determination and self-actualization.",
+      "whyWrong": {
+        "a": "Psychodynamic approaches rely on the therapist's interpretation of unconscious material rather than treating the client's account as primary.",
+        "c": "Behavioral therapies focus on observable behavior and learning principles and are covered in a different chapter.",
+        "d": "Brief psychodynamic therapies use early interpretation and target a specific interpersonal problem, retaining the psychodynamic framework."
+      },
+      "topic": "Humanistic shared characteristics",
+      "bloom": "analyze",
+      "difficulty": 2,
+      "sourceRef": "§II, Humanistic and Constructivist Psychotherapies, p. 8"
+    },
+    {
+      "id": "q67",
+      "type": "single",
+      "stem": "Person-centered therapy and Gestalt therapy both aim at a form of wholeness. How do their stated goals differ?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Person-centered therapy aims at the integration of the disowned parts of the self, while Gestalt therapy aims at congruence between self and experience"
+        },
+        {
+          "id": "b",
+          "text": "Both approaches aim at congruence, but Gestalt therapy pursues it through the interpretation of unconscious material"
+        },
+        {
+          "id": "c",
+          "text": "Person-centered therapy aims at congruence between self and experience, while Gestalt therapy aims at integrating the various aspects of the self"
+        },
+        {
+          "id": "d",
+          "text": "Both approaches aim at integration, but person-centered therapy pursues it through here-and-now awareness exercises"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The difference tracks each theory's account of what has gone wrong: Rogers locates the problem in a split between self and experience, while Perls locates it in the abandonment of the self for the self-image.",
+      "whyWrong": {
+        "a": "This reverses the two goals.",
+        "b": "Gestalt therapy works through here-and-now awareness rather than interpretation of unconscious material.",
+        "d": "Awareness exercises are Gestalt techniques, not person-centered ones, which avoid directive methods."
+      },
+      "topic": "Gestalt technique and awareness",
+      "bloom": "analyze",
+      "difficulty": 3,
+      "sourceRef": "§II.A-B, Therapy Goals, pp. 9-10"
+    },
+    {
+      "id": "q68",
+      "type": "single",
+      "stem": "Both reality therapy and personal construct therapy reject the medical model of mental illness, but they replace it with different accounts. Which pairing is correct?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Reality therapy attributes disturbance to inadequate constructs; personal construct therapy attributes it to irresponsible choices"
+        },
+        {
+          "id": "b",
+          "text": "Both attribute disturbance to the individual's choices, differing only in technique"
+        },
+        {
+          "id": "c",
+          "text": "Both attribute disturbance to inadequate constructs, differing only in assessment method"
+        },
+        {
+          "id": "d",
+          "text": "Reality therapy attributes disturbance to the individual's choices; personal construct therapy attributes it to inadequate personal constructs"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The shared rejection of the medical model conceals genuinely different replacements: Glasser relocates causation in choice and identity, while Kelly relocates it in the adequacy of the client's construct system.",
+      "whyWrong": {
+        "a": "This reverses the two accounts.",
+        "b": "Kelly's account rests on inadequate constructs rather than on choices, though he does hold that people choose how they deal with the world.",
+        "c": "Glasser's account rests on choices and identity rather than on constructs."
+      },
+      "topic": "Constructs and maladaptive behavior",
+      "bloom": "analyze",
+      "difficulty": 3,
+      "sourceRef": "§II.D-E, pp. 11-12"
+    }
+  ]
+}

@@ -18,15 +18,22 @@ question-set JSON schema.
 
 | Path | What it is |
 | --- | --- |
-| `index.html`, `css/`, `js/` | The quiz player. Plain HTML/CSS/ES modules — no build step, no dependencies. |
+| `index.html` | The dashboard: progress, and a chip per section. |
+| `quiz.html`, `js/quiz*.js` | The quiz player — one question per screen, feedback as you go, score by topic and bloom level. |
+| `css/`, `js/` | Plain CSS and ES modules — no build step, no dependencies. |
 | `data/manifest.json` | Every chapter and section: titles, question-style profile, file path, status. Edit this first. |
 | `data/chNN/sMM.json` | One generated question set per section. |
 | `prompts/generate.md` | The generation prompt. Paste with a PDF attached. |
 | `prompts/profiles.json` | Question-style profiles (knowledge-heavy, scenario-heavy, …) and their bloom mixes. |
 | `prompts/schema.json` | JSON Schema for a question set — the contract. |
 | `js/validate-core.js` | The quality checks, shared by the browser and CI. |
-| `tools/validate.mjs` | CLI wrapper for the same checks. |
+| `tools/validate.mjs` | CLI wrapper for the same checks (needs Node). |
+| `tools/validate.py` | The same checks in Python, for when Node isn't installed. |
+| `tools/extract.py` | PDF → text, or → page images when the PDF is a scan. |
+| `tools/rebalance.py` | Evens out a skewed answer key by re-lettering choices. |
+| `tools/delength.py` | Finds questions where the correct answer is the longest choice. |
 | `pdfs/` | Your source PDFs. **Gitignored** — see below. |
+| `text/` | Extracted text and page images. **Gitignored** — same content, same copyright. |
 
 ## Setup, once
 
@@ -38,14 +45,40 @@ question-set JSON schema.
 
 ## The loop, per section
 
-1. Drop the section PDF in `pdfs/`.
-2. Open a Claude session, attach the PDF, and paste `prompts/generate.md` with
-   the four bracketed fields filled in from `manifest.json` and `profiles.json`.
+1. Drop the section PDF in `pdfs/`, then run `python tools/extract.py`.
+   It works out whether the PDF has a real text layer or is a scan, and writes
+   `text/<name>.md` either way. Scanned pages also land as PNGs for Claude to
+   read directly — see below.
+2. Open a Claude session, attach the PDF (or point it at `text/`), and paste
+   `prompts/generate.md` with the four bracketed fields filled in from
+   `manifest.json` and `profiles.json`.
 3. Save the JSON to `data/chNN/sMM.json`, and flip that section's `status` to
    `"generated"` in `manifest.json`.
-4. Validate — open `validate.html` in the browser, or `npm run validate` if you
-   have Node. Fix anything red. Skim three or four questions by eye.
+4. Validate — `python tools/validate.py`, or `npm run validate` with Node, or
+   open `validate.html` in the browser. Fix anything red. Skim a few by eye.
 5. `git commit && git push`. Study.
+
+### Scanned PDFs
+
+Printed-from-the-web textbook chapters are usually images with nothing but a
+watermark in the text layer, so extraction returns almost nothing.
+`tools/extract.py` detects this by measuring words per page, and renders each
+page to `text/<name>.pages/pNNN.png` instead. Claude reads those images
+directly — there is no OCR step and nothing to install for it. Transcribe them
+into `text/<name>.md` once, and the chapter is reusable as text from then on.
+
+### Two quality checks worth knowing
+
+Writing 50+ questions in one pass reliably produces two biases the validator
+catches, both of which let you score without knowing the material:
+
+- **A skewed answer key** — `python tools/rebalance.py data/chNN/sMM.json`
+  re-letters the choices to even it out. Choices are a set, so reordering
+  changes nothing about the question.
+- **A length cue**, where the correct answer is the longest option.
+  `python tools/delength.py --list data/chNN/sMM.json` prints the offenders.
+  Fix these by expanding the *distractors* with real content — padding them
+  with filler just makes the question guessable a different way.
 
 ## Validation
 

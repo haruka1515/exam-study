@@ -2,6 +2,11 @@
 pdfs/*
 !pdfs/.gitkeep
 
+# Text and page images extracted from those PDFs are the same content in
+# another format, so they are just as copyrighted. Regenerate with
+# tools/extract.py instead of committing.
+text/
+
 # Local scratch
 tmp/
 *.local.json

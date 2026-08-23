@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Quiz</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📘</text></svg>"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <div id="notice" class="notice" hidden></div>
+
+    <header class="masthead">
+      <div class="wrap masthead-inner">
+        <div class="masthead-titles">
+          <h1 id="quiz-title">Loading…</h1>
+          <p id="quiz-sub" class="muted"></p>
+        </div>
+        <a class="chip-btn" href="index.html">Home</a>
+      </div>
+    </header>
+
+    <div class="wrap">
+      <!-- Setup: choose how many questions and which pool. -->
+      <section id="setup" class="card" hidden>
+        <h2 class="card-title">Start a quiz</h2>
+        <div class="field">
+          <label for="count">Questions</label>
+          <select id="count">
+            <option value="10">10</option>
+            <option value="20" selected>20</option>
+            <option value="40">40</option>
+            <option value="0">All</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="mode">Pool</label>
+          <select id="mode">
+            <option value="all">All questions</option>
+            <option value="unseen">Not yet seen</option>
+            <option value="missed">Previously missed</option>
+          </select>
+        </div>
+        <button id="start" class="btn-primary">Start</button>
+      </section>
+
+      <!-- Runner -->
+      <section id="runner" hidden>
+        <div class="quiz-bar">
+          <div class="bar" role="progressbar" aria-label="Quiz progress">
+            <div id="quiz-fill" class="bar-fill"></div>
+          </div>
+          <span id="quiz-count" class="muted"></span>
+        </div>
+
+        <article class="card">
+          <p id="q-topic" class="tag"></p>
+          <h2 id="q-stem" class="q-stem"></h2>
+          <ul id="q-choices" class="choices"></ul>
+
+          <div id="feedback" class="feedback" hidden>
+            <p id="fb-verdict" class="fb-verdict"></p>
+            <p id="fb-explain"></p>
+            <ul id="fb-why" class="why-wrong"></ul>
+          </div>
+
+          <div class="actions">
+            <button id="submit" class="btn-primary" disabled>Submit</button>
+            <button id="next" class="btn-primary" hidden>Next</button>
+          </div>
+        </article>
+      </section>
+
+      <!-- Results -->
+      <section id="results" hidden>
+        <article class="card">
+          <h2 class="card-title">Results</h2>
+          <p id="score-line" class="score-line"></p>
+          <div id="breakdown"></div>
+          <div class="actions">
+            <button id="again" class="btn-primary">Another quiz</button>
+            <a class="chip-btn" href="index.html">Back to sections</a>
+          </div>
+        </article>
+      </section>
+    </div>
+
+    <script type="module" src="js/quiz-page.js"></script>
+  </body>
+</html>
