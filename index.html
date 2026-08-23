@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Study</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📘</text></svg>"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <div id="notice" class="notice" hidden></div>
+
+    <header class="masthead">
+      <div class="wrap masthead-inner">
+        <div class="masthead-titles">
+          <h1 id="course">Loading…</h1>
+          <p id="subtitle" class="muted"></p>
+        </div>
+        <div id="countdown" class="countdown" hidden>
+          <span id="countdown-num" class="countdown-num"></span>
+          <span class="countdown-label">days left</span>
+        </div>
+      </div>
+    </header>
+
+    <div class="wrap">
+      <section class="overview" aria-label="Overall progress">
+        <div class="meter">
+          <div class="meter-head">
+            <span id="meter-label" class="meter-label"></span>
+            <span id="meter-pct" class="meter-pct"></span>
+          </div>
+          <div class="bar" role="progressbar" aria-labelledby="meter-label">
+            <div id="bar-fill" class="bar-fill"></div>
+          </div>
+        </div>
+        <dl class="stats" id="stats"></dl>
+      </section>
+
+      <nav class="filters" aria-label="Filter sections">
+        <button class="chip-btn is-active" data-filter="all">All</button>
+        <button class="chip-btn" data-filter="ready">Ready to study</button>
+        <button class="chip-btn" data-filter="pending">Not generated</button>
+        <button class="chip-btn" data-filter="weak">Needs work</button>
+      </nav>
+
+      <main id="chapters" class="chapters" aria-live="polite"></main>
+
+      <footer class="foot">
+        <p class="muted">
+          Question sets are generated offline and committed as JSON — see
+          <code>prompts/generate.md</code>. Progress is stored in this browser only.
+        </p>
+      </footer>
+    </div>
+
+    <script type="module" src="js/app.js"></script>
+  </body>
+</html>
