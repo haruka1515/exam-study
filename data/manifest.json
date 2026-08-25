@@ -1,5 +1,5 @@
 {
-  "course": "EPPP — Clinical Psychology",
+  "course": "EPPP",
   "exam": "TODO exam date (YYYY-MM-DD)",
   "chapters": [
     {
@@ -21,6 +21,112 @@
           "title": "Humanistic and Constructivist Psychotherapies",
           "file": "ch01/s02.json",
           "status": "generated"
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "number": 2,
+      "title": "Ethics and Professional Issues",
+      "profile": "balanced",
+      "sections": [
+        {
+          "id": "s01",
+          "number": 1,
+          "title": "Introduction",
+          "file": "ch02/s01.json",
+          "status": "pending"
+        },
+        {
+          "id": "s02",
+          "number": 2,
+          "title": "APA Ethical Principles and Code of Conduct (2017)",
+          "file": "ch02/s02.json",
+          "status": "pending"
+        },
+        {
+          "id": "s03",
+          "number": 3,
+          "title": "Standard 1: Resolving Ethical Issues",
+          "file": "ch02/s03.json",
+          "status": "generated"
+        },
+        {
+          "id": "s04",
+          "number": 4,
+          "title": "Standard 2: Competence",
+          "file": "ch02/s04.json",
+          "status": "generated"
+        },
+        {
+          "id": "s05",
+          "number": 5,
+          "title": "Standard 3: Human Relations",
+          "file": "ch02/s05.json",
+          "status": "pending"
+        },
+        {
+          "id": "s06",
+          "number": 6,
+          "title": "Standard 4: Privacy and Confidentiality",
+          "file": "ch02/s06.json",
+          "status": "pending"
+        },
+        {
+          "id": "s07",
+          "number": 7,
+          "title": "Standard 5: Advertising and Other Public Statements",
+          "file": "ch02/s07.json",
+          "status": "pending"
+        },
+        {
+          "id": "s08",
+          "number": 8,
+          "title": "Standard 6: Record Keeping and Fees",
+          "file": "ch02/s08.json",
+          "status": "pending"
+        },
+        {
+          "id": "s09",
+          "number": 9,
+          "title": "Standard 7: Education and Training",
+          "file": "ch02/s09.json",
+          "status": "pending"
+        },
+        {
+          "id": "s10",
+          "number": 10,
+          "title": "Standard 8: Research and Publication",
+          "file": "ch02/s10.json",
+          "status": "pending"
+        },
+        {
+          "id": "s11",
+          "number": 11,
+          "title": "Standard 9: Assessment",
+          "file": "ch02/s11.json",
+          "status": "pending"
+        },
+        {
+          "id": "s12",
+          "number": 12,
+          "title": "Standard 10: Therapy",
+          "file": "ch02/s12.json",
+          "status": "pending"
+        },
+        {
+          "id": "s13",
+          "number": 13,
+          "title": "Other APA Guidelines",
+          "file": "ch02/s13.json",
+          "status": "pending"
+        },
+        {
+          "id": "s14",
+          "number": 14,
+          "title": "Professional Issues",
+          "file": "ch02/s14.json",
+          "status": "pending"
         }
       ]
     }

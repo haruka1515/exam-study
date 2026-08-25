@@ -24,6 +24,11 @@
       "description": "Filename of the PDF this was generated from, for traceability"
     },
     "generatedAt": { "type": "string", "format": "date" },
+    "questionTarget": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "How many questions this section should have. Set it when the section is too short to support the default 50 without repeating facts."
+    },
     "questions": {
       "type": "array",
       "minItems": 1,

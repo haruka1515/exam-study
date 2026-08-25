@@ -51,8 +51,13 @@ export function validateSet(set, opts = {}) {
     warn(`profile "${set.profile}" is not defined in prompts/profiles.json`);
   }
 
+  // Sections vary a lot in length — a two-page standard does not support as
+  // many distinct questions as a twenty-page one, and padding it out would mean
+  // testing the same fact twice. A set may therefore declare its own target;
+  // the CLI default only applies to sets that don't.
   const qs = set.questions;
-  if (qs.length !== expected) warn(`${qs.length} questions (expected ${expected})`);
+  const target = Number.isInteger(set.questionTarget) ? set.questionTarget : expected;
+  if (qs.length !== target) warn(`${qs.length} questions (expected ${target})`);
 
   const seenIds = new Set();
   const seenStems = new Map();

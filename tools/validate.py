@@ -49,8 +49,13 @@ def validate_set(s, profiles, expected):
     if s.get("profile") and profiles and s["profile"] not in profiles:
         warn(f'profile "{s["profile"]}" is not defined in prompts/profiles.json')
 
-    if len(qs) != expected:
-        warn(f"{len(qs)} questions (expected {expected})")
+    # A set may declare its own target; short sections cannot support as many
+    # distinct questions as long ones. Mirrors js/validate-core.js.
+    target = s.get("questionTarget")
+    if not isinstance(target, int) or isinstance(target, bool):
+        target = expected
+    if len(qs) != target:
+        warn(f"{len(qs)} questions (expected {target})")
 
     seen_ids, seen_stems = set(), {}
     key_count = {k: 0 for k in "abcde"}

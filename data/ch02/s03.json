@@ -1,0 +1,1098 @@
+{
+  "id": "ch02-s03",
+  "chapter": 2,
+  "chapterTitle": "Ethics and Professional Issues",
+  "section": 3,
+  "sectionTitle": "Standard 1: Resolving Ethical Issues",
+  "profile": "balanced",
+  "sourceFile": "Ethics.pdf",
+  "generatedAt": "2026-08-25",
+  "questionTarget": 30,
+  "questions": [
+    {
+      "id": "q01",
+      "type": "single",
+      "stem": "A psychologist learns that a pharmaceutical company has quoted her research findings in promotional material in a way that overstates what her study showed. Under Standard 1.01, what is her obligation?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "To take reasonable steps to correct or minimize the misuse, typically by contacting the party and requesting a corrective measure"
+        },
+        {
+          "id": "b",
+          "text": "To file a formal complaint with the APA Ethics Committee, since the misuse has already occurred"
+        },
+        {
+          "id": "c",
+          "text": "To take no action, because the Ethics Code governs only her own conduct and not that of a company"
+        },
+        {
+          "id": "d",
+          "text": "To publish a correction in the same journal that carried the original findings"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 1.01 obliges psychologists to act when their work is misused or misrepresented, but leaves the specific remedy to their judgment. Contacting the involved party to request correction, and documenting what was done, is the course the text identifies as typically appropriate.",
+      "whyWrong": {
+        "b": "A formal report to the Ethics Committee is the mechanism of Standard 1.05, which concerns violations by another psychologist, not misuse of one's own work by a third party.",
+        "c": "The standard applies precisely because the psychologist's own work is being misrepresented; it imposes a duty on her regardless of who is doing the misusing.",
+        "d": "Publishing a correction is not the remedy the standard specifies, and it would not address promotional material issued by the company."
+      },
+      "topic": "Misuse of psychologists' work",
+      "bloom": "apply",
+      "difficulty": 2,
+      "sourceRef": "§III.A, Standard 1.01, p. 79"
+    },
+    {
+      "id": "q02",
+      "type": "single",
+      "stem": "After taking steps to correct a misrepresentation of his work, what additional action does the text identify as appropriate under Standard 1.01?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Notifying his malpractice insurance carrier of the incident"
+        },
+        {
+          "id": "b",
+          "text": "Documenting the action he took to correct the misuse or misrepresentation"
+        },
+        {
+          "id": "c",
+          "text": "Obtaining a signed acknowledgment from the offending party"
+        },
+        {
+          "id": "d",
+          "text": "Reporting the matter to his state licensing board within thirty days"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Because the standard leaves the choice of corrective action to the psychologist's judgment, a record of what was actually done is what demonstrates the obligation was met.",
+      "whyWrong": {
+        "a": "Insurance notification is not part of the standard's requirements.",
+        "c": "No signed acknowledgment from the offending party is required by the standard.",
+        "d": "Standard 1.01 imposes no licensing-board reporting requirement or time limit."
+      },
+      "topic": "Misuse of psychologists' work",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§III.A, Standard 1.01, p. 79"
+    },
+    {
+      "id": "q03",
+      "type": "single",
+      "stem": "Under Standard 1.04, when is informal resolution of another psychologist's apparent ethical violation the indicated approach?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Whenever the offending psychologist is a member of the same state association"
+        },
+        {
+          "id": "b",
+          "text": "Only after a formal complaint has been filed and dismissed"
+        },
+        {
+          "id": "c",
+          "text": "When an informal resolution appears appropriate and the intervention does not violate confidentiality rights"
+        },
+        {
+          "id": "d",
+          "text": "Whenever the violation has not yet resulted in a client complaint"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 1.04 sets two conditions together: the situation must be one where informal handling is suitable, and the intervention must not breach any confidentiality rights involved. The second condition functions as an absolute limit rather than a factor to weigh.",
+      "whyWrong": {
+        "a": "Shared association membership is not the trigger for informal resolution.",
+        "b": "Informal resolution precedes formal reporting rather than following a dismissed complaint; 1.05 applies when informal resolution is inappropriate or has failed.",
+        "d": "The absence of a client complaint is not the criterion; appropriateness and confidentiality are."
+      },
+      "topic": "Informal versus formal resolution",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§III.B, Standards 1.04 and 1.05, p. 79"
+    },
+    {
+      "id": "q04",
+      "type": "single",
+      "stem": "Standard 1.05 requires a formal report to an appropriate authority when the apparent violation:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Involves any breach of the Ethical Standards, regardless of the degree of harm"
+        },
+        {
+          "id": "b",
+          "text": "Was committed by a psychologist who is not an APA member"
+        },
+        {
+          "id": "c",
+          "text": "Occurred more than once within a twelve-month period"
+        },
+        {
+          "id": "d",
+          "text": "Involves substantial harm and is not appropriate for informal resolution or was not resolved satisfactorily by it"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 1.05 is triggered by the seriousness of the harm combined with the unsuitability or failure of informal resolution, which is what distinguishes it from the informal route in 1.04.",
+      "whyWrong": {
+        "a": "Not every breach requires formal reporting; the substantial-harm threshold is what escalates a matter to 1.05.",
+        "b": "APA membership status does not determine whether formal reporting is required.",
+        "c": "Repetition within a time period is not a criterion in the standard."
+      },
+      "topic": "Informal versus formal resolution",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§III.B, Standards 1.04 and 1.05, p. 79"
+    },
+    {
+      "id": "q05",
+      "type": "single",
+      "stem": "Standard 1.05 requires action when a violation involves \"substantial harm,\" but the Code does not define that term. Which document supplies examples of behaviors in this category?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "APA's 2002 Rules and Procedures"
+        },
+        {
+          "id": "b",
+          "text": "The Specialty Guidelines for Forensic Psychology"
+        },
+        {
+          "id": "c",
+          "text": "The General Guidelines for Providers of Psychological Services"
+        },
+        {
+          "id": "d",
+          "text": "The Publication Manual of the American Psychological Association"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Because the Ethics Code itself leaves \"substantial harm\" undefined, the examples come from APA's Rules and Procedures, which identify sexual misconduct, insurance fraud, and plagiarism.",
+      "whyWrong": {
+        "b": "The Specialty Guidelines for Forensic Psychology address forensic practice, including confidentiality limits in court-ordered evaluations.",
+        "c": "The General Guidelines for Providers of Psychological Services address matters such as changing specialties.",
+        "d": "The Publication Manual provides guidance on matters such as bias-free language."
+      },
+      "topic": "Substantial harm threshold",
+      "bloom": "recall",
+      "difficulty": 3,
+      "sourceRef": "§III.B, Standards 1.04 and 1.05, p. 79"
+    },
+    {
+      "id": "q06",
+      "type": "single",
+      "stem": "Which three behaviors does APA's 2002 Rules and Procedures identify as examples of conduct involving substantial harm?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Breach of confidentiality, fee-splitting, and inadequate record keeping"
+        },
+        {
+          "id": "b",
+          "text": "Sexual misconduct, insurance fraud, and plagiarism"
+        },
+        {
+          "id": "c",
+          "text": "Practicing outside one's competence, bartering, and improper advertising"
+        },
+        {
+          "id": "d",
+          "text": "Multiple relationships, failure to obtain informed consent, and test-security breaches"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "These three are the illustrations offered for the otherwise undefined \"substantial harm\" threshold that triggers formal reporting under 1.05.",
+      "whyWrong": {
+        "a": "These are ethical concerns addressed in other standards but are not the listed examples of substantial harm.",
+        "c": "Competence, barter, and advertising are governed by Standards 2, 6, and 5 respectively, and are not the cited examples.",
+        "d": "These involve Standards 3, 3.10, and 9.11, and are not the examples given for substantial harm."
+      },
+      "topic": "Substantial harm threshold",
+      "bloom": "recall",
+      "difficulty": 3,
+      "sourceRef": "§III.B, Standards 1.04 and 1.05, p. 79"
+    },
+    {
+      "id": "q07",
+      "type": "single",
+      "stem": "In a conflict between the need to address another psychologist's ethical violation and the protection of client confidentiality, which takes precedence?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The need to address the violation, when substantial harm is involved"
+        },
+        {
+          "id": "b",
+          "text": "Neither automatically; the psychologist weighs the competing interests case by case"
+        },
+        {
+          "id": "c",
+          "text": "Client confidentiality, always"
+        },
+        {
+          "id": "d",
+          "text": "The need to address the violation, when the offending psychologist is an APA member"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The text states the rule without qualification: client confidentiality always takes precedence over the need to educate or punish an offending psychologist, and an action that would breach it is prohibited rather than merely discouraged.",
+      "whyWrong": {
+        "a": "Substantial harm triggers the formal reporting route under 1.05, but it does not override the confidentiality limit built into both 1.04 and 1.05.",
+        "b": "This is stated as a categorical rule rather than a balancing test, so treating it as case-by-case weighing misstates it.",
+        "d": "APA membership affects only APA's enforcement reach, not the priority of confidentiality."
+      },
+      "topic": "Confidentiality as an overriding limit",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§III.B, Standards 1.04 and 1.05, p. 79"
+    },
+    {
+      "id": "q08",
+      "type": "single",
+      "stem": "A client tells her current therapist that a previous therapist borrowed a large sum of money from her and never repaid it, and that he attended several sessions while drunk. What does the Ethics Code permit the current therapist to do?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Contact the former therapist informally, since informal resolution does not constitute a formal report"
+        },
+        {
+          "id": "b",
+          "text": "File a report with the licensing board, because the conduct described involves substantial harm"
+        },
+        {
+          "id": "c",
+          "text": "Contact the former therapist's supervisor rather than the therapist directly"
+        },
+        {
+          "id": "d",
+          "text": "Neither contact the former therapist nor file a report without the client's consent"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Any action here would necessarily disclose that the client is in treatment and what she reported, so it would breach her confidentiality. Because confidentiality takes precedence, both routes are closed absent her consent.",
+      "whyWrong": {
+        "a": "Informal contact is still an action that would violate confidentiality, and Standard 1.04 expressly conditions informal resolution on not doing so.",
+        "b": "The conduct may well involve substantial harm, but 1.05's reporting duty does not override the confidentiality limitation.",
+        "c": "Contacting a supervisor discloses the same confidential information and is barred for the same reason."
+      },
+      "topic": "Confidentiality as an overriding limit",
+      "bloom": "apply",
+      "difficulty": 3,
+      "sourceRef": "§III.B, Standards 1.04 and 1.05, p. 79"
+    },
+    {
+      "id": "q09",
+      "type": "single",
+      "stem": "In the case of the client whose former therapist borrowed money from her, what does the text suggest may be the better initial course of action?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Determining whether the client wants to file a complaint herself"
+        },
+        {
+          "id": "b",
+          "text": "Documenting the report in the client's chart and taking no further action"
+        },
+        {
+          "id": "c",
+          "text": "Obtaining a consultation from an attorney about mandatory reporting duties"
+        },
+        {
+          "id": "d",
+          "text": "Advising the client to pursue the matter in small claims court"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Because the confidentiality obstacle arises from the therapist acting on the client's information, exploring whether the client wishes to act on her own behalf addresses the conduct without the therapist breaching anything.",
+      "whyWrong": {
+        "b": "Documenting and stopping does not address the situation, and the text points toward an active step involving the client.",
+        "c": "Nothing in the section describes a mandatory reporting duty here or directs the psychologist to legal consultation.",
+        "d": "The section addresses ethical resolution routes rather than advising clients on civil litigation."
+      },
+      "topic": "Confidentiality as an overriding limit",
+      "bloom": "apply",
+      "difficulty": 3,
+      "sourceRef": "§III.B, Standards 1.04 and 1.05, p. 79"
+    },
+    {
+      "id": "q10",
+      "type": "single",
+      "stem": "A psychologist observes conduct by a colleague that appears to be a minor ethical lapse causing no substantial harm, and addressing it informally would not breach anyone's confidentiality. What does Standard 1.04 indicate?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "She must file a report with the state licensing board regardless of severity"
+        },
+        {
+          "id": "b",
+          "text": "She may attempt to resolve it by bringing the matter to the colleague's attention"
+        },
+        {
+          "id": "c",
+          "text": "She must first obtain the colleague's written consent before raising the issue"
+        },
+        {
+          "id": "d",
+          "text": "She has no obligation to act at all, since only substantial harm triggers the Code"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "This is the situation Standard 1.04 is designed for: informal resolution appears appropriate and no confidentiality rights are at stake, so raising the matter directly with the colleague is the indicated route.",
+      "whyWrong": {
+        "a": "Formal reporting under 1.05 is reserved for substantial harm that is unsuitable for or unresolved by informal handling.",
+        "c": "No consent from the offending psychologist is required to raise a concern with them.",
+        "d": "The absence of substantial harm removes the formal reporting duty but does not eliminate the informal route that 1.04 encourages."
+      },
+      "topic": "Informal versus formal resolution",
+      "bloom": "apply",
+      "difficulty": 2,
+      "sourceRef": "§III.B, Standards 1.04 and 1.05, p. 79"
+    },
+    {
+      "id": "q11",
+      "type": "single",
+      "stem": "A psychologist attempts to resolve a colleague's violation informally under Standard 1.04, but the colleague dismisses the concern and the problem persists. The violation involves substantial harm. What does the Code indicate next?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The obligation is discharged, because an informal attempt was made in good faith"
+        },
+        {
+          "id": "b",
+          "text": "She should repeat the informal approach with a written record this time"
+        },
+        {
+          "id": "c",
+          "text": "She should take further action, such as referral to an ethics committee or licensing board"
+        },
+        {
+          "id": "d",
+          "text": "She should refer the matter to the colleague's malpractice insurer"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 1.05 covers violations involving substantial harm that either are unsuitable for informal resolution or were not resolved properly that way, so a failed informal attempt moves the matter into the formal route.",
+      "whyWrong": {
+        "a": "A good-faith informal attempt that fails does not end the obligation where substantial harm is involved.",
+        "b": "Repeating an approach that has already failed is not what the standard directs.",
+        "d": "Insurers are not among the authorities the standard identifies for further action."
+      },
+      "topic": "Informal versus formal resolution",
+      "bloom": "apply",
+      "difficulty": 2,
+      "sourceRef": "§III.B, Standards 1.04 and 1.05, p. 79"
+    },
+    {
+      "id": "q12",
+      "type": "single",
+      "stem": "To which authorities does Standard 1.05 direct a formal report?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The APA Board of Directors exclusively"
+        },
+        {
+          "id": "b",
+          "text": "The offending psychologist's employer, in all cases"
+        },
+        {
+          "id": "c",
+          "text": "A court of competent jurisdiction in the state where the violation occurred"
+        },
+        {
+          "id": "d",
+          "text": "The Ethics Committee, state licensing board, or other appropriate authority"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The standard names a set of appropriate destinations rather than a single one, which lets the choice of authority fit the nature of the violation.",
+      "whyWrong": {
+        "a": "The Board of Directors is not the body identified for receiving ethics complaints.",
+        "b": "The employer is not designated as the required recipient in all cases.",
+        "c": "Formal ethics reporting is directed to professional and regulatory bodies rather than to courts."
+      },
+      "topic": "Informal versus formal resolution",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§III.B, Standards 1.04 and 1.05, p. 79"
+    },
+    {
+      "id": "q13",
+      "type": "single",
+      "stem": "Under Standard 1.06, what is the status of failing to cooperate with an APA investigation of an ethics complaint?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "It is itself an ethical violation"
+        },
+        {
+          "id": "b",
+          "text": "It is permissible where the psychologist believes the complaint is without merit"
+        },
+        {
+          "id": "c",
+          "text": "It results in automatic termination of APA membership"
+        },
+        {
+          "id": "d",
+          "text": "It is treated as an admission of the conduct alleged in the complaint"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 1.06 makes cooperation an independent obligation, so noncooperation is a freestanding breach rather than merely a procedural problem in the underlying case.",
+      "whyWrong": {
+        "b": "A belief that the complaint lacks merit does not excuse the duty to cooperate.",
+        "c": "Termination of membership is a possible sanction for violations generally, not an automatic consequence of noncooperation.",
+        "d": "Noncooperation is charged as its own violation rather than being treated as an admission."
+      },
+      "topic": "Cooperating with ethics committees",
+      "bloom": "recall",
+      "difficulty": 1,
+      "sourceRef": "§III.C, Standard 1.06, p. 79"
+    },
+    {
+      "id": "q14",
+      "type": "single",
+      "stem": "In the actual case described in the text, an APA member was originally charged with failing to supervise adequately. What happened when he did not respond to repeated Committee inquiries?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The original charge was dismissed for lack of a response from the respondent"
+        },
+        {
+          "id": "b",
+          "text": "He was additionally charged with a failure to respond"
+        },
+        {
+          "id": "c",
+          "text": "The matter was referred to his state licensing board instead"
+        },
+        {
+          "id": "d",
+          "text": "The Committee proceeded to adjudicate the matter on the submitted record alone"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The case illustrates that noncooperation compounds rather than avoids exposure: the member ended up facing a second charge on top of the original supervision allegation.",
+      "whyWrong": {
+        "a": "Silence does not cause the underlying charge to be dismissed.",
+        "c": "The example concerns an additional charge by the Ethics Committee rather than a referral elsewhere.",
+        "d": "Resolving complaints on a submitted record is described in the Code's Introduction regarding sanctions short of expulsion, not as what occurred in this case."
+      },
+      "topic": "Cooperating with ethics committees",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§III.C, Standard 1.06, p. 79"
+    },
+    {
+      "id": "q15",
+      "type": "single",
+      "stem": "An Ethics Committee asks a psychologist to provide information about a former client who has filed a complaint against her current therapist. Before responding, the psychologist should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Provide the information immediately, since Standard 1.06 requires cooperation"
+        },
+        {
+          "id": "b",
+          "text": "Decline, because Standard 1.06 applies only to complaints against the psychologist herself"
+        },
+        {
+          "id": "c",
+          "text": "Confirm that the client has signed a release"
+        },
+        {
+          "id": "d",
+          "text": "Provide only information that predates the client's complaint"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The duty to cooperate does not displace confidentiality. Confirming a signed release is what allows the psychologist to satisfy both obligations rather than trading one against the other.",
+      "whyWrong": {
+        "a": "Cooperation is required, but it does not authorize disclosing confidential client information without a release.",
+        "b": "The obligation to cooperate is not limited to complaints in which the psychologist is the respondent.",
+        "d": "The date of the information is not the relevant consideration; authorization to disclose is."
+      },
+      "topic": "Cooperating with ethics committees",
+      "bloom": "apply",
+      "difficulty": 3,
+      "sourceRef": "§III.C, Standard 1.06, p. 79"
+    },
+    {
+      "id": "q16",
+      "type": "single",
+      "stem": "Under Standard 1.06, does requesting deferment of adjudication of an ethics complaint pending the outcome of related litigation constitute noncooperation?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Yes, because any delay in the process is treated as a failure to cooperate"
+        },
+        {
+          "id": "b",
+          "text": "Yes, unless the psychologist obtains the Committee's advance approval"
+        },
+        {
+          "id": "c",
+          "text": "No, because ethics proceedings are automatically suspended during litigation"
+        },
+        {
+          "id": "d",
+          "text": "No, such a request does not alone constitute noncooperation"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The standard distinguishes an appropriate procedural request from a refusal to engage, so seeking deferment does not by itself amount to noncooperation.",
+      "whyWrong": {
+        "a": "The standard specifically carves out this request rather than treating all delay as noncooperation.",
+        "b": "No advance-approval requirement is attached to making the request.",
+        "c": "Proceedings are not automatically suspended; the psychologist must request deferment."
+      },
+      "topic": "Cooperating with ethics committees",
+      "bloom": "understand",
+      "difficulty": 3,
+      "sourceRef": "§III.C, Standard 1.06, p. 79"
+    },
+    {
+      "id": "q17",
+      "type": "single",
+      "stem": "Standard 1.08 prohibits discriminating against a person on the basis of their being a complainant or respondent in an ethics complaint. Which decisions does it cover?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Employment, advancement, admissions, tenure, or promotion"
+        },
+        {
+          "id": "b",
+          "text": "Only decisions about academic admissions and tenure"
+        },
+        {
+          "id": "c",
+          "text": "Only decisions made by APA and its affiliated state associations"
+        },
+        {
+          "id": "d",
+          "text": "Only decisions affecting the respondent, since complainants are protected elsewhere"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The standard reaches the range of professional and academic decisions where retaliation would most plausibly occur, and it protects complainants and respondents alike.",
+      "whyWrong": {
+        "b": "Employment, advancement, and promotion are covered alongside admissions and tenure.",
+        "c": "The prohibition binds psychologists generally rather than only association bodies.",
+        "d": "Both complainants and respondents are named in the standard."
+      },
+      "topic": "Complainants and respondents",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§III.D, Standard 1.08, p. 80"
+    },
+    {
+      "id": "q18",
+      "type": "single",
+      "stem": "A department chair declines to promote a faculty member solely because that faculty member is currently the respondent in an unresolved ethics complaint. Under Standard 1.08, this is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Ethical, because a pending complaint raises legitimate questions about fitness"
+        },
+        {
+          "id": "b",
+          "text": "Unethical, because the case is pending and the decision rests solely on respondent status"
+        },
+        {
+          "id": "c",
+          "text": "Ethical, provided the decision is documented and reviewable"
+        },
+        {
+          "id": "d",
+          "text": "Unethical only if the complaint is later dismissed as unfounded"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The standard bars decisions resting solely on a person's status as a party to a complaint that has not been resolved, which is exactly the basis described here.",
+      "whyWrong": {
+        "a": "An unresolved complaint is precisely what the standard says cannot serve as the sole basis for such a decision.",
+        "c": "Documentation does not cure a decision made on a prohibited basis.",
+        "d": "The violation turns on acting during the pending case, not on how the complaint eventually resolves."
+      },
+      "topic": "Complainants and respondents",
+      "bloom": "apply",
+      "difficulty": 2,
+      "sourceRef": "§III.D, Standard 1.08, p. 80"
+    },
+    {
+      "id": "q19",
+      "type": "single",
+      "stem": "An ethics complaint against a psychologist has been adjudicated and substantiated. Her employer subsequently denies her a promotion based on that finding. Under Standard 1.08, this is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Prohibited, because the standard protects respondents indefinitely"
+        },
+        {
+          "id": "b",
+          "text": "Prohibited unless the psychologist consents to the employer considering the finding"
+        },
+        {
+          "id": "c",
+          "text": "Permissible, because the prohibition applies to pending cases and not to outcomes"
+        },
+        {
+          "id": "d",
+          "text": "Permissible only if the finding involved substantial harm"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The prohibition attaches to a person's status as a party while a case is pending. Once a complaint is resolved, its outcome becomes information an employer may legitimately consider (Fisher, 2003).",
+      "whyWrong": {
+        "a": "The protection is not indefinite; it is tied to the pendency of the case.",
+        "b": "No consent requirement conditions an employer's consideration of an adjudicated outcome.",
+        "d": "The substantial-harm threshold governs reporting under 1.05, not the scope of 1.08."
+      },
+      "topic": "Complainants and respondents",
+      "bloom": "analyze",
+      "difficulty": 3,
+      "sourceRef": "§III.D, Standard 1.08, p. 80"
+    },
+    {
+      "id": "q20",
+      "type": "single",
+      "stem": "What is the critical distinction that determines whether an employment decision violates Standard 1.08?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Whether the person was the complainant or the respondent"
+        },
+        {
+          "id": "b",
+          "text": "Whether the decision-maker is an APA member subject to enforcement"
+        },
+        {
+          "id": "c",
+          "text": "Whether the complaint was filed in good faith or with reckless disregard for the facts"
+        },
+        {
+          "id": "d",
+          "text": "Whether the decision rests on a person's status as a party to a pending case rather than on the outcome of a resolved one"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The standard draws a line in time rather than by role or severity: acting on party status during a pending case is prohibited, while acting on a resolved case's outcome is not.",
+      "whyWrong": {
+        "a": "Both complainants and respondents receive the same protection, so this does not distinguish the cases.",
+        "b": "APA membership determines APA's enforcement reach rather than whether conduct violates the standard.",
+        "c": "Good faith in filing is the subject of Standard 1.07 on improper complaints."
+      },
+      "topic": "Complainants and respondents",
+      "bloom": "analyze",
+      "difficulty": 3,
+      "sourceRef": "§III.D, Standard 1.08, p. 80"
+    },
+    {
+      "id": "q21",
+      "type": "single",
+      "stem": "A psychologist encourages a former colleague to file an ethics complaint against a rival, while knowing of facts that would disprove the allegation. Which standard does this violate?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Standard 1.05, Reporting Ethical Violations"
+        },
+        {
+          "id": "b",
+          "text": "Standard 1.06, Cooperating with Ethics Committees"
+        },
+        {
+          "id": "c",
+          "text": "Standard 1.08, Unfair Discrimination Against Complainants and Respondents"
+        },
+        {
+          "id": "d",
+          "text": "Standard 1.01, Misuse of Psychologists' Work"
+        },
+        {
+          "id": "e",
+          "text": "Standard 1.07, Improper Complaints"
+        }
+      ],
+      "answer": [
+        "e"
+      ],
+      "explanation": "Standard 1.07 reaches both filing and encouraging the filing of complaints made with reckless disregard for, or willful ignorance of, facts that would disprove the allegation.",
+      "whyWrong": {
+        "a": "Standard 1.05 concerns the duty to report genuine violations involving substantial harm.",
+        "b": "Standard 1.06 concerns cooperating with investigations once underway.",
+        "c": "Standard 1.08 concerns discriminating against parties to a complaint, not instigating a baseless one.",
+        "d": "Standard 1.01 concerns correcting misuse or misrepresentation of a psychologist's own work."
+      },
+      "topic": "Improper complaints",
+      "bloom": "apply",
+      "difficulty": 2,
+      "sourceRef": "§III, Standard 1.07, pp. 79-80"
+    },
+    {
+      "id": "q22",
+      "type": "single",
+      "stem": "Standards 1.02 and 1.03 both address conflicts, and both contain the same absolute limitation. What is it?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Neither may be used to justify or defend violating human rights"
+        },
+        {
+          "id": "b",
+          "text": "Neither may be invoked without first consulting an attorney"
+        },
+        {
+          "id": "c",
+          "text": "Neither applies to psychologists working in forensic settings"
+        },
+        {
+          "id": "d",
+          "text": "Neither permits the psychologist to withdraw from the professional role"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Both standards close with the same clause, which prevents either a legal requirement or an organizational demand from being used as cover for human-rights violations.",
+      "whyWrong": {
+        "b": "No attorney-consultation precondition appears in either standard.",
+        "c": "Both standards apply across practice settings, forensic work included.",
+        "d": "Neither standard addresses withdrawal from a role in these terms."
+      },
+      "topic": "Conflicts with law and organizations",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§III, Standards 1.02 and 1.03, p. 79"
+    },
+    {
+      "id": "q23",
+      "type": "single",
+      "stem": "What sequence of steps do Standards 1.02 and 1.03 require when a psychologist's ethical responsibilities conflict with law or with organizational demands?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Comply with the legal or organizational requirement, then report the conflict to APA"
+        },
+        {
+          "id": "b",
+          "text": "Clarify the nature of the conflict, make known the commitment to the Ethics Code, and take reasonable steps to resolve it consistent with the Code"
+        },
+        {
+          "id": "c",
+          "text": "Withdraw from the professional role until the conflict is resolved by an outside authority"
+        },
+        {
+          "id": "d",
+          "text": "Follow whichever requirement imposes the lower standard of conduct"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Both standards specify the same three-part response, which keeps the psychologist engaged with the conflict rather than simply deferring to the competing demand.",
+      "whyWrong": {
+        "a": "Automatic compliance followed by reporting is not the procedure the standards set out.",
+        "c": "Withdrawal is not the prescribed step in either standard.",
+        "d": "Where the Code sets a higher standard than the law, the Introduction requires meeting the higher one."
+      },
+      "topic": "Conflicts with law and organizations",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§III, Standards 1.02 and 1.03, p. 79"
+    },
+    {
+      "id": "q24",
+      "type": "single",
+      "stem": "A psychologist is retained specifically to review another psychologist's professional conduct, which is in question. If she identifies an apparent violation, does Standard 1.05 require her to report it?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Yes, the reporting duty applies to any psychologist who becomes aware of a violation"
+        },
+        {
+          "id": "b",
+          "text": "Yes, but only if the violation involves substantial harm"
+        },
+        {
+          "id": "c",
+          "text": "No, the standard does not apply when a psychologist has been retained to review that work"
+        },
+        {
+          "id": "d",
+          "text": "No, unless the psychologist whose conduct is reviewed consents to the report"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 1.05 expressly excepts the situation where a psychologist has been retained to review the work of another whose conduct is in question, since the review itself is the mechanism addressing the matter.",
+      "whyWrong": {
+        "a": "The standard carves out this specific situation rather than applying universally.",
+        "b": "The substantial-harm threshold governs the general case, but this exception applies regardless of it.",
+        "d": "Consent from the reviewed psychologist is not the basis of the exception."
+      },
+      "topic": "Informal versus formal resolution",
+      "bloom": "analyze",
+      "difficulty": 3,
+      "sourceRef": "§III, Standard 1.05, p. 79"
+    },
+    {
+      "id": "q25",
+      "type": "single",
+      "stem": "Which pairing correctly matches the standard to what it governs?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "1.04 governs formal reporting; 1.05 governs informal resolution"
+        },
+        {
+          "id": "b",
+          "text": "1.06 governs improper complaints; 1.07 governs cooperation with investigations"
+        },
+        {
+          "id": "c",
+          "text": "1.01 governs conflicts with law; 1.02 governs misuse of psychologists' work"
+        },
+        {
+          "id": "d",
+          "text": "1.04 governs informal resolution; 1.05 governs formal reporting"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The numbering runs from the least to the most formal response: 1.04 covers bringing the matter to the colleague directly, and 1.05 covers escalation to an authority.",
+      "whyWrong": {
+        "a": "This reverses the two standards.",
+        "b": "This reverses them as well; 1.06 governs cooperation and 1.07 governs improper complaints.",
+        "c": "This reverses them; 1.01 governs misuse of one's work and 1.02 governs conflicts with law."
+      },
+      "topic": "Informal versus formal resolution",
+      "bloom": "recall",
+      "difficulty": 2,
+      "sourceRef": "§III, Standard 1, pp. 79-80"
+    },
+    {
+      "id": "q26",
+      "type": "single",
+      "stem": "Why does the text emphasize that Standard 1.05 does not define \"substantial harm\"?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Because the threshold determines when formal reporting is required, yet its content must be drawn from outside the Code"
+        },
+        {
+          "id": "b",
+          "text": "Because the term was removed from the 2017 amendments to the Code"
+        },
+        {
+          "id": "c",
+          "text": "Because psychologists may substitute their own definition without limitation"
+        },
+        {
+          "id": "d",
+          "text": "Because the term applies only to research misconduct"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The undefined threshold is the hinge between the informal and formal routes, so a psychologist deciding which applies must look to APA's Rules and Procedures for examples rather than to the Code itself.",
+      "whyWrong": {
+        "b": "The term remains in the standard; the point is that the Code does not define it.",
+        "c": "The Rules and Procedures supply examples that constrain the judgment rather than leaving it unbounded.",
+        "d": "The examples given span sexual misconduct, insurance fraud, and plagiarism, so the term is not confined to research."
+      },
+      "topic": "Substantial harm threshold",
+      "bloom": "analyze",
+      "difficulty": 3,
+      "sourceRef": "§III.B, Standards 1.04 and 1.05, p. 79"
+    },
+    {
+      "id": "q27",
+      "type": "single",
+      "stem": "A supervisee tells a psychologist that another supervisor at the agency has been submitting inflated session counts to an insurer. No client confidentiality would be breached by acting. Which route does the Code indicate?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Informal resolution only, since the psychologist has no direct knowledge of the conduct"
+        },
+        {
+          "id": "b",
+          "text": "Further action such as referral to an ethics committee or licensing board"
+        },
+        {
+          "id": "c",
+          "text": "No action, because the report came from a supervisee rather than a client"
+        },
+        {
+          "id": "d",
+          "text": "Referral to the agency's billing department for internal audit"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Insurance fraud is one of the examples APA's Rules and Procedures give for substantial harm, so with no confidentiality barrier the matter falls under 1.05's formal route rather than 1.04's informal one.",
+      "whyWrong": {
+        "a": "Informal resolution is for matters where that approach is appropriate; conduct of this seriousness is not, and the source of the information does not change that.",
+        "c": "Nothing limits the standards to information learned from clients.",
+        "d": "An internal audit is not among the authorities the standard identifies, and it would not discharge the obligation."
+      },
+      "topic": "Substantial harm threshold",
+      "bloom": "apply",
+      "difficulty": 3,
+      "sourceRef": "§III.B, Standards 1.04 and 1.05, p. 79"
+    },
+    {
+      "id": "q28",
+      "type": "single",
+      "stem": "Considering Standards 1.04, 1.05, and 1.06 together, which statement accurately describes how they interact?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "All three impose duties that are absolute and admit of no exception"
+        },
+        {
+          "id": "b",
+          "text": "1.06 overrides 1.04 and 1.05 whenever an investigation is underway"
+        },
+        {
+          "id": "c",
+          "text": "The duties in 1.04 and 1.05 are limited by confidentiality, while 1.06 makes cooperation with investigations an independent obligation"
+        },
+        {
+          "id": "d",
+          "text": "1.04 and 1.05 apply only to APA members, while 1.06 applies to all psychologists"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The reporting duties are conditioned on not breaching confidentiality, whereas the duty to cooperate stands on its own footing, with confidentiality handled through a client release rather than by excusing cooperation.",
+      "whyWrong": {
+        "a": "The confidentiality limitation built into 1.04 and 1.05 makes those duties conditional rather than absolute.",
+        "b": "An ongoing investigation does not suspend the confidentiality constraints in the other standards.",
+        "d": "APA can enforce against members, but the standards are not written to apply to different populations in this way."
+      },
+      "topic": "Confidentiality as an overriding limit",
+      "bloom": "analyze",
+      "difficulty": 3,
+      "sourceRef": "§III.B-C, pp. 79-80"
+    },
+    {
+      "id": "q29",
+      "type": "single",
+      "stem": "A psychologist believes a colleague committed a violation causing substantial harm, but every available route for reporting it would necessarily disclose confidential client information, and the client refuses to consent. What does the Code require?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Report anyway, since substantial harm creates an overriding duty to protect the public"
+        },
+        {
+          "id": "b",
+          "text": "Report in a form that omits identifying details, which satisfies both obligations"
+        },
+        {
+          "id": "c",
+          "text": "Seek a court order compelling disclosure so the report can be made lawfully"
+        },
+        {
+          "id": "d",
+          "text": "Refrain from the action, because it would violate confidentiality rights"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 1.05 does not apply when an intervention would violate confidentiality rights, so where consent is refused and every route would breach it, the action is prohibited rather than merely difficult.",
+      "whyWrong": {
+        "a": "Substantial harm determines which route applies, but it does not override the confidentiality limitation written into the standard.",
+        "b": "The premise is that every available route would disclose confidential information, so this option contradicts the situation described.",
+        "c": "Nothing in the standard directs psychologists to seek court orders to enable ethics reporting."
+      },
+      "topic": "Confidentiality as an overriding limit",
+      "bloom": "analyze",
+      "difficulty": 3,
+      "sourceRef": "§III.B, Standards 1.04 and 1.05, p. 79"
+    },
+    {
+      "id": "q30",
+      "type": "single",
+      "stem": "Which of the following would violate Standard 1.07?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Filing a complaint while willfully ignoring facts known to disprove the allegation"
+        },
+        {
+          "id": "b",
+          "text": "Filing a complaint that is ultimately dismissed after investigation"
+        },
+        {
+          "id": "c",
+          "text": "Declining to file a complaint about conduct that caused no substantial harm"
+        },
+        {
+          "id": "d",
+          "text": "Requesting deferment of a complaint pending related litigation"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The standard targets the filer's state of mind rather than the outcome: reckless disregard for or willful ignorance of disproving facts is what makes a complaint improper.",
+      "whyWrong": {
+        "b": "A complaint made in good faith does not become improper merely because it is dismissed.",
+        "c": "Where no substantial harm is involved, formal reporting is not required in the first place.",
+        "d": "Standard 1.06 states that such a request does not alone constitute noncooperation."
+      },
+      "topic": "Improper complaints",
+      "bloom": "understand",
+      "difficulty": 2,
+      "sourceRef": "§III, Standard 1.07, pp. 79-80"
+    }
+  ]
+}
