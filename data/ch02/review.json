@@ -1,0 +1,1863 @@
+{
+  "id": "ch02-review",
+  "chapter": 2,
+  "chapterTitle": "Ethics and Professional Issues",
+  "section": 0,
+  "sectionTitle": "Chapter review",
+  "profile": "application-primary",
+  "sourceFile": "Ethics.pdf",
+  "generatedAt": "2026-09-07",
+  "questionTarget": 50,
+  "questions": [
+    {
+      "id": "q01",
+      "type": "single",
+      "stem": "An ethics complaint alleges only that a psychologist failed to contribute any time for little or no compensation. The Ethics Committee should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "dismiss it: pro bono service is aspirational, not an enforceable Standard"
+        },
+        {
+          "id": "b",
+          "text": "proceed, since General Principle B binds every member of the Association"
+        },
+        {
+          "id": "c",
+          "text": "proceed only if the psychologist has never provided any free service"
+        },
+        {
+          "id": "d",
+          "text": "refer the matter to the state licensing board for determination"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Pro bono service appears in General Principle B, which is aspirational. Only the Ethical Standards are enforceable, so an aspirational Principle cannot ground a disciplinary action.",
+      "whyWrong": {
+        "b": "Membership commits a member to the Code but does not make a Principle enforceable.",
+        "c": "This treats the aspiration as a rule with a threshold; no amount is required.",
+        "d": "No forum can sanction conduct that violates no enforceable provision."
+      },
+      "topic": "Code structure and applicability",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section I.C, p. 58"
+    },
+    {
+      "id": "q02",
+      "type": "single",
+      "stem": "A psychologist charged with unethical conduct says she had never read the Standard at issue. Under the Introduction to the Ethics Code, her lack of awareness:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "excuses the violation where the Standard was recently amended"
+        },
+        {
+          "id": "b",
+          "text": "is not itself a defense to a charge of unethical conduct"
+        },
+        {
+          "id": "c",
+          "text": "excuses the violation if no client was demonstrably harmed"
+        },
+        {
+          "id": "d",
+          "text": "reduces the sanction but does not bar the finding of a violation"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The Introduction states that lack of awareness or misunderstanding of an Ethical Standard is not itself a defense to a charge of unethical conduct.",
+      "whyWrong": {
+        "a": "No exception for recent amendments appears in the Introduction.",
+        "c": "Harm bears on seriousness, not on whether ignorance excuses.",
+        "d": "The Introduction addresses the defense itself rather than mitigation."
+      },
+      "topic": "Code structure and applicability",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 1,
+      "sourceRef": "Section I.A, p. 58"
+    },
+    {
+      "id": "q03",
+      "type": "single",
+      "stem": "The term \"reasonable\" as used throughout the Ethics Code means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "whatever the individual psychologist sincerely believed at the time"
+        },
+        {
+          "id": "b",
+          "text": "the standard a lay member of the public would apply"
+        },
+        {
+          "id": "c",
+          "text": "the prevailing professional judgment in similar circumstances"
+        },
+        {
+          "id": "d",
+          "text": "the minimum conduct satisfying the jurisdiction's licensing statute"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "\"Reasonable\" means the prevailing professional judgment of psychologists engaged in similar activities in similar circumstances, given what the psychologist knew or should have known at the time.",
+      "whyWrong": {
+        "a": "Sincere belief is subjective; the test is measured against professional judgment.",
+        "b": "The reference class is psychologists, not the general public.",
+        "d": "The Code's standard is independent of, and sometimes higher than, licensing law."
+      },
+      "topic": "Code structure and applicability",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section II, modifiers, p. 61"
+    },
+    {
+      "id": "q04",
+      "type": "single",
+      "stem": "A plaintiff argues that because a psychologist violated the Ethics Code, civil liability follows. The Code provides that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "violation of an enforceable Standard establishes negligence per se"
+        },
+        {
+          "id": "b",
+          "text": "liability follows where the violated provision is an Ethical Standard"
+        },
+        {
+          "id": "c",
+          "text": "the question is determined solely by the jurisdiction's licensing statute"
+        },
+        {
+          "id": "d",
+          "text": "it is not intended as a basis of civil liability"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The Code states it is not intended to be a basis of civil liability. Whether a psychologist has violated the Code does not by itself determine legal liability.",
+      "whyWrong": {
+        "a": "This is precisely the inference the Code disclaims.",
+        "b": "Enforceability within APA's process is separate from civil liability.",
+        "c": "The Code's own disclaimer, not a licensing statute, answers this."
+      },
+      "topic": "Code structure and applicability",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section II, applicability, p. 61"
+    },
+    {
+      "id": "q05",
+      "type": "single",
+      "stem": "A client tells Dr. Ferreira that her previous therapist borrowed money from her and attended sessions intoxicated. The client does not want the matter pursued. Dr. Ferreira should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "explore whether the client herself wishes to file a complaint"
+        },
+        {
+          "id": "b",
+          "text": "report to the licensing board, since the conduct involves substantial harm"
+        },
+        {
+          "id": "c",
+          "text": "contact the former therapist to attempt an informal resolution"
+        },
+        {
+          "id": "d",
+          "text": "consult the Ethics Committee while withholding the client's name"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Client confidentiality always takes precedence over the need to educate or punish an offending psychologist. Where action would breach confidentiality it is prohibited, so the suggested step is to explore whether the client wants to complain herself.",
+      "whyWrong": {
+        "b": "Confidentiality overrides the reporting obligation absent the client's consent.",
+        "c": "Contacting the former therapist would disclose that this client is in treatment.",
+        "d": "Withholding the name does not cure it; the therapist's identity makes her identifiable."
+      },
+      "topic": "Resolving ethical issues",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section III.B, p. 79"
+    },
+    {
+      "id": "q06",
+      "type": "single",
+      "stem": "APA's Rules and Procedures give three examples of violations involving \"substantial harm.\" They are:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "sexual misconduct, breach of confidentiality, and practising outside competence"
+        },
+        {
+          "id": "b",
+          "text": "sexual misconduct, insurance fraud, and plagiarism"
+        },
+        {
+          "id": "c",
+          "text": "insurance fraud, falsifying research data, and abandoning a client"
+        },
+        {
+          "id": "d",
+          "text": "plagiarism, multiple relationships, and failure to obtain consent"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The Code does not define substantial harm. The 2002 Rules and Procedures supply three examples: sexual misconduct, insurance fraud, and plagiarism.",
+      "whyWrong": {
+        "a": "These are genuine violations but are not the three examples given.",
+        "c": "Insurance fraud belongs to the list; the other two do not.",
+        "d": "Plagiarism belongs to the list; the other two do not."
+      },
+      "topic": "Resolving ethical issues",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section III.B, p. 79"
+    },
+    {
+      "id": "q07",
+      "type": "single",
+      "stem": "A university denies tenure to a faculty member relying on the substance of an ethics complaint that was adjudicated and sustained. Under Standard 1.08 this is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "prohibited, since 1.08 bars adverse decisions connected to complaints"
+        },
+        {
+          "id": "b",
+          "text": "prohibited unless the faculty member consents to use of the finding"
+        },
+        {
+          "id": "c",
+          "text": "permitted: the bar covers parties to a pending case, not the outcome"
+        },
+        {
+          "id": "d",
+          "text": "permitted only where the complaint involved substantial harm"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 1.08 prohibits discrimination based solely on being a complainant or respondent in a pending case. It does not prohibit hiring, promotion, or tenure decisions based on the outcome of a complaint.",
+      "whyWrong": {
+        "a": "This overreads the standard, which protects party status during pendency.",
+        "b": "No consent requirement appears in the standard.",
+        "d": "Substantial harm is the trigger for 1.05 and has no role in 1.08."
+      },
+      "topic": "Resolving ethical issues",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section III.D, p. 80"
+    },
+    {
+      "id": "q08",
+      "type": "single",
+      "stem": "Dr. Halloran attends a conference, buys biofeedback equipment on a vendor's assurance that it is intuitive, and plans to use it next week with treatment-resistant clients. She is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "behaving ethically, since biofeedback rests on behavioral principles she has"
+        },
+        {
+          "id": "b",
+          "text": "behaving ethically, since psychologists must acquire new skills over a career"
+        },
+        {
+          "id": "c",
+          "text": "behaving unethically unless she offers clients a choice of approach"
+        },
+        {
+          "id": "d",
+          "text": "behaving unethically unless she obtains training before using it with clients"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 2.01 limits practice to services within one's current competence. Incorporating a new technique is one of the two situations the standard targets, and the training must come first.",
+      "whyWrong": {
+        "a": "Adjacent expertise does not supply the specific training the technique requires.",
+        "b": "The duty to update skills does not license using a technique before training.",
+        "c": "Offering a choice addresses consent and misses the prior competence problem."
+      },
+      "topic": "Competence",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 1,
+      "sourceRef": "Section IV.A, p. 81"
+    },
+    {
+      "id": "q09",
+      "type": "single",
+      "stem": "The legal doctrine making supervisors responsible for the actions of their supervisees is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "vicarious liability"
+        },
+        {
+          "id": "b",
+          "text": "contributory negligence"
+        },
+        {
+          "id": "c",
+          "text": "proximate causation"
+        },
+        {
+          "id": "d",
+          "text": "the duty to protect"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Vicarious liability, also called respondeat superior, makes supervisors and employers legally responsible for their supervisees' and employees' actions. It is a legal concept distinct from the ethical requirements of Standard 2.05.",
+      "whyWrong": {
+        "b": "Contributory negligence concerns an injured party's own contribution to harm.",
+        "c": "Proximate causation is an element of a malpractice claim rather than this doctrine.",
+        "d": "The duty to protect concerns third parties threatened by a client."
+      },
+      "topic": "Competence",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 1,
+      "sourceRef": "Section IV.B, p. 82"
+    },
+    {
+      "id": "q10",
+      "type": "single",
+      "stem": "After a factory fire, Dr. Sandoval provides crisis services without trauma training because no trained provider is available. Three weeks later the emergency has passed and a trained team is operating. She should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "continue, since a therapeutic relationship has formed"
+        },
+        {
+          "id": "b",
+          "text": "discontinue and help transfer care to the trained team"
+        },
+        {
+          "id": "c",
+          "text": "continue while enrolling in disaster-response coursework"
+        },
+        {
+          "id": "d",
+          "text": "continue with those who consent to an untrained provider"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 2.02 permits untrained emergency provision only while the emergency persists and alternatives are unavailable, requiring discontinuation once the emergency has ended or appropriate services become available.",
+      "whyWrong": {
+        "a": "Continuity matters, but 2.02 makes the authorization temporary by design.",
+        "c": "Enrolling in training does not confer present competence.",
+        "d": "Consent does not extend an authorization tied to the emergency."
+      },
+      "topic": "Competence",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section IV.A, p. 81"
+    },
+    {
+      "id": "q11",
+      "type": "single",
+      "stem": "A small-town psychologist regularly encounters clients at the gym and uses the town's only plumber, a former client. Under Standard 3.05(a) these situations:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "are violations, since any relationship outside the professional role is barred"
+        },
+        {
+          "id": "b",
+          "text": "are permissible only where the absence of alternatives is documented"
+        },
+        {
+          "id": "c",
+          "text": "are not unethical so long as they are unlikely to be harmful or exploitative"
+        },
+        {
+          "id": "d",
+          "text": "require terminating any client encountered outside the office"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 3.05(a) states that multiple relationships not reasonably expected to cause impairment or risk exploitation or harm are not unethical. The prohibition is not absolute, and the small-town situation is the section's own illustration.",
+      "whyWrong": {
+        "a": "This treats the prohibition as absolute, which the standard expressly denies.",
+        "b": "The test is whether impairment or harm is reasonably expected.",
+        "d": "Termination on a chance encounter is nowhere required."
+      },
+      "topic": "Human relations",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section V.C, p. 84"
+    },
+    {
+      "id": "q12",
+      "type": "single",
+      "stem": "Gottlieb (1993) proposes three factors for judging a multiple relationship's acceptability:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "power differential, client diagnosis, and availability of alternatives"
+        },
+        {
+          "id": "b",
+          "text": "duration, theoretical orientation, and informed consent"
+        },
+        {
+          "id": "c",
+          "text": "clarity of termination, practice setting, and written agreement"
+        },
+        {
+          "id": "d",
+          "text": "power differential, duration of the relationship, and clarity of termination"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Gottlieb's three factors are the power differential between the parties, the duration of each relationship, and the clarity of termination — how likely the person is to want services again.",
+      "whyWrong": {
+        "a": "Diagnosis and provider availability belong to barter and competence provisions.",
+        "b": "Theoretical orientation is a barter consideration under 6.05.",
+        "c": "Setting and written agreements are not among the three factors."
+      },
+      "topic": "Human relations",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section V.C, p. 84"
+    },
+    {
+      "id": "q13",
+      "type": "single",
+      "stem": "An employer hires Dr. Barrios to evaluate employees for promotion. Under Standard 3.07 he must clarify at the outset his role, the probable uses of the information, that confidentiality may be limited, and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "who the client is"
+        },
+        {
+          "id": "b",
+          "text": "the fee the employer will pay for the evaluation"
+        },
+        {
+          "id": "c",
+          "text": "the instruments he intends to administer"
+        },
+        {
+          "id": "d",
+          "text": "the date his report will be delivered"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 3.07 requires clarifying at the outset the psychologist's role, the identity of the client, the probable uses of the services and information, and the fact that there may be limits to confidentiality. Identifying the client is the recurring difficulty in third-party arrangements.",
+      "whyWrong": {
+        "b": "Fees are governed by Standard 6.04.",
+        "c": "Test selection is not among the clarifications 3.07 requires.",
+        "d": "Delivery timing is a practical matter rather than a required clarification."
+      },
+      "topic": "Human relations",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section V.D, p. 85"
+    },
+    {
+      "id": "q14",
+      "type": "single",
+      "stem": "Dr. Iqbal treats an adult client who has not been declared legally incompetent, but whose capacity to decide about treatment she doubts. She should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "obtain permission from a family member, since her doubt settles the question"
+        },
+        {
+          "id": "b",
+          "text": "proceed with caution and consider consultation or shared decision-making"
+        },
+        {
+          "id": "c",
+          "text": "seek assent rather than consent, as with a minor"
+        },
+        {
+          "id": "d",
+          "text": "suspend treatment pending a judicial determination of competence"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Adults are presumed competent unless legally determined otherwise. Where an adult has not been declared incompetent but capacity is uncertain, the recommendation is to proceed with caution and consider consultation or shared decision-making with family or caregivers.",
+      "whyWrong": {
+        "a": "This treats the psychologist's doubt as a legal determination.",
+        "c": "Assent plus substitute permission applies to those legally incapable of consent.",
+        "d": "Suspending treatment is not recommended and could itself harm the client."
+      },
+      "topic": "Human relations",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section V.E, p. 86"
+    },
+    {
+      "id": "q15",
+      "type": "single",
+      "stem": "Which pairing correctly distinguishes the terms?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Privacy is the psychologist's obligation; confidentiality is the courtroom protection"
+        },
+        {
+          "id": "b",
+          "text": "Privilege is the ethical obligation; confidentiality is the individual's own choice"
+        },
+        {
+          "id": "c",
+          "text": "Confidentiality is the ethical obligation; privilege is the legal protection in court"
+        },
+        {
+          "id": "d",
+          "text": "Confidentiality and privilege are interchangeable terms"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Confidentiality is the psychologist's obligation to protect clients from unauthorized disclosure. Privilege is a legal concept protecting that confidentiality in legal proceedings. Privacy is the individual's own freedom to choose what is shared.",
+      "whyWrong": {
+        "a": "Privacy is the individual's freedom, not an obligation of the psychologist.",
+        "b": "This inverts both terms.",
+        "d": "The section distinguishes them precisely because they are not interchangeable."
+      },
+      "topic": "Privacy and confidentiality",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 1,
+      "sourceRef": "Section VI.A, p. 87"
+    },
+    {
+      "id": "q16",
+      "type": "single",
+      "stem": "Dr. Rasmussen is asked in court to disclose a client's confidential communications. The client has not consented and no order has issued. She should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "answer, since a subpoena is a legal mandate overriding confidentiality"
+        },
+        {
+          "id": "b",
+          "text": "decline on the ground that she is the holder of the privilege"
+        },
+        {
+          "id": "c",
+          "text": "answer only as to matters she considers clinically insignificant"
+        },
+        {
+          "id": "d",
+          "text": "claim the privilege on his behalf, releasing only on order or consent"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The client is the holder of the privilege, but a psychologist may claim it on the client's behalf, releasing only when ordered by the court or when the client consents.",
+      "whyWrong": {
+        "a": "A subpoena compels appearance; the privilege question is for the judge.",
+        "b": "Right result, wrong reason: the client holds the privilege.",
+        "c": "Clinical significance is not the criterion, and partial disclosure still breaches it."
+      },
+      "topic": "Privacy and confidentiality",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VI.A, p. 87"
+    },
+    {
+      "id": "q17",
+      "type": "single",
+      "stem": "Under Tarasoff, a duty to warn or protect ordinarily arises where a client poses:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "a clear and imminent danger to an identifiable victim"
+        },
+        {
+          "id": "b",
+          "text": "any threat of violence, whether or not a victim is named"
+        },
+        {
+          "id": "c",
+          "text": "a past act of violence that was never prosecuted"
+        },
+        {
+          "id": "d",
+          "text": "a generalized statement of anger without a named target"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "In most jurisdictions the duty applies where a client poses a clear and imminent danger to an identifiable victim or victims, though some extend it to an identifiable class of victims.",
+      "whyWrong": {
+        "b": "An identifiable victim is required; a general threat does not suffice.",
+        "c": "A past act creates no prospective danger to an identifiable person.",
+        "d": "Without a specific intended victim there is no one to warn or protect."
+      },
+      "topic": "Privacy and confidentiality",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section VI.C, p. 90"
+    },
+    {
+      "id": "q18",
+      "type": "single",
+      "stem": "An adult client discloses that her father abused her as a child, and believes he is now abusing her fourteen-year-old sister. Dr. Amara:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "need not report, since the client is an adult describing childhood abuse"
+        },
+        {
+          "id": "b",
+          "text": "must report, since there is reason to believe a minor is still being victimized"
+        },
+        {
+          "id": "c",
+          "text": "must report only if the client consents to the report"
+        },
+        {
+          "id": "d",
+          "text": "need not report unless she independently verifies the current abuse"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "In most jurisdictions a psychologist need not report an adult client's disclosure of childhood abuse unless there is reason to believe the abuser is still victimizing a minor. The younger sibling triggers the obligation.",
+      "whyWrong": {
+        "a": "This states the general rule while ignoring the exception the facts raise.",
+        "c": "Mandatory reporting does not depend on client consent.",
+        "d": "The obligation arises on knowing or suspecting; verification is not required."
+      },
+      "topic": "Privacy and confidentiality",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VI.C, p. 90"
+    },
+    {
+      "id": "q19",
+      "type": "single",
+      "stem": "A psychologist plans to describe a client in a conference lecture using a false name but leaving her occupation, home town, and family details unchanged. Under Standard 4.07 this is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "acceptable, since a pseudonym is the reasonable step required"
+        },
+        {
+          "id": "b",
+          "text": "acceptable, since a professional audience is not public media"
+        },
+        {
+          "id": "c",
+          "text": "insufficient: a pseudonym may not disguise identity here"
+        },
+        {
+          "id": "d",
+          "text": "insufficient, since written consent is required in every case"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 4.07 requires reasonable steps to remove personally identifiable information, or written consent, or legal authorization. Simply using a pseudonym may not suffice where identifying characteristics have not been changed.",
+      "whyWrong": {
+        "a": "This is the trap the section warns against.",
+        "b": "4.07 covers writings and lectures, so a conference is within scope.",
+        "d": "Written consent is one of three routes, not a universal requirement."
+      },
+      "topic": "Privacy and confidentiality",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VI.E, p. 91"
+    },
+    {
+      "id": "q20",
+      "type": "single",
+      "stem": "Dr. Feld offers a newspaper reporter a reduced therapy fee for her daughter in exchange for an article about his workshop. This is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ethical, provided the article contains no false statements"
+        },
+        {
+          "id": "b",
+          "text": "ethical, provided the reduced fee matches his sliding scale"
+        },
+        {
+          "id": "c",
+          "text": "unethical only because of the multiple relationship created"
+        },
+        {
+          "id": "d",
+          "text": "unethical: no compensating media employees for publicity"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 5.02 prohibits compensating employees of the press, television, radio and other media in return for publicity. The reduced fee is compensation.",
+      "whyWrong": {
+        "a": "Accuracy is required by 5.01 but does not cure paying for publicity.",
+        "b": "The character of the fee does not matter; it is exchanged for coverage.",
+        "c": "A multiple relationship may also arise, but this is the compensation prohibition."
+      },
+      "topic": "Advertising and public statements",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VII.A, p. 92"
+    },
+    {
+      "id": "q21",
+      "type": "single",
+      "stem": "Standard 5.06 does NOT prohibit which of the following?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Offering disaster or community outreach services to individuals"
+        },
+        {
+          "id": "b",
+          "text": "Approaching bereaved families at a memorial to offer counselling"
+        },
+        {
+          "id": "c",
+          "text": "Handing cards to patients in a hospital waiting area uninvited"
+        },
+        {
+          "id": "d",
+          "text": "Approaching people leaving custody hearings to offer services"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 5.06 bars uninvited in-person solicitation of people vulnerable to undue influence, but expressly does not preclude disaster or community outreach, nor inviting a current client's family into therapy.",
+      "whyWrong": {
+        "b": "Bereaved families are vulnerable and the approach is uninvited and in person.",
+        "c": "Patients awaiting care are vulnerable and the approach is uninvited.",
+        "d": "People leaving custody hearings are in distressing circumstances."
+      },
+      "topic": "Advertising and public statements",
+      "level": "recall",
+      "stemType": "negative",
+      "difficulty": 3,
+      "sourceRef": "Section VII.D, p. 93"
+    },
+    {
+      "id": "q22",
+      "type": "single",
+      "stem": "Dr. Ferreira retires and must decide how long to keep records for an adult last seen in March and for a client first seen at age twelve. Absent superseding law, the Record Keeping Guidelines suggest:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "seven years after last service for both, regardless of age at intake"
+        },
+        {
+          "id": "b",
+          "text": "seven years for the adult; three years past majority for the minor"
+        },
+        {
+          "id": "c",
+          "text": "three years after last service for the adult; seven for the minor"
+        },
+        {
+          "id": "d",
+          "text": "ten years for both, since the longer period governs where a minor is involved"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The Guidelines suggest retaining full records until seven years after the last date of service for adults, or three years after a minor reaches the age of majority, whichever is later.",
+      "whyWrong": {
+        "a": "This ignores the separate rule for minors keyed to the age of majority.",
+        "c": "The two periods are reversed.",
+        "d": "Ten years appears nowhere in the Guidelines."
+      },
+      "topic": "Record keeping and fees",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VIII.A, p. 94"
+    },
+    {
+      "id": "q23",
+      "type": "single",
+      "stem": "A former client with an unpaid balance is admitted in crisis, and the treating team urgently requests her records. Under Standard 6.03, Dr. Sarraf:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "may withhold them until the balance is settled"
+        },
+        {
+          "id": "b",
+          "text": "may withhold them unless a court orders their release"
+        },
+        {
+          "id": "c",
+          "text": "may not withhold them: they are needed for emergency treatment"
+        },
+        {
+          "id": "d",
+          "text": "may release only a summary pending payment arrangements"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 6.03 prohibits withholding records requested and needed for a client's emergency treatment solely because payment has not been received.",
+      "whyWrong": {
+        "a": "The emergency is exactly when withholding is prohibited.",
+        "b": "No court order is needed; the standard bars withholding outright here.",
+        "d": "Partial release does not satisfy the standard in an emergency."
+      },
+      "topic": "Record keeping and fees",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 1,
+      "sourceRef": "Section VIII.D, p. 95"
+    },
+    {
+      "id": "q24",
+      "type": "single",
+      "stem": "Which billing practice is NOT necessarily prohibited?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Billing for individual sessions when family therapy was provided"
+        },
+        {
+          "id": "b",
+          "text": "Changing the recorded onset date to circumvent an insurance restriction"
+        },
+        {
+          "id": "c",
+          "text": "Assigning an inaccurate diagnosis so the client qualifies for payment"
+        },
+        {
+          "id": "d",
+          "text": "Billing an insurer for missed appointments where the company has agreed"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Billing for missed appointments appears among the prohibited practices with an express exception: unless the arrangement has been agreed to by the company. The other three are prohibited without qualification.",
+      "whyWrong": {
+        "a": "This misrepresents the service actually rendered.",
+        "b": "Changing dates to circumvent restrictions is expressly prohibited.",
+        "c": "Assigning an inaccurate diagnosis for payment is expressly prohibited."
+      },
+      "topic": "Record keeping and fees",
+      "level": "application",
+      "stemType": "negative",
+      "difficulty": 3,
+      "sourceRef": "Section VIII.D, p. 96"
+    },
+    {
+      "id": "q25",
+      "type": "single",
+      "stem": "A client offers to clean Dr. Adeyemi's office weekly in exchange for therapy. Canter et al. (1994) would regard this as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "clearly contraindicated if the services are done poorly"
+        },
+        {
+          "id": "b",
+          "text": "acceptable, since the client proposed it voluntarily"
+        },
+        {
+          "id": "c",
+          "text": "acceptable if the value of the services is documented"
+        },
+        {
+          "id": "d",
+          "text": "prohibited outright, since 6.05 bars all barter"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Canter et al. conclude that exchanging services such as housekeeping or childcare for therapy is clearly clinically contraindicated because of the potential negative consequences if those services are not performed satisfactorily.",
+      "whyWrong": {
+        "b": "Willingness does not resolve whether the arrangement is contraindicated.",
+        "c": "Documenting value does not address the clinical contraindication.",
+        "d": "6.05 permits barter that is neither contraindicated nor exploitative."
+      },
+      "topic": "Record keeping and fees",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VIII.D, p. 96"
+    },
+    {
+      "id": "q26",
+      "type": "single",
+      "stem": "A student has told friends he intends to die by suicide and makes bizarre comments in class. A faculty member questioning him about his mental state would be:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "unacceptable, since 7.04 bars requiring students to disclose personal information"
+        },
+        {
+          "id": "b",
+          "text": "acceptable, as necessary to evaluate or obtain assistance for him"
+        },
+        {
+          "id": "c",
+          "text": "acceptable only if program materials warned of such questioning"
+        },
+        {
+          "id": "d",
+          "text": "unacceptable unless he first consents to discussing his mental state"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 7.04's second exception covers information necessary to evaluate or obtain assistance for a student whose personal problems may be interfering with training or posing a threat to others.",
+      "whyWrong": {
+        "a": "This states the rule while ignoring the exception that applies.",
+        "c": "Advance notice is the other exception; either alone suffices.",
+        "d": "Requiring consent would defeat an exception aimed at students in difficulty."
+      },
+      "topic": "Education and training",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section IX.A, p. 98"
+    },
+    {
+      "id": "q27",
+      "type": "single",
+      "stem": "Dr. Ferreira is attracted to a doctoral student in her department whom she will teach in a required seminar next year. Under Standard 7.07, a sexual relationship now would be:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "permitted, since she holds no evaluative authority at present"
+        },
+        {
+          "id": "b",
+          "text": "permitted if a colleague grades him in the seminar"
+        },
+        {
+          "id": "c",
+          "text": "prohibited: she is likely to have evaluative authority"
+        },
+        {
+          "id": "d",
+          "text": "prohibited only once he has enrolled in her seminar"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 7.07 reaches students in the psychologist's department and those over whom the psychologist has or is likely to have evaluative authority. The anticipated authority brings this within the prohibition.",
+      "whyWrong": {
+        "a": "This ignores the standard's forward-looking phrase.",
+        "b": "Delegating grading does not remove him from her department.",
+        "d": "Waiting for enrolment misreads a prohibition covering likely future authority."
+      },
+      "topic": "Education and training",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section IX.B, p. 98"
+    },
+    {
+      "id": "q28",
+      "type": "single",
+      "stem": "Under Standard 8.07, deception in research is acceptable only where it is justified by the study's prospective value and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the deception is described in general terms in recruitment materials"
+        },
+        {
+          "id": "b",
+          "text": "participants receive higher compensation than in non-deceptive studies"
+        },
+        {
+          "id": "c",
+          "text": "an institutional review board certifies the deception as minimal"
+        },
+        {
+          "id": "d",
+          "text": "effective nondeceptive alternative procedures are not feasible"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The first condition in 8.07 is that deception be justified by the study's significant prospective value and that effective nondeceptive alternative procedures are not feasible.",
+      "whyWrong": {
+        "a": "Disclosing the deception in advance would defeat it.",
+        "b": "Higher compensation raises its own coercion concerns.",
+        "c": "IRB review operates separately from the conditions 8.07 states."
+      },
+      "topic": "Research and publication",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section X.C, pp. 100-101"
+    },
+    {
+      "id": "q29",
+      "type": "single",
+      "stem": "A deception study runs eight months. Dr. Bassett plans one group debriefing after all data are collected. Under Standard 8.07 this is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "permissible but not preferred: debrief each person at the end if possible"
+        },
+        {
+          "id": "b",
+          "text": "impermissible: debriefing must occur immediately after each session"
+        },
+        {
+          "id": "c",
+          "text": "permissible and preferred, since group debriefing ensures consistency"
+        },
+        {
+          "id": "d",
+          "text": "impermissible unless participants waive individual debriefing"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 8.07 requires debriefing preferably at the conclusion of a participant's own participation, but no later than the conclusion of data collection. A single debriefing at the end meets the outer limit but not the preference.",
+      "whyWrong": {
+        "b": "The outer limit is the end of data collection, so the plan is not impermissible.",
+        "c": "The preference runs toward individual debriefing at the end of participation.",
+        "d": "No waiver mechanism appears in the standard."
+      },
+      "topic": "Research and publication",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section X.C, p. 101"
+    },
+    {
+      "id": "q30",
+      "type": "single",
+      "stem": "A colleague asks Dr. Imani to share data from a completed but unpublished study for re-analysis. Under Standard 8.14 she:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "must share, since he is a competent professional and the data exist"
+        },
+        {
+          "id": "b",
+          "text": "need not share: the obligation arises once results are published"
+        },
+        {
+          "id": "c",
+          "text": "must share if he agrees in writing not to publish first"
+        },
+        {
+          "id": "d",
+          "text": "need not share unless the study was publicly funded"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 8.14 requires sharing data with competent professionals once research results are published, and does not require sharing data not yet presented in a published study.",
+      "whyWrong": {
+        "a": "The obligation is triggered by publication rather than by the requester's competence.",
+        "c": "A non-publication agreement is not the condition the standard sets.",
+        "d": "Funding source does not trigger the sharing obligation."
+      },
+      "topic": "Research and publication",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section X.E, p. 101"
+    },
+    {
+      "id": "q31",
+      "type": "single",
+      "stem": "A client asks Dr. Iqbal for the manuals, protocols, and item booklets used in her testing. These are:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "test data under 9.04, ordinarily provided to the client"
+        },
+        {
+          "id": "b",
+          "text": "records under 6.01, governed by maintenance requirements"
+        },
+        {
+          "id": "c",
+          "text": "test materials under 9.11, whose security must be protected"
+        },
+        {
+          "id": "d",
+          "text": "part of HIPAA's designated record set, which she may copy"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 9.11 defines test materials as manuals, instruments, protocols, and test questions or stimuli, and requires reasonable efforts to protect their integrity and security. That is distinct from test data, which are ordinarily provided.",
+      "whyWrong": {
+        "a": "Test data are the client's scores, responses, and the psychologist's notes.",
+        "b": "6.01 concerns record maintenance rather than instrument security.",
+        "d": "Test materials are not part of the designated record set."
+      },
+      "topic": "Assessment",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XI.B, p. 103"
+    },
+    {
+      "id": "q32",
+      "type": "single",
+      "stem": "A college senior with one introductory course administers and interprets the WAIS at a clinic. This violates the requirement that tests be:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "selected on the basis of validity for the intended purpose"
+        },
+        {
+          "id": "b",
+          "text": "kept secure so examinees cannot preview items"
+        },
+        {
+          "id": "c",
+          "text": "supported by data sufficient to substantiate conclusions"
+        },
+        {
+          "id": "d",
+          "text": "administered, scored, and interpreted by qualified people"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 9.07 requires that tests be administered, scored, and interpreted by qualified people. The section gives this exact scenario as unacceptable.",
+      "whyWrong": {
+        "a": "The WAIS is appropriate; the problem is who is using it.",
+        "b": "Nothing indicates a breach of test security.",
+        "c": "Sufficiency of the evidence base is a separate requirement under 9.01."
+      },
+      "topic": "Assessment",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 1,
+      "sourceRef": "Section XI.D, p. 104"
+    },
+    {
+      "id": "q33",
+      "type": "single",
+      "stem": "When deciding whether to remove obsolete test data from a record, the guiding question is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "whether retention or deletion is in the client's best interest"
+        },
+        {
+          "id": "b",
+          "text": "whether the instrument has a newer edition available"
+        },
+        {
+          "id": "c",
+          "text": "whether the data have been accessed in the past three years"
+        },
+        {
+          "id": "d",
+          "text": "whether the client has consented in writing to destruction"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The client's welfare is the guiding principle for obsolescence decisions, so the question is whether retention or deletion is in the client's best interest. Legal and organizational requirements must also be considered.",
+      "whyWrong": {
+        "b": "A newer edition does not make earlier data useless.",
+        "c": "Recency of access is not the criterion.",
+        "d": "Consent does not govern the retention decision."
+      },
+      "topic": "Assessment",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 3,
+      "sourceRef": "Section XI.D, p. 104"
+    },
+    {
+      "id": "q34",
+      "type": "single",
+      "stem": "A prospective client discloses that she and Dr. Whitfield had a sexual relationship eleven years ago, before she sought treatment. Under Standard 10.07 he may:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "provide therapy, since more than two years have elapsed"
+        },
+        {
+          "id": "b",
+          "text": "not provide therapy: the exclusion is absolute, with no time limit"
+        },
+        {
+          "id": "c",
+          "text": "provide therapy if he documents that no exploitation occurred"
+        },
+        {
+          "id": "d",
+          "text": "provide therapy with a consulting colleague's agreement"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 10.07 prohibits providing therapy to people with whom the psychologist has had a sexual relationship in the past. This exclusion is absolute: no time limit and no exception.",
+      "whyWrong": {
+        "a": "The two-year rule is 10.08 and runs the other way, from therapy to a later relationship.",
+        "c": "Documentation cannot create an exception where none exists.",
+        "d": "Consultation does not lift an absolute prohibition."
+      },
+      "topic": "Therapy",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XII.D, p. 107"
+    },
+    {
+      "id": "q35",
+      "type": "single",
+      "stem": "Standard 10.08 bars a sexual relationship with a former client for at least two years, and even then permits one only in the most unusual circumstances, with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the former client attesting in writing that she was not exploited"
+        },
+        {
+          "id": "b",
+          "text": "prior review of the circumstances by the Ethics Committee"
+        },
+        {
+          "id": "c",
+          "text": "the psychologist bearing the burden of showing it is not exploitative"
+        },
+        {
+          "id": "d",
+          "text": "her records first transferred to another clinician"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 10.08 provides that even after two years a relationship may be acceptable only in the most unusual circumstances, and the psychologist bears the burden of demonstrating it is not exploitative.",
+      "whyWrong": {
+        "a": "The burden rests on the psychologist rather than the former client.",
+        "b": "No advance Committee review is contemplated.",
+        "d": "Transferring records does not address exploitation."
+      },
+      "topic": "Therapy",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section XII.D, p. 107"
+    },
+    {
+      "id": "q36",
+      "type": "single",
+      "stem": "A client's brother threatens Dr. Lindholm at her office. Under Standard 10.10(b) she may terminate therapy and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "must still provide the usual pretermination counselling"
+        },
+        {
+          "id": "b",
+          "text": "must obtain the client's written agreement to terminate"
+        },
+        {
+          "id": "c",
+          "text": "must continue until a referral has been accepted"
+        },
+        {
+          "id": "d",
+          "text": "need not give advance notice or pretermination counselling"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 10.10(b) permits termination where the client, or a person the client has a relationship with, poses a threat to the psychologist, and in that situation advance notification and pretermination counselling are not required.",
+      "whyWrong": {
+        "a": "The threat exception removes that requirement.",
+        "b": "No written agreement is required.",
+        "c": "Requiring an accepted referral would prolong her exposure to the threat."
+      },
+      "topic": "Therapy",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XII.E, p. 107"
+    },
+    {
+      "id": "q37",
+      "type": "single",
+      "stem": "A client loses her job and can no longer afford Dr. Adeyemi's fee. The best course is to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "continue at an agreed reduced fee, or help her find alternatives"
+        },
+        {
+          "id": "b",
+          "text": "terminate immediately, since unpaid work risks exploitation"
+        },
+        {
+          "id": "c",
+          "text": "continue at the usual fee and refer the balance for collection"
+        },
+        {
+          "id": "d",
+          "text": "suspend sessions until her finances improve"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "To avoid abandonment psychologists discuss the situation and offer pretermination counselling or referrals. Where a client can no longer afford therapy the stated best course is to continue at a mutually agreed reduced fee, or help locate alternative services.",
+      "whyWrong": {
+        "b": "Immediate termination is the abandonment 10.09 and 10.10 prevent.",
+        "c": "Accumulating unpayable debt does not address the clinical problem.",
+        "d": "Suspension leaves her without care and without a referral."
+      },
+      "topic": "Therapy",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XII.E, p. 107"
+    },
+    {
+      "id": "q38",
+      "type": "single",
+      "stem": "A client requests services in a language Dr. Adeyemi does not speak, and referral is not possible. The diversity Guidelines direct her to offer:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "a bilingual family member of the client"
+        },
+        {
+          "id": "b",
+          "text": "a translator with cultural knowledge and a professional background"
+        },
+        {
+          "id": "c",
+          "text": "written materials in the client's language instead of sessions"
+        },
+        {
+          "id": "d",
+          "text": "sessions in a language both partially share"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Where referral is not possible, the Guidelines direct offering a translator with cultural knowledge and an appropriate professional background, or if unavailable, a trained paraprofessional from the client's culture.",
+      "whyWrong": {
+        "a": "A family member would have a dual role, which the Guidelines prohibit.",
+        "c": "Written materials do not address the need for interaction.",
+        "d": "Partial fluency risks the loss of validity the Guidelines guard against."
+      },
+      "topic": "Other APA Guidelines",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIII.F, p. 120"
+    },
+    {
+      "id": "q39",
+      "type": "single",
+      "stem": "A psychologist conducting a custody evaluation could interview only one parent. Asked for a recommendation, she should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "offer one based on that parent's account and collateral sources"
+        },
+        {
+          "id": "b",
+          "text": "offer one favouring the parent who participated"
+        },
+        {
+          "id": "c",
+          "text": "refrain, or state the limitations and risks of offering one"
+        },
+        {
+          "id": "d",
+          "text": "ask the court to compel participation before reporting at all"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Guideline 12 directs psychologists to refrain from an opinion where information is insufficient, such as when unable to evaluate all parties, and if requested nonetheless, to state the limitations and the potential negative consequences.",
+      "whyWrong": {
+        "a": "Collateral sources do not cure the inability to evaluate the other party.",
+        "b": "This penalizes non-participation rather than assessing the child's interests.",
+        "d": "Compelling participation is for the court and does not answer what she should do."
+      },
+      "topic": "Other APA Guidelines",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XIII.H, p. 123"
+    },
+    {
+      "id": "q40",
+      "type": "single",
+      "stem": "Dr. Sandoval receives a subpoena for a client's records. Her first step is to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "contact the client to discuss the implications of disclosure"
+        },
+        {
+          "id": "b",
+          "text": "provide the records, since a subpoena is a legal mandate"
+        },
+        {
+          "id": "c",
+          "text": "have her attorney file a motion to quash"
+        },
+        {
+          "id": "d",
+          "text": "determine whether the subpoena is legally valid"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The APA Committee on Legal Issues sets out a sequence beginning with determining whether the subpoena is legally valid — it may not be, for instance where the court lacks jurisdiction or it was improperly served.",
+      "whyWrong": {
+        "a": "Contacting the client is the second step, after validity is established.",
+        "b": "A subpoena is not a court order, and this skips the whole sequence.",
+        "c": "A motion to quash is a later step where the client does not consent."
+      },
+      "topic": "Professional issues",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.E, p. 131"
+    },
+    {
+      "id": "q41",
+      "type": "single",
+      "stem": "A former client sues Dr. Whitcombe for malpractice. She must establish:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "a duty of care, a breached standard, harm suffered, and proximate cause"
+        },
+        {
+          "id": "b",
+          "text": "a duty of care, an upheld ethics complaint, harm, and financial loss"
+        },
+        {
+          "id": "c",
+          "text": "a breached standard, harm, malice, and financial loss"
+        },
+        {
+          "id": "d",
+          "text": "a duty of care, a board finding, harm, and proximate cause"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Four conditions must be met: a professional relationship establishing a legal duty of care; a demonstrable standard of care that was breached; harm or injury; and the breach as the proximate cause of that harm.",
+      "whyWrong": {
+        "b": "An upheld ethics complaint is not one of the four conditions.",
+        "c": "Malice is not an element of a malpractice claim.",
+        "d": "A licensing board finding is not required to bring a civil claim."
+      },
+      "topic": "Professional issues",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.D, p. 131"
+    },
+    {
+      "id": "q42",
+      "type": "single",
+      "stem": "Research on the prediction of violence identifies the single most accurate predictor as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the presence of a psychotic diagnosis"
+        },
+        {
+          "id": "b",
+          "text": "a past history of violent behavior"
+        },
+        {
+          "id": "c",
+          "text": "the client’s stated intentions in interview"
+        },
+        {
+          "id": "d",
+          "text": "the clinician’s unstructured clinical impression"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Predictions of violence are not particularly accurate, but past history of violent behavior is the single most accurate predictor, and the greater the number of past incidents the greater the risk.",
+      "whyWrong": {
+        "a": "Comorbid conditions are one static factor rather than the leading predictor.",
+        "c": "Self-report is unreliable and not identified as the best predictor.",
+        "d": "Unstructured clinical impression is what the research finds inaccurate."
+      },
+      "topic": "Professional issues",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.C, p. 130"
+    },
+    {
+      "id": "q43",
+      "type": "single",
+      "stem": "A state law gives patients greater control over their health records than HIPAA's Privacy Rule. In that state the Privacy Rule:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "takes precedence, since federal law governs conflicts"
+        },
+        {
+          "id": "b",
+          "text": "applies to psychologists while state law covers other providers"
+        },
+        {
+          "id": "c",
+          "text": "is superseded by the more stringent state law"
+        },
+        {
+          "id": "d",
+          "text": "applies only to records transmitted electronically"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The Privacy Rule takes precedence over state law only where state law gives patients less control. It is superseded by state law that is more stringent — providing greater privacy protection or greater patient rights.",
+      "whyWrong": {
+        "a": "Preemption here operates in favour of whichever gives patients more protection.",
+        "b": "The rule does not split by profession.",
+        "d": "Electronic transmission triggers the Rule but does not decide which law prevails."
+      },
+      "topic": "Professional issues",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XIV.G, p. 133"
+    },
+    {
+      "id": "q44",
+      "type": "single",
+      "stem": "The cost analysis method used where interventions share similar goals but outcomes cannot be monetized is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "cost-benefit analysis"
+        },
+        {
+          "id": "b",
+          "text": "cost-utility analysis"
+        },
+        {
+          "id": "c",
+          "text": "cost-feasibility analysis"
+        },
+        {
+          "id": "d",
+          "text": "cost-effectiveness analysis"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Cost-effectiveness analysis suits interventions with similar goals whose outcomes cannot be monetized: costs in monetary terms, outcomes in measurable non-monetary terms such as dropout numbers or symptom severity.",
+      "whyWrong": {
+        "a": "Cost-benefit analysis expresses both costs and benefits in money.",
+        "b": "Cost-utility expresses outcomes in healthy years of life, such as QALYs.",
+        "c": "Cost-feasibility considers only resources required and ignores outcomes."
+      },
+      "topic": "Professional issues",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.H, p. 133"
+    },
+    {
+      "id": "q45",
+      "type": "single",
+      "stem": "A psychologist supervising an intern learns the intern has begun a specialized assessment she never trained him to administer, at a principal's urgent request. Considering Standards 2.01(d) and 2.05 together, her obligation arises under:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "2.05: she must ensure delegated work is performed competently"
+        },
+        {
+          "id": "b",
+          "text": "2.01(d): the principal represented that no other provider is available"
+        },
+        {
+          "id": "c",
+          "text": "2.02: the principal's urgency establishes emergency conditions"
+        },
+        {
+          "id": "d",
+          "text": "2.06: the intern's willingness reflects a personal problem"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "2.05 places the duty on the psychologist who delegates work to ensure the person can perform it competently, and the Code leaves that judgment to her. 2.01(d) governs her own provision of services, not her supervision of a trainee.",
+      "whyWrong": {
+        "b": "2.01(d) concerns the psychologist's own services where a recipient has no alternative.",
+        "c": "Administrative urgency is not the emergency 2.02 contemplates.",
+        "d": "2.06 concerns personal problems interfering with professional activity."
+      },
+      "topic": "Blended across standards",
+      "level": "application",
+      "stemType": "blended",
+      "difficulty": 3,
+      "sourceRef": "Sections IV.A and IV.B, pp. 81-82"
+    },
+    {
+      "id": "q46",
+      "type": "single",
+      "stem": "A psychologist wants to publish a case study drawn from a court-ordered evaluation she conducted. Considering Standard 4.07 and the forensic Guidelines together, she must at minimum:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "obtain the retaining attorney's written permission to publish"
+        },
+        {
+          "id": "b",
+          "text": "disguise identity, obtain consent, or use public-domain material"
+        },
+        {
+          "id": "c",
+          "text": "wait until the proceedings have formally concluded"
+        },
+        {
+          "id": "d",
+          "text": "publish only in a venue restricted to forensic practitioners"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 4.07 permits use of confidential material only with reasonable steps to remove identifying information, written consent, or legal authorization. Paragraph 8.04 of the forensic Guidelines gives parallel routes: disguising information, using only public-domain aspects, or obtaining consent.",
+      "whyWrong": {
+        "a": "The retaining party's permission does not address the examinee's privacy interest.",
+        "c": "Elapsed time does not remove the confidentiality obligation.",
+        "d": "A restricted readership does not satisfy either provision."
+      },
+      "topic": "Blended across standards",
+      "level": "application",
+      "stemType": "blended",
+      "difficulty": 3,
+      "sourceRef": "Sections VI.E and XIII.D, pp. 91, 117"
+    },
+    {
+      "id": "q47",
+      "type": "single",
+      "stem": "A therapist learns during a session that a colleague has been committing insurance fraud. The client who told her will not consent to disclosure. Considering Standards 1.05 and 4.05 together, she:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "must report, since insurance fraud is an example of substantial harm"
+        },
+        {
+          "id": "b",
+          "text": "must report, since 4.05 permits disclosure to prevent financial harm"
+        },
+        {
+          "id": "c",
+          "text": "is prohibited: confidentiality outranks the duty to report"
+        },
+        {
+          "id": "d",
+          "text": "may report if she omits the client's name from the report"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Insurance fraud is a substantial-harm example that would route the matter to 1.05, but both 1.04 and 1.05 are subject to the confidentiality limit: where action would breach client confidentiality it is prohibited. 4.05 permits disclosure only with consent or where mandated or permitted by law.",
+      "whyWrong": {
+        "a": "Substantial harm determines which standard applies, not whether confidentiality yields.",
+        "b": "4.05's exceptions cover protection from harm to persons, not a colleague's billing.",
+        "d": "Omitting the name does not cure the breach where context identifies the client."
+      },
+      "topic": "Blended across standards",
+      "level": "application",
+      "stemType": "blended",
+      "difficulty": 3,
+      "sourceRef": "Sections III.B and VI.C, pp. 79, 89"
+    },
+    {
+      "id": "q48",
+      "type": "single",
+      "stem": "A psychologist offers therapy by videoconference to clients in another region. Considering Standards 10.01(b) and 6.02(b) together, she must address the developing nature of the treatment and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "obtain a court order authorizing cross-jurisdictional practice"
+        },
+        {
+          "id": "b",
+          "text": "record all sessions so a complete account is preserved"
+        },
+        {
+          "id": "c",
+          "text": "limit sessions to clients she has previously met in person"
+        },
+        {
+          "id": "d",
+          "text": "restrict access to identifying information in electronic systems"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "10.01(b) requires disclosing the developing nature of remotely delivered treatment, its risks, alternatives, and the voluntary nature of participation. 6.02(b) requires coding or other techniques restricting access to identifying information where records enter systems others can access.",
+      "whyWrong": {
+        "a": "Cross-jurisdictional practice is a licensing question, not a court matter.",
+        "b": "Recording requires consent under 4.03 and is not required by either standard.",
+        "c": "No prior in-person meeting requirement appears in either provision."
+      },
+      "topic": "Blended across standards",
+      "level": "application",
+      "stemType": "blended",
+      "difficulty": 3,
+      "sourceRef": "Sections VI.B and XII.A, pp. 89, 106"
+    },
+    {
+      "id": "q49",
+      "type": "single",
+      "stem": "A psychologist wants to promote a new practice. Considering Standards 5.02, 5.05, and 5.06 together, which plan complies?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Mailing brochures to physicians and labelling a purchased advertisement as such"
+        },
+        {
+          "id": "b",
+          "text": "Arranging on-air praise from a radio host in exchange for free consultation"
+        },
+        {
+          "id": "c",
+          "text": "Visiting a bereavement support group to introduce the practice in person"
+        },
+        {
+          "id": "d",
+          "text": "Asking current clients to record video endorsements for the website"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Mail solicitation is acceptable under 5.06, and 5.02 requires paid advertising to be identifiable as such. Both elements of this plan comply.",
+      "whyWrong": {
+        "b": "5.02 prohibits compensating media employees for publicity, and free consultation is compensation.",
+        "c": "5.06 bars uninvited in-person solicitation of people vulnerable to undue influence.",
+        "d": "5.05 prohibits soliciting testimonials from current therapy clients."
+      },
+      "topic": "Blended across standards",
+      "level": "application",
+      "stemType": "blended",
+      "difficulty": 3,
+      "sourceRef": "Section VII, pp. 92-93"
+    },
+    {
+      "id": "q50",
+      "type": "single",
+      "stem": "A training programme requires students to disclose personal material and uses what they reveal in evaluating them. Considering Standards 7.04 and 7.06 together, the programme must at minimum:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "obtain a signed confidentiality waiver from every enrolled student"
+        },
+        {
+          "id": "b",
+          "text": "state the requirement in program materials and evaluate on set criteria"
+        },
+        {
+          "id": "c",
+          "text": "have an external examiner conduct all student evaluations"
+        },
+        {
+          "id": "d",
+          "text": "confine disclosures to material students volunteer spontaneously"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "7.04 permits requiring disclosure where the requirement is clearly stated in admissions or promotional materials, and 7.06 requires evaluations to rest on actual performance against relevant, established program requirements.",
+      "whyWrong": {
+        "a": "A waiver is not the mechanism either standard specifies.",
+        "c": "External examination is not required by either provision.",
+        "d": "Confining disclosure to volunteered material leaves the requirement unaddressed."
+      },
+      "topic": "Blended across standards",
+      "level": "application",
+      "stemType": "blended",
+      "difficulty": 3,
+      "sourceRef": "Section IX.A, p. 98"
+    }
+  ]
+}

@@ -131,7 +131,7 @@
       ],
       "review": {
         "file": "ch02/review.json",
-        "status": "pending"
+        "status": "generated"
       }
     }
   ]
