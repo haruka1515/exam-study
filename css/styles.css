@@ -42,11 +42,25 @@
   box-sizing: border-box;
 }
 
+/* Type scale. Everything below is sized in rem against this root, so one number
+   scales the whole interface and the browser's own font-size setting is honoured.
+   Bumped from the original 15px — the text was too small to read comfortably
+   for long study sessions. */
+html {
+  font-size: 17px;
+}
+
+@media (min-width: 900px) {
+  html {
+    font-size: 18px;
+  }
+}
+
 body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
-  font: 15px/1.5 ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font: 1rem/1.55 ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -76,7 +90,7 @@ code {
   border-bottom: 1px solid var(--border);
   color: var(--text);
   padding: 12px 20px;
-  font-size: 14px;
+  font-size: 0.9333rem;
   text-align: center;
 }
 
@@ -103,13 +117,13 @@ code {
 
 .masthead h1 {
   margin: 0;
-  font-size: 26px;
+  font-size: 1.7333rem;
   letter-spacing: -0.02em;
 }
 
 .masthead-titles p {
   margin: 4px 0 0;
-  font-size: 14px;
+  font-size: 0.9333rem;
 }
 
 .countdown {
@@ -132,13 +146,13 @@ code {
 
 .countdown-num {
   display: block;
-  font-size: 26px;
+  font-size: 1.7333rem;
   font-weight: 650;
   line-height: 1.1;
 }
 
 .countdown-label {
-  font-size: 11px;
+  font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.07em;
   color: var(--muted);
@@ -175,7 +189,7 @@ code {
 }
 
 .meter-pct {
-  font-size: 22px;
+  font-size: 1.4667rem;
   font-weight: 650;
   color: var(--accent);
 }
@@ -208,7 +222,7 @@ code {
 }
 
 .stat dt {
-  font-size: 13px;
+  font-size: 0.8667rem;
   color: var(--muted);
 }
 
@@ -229,7 +243,7 @@ code {
 
 .chip-btn {
   font: inherit;
-  font-size: 13px;
+  font-size: 0.8667rem;
   padding: 7px 14px;
   border-radius: 99px;
   border: 1px solid var(--border);
@@ -286,20 +300,20 @@ code {
 
 .chapter-titles h2 {
   margin: 0;
-  font-size: 16px;
+  font-size: 1.0667rem;
   letter-spacing: -0.01em;
 }
 
 .chapter-titles p {
   margin: 2px 0 0;
-  font-size: 13px;
+  font-size: 0.8667rem;
   display: flex;
   align-items: center;
   gap: 8px;
 }
 
 .tag {
-  font-size: 11px;
+  font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   background: var(--surface-2);
@@ -346,21 +360,21 @@ code {
   border-radius: 5px;
   background: var(--surface);
   border: 1px solid var(--border);
-  font-size: 11px;
+  font-size: 0.8rem;
   font-weight: 600;
   color: var(--muted);
 }
 
 .section-title {
   flex: 1;
-  font-size: 13px;
+  font-size: 0.8667rem;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
 
 .section-score {
-  font-size: 11px;
+  font-size: 0.8rem;
   font-weight: 600;
   font-variant-numeric: tabular-nums;
   color: var(--muted);
@@ -413,7 +427,7 @@ code {
 
 .foot {
   margin: 28px 0 40px;
-  font-size: 13px;
+  font-size: 0.8667rem;
   text-align: center;
 }
 
@@ -445,7 +459,7 @@ code {
 
 .card-title {
   margin: 0 0 14px;
-  font-size: 15px;
+  font-size: 1rem;
   letter-spacing: 0.02em;
   text-transform: uppercase;
   color: var(--muted);
@@ -499,7 +513,7 @@ code {
 
 .q-stem {
   margin: 6px 0 18px;
-  font-size: 19px;
+  font-size: 1.2667rem;
   line-height: 1.45;
 }
 
@@ -539,7 +553,7 @@ code {
   border-radius: 6px;
   background: var(--surface);
   border: 1px solid var(--border);
-  font-size: 12px;
+  font-size: 0.8235rem;
   font-weight: 700;
   text-transform: uppercase;
   color: var(--muted);
@@ -585,7 +599,7 @@ code {
   margin: 12px 0 0;
   padding-left: 18px;
   color: var(--muted);
-  font-size: 14px;
+  font-size: 0.9333rem;
 }
 .why-wrong li {
   margin-bottom: 6px;
@@ -599,7 +613,7 @@ code {
 }
 
 .score-line {
-  font-size: 22px;
+  font-size: 1.4667rem;
   font-weight: 700;
   margin: 0 0 18px;
 }
@@ -608,7 +622,7 @@ code {
   width: 100%;
   border-collapse: collapse;
   margin-bottom: 18px;
-  font-size: 14px;
+  font-size: 0.9333rem;
 }
 .breakdown td {
   padding: 7px 8px;
