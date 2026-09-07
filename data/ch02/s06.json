@@ -1,0 +1,753 @@
+{
+  "id": "ch02-s06",
+  "chapter": 2,
+  "chapterTitle": "Ethics and Professional Issues",
+  "section": 6,
+  "sectionTitle": "Standard 4: Privacy and Confidentiality",
+  "profile": "application-primary",
+  "sourceFile": "Ethics.pdf",
+  "generatedAt": "2026-09-07",
+  "questionTarget": 20,
+  "questions": [
+    {
+      "id": "q01",
+      "type": "single",
+      "stem": "Dr. Rasmussen is subpoenaed and asked in open court to describe what a client told her in session. The client has not consented to the disclosure and the judge has issued no order. She should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "claim the privilege on the client's behalf, releasing only on a court order or his consent"
+        },
+        {
+          "id": "b",
+          "text": "answer the question put to her, since a subpoena is itself a legal mandate that overrides confidentiality"
+        },
+        {
+          "id": "c",
+          "text": "decline to answer anything at all, on the ground that she is the holder of the privilege in this matter"
+        },
+        {
+          "id": "d",
+          "text": "answer only those questions that concern matters she considers to be clinically insignificant"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Although the client is the holder of the privilege, a psychologist may claim it on the client's behalf. The first time disclosure is sought in testimony, the psychologist should ordinarily state that she is claiming the privilege, releasing only when ordered by the court or when the client consents.",
+      "whyWrong": {
+        "b": "A subpoena compels appearance; it does not by itself resolve the privilege question, which the judge decides.",
+        "c": "The claim is correct but the reason is wrong: the client is the holder, and she claims it on his behalf.",
+        "d": "Clinical significance is not the criterion, and partial disclosure still breaches the privilege."
+      },
+      "topic": "Confidentiality and privilege",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VI.A, p. 87"
+    },
+    {
+      "id": "q02",
+      "type": "single",
+      "stem": "Which pairing correctly matches the term with what it denotes?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Privacy is the psychologist's own ethical obligation; confidentiality is the legal protection afforded in court"
+        },
+        {
+          "id": "b",
+          "text": "Confidentiality is the psychologist's ethical obligation; privilege is a legal concept operating in legal proceedings"
+        },
+        {
+          "id": "c",
+          "text": "Privilege is the psychologist's own ethical obligation; confidentiality is the individual's freedom to choose"
+        },
+        {
+          "id": "d",
+          "text": "Confidentiality and privilege are wholly interchangeable terms for one and the same legal protection"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Confidentiality is the obligation of psychologists to protect clients from unauthorized disclosure of information revealed in a professional relationship. Privilege is a legal concept protecting that confidentiality in the context of legal proceedings.",
+      "whyWrong": {
+        "a": "Privacy is the individual's own freedom to choose what is shared, not an obligation of the psychologist.",
+        "c": "This inverts both terms: privilege is legal, and confidentiality is the psychologist's obligation.",
+        "d": "The section opens by distinguishing them precisely because they are not interchangeable."
+      },
+      "topic": "Confidentiality and privilege",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 1,
+      "sourceRef": "Section VI.A, p. 87"
+    },
+    {
+      "id": "q03",
+      "type": "single",
+      "stem": "Psychotherapist-patient privilege was recognized at the federal level in 1996 by the United States Supreme Court in:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Tarasoff v. Regents of the University of California"
+        },
+        {
+          "id": "b",
+          "text": "In re Daniel, C. H."
+        },
+        {
+          "id": "c",
+          "text": "Jaffee v. Redmond"
+        },
+        {
+          "id": "d",
+          "text": "Ford v. Department of Defense"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Jaffee v. Redmond (1996) recognized psychotherapist-patient privilege at the federal level. Most jurisdictions now have laws establishing privilege for communications between licensed mental health professionals and their clients.",
+      "whyWrong": {
+        "a": "Tarasoff concerns the duty to warn or protect an intended victim, not the recognition of privilege.",
+        "b": "In re Daniel, C. H. is the California case holding that the privilege belonged to a molested minor son.",
+        "d": "This is not a case; Ford (2006) is cited on confidentiality for military psychologists."
+      },
+      "topic": "Confidentiality and privilege",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section VI.A, p. 87"
+    },
+    {
+      "id": "q04",
+      "type": "single",
+      "stem": "A client sues Dr. Iyer for malpractice, and Dr. Iyer wishes to introduce session records in his defense. Regarding the exception to privilege this creates, the section indicates that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the exception comes to operate automatically once a malpractice suit has been filed by the client"
+        },
+        {
+          "id": "b",
+          "text": "no exception arises at all, since the privilege belongs to the client and he has not waived it"
+        },
+        {
+          "id": "c",
+          "text": "the Ethics Committee rather than the trial court determines whether the exception applies here"
+        },
+        {
+          "id": "d",
+          "text": "the judge reviews the material, decides whether an exception applies, and then orders release"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Legal or regulatory actions, including a client suing for malpractice, are among the recognized exceptions. But in most cases an exception to privilege is not automatic: the judge reviews the relevant material, decides whether an exception applies, and issues a release order if so.",
+      "whyWrong": {
+        "a": "Automatic operation is precisely what the section says does not usually happen.",
+        "b": "A malpractice suit by the client is one of the listed exceptions, so an exception can arise without an express waiver.",
+        "c": "Privilege is a legal question for the court, not for the Ethics Committee."
+      },
+      "topic": "Confidentiality and privilege",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section VI.A, pp. 87-88"
+    },
+    {
+      "id": "q05",
+      "type": "single",
+      "stem": "A psychologist tells a peer supervision group that confidentiality dilemmas seem to come up more than any other ethical problem in her practice. The survey finding that supports her impression is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Pope and Vetter (1992), who surveyed 679 APA members and found confidentiality the most frequent such issue"
+        },
+        {
+          "id": "b",
+          "text": "Pope and Vetter (1992), who found multiple relationships with clients to be the most frequently reported difficulty"
+        },
+        {
+          "id": "c",
+          "text": "Koocher (1998), who catalogued the recognized statutory exceptions to psychotherapist-patient privilege"
+        },
+        {
+          "id": "d",
+          "text": "Hummel, Talbutt and Alexander (1985), who studied confidentiality practices within therapy groups"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Pope and Vetter surveyed 679 APA members and found confidentiality identified as the most frequently occurring ethically troubling issue, which fits how often ethical and legal obligations pull against one another in this area.",
+      "whyWrong": {
+        "b": "The authors are right but the finding is not: confidentiality, not multiple relationships, was the leading issue.",
+        "c": "Koocher's contribution cited here is the list of exceptions to privilege, not a survey of troubling issues.",
+        "d": "These authors are cited for recommendations about managing confidentiality in group therapy, not for this survey."
+      },
+      "topic": "Confidentiality and privilege",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section VI.A, p. 88"
+    },
+    {
+      "id": "q06",
+      "type": "single",
+      "stem": "A psychologist faces a conflict between her ethical obligation to maintain confidentiality and a legal requirement to breach it. Standard 4.05(b) resolves this by providing that psychologists may disclose without consent when:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the psychologist judges disclosure to be in the client's overall best interests"
+        },
+        {
+          "id": "b",
+          "text": "doing so is mandated by law or permitted by law for a valid purpose"
+        },
+        {
+          "id": "c",
+          "text": "the client's confidentiality interest is outweighed by the institution's needs"
+        },
+        {
+          "id": "d",
+          "text": "an Ethics Committee has reviewed the situation and authorized the disclosure"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 4.05(b) permits disclosure without consent when mandated by law or permitted by law for a valid purpose. Legal exceptions to privilege and legal mandates for release ordinarily take precedence over ethical obligations.",
+      "whyWrong": {
+        "a": "The psychologist's view of the client's interests is not the criterion the standard sets.",
+        "c": "Institutional needs do not appear as a basis for disclosure under this provision.",
+        "d": "The Ethics Committee adjudicates complaints; it does not authorize disclosures in advance."
+      },
+      "topic": "Limits of confidentiality",
+      "level": "application",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section VI.A, p. 88"
+    },
+    {
+      "id": "q07",
+      "type": "single",
+      "stem": "In a California case in which a father was accused of molesting his minor son, the court concluded that the psychotherapist-patient privilege belonged to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the father himself, in his capacity as parent and legal guardian of the minor client"
+        },
+        {
+          "id": "b",
+          "text": "the treating psychologist, who was best placed to judge the child's own best interests"
+        },
+        {
+          "id": "c",
+          "text": "the son, notwithstanding the general rule that a parent holds the privilege for a minor"
+        },
+        {
+          "id": "d",
+          "text": "the court itself, which assumed the role of holder for the whole duration of the proceedings"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "A minor's parent or guardian is ordinarily the holder of the privilege, but legal exceptions exist. In In re Daniel, C. H. (1990), where the father was accused of molesting his minor son, the court held the privilege belonged to the son.",
+      "whyWrong": {
+        "a": "This states the general rule while missing the exception the case establishes.",
+        "b": "The psychologist may claim the privilege on a client's behalf but is never its holder.",
+        "d": "Courts rule on privilege claims; they do not become the holder."
+      },
+      "topic": "Limits of confidentiality",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section VI.A, p. 88"
+    },
+    {
+      "id": "q08",
+      "type": "single",
+      "stem": "A psychologist runs a therapy group and also sees two members individually. Under Standard 10.03 and the discussion of group confidentiality, he should inform members about:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the identities of those members whom he also treats individually, so that the group can account for it"
+        },
+        {
+          "id": "b",
+          "text": "his own obligation to maintain confidentiality, which extends in full to disclosures made by other members"
+        },
+        {
+          "id": "c",
+          "text": "the requirement that all of the members sign a legally enforceable confidentiality agreement first"
+        },
+        {
+          "id": "d",
+          "text": "the limits of confidentiality, including how it works when he also sees members individually"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 10.03 requires informing group members about the limits of confidentiality, which includes discussing how confidentiality will be managed where the therapist also sees members individually, and any legal limits — in some states, information revealed in the presence of a third party is exempt from privilege statutes.",
+      "whyWrong": {
+        "a": "Naming which members are also in individual therapy would itself breach their confidentiality.",
+        "b": "The psychologist's own obligation does not bind the other group members, which is exactly why the limits must be discussed.",
+        "c": "No legally enforceable agreement among members is required by the standard."
+      },
+      "topic": "Limits of confidentiality",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VI.B, p. 88"
+    },
+    {
+      "id": "q09",
+      "type": "single",
+      "stem": "A wife in conjoint marital therapy also sees the same psychologist individually, and during an individual session discloses an affair. Corey, Corey, and Callahan recommend that the best policy is for the psychologist to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "tell partners at the outset that private-session information will be divulged for the greatest benefit of the couple"
+        },
+        {
+          "id": "b",
+          "text": "maintain the wife's confidentiality absolutely, on the ground that the disclosure was made during an individual session"
+        },
+        {
+          "id": "c",
+          "text": "disclose the affair during the next conjoint session, on the ground that the couple is the client in marital therapy"
+        },
+        {
+          "id": "d",
+          "text": "refer the couple on to a different therapist, on the ground that the situation cannot be resolved ethically"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The \"secrets\" problem is not directly addressed by the Ethics Code. Corey, Corey, and Callahan (1988) suggest the best policy is to let partners or family members know at the outset that information disclosed in private sessions will be divulged as the psychologist sees fit in accordance with the greatest benefit for the couple or family.",
+      "whyWrong": {
+        "b": "This is one defensible position, but the recommendation is a policy stated in advance rather than absolute individual confidentiality.",
+        "c": "Disclosing without having set the policy at the outset is what the recommendation is designed to avoid.",
+        "d": "The situation is complex but not unresolvable; a policy stated at the outset addresses it."
+      },
+      "topic": "Limits of confidentiality",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section VI.B, p. 88"
+    },
+    {
+      "id": "q10",
+      "type": "single",
+      "stem": "A family asks Dr. Sørensen to release the records of their recently deceased adult relative, who had been her client. In a jurisdiction whose statute deems communications confidential in perpetuity, she may release the records:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "to any immediate family member, since the duty of confidentiality ends at death"
+        },
+        {
+          "id": "b",
+          "text": "only with a release from the executor or administrator of the client's estate"
+        },
+        {
+          "id": "c",
+          "text": "at her discretion, since the Ethics Code explicitly permits disclosure after a client's death"
+        },
+        {
+          "id": "d",
+          "text": "only after a court has determined that the family has a legitimate interest in them"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Confidentiality after a client's death is not explicitly covered by the Ethics Code, but some jurisdictions have statutes on it. Where communications are confidential in perpetuity, a deceased client's records cannot be released without a release from the executor or administrator of the estate.",
+      "whyWrong": {
+        "a": "Family relationship alone does not authorize release, and the duty does not simply end at death in such jurisdictions.",
+        "c": "The Ethics Code does not explicitly cover this situation, so it grants no such discretion.",
+        "d": "A release from the estate's executor or administrator suffices; a judicial finding is not the stated route."
+      },
+      "topic": "Limits of confidentiality",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section VI.B, p. 89"
+    },
+    {
+      "id": "q11",
+      "type": "single",
+      "stem": "Under the 1974 ruling in Tarasoff and its 1976 rehearing, the psychologist's obligation was characterized as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "a duty to protect in 1974, narrowed to a duty to warn in 1976"
+        },
+        {
+          "id": "b",
+          "text": "a duty to warn in both rulings, with 1976 adding a requirement to notify police"
+        },
+        {
+          "id": "c",
+          "text": "a duty to warn in 1974, changed to a duty to protect in 1976"
+        },
+        {
+          "id": "d",
+          "text": "a duty to hospitalize the client in 1974, changed to a duty to warn in 1976"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The original 1974 ruling established a duty to warn an intended victim. In the 1976 rehearing this became a duty to protect the intended victim — by warning them, notifying police, or taking other steps.",
+      "whyWrong": {
+        "a": "This reverses the sequence; the broader duty to protect came second.",
+        "b": "Notifying police is one way of discharging the duty to protect, not an addition to an unchanged duty to warn.",
+        "d": "Hospitalization featured in neither ruling as the stated duty."
+      },
+      "topic": "Tarasoff and duty to protect",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section VI.C, p. 90"
+    },
+    {
+      "id": "q12",
+      "type": "single",
+      "stem": "A client tells Dr. Whitlock that his brother-in-law has been talking about killing his boss. Under Tarasoff, Dr. Whitlock:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "must warn the boss directly, since an identifiable potential victim has now been named"
+        },
+        {
+          "id": "b",
+          "text": "must notify the police himself, since the threat concerns serious physical violence"
+        },
+        {
+          "id": "c",
+          "text": "must warn both the boss and the brother-in-law's own treating clinician, if indeed he has one"
+        },
+        {
+          "id": "d",
+          "text": "has no duty to warn or protect, though he would want to encourage the client to contact the police"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The duty attaches to a danger posed by the client. Here the threat is the brother-in-law's, not the client's, so no duty to warn or protect arises — though the psychologist would want to encourage the client to contact the police.",
+      "whyWrong": {
+        "a": "An identifiable victim is necessary but not sufficient; the danger must be posed by the client.",
+        "b": "The seriousness of a third party's threat does not create a Tarasoff duty for this psychologist.",
+        "c": "No such notification obligation arises where the client is not the one posing the danger."
+      },
+      "topic": "Tarasoff and duty to protect",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section VI.C, p. 90"
+    },
+    {
+      "id": "q13",
+      "type": "single",
+      "stem": "In which situation would a duty to warn or protect ordinarily arise in most jurisdictions?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A client makes a serious threat of violence against a named individual and appears able to carry it out imminently"
+        },
+        {
+          "id": "b",
+          "text": "A client reveals that he killed a person some ten years ago and was never questioned by the police"
+        },
+        {
+          "id": "c",
+          "text": "A client states that he is mad enough to kill someone, but further questioning reveals no specific intended victim"
+        },
+        {
+          "id": "d",
+          "text": "A client describes his own relative's stated intention to cause harm to that relative's employer"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "In most jurisdictions the duty applies where a client poses a clear and imminent danger to an identifiable victim or victims. Only the first option has both a client-posed danger and an identifiable target.",
+      "whyWrong": {
+        "b": "A past act creates no prospective danger to an identifiable victim; the section gives this as an example where no duty arises.",
+        "c": "Without a specific intended victim there is no identifiable person to warn or protect.",
+        "d": "The danger is posed by the relative rather than by the client."
+      },
+      "topic": "Tarasoff and duty to protect",
+      "level": "application",
+      "stemType": "short",
+      "difficulty": 3,
+      "sourceRef": "Section VI.C, p. 90"
+    },
+    {
+      "id": "q14",
+      "type": "single",
+      "stem": "APA's statement on Legal Liability Related to Confidentiality and the Prevention of HIV Transmission (1991) recommended that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "psychologists should be legally required to warn any identifiable sexual partner at risk"
+        },
+        {
+          "id": "b",
+          "text": "a legal duty to protect third parties from HIV infection should not be imposed"
+        },
+        {
+          "id": "c",
+          "text": "disclosure should be prohibited in all circumstances to protect clients from discrimination"
+        },
+        {
+          "id": "d",
+          "text": "the question should be left entirely to the professional judgment of the treating psychologist"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "APA recommended that a legal duty to protect third parties from HIV infection should not be imposed. If legislation were nonetheless considered, it should permit disclosure only under narrowly specified conditions.",
+      "whyWrong": {
+        "a": "This is the opposite of the recommendation, which opposed imposing such a duty.",
+        "c": "APA did not recommend an absolute prohibition; it set out conditions under which disclosure could be permitted.",
+        "d": "The statement addressed what the law should provide rather than deferring wholly to individual judgment."
+      },
+      "topic": "Tarasoff and duty to protect",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 3,
+      "sourceRef": "Section VI.C, p. 90"
+    },
+    {
+      "id": "q15",
+      "type": "single",
+      "stem": "An adult client tells Dr. Amara that she was sexually abused by her father as a child. She believes her father is now abusing her younger sister, who is fourteen. Dr. Amara:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "is not required to report at all, because the client is an adult describing her own childhood abuse"
+        },
+        {
+          "id": "b",
+          "text": "is required to report only in the event that the client consents to the report being made"
+        },
+        {
+          "id": "c",
+          "text": "is required to report, because there is reason to believe the abuser is still victimizing a minor"
+        },
+        {
+          "id": "d",
+          "text": "is not required to report unless she has first independently verified the current abuse"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "In most jurisdictions psychologists are not legally required to report when an adult client reveals childhood abuse, unless there is reason to believe the abuser is still victimizing a minor. The younger sibling triggers the reporting obligation.",
+      "whyWrong": {
+        "a": "This states the general rule while ignoring the exception the facts squarely raise.",
+        "b": "Mandatory reporting does not depend on client consent, though involving the client in the process is often preferable.",
+        "d": "The obligation arises on knowing or suspecting abuse; independent verification is not required."
+      },
+      "topic": "Child abuse reporting",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VI.C, p. 90"
+    },
+    {
+      "id": "q16",
+      "type": "single",
+      "stem": "Dr. Nakamura files a child abuse report in good faith, but the investigation finds the allegation unsubstantiated and the family threatens to sue her. Across jurisdictions, reporting laws provide that she:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "is liable only where she failed to obtain corroborating evidence before submitting the report"
+        },
+        {
+          "id": "b",
+          "text": "is protected only in cases where the investigation ultimately substantiates the allegation made"
+        },
+        {
+          "id": "c",
+          "text": "must have notified the family in advance of filing in order to claim any protection at all"
+        },
+        {
+          "id": "d",
+          "text": "is immune from civil or criminal liability, because the report was made in good faith"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "All jurisdictions require a report whenever a psychologist knows or suspects child abuse and grant reporters immunity from civil or criminal liability where the report was made in good faith. Immunity attaches to the good faith of the report, not to its outcome.",
+      "whyWrong": {
+        "a": "Suspicion suffices to trigger the duty, which is why the standard is \"knows or suspects\" rather than knows.",
+        "b": "Tying immunity to the outcome would defeat its purpose, which is to protect reporters who act on reasonable suspicion.",
+        "c": "No pre-notification requirement exists, and notifying the family could endanger the child."
+      },
+      "topic": "Child abuse reporting",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VI.C, p. 90"
+    },
+    {
+      "id": "q17",
+      "type": "single",
+      "stem": "Herlihy and Sheeley (1988) recommend that, where a report or a duty-to-warn disclosure must be made, psychologists should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "contact the third party or appropriate authority in the client's presence"
+        },
+        {
+          "id": "b",
+          "text": "make the contact privately, then inform the client once it is complete"
+        },
+        {
+          "id": "c",
+          "text": "delegate the contact to a colleague so the therapeutic relationship is preserved"
+        },
+        {
+          "id": "d",
+          "text": "obtain the client's written authorization before contacting anyone"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Experts generally agree it is preferable in at least some situations to involve the client in the reporting or duty-to-warn process. Herlihy and Sheeley recommend contacting the third party or appropriate authority in the client's presence.",
+      "whyWrong": {
+        "b": "Informing the client afterwards is less involving than the recommended approach.",
+        "c": "Delegation removes the client from the process rather than including them.",
+        "d": "Mandatory reports and Tarasoff disclosures do not depend on the client's authorization."
+      },
+      "topic": "Child abuse reporting",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section VI.C, p. 90"
+    },
+    {
+      "id": "q18",
+      "type": "single",
+      "stem": "Dr. Bianchi wishes to consult a colleague about a difficult case. Under Standard 4.06, he may reveal confidential information to that colleague:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "freely, since consultation between professionals is exempt from confidentiality requirements"
+        },
+        {
+          "id": "b",
+          "text": "only with the client's prior consent, unless the client's identity can be disguised"
+        },
+        {
+          "id": "c",
+          "text": "only after the client has signed a written authorization naming the consulting colleague"
+        },
+        {
+          "id": "d",
+          "text": "only where the consultation concerns a risk of harm to the client or to another person"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 4.06 permits revealing confidential information in consultation only with the client's prior consent, unless the client's identity can be disguised. It also limits the discussion to information relevant to the purpose of the consultation.",
+      "whyWrong": {
+        "a": "Consultation carries no blanket exemption from confidentiality.",
+        "c": "The standard requires prior consent, but a written authorization naming the consultant is not what it specifies, and disguising identity is an alternative.",
+        "d": "Consultation is encouraged for difficulties in diagnosis and treatment planning generally, not only in risk situations."
+      },
+      "topic": "Consultation and didactic use",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VI.D, p. 91"
+    },
+    {
+      "id": "q19",
+      "type": "single",
+      "stem": "A psychologist plans to describe a client's case in a conference lecture, giving the client a false name but leaving her occupation, home town, and family circumstances unchanged. Under Standard 4.07, this is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "acceptable, since using a pseudonym constitutes exactly the reasonable step that the standard requires"
+        },
+        {
+          "id": "b",
+          "text": "acceptable, since a professional conference audience is not the sort of public media the standard addresses"
+        },
+        {
+          "id": "c",
+          "text": "insufficient, since a pseudonym alone may not disguise identity where identifying details remain unchanged"
+        },
+        {
+          "id": "d",
+          "text": "insufficient, since 4.07 requires written consent in every single case regardless of any disguise"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 4.07 requires reasonable steps to remove all personally identifiable information, or written consent, or legal authorization. Simply using a pseudonym may not be sufficient, especially where potentially identifying characteristics or details have not been changed.",
+      "whyWrong": {
+        "a": "This is the trap the section warns against: the pseudonym does not cure the remaining identifying detail.",
+        "b": "Standard 4.07 covers writings and lectures, so a conference presentation is within its scope.",
+        "d": "Written consent is one of three routes, not a universal requirement; adequate disguising is an alternative."
+      },
+      "topic": "Consultation and didactic use",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VI.E, p. 91"
+    },
+    {
+      "id": "q20",
+      "type": "single",
+      "stem": "A military psychologist is asked how confidentiality operates for the service members she treats. Following Ford (2006), her explanation should address the limits on confidentiality and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "her firm intention to withhold all clinical information whatever from the chain of command"
+        },
+        {
+          "id": "b",
+          "text": "the fact that military service suspends the operation of the Ethics Code altogether"
+        },
+        {
+          "id": "c",
+          "text": "the requirement that service members waive privilege in advance of treatment beginning"
+        },
+        {
+          "id": "d",
+          "text": "who the client is in the situation — the Department of Defense as against the individual"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Military psychologists must protect confidentiality while adhering to Department of Defense rules. They must clearly explain the limits — such as the need to breach where a client is unfit for duty or poses a threat to national security — and discuss who the client is in the situation.",
+      "whyWrong": {
+        "a": "Some disclosure is required, for instance where a client is unfit for duty, so a blanket assurance would be false.",
+        "b": "The Ethics Code continues to apply; the psychologist strives to protect confidentiality within Department rules.",
+        "c": "A blanket waiver is not what the source describes; the obligation is to explain the limits clearly."
+      },
+      "topic": "Limits of confidentiality",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section VI.B, p. 89"
+    }
+  ]
+}

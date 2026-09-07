@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python tools/validate.py *)",
+      "Bash(python tools/validate.py)",
+      "Bash(python tools/polish.py *)",
+      "Bash(python tools/delength.py *)",
+      "Bash(python tools/rebalance.py *)",
+      "Bash(python tools/lengthen.py *)",
+      "Bash(python tools/extract.py *)",
+      "Bash(python tools/extract.py)",
+      "Bash(python tools/split_sections.py *)",
+      "Bash(python tools/migrate_levels.py *)",
+      "Bash(python tools/migrate_levels.py)",
+      "Bash(node tools/validate.mjs *)",
+      "Bash(node tools/validate.mjs)",
+      "Bash(npm run validate)"
+    ]
+  }
+}
