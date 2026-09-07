@@ -1,0 +1,753 @@
+{
+  "id": "ch02-s07",
+  "chapter": 2,
+  "chapterTitle": "Ethics and Professional Issues",
+  "section": 7,
+  "sectionTitle": "Standard 5: Advertising and Other Public Statements",
+  "profile": "application-primary",
+  "sourceFile": "Ethics.pdf",
+  "generatedAt": "2026-09-07",
+  "questionTarget": 20,
+  "questions": [
+    {
+      "id": "q01",
+      "type": "single",
+      "stem": "Dr. Halloran holds a doctorate from an institution that is not regionally accredited and was not the basis for her psychology licensure. Under Standard 5.01, she may cite that degree:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "in connection with teaching or research, but not as a credential for her health services"
+        },
+        {
+          "id": "b",
+          "text": "in any professional context, provided she also names the institution that granted it"
+        },
+        {
+          "id": "c",
+          "text": "as a credential for her health services, provided she discloses the accreditation status"
+        },
+        {
+          "id": "d",
+          "text": "in no professional context whatever, since the degree is not from an accredited institution"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 5.01 requires that only degrees from a regionally accredited institution, or that were the basis for psychology licensure, be claimed as credentials for health services. Knapp and VandeCreek note the credentials requirement applies to health services but not to other activities such as teaching or conducting research.",
+      "whyWrong": {
+        "b": "Naming the institution does not satisfy the requirement where health services are concerned.",
+        "c": "Disclosure does not cure the problem: the standard governs which degrees may be claimed at all for health services.",
+        "d": "This overstates the restriction, which is limited to health-service credentials."
+      },
+      "topic": "Public statements and credentials",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section VII.A, Standard 5.01, p. 92"
+    },
+    {
+      "id": "q02",
+      "type": "single",
+      "stem": "A psychologist hires an advertising agency to promote her practice. The agency's copy overstates her years of experience and attributes a credential she does not hold. Under Standard 5.02, she:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "bears no responsibility, since the agency rather than she composed the advertisement"
+        },
+        {
+          "id": "b",
+          "text": "must take steps to have the misinformation corrected, retaining responsibility for it"
+        },
+        {
+          "id": "c",
+          "text": "is responsible only if she reviewed and approved the copy before it was published"
+        },
+        {
+          "id": "d",
+          "text": "must terminate the agency contract, which is the remedy the standard prescribes"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 5.02 makes psychologists responsible for statements made by others they engage to promote their professional work. Where an agency includes inaccurate information about credentials or experience, the psychologist must take steps to have it corrected.",
+      "whyWrong": {
+        "a": "The point of the standard is that delegation does not transfer away the responsibility.",
+        "c": "Responsibility does not depend on prior approval of the specific copy.",
+        "d": "Correcting the misinformation is what the standard requires; terminating the contract is not prescribed."
+      },
+      "topic": "Public statements and credentials",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VII.A, Standard 5.02, p. 92"
+    },
+    {
+      "id": "q03",
+      "type": "single",
+      "stem": "Dr. Feld offers a newspaper reporter a reduced therapy fee for the reporter's daughter in exchange for a favourable article about his upcoming workshop. This arrangement is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ethical, provided the resulting article contains no false or misleading statements"
+        },
+        {
+          "id": "b",
+          "text": "ethical, provided the reduced fee is one he offers other clients on a sliding scale"
+        },
+        {
+          "id": "c",
+          "text": "unethical: psychologists do not compensate media employees for publicity"
+        },
+        {
+          "id": "d",
+          "text": "unethical only because it creates a multiple relationship with the reporter's family"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 5.02 prohibits compensating employees of the press, television, radio and other media in return for publicity. The reduced fee is compensation, and the section gives this as its example of the prohibition.",
+      "whyWrong": {
+        "a": "Accuracy is required by 5.01, but it does not cure the separate prohibition on paying for publicity.",
+        "b": "The character of the fee arrangement does not matter; it is being exchanged for coverage.",
+        "d": "A multiple relationship may also be a concern, but the section identifies this as the compensation-for-publicity prohibition."
+      },
+      "topic": "Public statements and credentials",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VII.A, Standard 5.02, p. 92"
+    },
+    {
+      "id": "q04",
+      "type": "single",
+      "stem": "Standard 5.02 also requires that psychologists:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "obtain written approval from a colleague before publishing any advertisement"
+        },
+        {
+          "id": "b",
+          "text": "restrict advertising to the jurisdictions in which they hold current licensure"
+        },
+        {
+          "id": "c",
+          "text": "retain copies of all advertisements for a period of seven years"
+        },
+        {
+          "id": "d",
+          "text": "identify paid advertisements as such"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Alongside making psychologists responsible for statements by those they engage, Standard 5.02 requires paid advertising to be identifiable as such and prohibits paying media employees for publicity.",
+      "whyWrong": {
+        "a": "No colleague pre-approval requirement appears in the standard.",
+        "b": "Jurisdictional restrictions on advertising are a licensing matter, not a requirement of 5.02.",
+        "c": "Seven-year retention concerns records under APA's Record Keeping Guidelines, not advertisements."
+      },
+      "topic": "Public statements and credentials",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section VII.A, Standard 5.02, p. 92"
+    },
+    {
+      "id": "q05",
+      "type": "single",
+      "stem": "A psychologist advertises a continuing education event as a \"hands-on workshop\" but then spends the entire session lecturing. Under Standard 5.03, the problem is that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the description misrepresented the nature of the program to its intended audience"
+        },
+        {
+          "id": "b",
+          "text": "continuing education programs may not be delivered by lecture under any circumstances"
+        },
+        {
+          "id": "c",
+          "text": "the psychologist failed to obtain accreditation for the program before advertising it"
+        },
+        {
+          "id": "d",
+          "text": "attendees were not given the opportunity to consent to the change in format"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 5.03 requires that descriptions of education and training programs present accurate, non-misleading information about the intended audience, educational objectives, presenters, and fees. Advertising a hands-on workshop and then lecturing throughout misrepresents the program.",
+      "whyWrong": {
+        "b": "Lecturing is a legitimate format; the difficulty is the mismatch with what was advertised.",
+        "c": "Accreditation is not what 5.03 addresses.",
+        "d": "The standard concerns the accuracy of the description rather than consent to a format change."
+      },
+      "topic": "Public statements and credentials",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VII.A, Standard 5.03, p. 92"
+    },
+    {
+      "id": "q06",
+      "type": "single",
+      "stem": "Standard 5.03 requires that descriptions of education and training programs be accurate about all of the following EXCEPT:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the particular audience for which the program is intended"
+        },
+        {
+          "id": "b",
+          "text": "the professional outcomes participants can expect"
+        },
+        {
+          "id": "c",
+          "text": "the educational objectives and the presenters"
+        },
+        {
+          "id": "d",
+          "text": "the fees involved in attending the advertised program"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 5.03 names the audience for which the program is intended, the educational objectives, the presenters, and the fees involved. Guaranteed professional outcomes are not among the items listed.",
+      "whyWrong": {
+        "a": "The intended audience is expressly named in the standard.",
+        "c": "Educational objectives and presenters are both expressly named.",
+        "d": "The fees involved are expressly named."
+      },
+      "topic": "Public statements and credentials",
+      "level": "recall",
+      "stemType": "negative",
+      "difficulty": 2,
+      "sourceRef": "Section VII.A, Standard 5.03, p. 92"
+    },
+    {
+      "id": "q07",
+      "type": "single",
+      "stem": "Dr. Osei answers listener questions on a weekly radio programme. Under Standard 5.04, her advice must be based on professional knowledge, be consistent with the Ethics Code, and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "be limited to general information that could not apply to any individual caller"
+        },
+        {
+          "id": "b",
+          "text": "be accompanied by an offer to see the caller for a full assessment"
+        },
+        {
+          "id": "c",
+          "text": "not imply that a professional relationship has been established with the listener"
+        },
+        {
+          "id": "d",
+          "text": "be reviewed in advance by the station's compliance department"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 5.04 requires that public advice through the media rest on the psychologist's professional experience and knowledge, be consistent with the Code, and not imply that a professional relationship has been established with the recipient.",
+      "whyWrong": {
+        "a": "The standard does not forbid addressing a caller's situation; it forbids implying a professional relationship exists.",
+        "b": "Steering callers toward the psychologist's practice edges toward the solicitation 5.06 restricts.",
+        "d": "No advance compliance review is required by the standard."
+      },
+      "topic": "Media presentations",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VII.B, Standard 5.04, p. 92"
+    },
+    {
+      "id": "q08",
+      "type": "single",
+      "stem": "A psychologist occasionally conducts sessions with an established current client by video link when the client is travelling. Standard 5.04:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "applies, because the services are being delivered through an electronic medium"
+        },
+        {
+          "id": "b",
+          "text": "applies, and requires her to state at each session that no professional relationship exists"
+        },
+        {
+          "id": "c",
+          "text": "does not apply, because the standard reaches only advice given to groups rather than individuals"
+        },
+        {
+          "id": "d",
+          "text": "does not apply: 5.04 excludes services within an established professional relationship"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 5.04 governs professional advice given to the public through the media. It does not apply to services provided to a client in the context of an established professional relationship, including a psychologist who occasionally serves a current client by internet or telephone.",
+      "whyWrong": {
+        "a": "The medium is not what brings a service within 5.04; the absence of an established relationship is.",
+        "b": "Such a statement would be false here, since a professional relationship does exist.",
+        "c": "The exclusion turns on the established relationship, not on audience size."
+      },
+      "topic": "Media presentations",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section VII.B, Standard 5.04, p. 92"
+    },
+    {
+      "id": "q09",
+      "type": "single",
+      "stem": "Standard 5.05 addresses client testimonials by:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "prohibiting their solicitation from current clients and others vulnerable to undue influence"
+        },
+        {
+          "id": "b",
+          "text": "banning the use of client testimonials in advertising under all circumstances"
+        },
+        {
+          "id": "c",
+          "text": "permitting them where the client has signed a written release before publication"
+        },
+        {
+          "id": "d",
+          "text": "permitting them only after the therapeutic relationship has been terminated for two years"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 5.05 does not ban client testimonials entirely. It prohibits soliciting them from current therapy clients or patients, and from other persons who because of their particular circumstances are vulnerable to undue influence.",
+      "whyWrong": {
+        "b": "An outright ban overstates the standard, which targets solicitation from particular people.",
+        "c": "A written release is not what the standard turns on; the prohibition concerns soliciting from vulnerable persons.",
+        "d": "The Code prescribes no two-year waiting period for testimonials."
+      },
+      "topic": "Testimonials",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section VII.C, Standard 5.05, p. 92"
+    },
+    {
+      "id": "q10",
+      "type": "single",
+      "stem": "Dr. Marchetti asks a psychology intern she currently supervises to provide a quotation praising her clinical work, for use in a practice brochure. This request is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "acceptable, since a supervisee is a colleague rather than a therapy client"
+        },
+        {
+          "id": "b",
+          "text": "likely unacceptable: supervisees are vulnerable to undue influence from supervisors"
+        },
+        {
+          "id": "c",
+          "text": "acceptable, provided the intern is told that participation is entirely voluntary"
+        },
+        {
+          "id": "d",
+          "text": "unacceptable only if the intern's evaluation is still pending at the time of the request"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 5.05 reaches persons who because of their particular circumstances are vulnerable to undue influence. The section notes current supervisees are likely to feel obligated to, and perhaps intimidated by, their supervisors, so soliciting a testimonial from one is likely unacceptable.",
+      "whyWrong": {
+        "a": "The prohibition is not confined to therapy clients; vulnerability to undue influence is the test.",
+        "c": "Telling a supervisee that participation is voluntary does not remove the power differential that creates the vulnerability.",
+        "d": "The vulnerability arises from the supervisory relationship itself, not from the timing of a particular evaluation."
+      },
+      "topic": "Testimonials",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VII.C, Standard 5.05, pp. 92-93"
+    },
+    {
+      "id": "q11",
+      "type": "single",
+      "stem": "According to Koocher and Keith-Spiegel (1998), client vulnerability to undue influence can arise from insecurities, emotional problems, naiveté, lack of information, or:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "financial dependence on the practice"
+        },
+        {
+          "id": "b",
+          "text": "a prior history of litigation"
+        },
+        {
+          "id": "c",
+          "text": "awe of the professional"
+        },
+        {
+          "id": "d",
+          "text": "membership in a mandated treatment programme"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The listed sources of vulnerability are insecurities, emotional problems, naiveté, lack of information, or even awe of the professional.",
+      "whyWrong": {
+        "a": "Financial dependence may create vulnerability generally, but it is not among the factors these authors name.",
+        "b": "Litigation history is not one of the listed sources.",
+        "d": "Mandated treatment raises consent issues under 3.10 but is not among the listed factors."
+      },
+      "topic": "Testimonials",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 3,
+      "sourceRef": "Section VII.C, Standard 5.05, p. 92"
+    },
+    {
+      "id": "q12",
+      "type": "single",
+      "stem": "A psychologist follows police to the scene of a serious accident and distributes business cards to survivors at the roadside. Under Standard 5.06, this conduct is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ethical, since offering services after a disaster is expressly permitted by the standard"
+        },
+        {
+          "id": "b",
+          "text": "ethical, provided the cards state only his name, credentials, and contact details"
+        },
+        {
+          "id": "c",
+          "text": "unethical only if he charges the survivors who subsequently contact him"
+        },
+        {
+          "id": "d",
+          "text": "unethical, as uninvited in-person solicitation of people vulnerable to undue influence"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 5.06 prohibits uninvited in-person solicitation of business from people vulnerable to undue influence. The section gives handing out business cards to crime victims at a scene as its example of a violation.",
+      "whyWrong": {
+        "a": "The disaster and community outreach exception covers providing outreach services, not soliciting business at the roadside.",
+        "b": "The content of the card is not the issue; the uninvited in-person approach to vulnerable people is.",
+        "c": "The violation is in the solicitation itself, whatever fee arrangement follows."
+      },
+      "topic": "In-person solicitation",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VII.D, Standard 5.06, p. 93"
+    },
+    {
+      "id": "q13",
+      "type": "single",
+      "stem": "At a social gathering, someone learns that Dr. Bhatt is a psychologist and asks for his business card, which he provides. Under Standard 5.06 this is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "permitted, because the solicitation was invited rather than uninvited"
+        },
+        {
+          "id": "b",
+          "text": "prohibited, because any in-person distribution of business cards is a solicitation"
+        },
+        {
+          "id": "c",
+          "text": "permitted only if he follows up in writing rather than continuing the conversation"
+        },
+        {
+          "id": "d",
+          "text": "prohibited, because a social setting makes any prospective client vulnerable"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The prohibition reaches uninvited in-person solicitation. Invited in-person solicitations and mail solicitations may be acceptable, and giving a business card to someone who asks for it is expressly identified as not unethical.",
+      "whyWrong": {
+        "b": "The standard turns on whether the approach was invited, not on the act of handing over a card.",
+        "c": "No such follow-up requirement appears in the standard.",
+        "d": "Vulnerability is a separate element, and nothing in a social setting establishes it."
+      },
+      "topic": "In-person solicitation",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VII.D, Standard 5.06, p. 93"
+    },
+    {
+      "id": "q14",
+      "type": "single",
+      "stem": "Dr. Lindgren asks a current client's spouse to join several sessions because doing so would advance the client's treatment. Under Standard 5.06 this is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "prohibited, since the spouse has not independently sought out any psychological services"
+        },
+        {
+          "id": "b",
+          "text": "permitted: 5.06 does not prohibit inviting a client's family into therapy to benefit the client"
+        },
+        {
+          "id": "c",
+          "text": "permitted only where the spouse is billed separately for the sessions attended"
+        },
+        {
+          "id": "d",
+          "text": "prohibited, since a spouse counts as a person closely associated with a current client"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 5.06 expressly does not prohibit psychologists from inviting a current client's family members or significant others to participate in therapy to benefit the client.",
+      "whyWrong": {
+        "a": "The spouse's not having sought services is exactly the situation the exception contemplates.",
+        "c": "Billing arrangements are irrelevant to whether the invitation is permitted.",
+        "d": "Close association matters under Standard 3.05 for multiple relationships, not for this exception."
+      },
+      "topic": "In-person solicitation",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VII.D, Standard 5.06, p. 93"
+    },
+    {
+      "id": "q15",
+      "type": "single",
+      "stem": "Which of the following does Standard 5.06 NOT prohibit?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Approaching bereaved families at a memorial service to offer counselling"
+        },
+        {
+          "id": "b",
+          "text": "Distributing cards to patients in a hospital waiting area without invitation"
+        },
+        {
+          "id": "c",
+          "text": "Offering disaster or community outreach services to individuals"
+        },
+        {
+          "id": "d",
+          "text": "Approaching people leaving a courthouse after custody hearings to offer services"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 5.06 expressly does not preclude offering disaster or community outreach services to individuals, nor inviting a current client's family into therapy. The other options are uninvited in-person approaches to people whose circumstances make them vulnerable.",
+      "whyWrong": {
+        "a": "Bereaved families at a memorial are vulnerable, and the approach is uninvited and in person.",
+        "b": "Patients awaiting care are vulnerable, and the distribution is uninvited and in person.",
+        "d": "People leaving custody hearings are in distressing circumstances, and the approach is uninvited."
+      },
+      "topic": "In-person solicitation",
+      "level": "application",
+      "stemType": "negative",
+      "difficulty": 3,
+      "sourceRef": "Section VII.D, Standard 5.06, p. 93"
+    },
+    {
+      "id": "q16",
+      "type": "single",
+      "stem": "A psychologist mails brochures describing her services to local physicians and to a community organization. Under Standard 5.06 this is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "unacceptable, since the recipients did not request information about her services"
+        },
+        {
+          "id": "b",
+          "text": "acceptable only where each recipient has previously referred a client to her"
+        },
+        {
+          "id": "c",
+          "text": "unacceptable, since brochures constitute advertising that must be identified as paid"
+        },
+        {
+          "id": "d",
+          "text": "acceptable: mail solicitations fall outside the in-person prohibition"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Invited in-person solicitations and mail solicitations may be acceptable. Sending brochures describing one's services to individuals or organizations is identified as not unethical.",
+      "whyWrong": {
+        "a": "The prohibition concerns uninvited approaches made in person; mail is treated differently.",
+        "b": "No prior referral relationship is required.",
+        "c": "The paid-advertising identification requirement in 5.02 concerns paid placements, not a practice's own brochures."
+      },
+      "topic": "In-person solicitation",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VII.D, Standard 5.06, p. 93"
+    },
+    {
+      "id": "q17",
+      "type": "single",
+      "stem": "Dr. Kovač volunteers with a community mental health outreach programme, approaching residents of an underserved neighbourhood to describe available services. Under Standard 5.06 this is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "permitted: 5.06 does not preclude disaster or community outreach"
+        },
+        {
+          "id": "b",
+          "text": "prohibited, since the residents did not invite the approach"
+        },
+        {
+          "id": "c",
+          "text": "permitted only where the services described are provided without charge"
+        },
+        {
+          "id": "d",
+          "text": "prohibited unless a local agency has formally sponsored the outreach"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 5.06 expressly does not preclude offering disaster or community outreach services to individuals, which is why such programmes are compatible with the prohibition on uninvited solicitation.",
+      "whyWrong": {
+        "b": "This applies the general rule while ignoring the express exception for community outreach.",
+        "c": "Whether the services are free is not what the exception turns on.",
+        "d": "Formal sponsorship is not a condition the standard imposes."
+      },
+      "topic": "In-person solicitation",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VII.D, Standard 5.06, p. 93"
+    },
+    {
+      "id": "q18",
+      "type": "single",
+      "stem": "A psychologist receives an unsolicited letter from a former client praising his work and asking that it be shared with others who might benefit. Publishing it in his practice newsletter would be:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "inconsistent with Standard 5.05, which bans the use of client testimonials outright"
+        },
+        {
+          "id": "b",
+          "text": "consistent with Standard 5.05, which prohibits soliciting testimonials rather than using them"
+        },
+        {
+          "id": "c",
+          "text": "inconsistent with Standard 5.05, since former clients remain vulnerable to undue influence"
+        },
+        {
+          "id": "d",
+          "text": "consistent with Standard 5.05 only if the client's name is withheld from publication"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 5.05 does not entirely ban client testimonials; it prohibits soliciting them from current therapy clients and others vulnerable to undue influence. An unsolicited testimonial offered by a former client falls outside that prohibition.",
+      "whyWrong": {
+        "a": "An outright ban is precisely what the section says 5.05 does not impose.",
+        "c": "Vulnerability turns on particular circumstances rather than attaching to all former clients.",
+        "d": "Anonymity is a sensible precaution under 4.07 but is not the condition 5.05 sets."
+      },
+      "topic": "Testimonials",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section VII.C, Standard 5.05, p. 92"
+    },
+    {
+      "id": "q19",
+      "type": "single",
+      "stem": "Standards 5.01, 5.02, and 5.03 apply to statements about:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "psychologists' private conduct outside professional roles"
+        },
+        {
+          "id": "b",
+          "text": "research findings intended for peer-reviewed publication only"
+        },
+        {
+          "id": "c",
+          "text": "psychologists' services and products"
+        },
+        {
+          "id": "d",
+          "text": "communications made solely within an established therapeutic relationship"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The section introduces Standards 5.01, 5.02 and 5.03 as applying to statements about psychologists' services and products, spanning advertisements, endorsements, licensing applications, brochures and other public statements.",
+      "whyWrong": {
+        "a": "The Ethics Code as a whole does not reach purely private conduct.",
+        "b": "Public statements include far more than peer-reviewed publications.",
+        "d": "Communications within a therapy relationship are governed by the confidentiality and therapy standards."
+      },
+      "topic": "Public statements and credentials",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 1,
+      "sourceRef": "Section VII.A, p. 92"
+    },
+    {
+      "id": "q20",
+      "type": "single",
+      "stem": "A psychologist plans to promote a new practice. Considering Standards 5.02 and 5.06 together, which plan is permissible?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Arranging for a local radio host to praise the practice on air in exchange for free consultation"
+        },
+        {
+          "id": "b",
+          "text": "Visiting a support group for recently bereaved people to introduce the practice in person"
+        },
+        {
+          "id": "c",
+          "text": "Asking current clients to record short video endorsements for the practice website"
+        },
+        {
+          "id": "d",
+          "text": "Mailing brochures to area physicians and labelling a purchased magazine advertisement as such"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Mail solicitation is acceptable under 5.06, and 5.02 requires that paid advertising be identifiable as such. Both elements of this plan comply.",
+      "whyWrong": {
+        "a": "5.02 prohibits compensating media employees in return for publicity, and free consultation is compensation.",
+        "b": "This is uninvited in-person solicitation of people whose circumstances make them vulnerable, contrary to 5.06.",
+        "c": "5.05 prohibits soliciting testimonials from current therapy clients."
+      },
+      "topic": "Public statements and credentials",
+      "level": "application",
+      "stemType": "blended",
+      "difficulty": 3,
+      "sourceRef": "Section VII.A and VII.D, pp. 92-93"
+    }
+  ]
+}
