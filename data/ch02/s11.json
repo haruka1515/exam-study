@@ -1,0 +1,753 @@
+{
+  "id": "ch02-s11",
+  "chapter": 2,
+  "chapterTitle": "Ethics and Professional Issues",
+  "section": 11,
+  "sectionTitle": "Standard 9: Assessment",
+  "profile": "application-primary",
+  "sourceFile": "Ethics.pdf",
+  "generatedAt": "2026-09-07",
+  "questionTarget": 20,
+  "questions": [
+    {
+      "id": "q01",
+      "type": "single",
+      "stem": "Dr. Vasquez tells a therapy client that testing will help identify a suitable intervention. She then includes the client's scores in a research study she is running, without asking. Under Standard 9.03 this is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "unethical: the consent covered a different purpose than the one she also pursued"
+        },
+        {
+          "id": "b",
+          "text": "acceptable, since the scores were obtained lawfully during treatment"
+        },
+        {
+          "id": "c",
+          "text": "acceptable, provided the research report does not identify the client"
+        },
+        {
+          "id": "d",
+          "text": "unethical only if the research is later published in a peer-reviewed journal"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 9.03 requires that the consent process cover the nature and purpose of the assessment. Telling a client the results will guide her treatment and then also using them for research without permission is the section's own example of a violation.",
+      "whyWrong": {
+        "b": "Lawful collection does not extend the consent to a second, undisclosed purpose.",
+        "c": "De-identification addresses confidentiality but not the purpose she consented to.",
+        "d": "The violation occurs when the data are used beyond the consented purpose, whatever follows."
+      },
+      "topic": "Informed consent for assessment",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XI.A, Standard 9.03, p. 103"
+    },
+    {
+      "id": "q02",
+      "type": "single",
+      "stem": "Under Standard 9.03, the informed consent for an assessment must cover the nature and purpose of the assessment, fees, limits on confidentiality, and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the norms and standardization sample of each instrument"
+        },
+        {
+          "id": "b",
+          "text": "the involvement of any third parties"
+        },
+        {
+          "id": "c",
+          "text": "the psychologist's own training in the instruments used"
+        },
+        {
+          "id": "d",
+          "text": "the length of time the raw data will be retained"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The four items 9.03 names are the nature and purpose of the assessment, fees, any limits on confidentiality, and the involvement of third parties such as a court, parents, or an employer.",
+      "whyWrong": {
+        "a": "Technical properties of the instruments are not among the required disclosures.",
+        "c": "The psychologist's training is not one of the four items listed.",
+        "d": "Retention periods belong to record keeping under Standard 6."
+      },
+      "topic": "Informed consent for assessment",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 1,
+      "sourceRef": "Section XI.A, Standard 9.03, p. 103"
+    },
+    {
+      "id": "q03",
+      "type": "single",
+      "stem": "A school administers group achievement testing to every pupil as part of its annual programme. Under Standard 9.03, individual informed consent:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "is required from each pupil's parent before testing begins"
+        },
+        {
+          "id": "b",
+          "text": "is required unless the school obtains a waiver from the state board"
+        },
+        {
+          "id": "c",
+          "text": "is not required, as part of a routine educational activity"
+        },
+        {
+          "id": "d",
+          "text": "is not required, since consent never applies to group administration"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 9.03 notes consents for assessment need not be obtained in certain circumstances, including where testing is part of a routine educational, institutional, or organizational activity, or is mandated by law.",
+      "whyWrong": {
+        "a": "Parental consent is not required for testing that is part of a routine educational activity.",
+        "b": "No state-board waiver mechanism appears in the standard.",
+        "d": "The exception turns on the routine nature of the activity, not on group administration."
+      },
+      "topic": "Informed consent for assessment",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XI.A, Standard 9.03, p. 103"
+    },
+    {
+      "id": "q04",
+      "type": "single",
+      "stem": "A court orders an examinee to undergo a forensic evaluation, and he objects. Under Paragraph 6.03.02 of the Specialty Guidelines for Forensic Psychology, the practitioner:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "must obtain the examinee's consent before any examination may proceed"
+        },
+        {
+          "id": "b",
+          "text": "must return the matter to the court for a fresh order compelling cooperation"
+        },
+        {
+          "id": "c",
+          "text": "may proceed only after the examinee has consulted his own attorney"
+        },
+        {
+          "id": "d",
+          "text": "can conduct the examination over the objection and without the examinee's consent"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The Guidelines state that where an examinee is ordered by the court to participate, the forensic practitioner can conduct the examination over the objection and without the consent of the examinee.",
+      "whyWrong": {
+        "a": "A court order displaces the ordinary consent requirement for the examination.",
+        "b": "A fresh order is not required; the existing one suffices.",
+        "c": "Advising the examinee to contact an attorney is one option where he declines, not a precondition to proceeding."
+      },
+      "topic": "Informed consent for assessment",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XI.A, p. 103"
+    },
+    {
+      "id": "q05",
+      "type": "single",
+      "stem": "Standard 9.04 defines test data as raw and scaled scores, the client's responses to test questions or stimuli, and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the psychologist's notes and recordings of statements and behavior"
+        },
+        {
+          "id": "b",
+          "text": "the manuals and protocols used to administer and score the instrument"
+        },
+        {
+          "id": "c",
+          "text": "the normative tables against which the client's scores were compared"
+        },
+        {
+          "id": "d",
+          "text": "the referral question and any correspondence with the referring party"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Test data are raw and scaled scores, client responses to test questions or stimuli, and psychologists' notes and recordings concerning client statements and behavior during an examination.",
+      "whyWrong": {
+        "b": "Manuals and protocols are test materials under 9.11, a separate category.",
+        "c": "Normative tables form part of the instrument rather than the client's data.",
+        "d": "Referral correspondence is not part of the definition."
+      },
+      "topic": "Test data and test materials",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section XI.B, Standard 9.04, p. 103"
+    },
+    {
+      "id": "q06",
+      "type": "single",
+      "stem": "A client asks Dr. Iqbal for the protocols, manuals, and item booklets from her recent testing so she can review them at home. These fall under:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Standard 9.04 on test data, which are ordinarily provided to the client"
+        },
+        {
+          "id": "b",
+          "text": "Standard 9.11 on test materials, whose integrity and security must be protected"
+        },
+        {
+          "id": "c",
+          "text": "Standard 6.01, which governs the maintenance of client records generally"
+        },
+        {
+          "id": "d",
+          "text": "HIPAA's designated record set, which the client may inspect and copy"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 9.11 defines test materials as manuals, instruments, protocols, and test questions or stimuli, and requires reasonable efforts to protect their integrity and security. That is distinct from test data, which are ordinarily provided.",
+      "whyWrong": {
+        "a": "Test data are the client's scores, responses, and the psychologist's notes — not the instruments themselves.",
+        "c": "6.01 concerns record maintenance rather than the security of test instruments.",
+        "d": "Test materials are not part of the designated record set the client may obtain."
+      },
+      "topic": "Test data and test materials",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XI.B, Standards 9.04 and 9.11, p. 103"
+    },
+    {
+      "id": "q07",
+      "type": "single",
+      "stem": "Dr. Marchetti allows a client to take the MMPI home to complete at her convenience. This is problematic because it:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "breaches the client's confidentiality under Standard 4.01"
+        },
+        {
+          "id": "b",
+          "text": "constitutes an obsolete use of the instrument under Standard 9.08"
+        },
+        {
+          "id": "c",
+          "text": "fails to protect the integrity and security of the test materials"
+        },
+        {
+          "id": "d",
+          "text": "denies the client an explanation of results under Standard 9.10"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 9.11 requires reasonable efforts to protect the integrity and security of test materials. Letting a client complete the MMPI at home is the section's own example of a violation, alongside showing an examinee items before administration.",
+      "whyWrong": {
+        "a": "No confidential information is disclosed to a third party here.",
+        "b": "Obsolescence concerns outdated instruments and results, not where the test is taken.",
+        "d": "The explanation of results is a separate obligation that arises after scoring."
+      },
+      "topic": "Test data and test materials",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XI.B, Standard 9.11, p. 103"
+    },
+    {
+      "id": "q08",
+      "type": "single",
+      "stem": "Standard 9.04 permits withholding test data from a client to protect them or others from substantial harm or misuse. The section notes that HIPAA narrows this by limiting withholding to cases where access is likely to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "cause the client significant emotional distress on reading the results"
+        },
+        {
+          "id": "b",
+          "text": "compromise the psychologist's ability to complete the evaluation"
+        },
+        {
+          "id": "c",
+          "text": "expose the psychologist to a complaint before the licensing board"
+        },
+        {
+          "id": "d",
+          "text": "endanger the life or physical safety of the client or another person"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The ethical latitude in 9.04 is wider than the legal one: HIPAA limits a psychologist's ability to withhold test data to situations where access is likely to endanger the life or physical safety of the client or another person.",
+      "whyWrong": {
+        "a": "Emotional distress falls short of the danger to life or physical safety HIPAA requires.",
+        "b": "Convenience in completing an evaluation is not a ground for withholding.",
+        "c": "The psychologist's own exposure is not what the limitation protects against."
+      },
+      "topic": "Test data and test materials",
+      "level": "application",
+      "stemType": "short",
+      "difficulty": 3,
+      "sourceRef": "Section XI.B, Standard 9.04, p. 103"
+    },
+    {
+      "id": "q09",
+      "type": "single",
+      "stem": "An examinee took the tests in her second language. Under Standard 9.06, Dr. Bassett must consider this when interpreting the results and must also:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "indicate any potential limitations of her conclusions"
+        },
+        {
+          "id": "b",
+          "text": "re-administer the battery in the examinee's first language"
+        },
+        {
+          "id": "c",
+          "text": "decline to report any scores obtained under those conditions"
+        },
+        {
+          "id": "d",
+          "text": "adjust the scores upward to compensate for the language burden"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 9.06 requires taking into account the purpose of the assessment and factors that might affect the accuracy of the interpretation — such as language skills or cultural background — and indicating any potential limitations of the conclusions.",
+      "whyWrong": {
+        "b": "Re-administration may sometimes help but is not what the standard requires.",
+        "c": "Declining to report goes beyond the standard, which calls for noting limitations.",
+        "d": "Ad hoc score adjustment has no basis in the standard."
+      },
+      "topic": "Interpreting and explaining results",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XI.C, Standard 9.06, p. 104"
+    },
+    {
+      "id": "q10",
+      "type": "single",
+      "stem": "Dr. Feld hands a client a printout of her MMPI T-scores and nothing more. Under Standard 9.10 he should instead:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "withhold the scores entirely until a follow-up session can be arranged"
+        },
+        {
+          "id": "b",
+          "text": "provide an understandable explanation of the scores and their implications"
+        },
+        {
+          "id": "c",
+          "text": "refer her to the test publisher's interpretive guide for consumers"
+        },
+        {
+          "id": "d",
+          "text": "release the scores only to her designated representative rather than to her"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 9.10 requires reasonable steps to ensure explanations of results are given to the individual or designated representative. The section's example is that a psychologist should not simply give a client her T-scores but should explain them and their implications for further assessment or intervention.",
+      "whyWrong": {
+        "a": "Withholding results is not what the standard directs; explaining them is.",
+        "c": "Directing the client to published material does not discharge the psychologist's own obligation.",
+        "d": "The standard names the individual or their designated representative, not the representative alone."
+      },
+      "topic": "Interpreting and explaining results",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XI.C, Standard 9.10, p. 104"
+    },
+    {
+      "id": "q11",
+      "type": "single",
+      "stem": "A psychologist who uses an automated scoring and interpretation service must select it on the basis of its validity and other appropriate considerations, and remains:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "free of liability for errors introduced by the service's algorithms"
+        },
+        {
+          "id": "b",
+          "text": "obliged to report the service's error rate to the client in writing"
+        },
+        {
+          "id": "c",
+          "text": "responsible for applying and interpreting the information appropriately"
+        },
+        {
+          "id": "d",
+          "text": "required to re-score every protocol by hand as a verification step"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 9.09 requires psychologists who use scoring and interpretation services to select them on the basis of validity and other appropriate considerations, and makes them responsible for applying and interpreting the information in an appropriate manner.",
+      "whyWrong": {
+        "a": "Responsibility for appropriate application and interpretation stays with the psychologist.",
+        "b": "No error-rate disclosure requirement appears in the standard.",
+        "d": "Hand re-scoring of every protocol is not required."
+      },
+      "topic": "Interpreting and explaining results",
+      "level": "application",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section XI.C, Standard 9.09, p. 104"
+    },
+    {
+      "id": "q12",
+      "type": "single",
+      "stem": "A psychologist who offers an automated interpretation service to other practitioners must accurately describe its purpose, validity, reliability, norms, and application, and must also:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "provide free technical support for the life of the product"
+        },
+        {
+          "id": "b",
+          "text": "restrict sales to psychologists licensed in the same jurisdiction"
+        },
+        {
+          "id": "c",
+          "text": "submit the service for review by an APA advisory committee"
+        },
+        {
+          "id": "d",
+          "text": "specify any special qualifications required for its use"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 9.09 requires those offering scoring and interpretation services to describe accurately their purpose, validity, reliability, norms, and application, and to specify any special qualifications applicable to their use.",
+      "whyWrong": {
+        "a": "Support commitments are commercial matters outside the standard.",
+        "b": "Jurisdictional sales restrictions are not required by the standard.",
+        "c": "No APA pre-review of such services is required."
+      },
+      "topic": "Interpreting and explaining results",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section XI.C, Standard 9.09, p. 104"
+    },
+    {
+      "id": "q13",
+      "type": "single",
+      "stem": "Dr. Sørensen assigns a diagnosis on the strength of one screening instrument alone. This most directly conflicts with the requirement that psychologists:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "base conclusions on information sufficient to substantiate them"
+        },
+        {
+          "id": "b",
+          "text": "use techniques only for purposes supported by the research evidence"
+        },
+        {
+          "id": "c",
+          "text": "ensure that tests are administered by qualified people"
+        },
+        {
+          "id": "d",
+          "text": "avoid basing recommendations on obsolete test results"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 9.01 requires that opinions, conclusions, and recommendations rest on assessment results and other information sufficient to substantiate them. Assigning a diagnosis on the basis of a single test is the section's own example.",
+      "whyWrong": {
+        "b": "9.02 concerns whether a technique suits the purpose, not whether the evidence base is sufficient.",
+        "c": "Nothing suggests the instrument was administered by an unqualified person.",
+        "d": "Obsolescence is not what is at issue in a single-test diagnosis."
+      },
+      "topic": "Preventing misuse of tests",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XI.D, Standard 9.01, p. 104"
+    },
+    {
+      "id": "q14",
+      "type": "single",
+      "stem": "A psychologist evaluates only the mother in a custody dispute and then recommends that she be granted primary custody. The problem is that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "custody recommendations are prohibited outright by Standard 9.01"
+        },
+        {
+          "id": "b",
+          "text": "the recommendation is not substantiated by sufficient information"
+        },
+        {
+          "id": "c",
+          "text": "the evaluation created a multiple relationship with the mother"
+        },
+        {
+          "id": "d",
+          "text": "the psychologist failed to obtain the court's permission to evaluate"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Making a custody recommendation after evaluating only one of the child's parents is the section's example of a conclusion not substantiated by sufficient information, contrary to Standard 9.01.",
+      "whyWrong": {
+        "a": "Custody recommendations are not prohibited; they must be adequately grounded.",
+        "c": "Evaluating a parent does not itself create a multiple relationship.",
+        "d": "Court permission is not the issue the example raises."
+      },
+      "topic": "Preventing misuse of tests",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XI.D, Standard 9.01, p. 104"
+    },
+    {
+      "id": "q15",
+      "type": "single",
+      "stem": "An employer wants to use a general personality inventory to select air traffic controllers. Under Standard 9.02 this is acceptable only if:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the applicants consent in writing to the use of a personality measure"
+        },
+        {
+          "id": "b",
+          "text": "a licensed psychologist rather than a human resources officer scores it"
+        },
+        {
+          "id": "c",
+          "text": "the test has been shown to be a valid selection tool for that job"
+        },
+        {
+          "id": "d",
+          "text": "the inventory is supplemented by a structured selection interview"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 9.02 requires that assessment techniques be used for purposes appropriate in light of research on or evidence of their usefulness and proper application. The section's example is that using a personality test to select air traffic controllers requires it to be a demonstrated valid selection tool for that job.",
+      "whyWrong": {
+        "a": "Consent does not make an invalid instrument appropriate for the purpose.",
+        "b": "Who scores it does not address whether the test is valid for selection.",
+        "d": "Adding an interview does not validate the inventory for this use."
+      },
+      "topic": "Preventing misuse of tests",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XI.D, Standard 9.02, p. 104"
+    },
+    {
+      "id": "q16",
+      "type": "single",
+      "stem": "A clinic director asks whether a psychology intern is qualified to administer and interpret a particular instrument. Regarding who counts as qualified, the Ethics Code:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "requires doctoral-level licensure for all standardized instruments"
+        },
+        {
+          "id": "b",
+          "text": "defers entirely to the qualification levels set in the test manual"
+        },
+        {
+          "id": "c",
+          "text": "restricts administration to those who have completed a supervised practicum"
+        },
+        {
+          "id": "d",
+          "text": "gives no clear guidelines, leaving the judgment largely to the psychologist"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "No clear guidelines are given in the Code for determining whether a person is qualified. The level of expertise varies with the type of test, its purpose, and the characteristics of the examinees, and it is often up to the psychologist to decide.",
+      "whyWrong": {
+        "a": "No blanket licensure requirement appears in the Code.",
+        "b": "The manual may provide helpful information, but the decision rests with the psychologist.",
+        "c": "A practicum requirement is not stated in the Code."
+      },
+      "topic": "Preventing misuse of tests",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XI.D, Standard 9.07, p. 104"
+    },
+    {
+      "id": "q17",
+      "type": "single",
+      "stem": "A college senior who has taken one introductory course in assessment administers the WAIS at a mental health clinic and interprets the results. This violates the requirement that tests be:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "administered, scored, and interpreted by qualified people"
+        },
+        {
+          "id": "b",
+          "text": "selected on the basis of validity for the intended purpose"
+        },
+        {
+          "id": "c",
+          "text": "kept secure so that examinees cannot preview items"
+        },
+        {
+          "id": "d",
+          "text": "supported by data sufficient to substantiate any conclusion"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 9.07 requires that tests and other measures be administered, scored, and interpreted by qualified people. The section gives this exact scenario as unacceptable.",
+      "whyWrong": {
+        "b": "The WAIS is an appropriate instrument; the problem is who is using it.",
+        "c": "Nothing indicates a breach of test security here.",
+        "d": "Sufficiency of the evidence base is a separate requirement under 9.01."
+      },
+      "topic": "Preventing misuse of tests",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 1,
+      "sourceRef": "Section XI.D, Standard 9.07, p. 104"
+    },
+    {
+      "id": "q18",
+      "type": "single",
+      "stem": "Deciding whether to remove old test data from a client's record, the section suggests the psychologist ask:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "whether the instrument has since been superseded by a newer edition"
+        },
+        {
+          "id": "b",
+          "text": "whether retention or deletion is in the best interest of the client"
+        },
+        {
+          "id": "c",
+          "text": "whether the data have been accessed within the past three years"
+        },
+        {
+          "id": "d",
+          "text": "whether the client has consented in writing to their destruction"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The client's welfare is the guiding principle for obsolescence decisions, so the question to ask about removing old data is whether retention or deletion is in the client's best interest. Legal and organizational requirements must also be considered.",
+      "whyWrong": {
+        "a": "A newer edition does not by itself make earlier data useless.",
+        "c": "Recency of access is not the criterion suggested.",
+        "d": "Client consent is not what governs the decision to retain or delete."
+      },
+      "topic": "Obsolete tests",
+      "level": "application",
+      "stemType": "short",
+      "difficulty": 3,
+      "sourceRef": "Section XI.D, Standard 9.08, p. 104"
+    },
+    {
+      "id": "q19",
+      "type": "single",
+      "stem": "Dr. Okonjo wants to compare a student's achievement scores from four years ago with scores obtained last month. Under Standard 9.08 this is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "inappropriate, since decisions may never rest on data more than two years old"
+        },
+        {
+          "id": "b",
+          "text": "appropriate only where the same edition of the instrument was used throughout"
+        },
+        {
+          "id": "c",
+          "text": "appropriate, since older scores can be useful for evaluating change over time"
+        },
+        {
+          "id": "d",
+          "text": "inappropriate, since 9.08 requires obsolete data be removed from the record"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 9.08 concerns recommendations resting on obsolete results, but the section notes old data are not automatically useless: comparing old scores to recent ones can evaluate change in academic achievement or the long-term effects of treatment.",
+      "whyWrong": {
+        "a": "The Code sets no fixed age limit on data.",
+        "b": "Edition continuity aids comparison but is not what the standard requires.",
+        "d": "9.08 does not require removal, and the client's welfare guides retention decisions."
+      },
+      "topic": "Obsolete tests",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XI.D, Standard 9.08, p. 104"
+    },
+    {
+      "id": "q20",
+      "type": "single",
+      "stem": "All of the following are accurate statements about Standard 9 EXCEPT:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "test materials include manuals, instruments, protocols, and test questions"
+        },
+        {
+          "id": "b",
+          "text": "test data are ordinarily provided to the client or those named in a release"
+        },
+        {
+          "id": "c",
+          "text": "the client's welfare guides decisions about obsolete test results"
+        },
+        {
+          "id": "d",
+          "text": "the Code sets out clear criteria for deciding who is qualified to use a given test"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "No clear guidelines are given in the Ethics Code for determining whether a person is qualified; the required expertise varies by test, purpose, and examinee, and the judgment is often the psychologist's.",
+      "whyWrong": {
+        "a": "This is accurate — it is the definition in Standard 9.11.",
+        "b": "This is accurate — 9.04 provides that test data are ordinarily provided.",
+        "c": "This is accurate — the client's welfare is the guiding principle for obsolescence."
+      },
+      "topic": "Obsolete tests",
+      "level": "recall",
+      "stemType": "negative",
+      "difficulty": 2,
+      "sourceRef": "Section XI.B and XI.D, pp. 103-104"
+    }
+  ]
+}
