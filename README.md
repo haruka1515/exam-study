@@ -23,6 +23,7 @@ question-set JSON schema.
 | `css/`, `js/` | Plain CSS and ES modules — no build step, no dependencies. |
 | `data/manifest.json` | Every chapter and section: titles, question-style profile, file path, status. Edit this first. |
 | `data/chNN/sMM.json` | One generated question set per section. |
+| `prompts/transcribe.md` | How to read a scanned section into notes that generate well. |
 | `prompts/generate.md` | The generation prompt. Paste with a PDF attached. |
 | `prompts/profiles.json` | Question-type profiles and their recall/application mixes, taken from Table 5 of the Orientation chapter. |
 | `text/Orientation.md` | What the exam actually looks like: question types, stem and answer patterns, and Table 5. The reference for question generation. |
@@ -31,6 +32,7 @@ question-set JSON schema.
 | `tools/validate.mjs` | CLI wrapper for the same checks (needs Node). |
 | `tools/validate.py` | The same checks in Python, for when Node isn't installed. |
 | `tools/extract.py` | PDF → text, or → page images when the PDF is a scan. |
+| `tools/polish.py` | Fixes both guessability cues in the one safe order. Start here. |
 | `tools/rebalance.py` | Evens out a skewed answer key by re-lettering choices. |
 | `tools/delength.py` | Finds questions where the correct answer is the longest choice. |
 | `pdfs/` | Your source PDFs. **Gitignored** — see below. |
@@ -62,18 +64,29 @@ set that drifts recall-heavy shows up as a warning.
 
 ## The loop, per section
 
-1. Drop the section PDF in `pdfs/`, then run `python tools/extract.py`.
+1. Drop the chapter PDF in `pdfs/`, then run `python tools/extract.py`.
    It works out whether the PDF has a real text layer or is a scan, and writes
    `text/<name>.md` either way. Scanned pages also land as PNGs for Claude to
    read directly — see below.
-2. Open a Claude session, attach the PDF (or point it at `text/`), and paste
-   `prompts/generate.md` with the four bracketed fields filled in from
-   `manifest.json` and `profiles.json`.
-3. Save the JSON to `data/chNN/sMM.json`, and flip that section's `status` to
-   `"generated"` in `manifest.json`.
-4. Validate — `python tools/validate.py`, or `npm run validate` with Node, or
+2. Read the section's page images into `text/<name>.sNN.md`, following
+   `prompts/transcribe.md`. These are condensed notes in your own words, not a
+   transcript — and their *shape* is what determines question quality, so that
+   file is worth reading before you start.
+3. Generate with `prompts/generate.md` at `[COUNT]` 20, writing the JSON to
+   `data/chNN/sMM.json`, and flip that section's `status` to `"generated"` in
+   `manifest.json`.
+4. Polish — `python tools/polish.py --report data/chNN/sMM.json` shows the two
+   guessability cues; pass `--edits` to fix them. **Use this rather than running
+   the fixes by hand:** the order is silent and destructive to get wrong (see
+   below).
+5. Validate — `python tools/validate.py`, or `npm run validate` with Node, or
    open `validate.html` in the browser. Fix anything red. Skim a few by eye.
-5. `git commit && git push`. Study.
+6. `git commit && git push`. Study.
+
+Once every section of a chapter exists, generate the 50-question chapter review
+into `data/chNN/review.json` and add a `review` entry to that chapter in the
+manifest. It is worth waiting for the whole chapter: a review over a third of the
+sections is not a chapter review.
 
 ### Scanned PDFs
 
@@ -86,16 +99,29 @@ into `text/<name>.md` once, and the chapter is reusable as text from then on.
 
 ### Two quality checks worth knowing
 
-Writing 50+ questions in one pass reliably produces two biases the validator
-catches, both of which let you score without knowing the material:
+Writing a set in one pass reliably produces two biases the validator catches,
+both of which let you score without knowing the material:
 
-- **A skewed answer key** — `python tools/rebalance.py data/chNN/sMM.json`
-  re-letters the choices to even it out. Choices are a set, so reordering
-  changes nothing about the question.
-- **A length cue**, where the correct answer is the longest option.
-  `python tools/delength.py --list data/chNN/sMM.json` prints the offenders.
-  Fix these by expanding the *distractors* with real content — padding them
-  with filler just makes the question guessable a different way.
+- **A skewed answer key** — `tools/rebalance.py` re-letters the choices to even
+  it out. Choices are a set, so reordering changes nothing about the question.
+- **A length cue**, where the correct answer is the longest option. Fix these by
+  expanding the *distractors* with real content — padding them with filler just
+  makes the question guessable a different way. With four choices, anything above
+  25% is worth fixing.
+
+**The order is not optional, and getting it wrong is silent.** `rebalance.py`
+re-letters the choices, so an edit addressed by *letter* after a rebalance lands
+on a different choice than intended — overwriting correct answers with distractor
+text while leaving the file structurally valid. No validator catches that; the
+questions simply become wrong. So: expand distractors first, rebalance second,
+and address edits by choice *text*.
+
+`tools/polish.py` enforces exactly that, and refuses to modify a keyed answer:
+
+```
+python tools/polish.py --report data/chNN/sMM.json          # what needs fixing
+python tools/polish.py --edits edits.json data/chNN/sMM.json  # apply, then rebalance
+```
 
 ## Validation
 
