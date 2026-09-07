@@ -35,14 +35,14 @@
           "number": 1,
           "title": "Introduction",
           "file": "ch02/s01.json",
-          "status": "pending"
+          "status": "generated"
         },
         {
           "id": "s02",
           "number": 2,
           "title": "APA Ethical Principles and Code of Conduct (2017)",
           "file": "ch02/s02.json",
-          "status": "pending"
+          "status": "generated"
         },
         {
           "id": "s03",
@@ -128,7 +128,11 @@
           "file": "ch02/s14.json",
           "status": "pending"
         }
-      ]
+      ],
+      "review": {
+        "file": "ch02/review.json",
+        "status": "pending"
+      }
     }
   ]
 }

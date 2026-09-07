@@ -1,0 +1,753 @@
+{
+  "id": "ch02-s02",
+  "chapter": 2,
+  "chapterTitle": "Ethics and Professional Issues",
+  "section": 2,
+  "sectionTitle": "APA Ethical Principles and Code of Conduct (2017)",
+  "profile": "application-primary",
+  "sourceFile": "Ethics.pdf",
+  "generatedAt": "2026-09-07",
+  "questionTarget": 20,
+  "questions": [
+    {
+      "id": "q01",
+      "type": "single",
+      "stem": "A hearing panel is asked whether a psychologist's conduct, which no Ethical Standard specifically addresses, is therefore ethical. Under the Code's own account of the Standards, the panel should conclude that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "conduct not specifically addressed by a Standard is not thereby made either ethical or unethical"
+        },
+        {
+          "id": "b",
+          "text": "the conduct must be treated as ethical, since the Ethical Standards exhaustively define what the Code prohibits"
+        },
+        {
+          "id": "c",
+          "text": "the conduct must be treated as unethical, since the General Principles reach whatever the Standards happen to omit"
+        },
+        {
+          "id": "d",
+          "text": "the panel is obliged to refer the question to the Ethics Committee for a formal written interpretation"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The Ethical Standards are expressly not exhaustive. The Code states that conduct it does not specifically address is not thereby made ethical or unethical, so the absence of a governing Standard settles nothing on its own.",
+      "whyWrong": {
+        "b": "This treats the Standards as a complete catalogue, which the Code disclaims.",
+        "c": "Using the aspirational Principles to impose sanctions distorts their meaning and purpose.",
+        "d": "Referral does not change the interpretive rule the Code already supplies."
+      },
+      "topic": "Structure and applicability",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section II, structure of the Code, pp. 60-61"
+    },
+    {
+      "id": "q02",
+      "type": "single",
+      "stem": "The Ethics Code uses modifiers such as \"reasonably,\" \"appropriate,\" and \"potentially\" throughout. The term \"reasonable\" means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "whatever the individual psychologist sincerely believed to have been justified at the time of acting"
+        },
+        {
+          "id": "b",
+          "text": "the prevailing professional judgment of psychologists engaged in similar activities in similar circumstances"
+        },
+        {
+          "id": "c",
+          "text": "the standard that a reasonable lay member of the public would apply to the very same situation"
+        },
+        {
+          "id": "d",
+          "text": "the minimum conduct that would be sufficient to satisfy the licensing statute of the jurisdiction"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "\"Reasonable\" is defined as the prevailing professional judgment of psychologists engaged in similar activities in similar circumstances, given what the psychologist knew or should have known at the time. The modifiers exist to allow professional judgment and avoid rigid rules that quickly go stale.",
+      "whyWrong": {
+        "a": "Sincere belief is subjective; the standard is measured against prevailing professional judgment.",
+        "c": "The reference class is psychologists in similar circumstances, not the general public.",
+        "d": "The Code's standard is independent of, and sometimes higher than, what a licensing statute requires."
+      },
+      "topic": "Structure and applicability",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section II, modifiers, p. 61"
+    },
+    {
+      "id": "q03",
+      "type": "single",
+      "stem": "A plaintiff argues in a civil suit that because a psychologist violated a provision of the Ethics Code, legal liability follows automatically. The Code itself states that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "a violation of any Ethical Standard establishes negligence per se in a subsequent civil action"
+        },
+        {
+          "id": "b",
+          "text": "civil liability follows only in cases where the provision violated is an enforceable Ethical Standard"
+        },
+        {
+          "id": "c",
+          "text": "it is not intended as a basis of civil liability, and violation does not by itself establish it"
+        },
+        {
+          "id": "d",
+          "text": "the question is governed entirely by the licensing statute in force in the relevant jurisdiction"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The Code states that it is not intended to be a basis of civil liability. Whether a psychologist has violated the Code does not by itself determine whether they are legally liable.",
+      "whyWrong": {
+        "a": "This is precisely the inference the Code disclaims.",
+        "b": "The enforceability of a provision within APA's own process is a separate question from civil liability.",
+        "d": "Licensing statutes are one source of legal consequence, but the Code's disclaimer is what answers this question."
+      },
+      "topic": "Structure and applicability",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section II, applicability, p. 61"
+    },
+    {
+      "id": "q04",
+      "type": "single",
+      "stem": "Which General Principle is concerned with accuracy, honesty, and truthfulness, and with the serious obligation to weigh the need for and consequences of any ethically justifiable deception?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Principle A — Beneficence and Nonmaleficence"
+        },
+        {
+          "id": "b",
+          "text": "Principle D — Justice"
+        },
+        {
+          "id": "c",
+          "text": "Principle E — Respect for People's Rights and Dignity"
+        },
+        {
+          "id": "d",
+          "text": "Principle C — Integrity"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Principle C (Integrity) directs psychologists to promote accuracy, honesty, and truthfulness, not to steal, cheat, or engage in fraud or intentional misrepresentation, and where deception may be justifiable, to weigh the need and consequences and correct resulting mistrust or harm.",
+      "whyWrong": {
+        "a": "Principle A concerns benefiting those one works with and doing no harm.",
+        "b": "Principle D concerns fairness in access to and quality of psychological services.",
+        "c": "Principle E concerns dignity, privacy, confidentiality, self-determination, and respect for individual differences."
+      },
+      "topic": "The five General Principles",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section II, General Principles, pp. 62-63"
+    },
+    {
+      "id": "q05",
+      "type": "single",
+      "stem": "A psychologist notices that fatigue from an untreated health problem is beginning to affect her clinical judgment. Which General Principle most directly expresses the aspiration engaged here?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Principle A — Beneficence and Nonmaleficence, which asks psychologists to be alert to the effect of their own health on their ability to help"
+        },
+        {
+          "id": "b",
+          "text": "Principle B — Fidelity and Responsibility, which concerns establishing relationships of trust and upholding professional standards"
+        },
+        {
+          "id": "c",
+          "text": "Principle D — Justice, which concerns fairness in access to psychological services and in the quality of those services"
+        },
+        {
+          "id": "d",
+          "text": "Principle E — Respect for People's Rights and Dignity, which concerns privacy and self-determination"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Principle A directs psychologists to benefit those they work with and do no harm, and specifically to be alert to the effect of their own physical and mental health on their ability to help those with whom they work.",
+      "whyWrong": {
+        "b": "Principle B concerns trust, role clarity, conflicts of interest, and concern for colleagues' compliance.",
+        "c": "Principle D addresses fairness and bias in access to and quality of services.",
+        "d": "Principle E addresses dignity, privacy, confidentiality, and respect for individual and cultural differences."
+      },
+      "topic": "The five General Principles",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section II, General Principle A, p. 62"
+    },
+    {
+      "id": "q06",
+      "type": "single",
+      "stem": "Dr. Nwosu is asked to see a new client who is the sister of a woman he currently treats. He considers whether this would be an impermissible multiple relationship. Standard 3.05 indicates that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "every multiple relationship is strictly prohibited, since objectivity can never be assured in any of them"
+        },
+        {
+          "id": "b",
+          "text": "a multiple relationship not reasonably expected to cause impairment, risk, or harm is not unethical"
+        },
+        {
+          "id": "c",
+          "text": "the relationship is permissible provided that both of the women give their written informed consent to it"
+        },
+        {
+          "id": "d",
+          "text": "the relationship is permissible only in circumstances where no other practitioner is reasonably available"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 3.05 requires refraining where the multiple relationship could reasonably be expected to impair objectivity, competence, or effectiveness, or risk exploitation or harm. It states expressly that multiple relationships not reasonably expected to cause impairment, risk, or harm are not unethical.",
+      "whyWrong": {
+        "a": "This is the common misreading; the Code prohibits only those relationships meeting the impairment-or-harm test.",
+        "c": "Consent does not convert a relationship that would impair objectivity into a permissible one, nor is it required where the test is not met.",
+        "d": "Unavailability of alternatives is the condition in Standard 2.01(d) on competence, not the test under 3.05."
+      },
+      "topic": "Human relations",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section II, Standard 3.05, pp. 66-67"
+    },
+    {
+      "id": "q07",
+      "type": "single",
+      "stem": "An insurance company retains Dr. Barrios to evaluate a claimant. Under Standard 3.07 (Third-Party Requests for Services), he must clarify at the outset:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "only the fee arrangement and the expected date upon which his written report is to be delivered"
+        },
+        {
+          "id": "b",
+          "text": "that the claimant is to be regarded as his client and is owed the full confidentiality of a therapy relationship"
+        },
+        {
+          "id": "c",
+          "text": "his role, who the client is, the probable uses of the information, and that confidentiality may be limited"
+        },
+        {
+          "id": "d",
+          "text": "that he will disclose nothing to the insurer without the claimant's written authorization"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 3.07 requires clarifying at the outset the nature of the psychologist's role, the identity of the client, the probable uses of the services and information obtained, and the fact that there may be limits to confidentiality.",
+      "whyWrong": {
+        "a": "Fees and timelines are practical matters that do not address the role and confidentiality confusion 3.07 exists to prevent.",
+        "b": "In a third-party evaluation the retaining party is typically the client, which is exactly why the identity of the client must be clarified.",
+        "d": "This would defeat the purpose of the retained evaluation; 3.07 requires disclosing the limits, not promising absolute confidentiality."
+      },
+      "topic": "Human relations",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section II, Standard 3.07, p. 67"
+    },
+    {
+      "id": "q08",
+      "type": "single",
+      "stem": "Under Standard 3.02, conduct may constitute sexual harassment when it is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "a pattern of repeated acts over time, since a single incident cannot establish a hostile environment"
+        },
+        {
+          "id": "b",
+          "text": "physical rather than verbal in nature, since verbal conduct falls under Standard 3.03 instead"
+        },
+        {
+          "id": "c",
+          "text": "accompanied by a demonstrable adverse effect on the recipient's employment or training"
+        },
+        {
+          "id": "d",
+          "text": "either a single intense act or multiple persistent acts, judged against the standard the Code sets"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 3.02 states that sexual harassment may consist of a single intense or severe act or of multiple persistent or pervasive acts. It covers solicitation, physical advances, and verbal or nonverbal conduct that is sexual in nature.",
+      "whyWrong": {
+        "a": "A single sufficiently intense act can constitute harassment under the standard.",
+        "b": "Verbal and nonverbal conduct sexual in nature falls squarely within 3.02; 3.03 covers other harassment based on listed characteristics.",
+        "c": "No demonstrable employment consequence is required by the standard."
+      },
+      "topic": "Human relations",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section II, Standard 3.02, p. 65"
+    },
+    {
+      "id": "q09",
+      "type": "single",
+      "stem": "Dr. Lindholm is ordered by a court to evaluate a defendant. Before proceeding, Standard 3.10 requires that she inform him of:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the nature of the service, the fact that it is court ordered, and the limits of confidentiality"
+        },
+        {
+          "id": "b",
+          "text": "his right to decline the evaluation altogether, since informed consent must always be given voluntarily"
+        },
+        {
+          "id": "c",
+          "text": "the diagnostic instruments that she intends to use and the published reliability data for each"
+        },
+        {
+          "id": "d",
+          "text": "nothing in particular, since a standing court order displaces the informed consent requirement entirely"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "For court-ordered or otherwise mandated services, Standard 3.10 requires informing the person of the nature of the anticipated services, the fact that they are mandated, and any limits to confidentiality — and doing so before proceeding.",
+      "whyWrong": {
+        "b": "The service is mandated, so a right to decline is not what the standard directs her to convey.",
+        "c": "Test selection detail is not among the disclosures the standard requires.",
+        "d": "A court order changes what must be disclosed, but it does not eliminate the disclosure obligation."
+      },
+      "topic": "Informed consent",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section II, Standard 3.10, p. 68"
+    },
+    {
+      "id": "q10",
+      "type": "single",
+      "stem": "A psychologist begins work with an adolescent who is legally incapable of giving informed consent. Standard 3.10 directs her to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "obtain the guardian's written permission and proceed without involving the adolescent in the decision"
+        },
+        {
+          "id": "b",
+          "text": "give an appropriate explanation, seek the person's assent, and obtain permission from a legally authorized person"
+        },
+        {
+          "id": "c",
+          "text": "obtain the adolescent's own written consent, since assent and consent are equivalent in practice"
+        },
+        {
+          "id": "d",
+          "text": "proceed without any formal consent, since the Code exempts minors from its informed consent requirements"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "For persons legally incapable of informed consent, Standard 3.10 requires an appropriate explanation, seeking the person's assent, considering their preferences and best interests, and obtaining permission from a legally authorized person where law permits or requires.",
+      "whyWrong": {
+        "a": "Bypassing the adolescent omits the assent and consideration of preferences the standard requires.",
+        "c": "Assent is not legally equivalent to consent, which is why substitute permission is also required.",
+        "d": "The Code contains no such exemption; it prescribes a specific alternative procedure."
+      },
+      "topic": "Informed consent",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section II, Standard 3.10, p. 68"
+    },
+    {
+      "id": "q11",
+      "type": "single",
+      "stem": "Dr. Petrosyan must disclose some client information to a billing service in order to obtain payment. Standard 4.05 permits this disclosure, but limits it to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "whatever the payer's contract with the practice specifies as required"
+        },
+        {
+          "id": "b",
+          "text": "the complete clinical record, since a partial disclosure could potentially mislead the payer"
+        },
+        {
+          "id": "c",
+          "text": "the minimum information necessary to achieve the purpose"
+        },
+        {
+          "id": "d",
+          "text": "diagnostic information alone, with all of the treatment notes categorically excluded from it"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 4.05 permits disclosure without consent as permitted by law for valid purposes including obtaining payment, and expressly limits disclosure for that purpose to the minimum necessary to achieve it.",
+      "whyWrong": {
+        "a": "A contract cannot enlarge what the standard permits to be disclosed.",
+        "b": "Disclosing the full record is the opposite of the minimum-necessary limit.",
+        "d": "The limit is framed as the minimum necessary rather than by category of content."
+      },
+      "topic": "Privacy and confidentiality",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section II, Standard 4.05, p. 71"
+    },
+    {
+      "id": "q12",
+      "type": "single",
+      "stem": "A psychologist wishes to describe a former client's case in a published article. Standard 4.07 permits this only if:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the client has been formally discharged for at least two years prior to the date of publication"
+        },
+        {
+          "id": "b",
+          "text": "the client gives oral consent which the psychologist then documents contemporaneously in the record"
+        },
+        {
+          "id": "c",
+          "text": "the article appears in a peer-reviewed venue that is intended for a professional readership"
+        },
+        {
+          "id": "d",
+          "text": "the person is reasonably disguised, or consented in writing, or there is legal authorization"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 4.07 permits disclosure of confidential, personally identifiable information in writings, lectures, or other public media only where reasonable steps are taken to disguise the person, the person has consented in writing, or there is legal authorization.",
+      "whyWrong": {
+        "a": "The Code sets no waiting period that would license identifiable disclosure.",
+        "b": "The standard specifies written consent; oral consent noted in the file does not satisfy it.",
+        "c": "A professional readership does not remove the requirement."
+      },
+      "topic": "Privacy and confidentiality",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section II, Standard 4.07, p. 72"
+    },
+    {
+      "id": "q13",
+      "type": "single",
+      "stem": "Standard 4.02 requires that psychologists discuss the relevant limits of confidentiality with clients:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "at the outset unless infeasible or contraindicated, and thereafter as circumstances warrant"
+        },
+        {
+          "id": "b",
+          "text": "only once some specific foreseeable disclosure has actually arisen in the course of the work"
+        },
+        {
+          "id": "c",
+          "text": "at the conclusion of the assessment phase, immediately before treatment planning begins"
+        },
+        {
+          "id": "d",
+          "text": "only in cases where the client asks about the confidentiality of the material being discussed"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 4.02 requires the discussion to occur at the outset of the relationship unless it is not feasible or is contraindicated, and thereafter as new circumstances warrant.",
+      "whyWrong": {
+        "b": "Waiting for a disclosure to arise defeats the purpose, which is to let the client make informed choices from the beginning.",
+        "c": "The standard ties the discussion to the outset of the relationship, not to a phase of the work.",
+        "d": "The obligation does not depend on the client raising the question."
+      },
+      "topic": "Privacy and confidentiality",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section II, Standard 4.02, p. 70"
+    },
+    {
+      "id": "q14",
+      "type": "single",
+      "stem": "A psychologist pays a local news producer to feature her practice favourably within a broadcast news segment. Under Standard 5.02, this is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "permitted, provided that the content of the broadcast segment is accurate and not deceptive"
+        },
+        {
+          "id": "b",
+          "text": "prohibited, since psychologists do not compensate media employees for publicity in a news item"
+        },
+        {
+          "id": "c",
+          "text": "permitted, provided that she retains full responsibility for whatever is said about her practice"
+        },
+        {
+          "id": "d",
+          "text": "prohibited unless she discloses the payment to any client who happens to mention the segment"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 5.02 states that psychologists do not compensate employees of press, radio, television, or other communication media in return for publicity in a news item. Paid advertising must be identifiable as such.",
+      "whyWrong": {
+        "a": "Accuracy is required by 5.01, but it does not cure the separate prohibition on paying for news coverage.",
+        "c": "Retaining responsibility for others' statements is also required, and is likewise not a cure for this prohibition.",
+        "d": "The prohibition is on the payment itself; later disclosure to clients does not rescue it."
+      },
+      "topic": "Advertising and public statements",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section II, Standard 5.02, p. 74"
+    },
+    {
+      "id": "q15",
+      "type": "single",
+      "stem": "Dr. Ramirez answers a caller's question during a radio programme. Standard 5.04 requires that her advice be based on professional knowledge, be consistent with the Code, and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "be followed by an offer of a reduced-fee initial consultation within her own private practice"
+        },
+        {
+          "id": "b",
+          "text": "be limited to describing published research findings without offering any interpretation of them"
+        },
+        {
+          "id": "c",
+          "text": "not indicate that a professional relationship has been established with the recipient"
+        },
+        {
+          "id": "d",
+          "text": "be reviewed by the broadcaster's legal department before it is aired"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 5.04 requires that public statements offering advice through the media be based on appropriate professional knowledge, be consistent with the Ethics Code, and not indicate that a professional relationship has been established with the recipient.",
+      "whyWrong": {
+        "a": "Steering a caller toward her practice edges toward the solicitation 5.06 restricts, and it is not what 5.04 requires.",
+        "b": "The standard does not confine media advice to uninterpreted research summaries.",
+        "d": "No legal pre-review requirement appears in the standard."
+      },
+      "topic": "Advertising and public statements",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section II, Standard 5.04, p. 74"
+    },
+    {
+      "id": "q16",
+      "type": "single",
+      "stem": "Under Standard 5.05, a psychologist may not solicit testimonials from:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "any person who has at any time received professional services from the psychologist"
+        },
+        {
+          "id": "b",
+          "text": "former clients only, though current clients may be asked where written consent is obtained"
+        },
+        {
+          "id": "c",
+          "text": "colleagues and supervisees, though clients themselves may be asked once treatment has concluded"
+        },
+        {
+          "id": "d",
+          "text": "current therapy clients or others vulnerable to undue influence because of their circumstances"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 5.05 prohibits soliciting testimonials from current therapy clients or patients, and from other persons who because of their particular circumstances are vulnerable to undue influence.",
+      "whyWrong": {
+        "a": "A lifetime prohibition on everyone ever served is broader than the standard, which targets current clients and the vulnerable.",
+        "b": "This inverts the rule: it is current clients who may not be solicited.",
+        "c": "The standard is concerned with clients and vulnerable persons, not primarily with colleagues."
+      },
+      "topic": "Advertising and public statements",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section II, Standard 5.05, p. 74"
+    },
+    {
+      "id": "q17",
+      "type": "single",
+      "stem": "A psychologist volunteers with a disaster relief organization and approaches survivors at a shelter to offer psychological services. Under Standard 5.06, this outreach is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "permitted, since the prohibition on uninvited in-person solicitation does not preclude disaster or community outreach"
+        },
+        {
+          "id": "b",
+          "text": "prohibited, since survivors sheltering after a disaster are precisely those persons most vulnerable to undue influence"
+        },
+        {
+          "id": "c",
+          "text": "permitted only where the relief organization has obtained each survivor's prior written consent"
+        },
+        {
+          "id": "d",
+          "text": "prohibited unless the psychologist provides all of the services entirely without charge"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 5.06 restricts uninvited in-person solicitation of business from actual or potential therapy clients and others vulnerable to undue influence, but expressly does not preclude disaster or community outreach services.",
+      "whyWrong": {
+        "b": "Survivors may well be vulnerable, which is why the standard carves out disaster outreach explicitly rather than leaving it to inference.",
+        "c": "No such prior written consent requirement appears in the standard.",
+        "d": "Whether the services are charged for is not what the exception turns on."
+      },
+      "topic": "Advertising and public statements",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section II, Standard 5.06, p. 75"
+    },
+    {
+      "id": "q18",
+      "type": "single",
+      "stem": "Dr. Osei is planning an extended medical leave. Standard 3.12 requires that she:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "formally terminate each of her clients and provide each with a written discharge summary"
+        },
+        {
+          "id": "b",
+          "text": "make reasonable efforts to plan for the continuity of her clients' services"
+        },
+        {
+          "id": "c",
+          "text": "transfer every one of her clients to a psychologist who shares the same theoretical orientation"
+        },
+        {
+          "id": "d",
+          "text": "obtain each client's agreement to suspend treatment until she returns"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 3.12 requires making reasonable efforts to plan for continuity of services where they are interrupted by factors such as the psychologist's illness, death, unavailability, relocation, or retirement, or by a client's relocation or finances.",
+      "whyWrong": {
+        "a": "An interruption is not a termination, and the standard directs planning for continuity rather than discharge.",
+        "c": "Matching theoretical orientation is not what the standard requires.",
+        "d": "Suspending care by agreement does not satisfy an obligation aimed at continuity."
+      },
+      "topic": "Human relations",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section II, Standard 3.12, p. 69"
+    },
+    {
+      "id": "q19",
+      "type": "single",
+      "stem": "All of the following are accurate statements about the Ethics Code EXCEPT:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "it applies across delivery contexts including telephone, internet, and other electronic transmission"
+        },
+        {
+          "id": "b",
+          "text": "lack of awareness or misunderstanding of a Standard is not a defense to a charge"
+        },
+        {
+          "id": "c",
+          "text": "the General Principles may be cited as the basis for a sanction where no Standard applies"
+        },
+        {
+          "id": "d",
+          "text": "APA may enforce the Code against members, while other authorities may also act on violations"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The General Principles are aspirational. Relying on them to impose sanctions distorts their meaning and purpose; only the Ethical Standards are enforceable.",
+      "whyWrong": {
+        "a": "This is accurate — the Code expressly covers electronic and remote delivery.",
+        "b": "This is accurate — the Introduction states it directly.",
+        "d": "This is accurate — APA enforces against members, and boards, courts, and payors may act independently."
+      },
+      "topic": "Structure and applicability",
+      "level": "recall",
+      "stemType": "negative",
+      "difficulty": 2,
+      "sourceRef": "Section II, pp. 60-61"
+    },
+    {
+      "id": "q20",
+      "type": "single",
+      "stem": "A psychologist is retained as a consultant by a company and is asked partway through to also serve as a therapist to one of its employees. Considering Standards 3.05 and 3.06 together, the central question is whether:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the company has already consented in writing to his taking on the additional clinical role"
+        },
+        {
+          "id": "b",
+          "text": "the employee is willing to waive confidentiality entirely with respect to the employing company"
+        },
+        {
+          "id": "c",
+          "text": "his professional liability coverage extends to cover both consulting and clinical work"
+        },
+        {
+          "id": "d",
+          "text": "the second role could reasonably be expected to impair his objectivity or expose someone to harm or exploitation"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 3.05 turns on whether a multiple relationship could reasonably be expected to impair objectivity, competence, or effectiveness or risk exploitation or harm, and 3.06 frames conflicts of interest in the same terms. Both point to the same test.",
+      "whyWrong": {
+        "a": "Organizational consent does not answer whether objectivity would be impaired.",
+        "b": "A confidentiality waiver addresses one consequence but not the impairment question the standards ask.",
+        "c": "Insurance coverage is a risk-management matter with no bearing on the ethical test."
+      },
+      "topic": "Human relations",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section II, Standards 3.05 and 3.06, pp. 66-67"
+    }
+  ]
+}

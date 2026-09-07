@@ -1,0 +1,753 @@
+{
+  "id": "ch02-s01",
+  "chapter": 2,
+  "chapterTitle": "Ethics and Professional Issues",
+  "section": 1,
+  "sectionTitle": "Introduction",
+  "profile": "application-primary",
+  "sourceFile": "Ethics.pdf",
+  "generatedAt": "2026-09-07",
+  "questionTarget": 20,
+  "questions": [
+    {
+      "id": "q01",
+      "type": "single",
+      "stem": "An ethics complaint alleges that a psychologist failed to live up to the aspiration expressed in General Principle B that psychologists contribute a portion of their time for little or no compensation. The Ethics Committee should conclude that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the General Principles are aspirational and cannot serve as the basis for a disciplinary action"
+        },
+        {
+          "id": "b",
+          "text": "the complaint may proceed, since the General Principles bind every member of the Association"
+        },
+        {
+          "id": "c",
+          "text": "the complaint may proceed only where the psychologist has provided no pro bono service at all"
+        },
+        {
+          "id": "d",
+          "text": "the matter should be referred to the state licensing board rather than adjudicated by the Committee"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The Preamble and General Principles are aspirational and non-enforceable: they guide ethical decision-making but cannot ground disciplinary action. It is the Ethical Standards, which are mandatory and enforceable, that get cited in a misconduct charge.",
+      "whyWrong": {
+        "b": "APA membership does commit a member to the Code, but that commitment does not convert an aspirational Principle into an enforceable rule.",
+        "c": "This treats the Principle as a rule with a threshold. Pro bono service is recommended rather than required, so no amount of it is mandatory.",
+        "d": "Referral does not help: the conduct is not a violation of an enforceable provision in any forum."
+      },
+      "topic": "Structure of the Ethics Code",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section I, p. 57"
+    },
+    {
+      "id": "q02",
+      "type": "single",
+      "stem": "The current Ethics Code is comprised of four parts. Which pairing correctly matches a part with its enforceability?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The Preamble is enforceable, whereas the Ethical Standards are merely aspirational"
+        },
+        {
+          "id": "b",
+          "text": "The Ethical Standards are enforceable; the General Principles are aspirational"
+        },
+        {
+          "id": "c",
+          "text": "The General Principles are enforceable, whereas the Preamble is merely aspirational"
+        },
+        {
+          "id": "d",
+          "text": "All four of the parts are equally enforceable against any member of the Association"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The four parts are Introduction and Applicability, Preamble, General Principles, and Ethical Standards. Only the Ethical Standards are mandatory and enforceable; the Preamble and General Principles are aspirational.",
+      "whyWrong": {
+        "a": "This reverses the relationship — the Ethical Standards are the enforceable part.",
+        "c": "The General Principles are aspirational, not enforceable.",
+        "d": "Treating all four parts as enforceable would distort the purpose of the aspirational sections."
+      },
+      "topic": "Structure of the Ethics Code",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 1,
+      "sourceRef": "Section I, p. 57"
+    },
+    {
+      "id": "q03",
+      "type": "single",
+      "stem": "Dr. Halvorsen is charged with unethical conduct and defends himself by explaining that he had never read the Ethical Standard in question and was unaware it applied to his situation. Under the Introduction to the Ethics Code, this defense is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "available where the psychologist can show that the Standard in question was recently amended"
+        },
+        {
+          "id": "b",
+          "text": "available to non-members, since only APA members are presumed to be familiar with the Code"
+        },
+        {
+          "id": "c",
+          "text": "unavailable, since lack of awareness or understanding of a Standard is not itself a defense"
+        },
+        {
+          "id": "d",
+          "text": "unavailable only in cases where the violation has caused demonstrable harm to a client"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The Introduction states plainly that lack of awareness or misunderstanding of an Ethical Standard is not itself a defense to a charge of unethical conduct.",
+      "whyWrong": {
+        "a": "The Introduction admits no exception for recently amended provisions.",
+        "b": "Membership determines whether APA can enforce the Code, not whether ignorance excuses a violation.",
+        "d": "Harm affects the seriousness of a violation and the response to it, but it is not what makes ignorance unavailable as a defense."
+      },
+      "topic": "Applicability of the Code",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 1,
+      "sourceRef": "Section I.A, p. 58"
+    },
+    {
+      "id": "q04",
+      "type": "single",
+      "stem": "A psychologist who is an APA member is convicted of a felony arising entirely from her private life and unconnected to her professional work. According to the Introduction and Fisher (2009), APA:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "may not act, because the Code applies only to scientific, educational, and professional roles"
+        },
+        {
+          "id": "b",
+          "text": "may act only after her state licensing board has first imposed a sanction"
+        },
+        {
+          "id": "c",
+          "text": "may act only if the felony involved dishonesty bearing on her fitness to practise"
+        },
+        {
+          "id": "d",
+          "text": "may take action against her, whether or not the felony arose from her professional role"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The Introduction permits APA to act against a member after conviction of a felony, expulsion or suspension from an affiliated state association, or suspension or loss of licensure. Fisher notes that for a felony, APA may act whether or not it resulted from professional activity.",
+      "whyWrong": {
+        "a": "This is the general rule about the Code's scope, but felony conviction is one of the specific grounds on which APA may act regardless.",
+        "b": "Loss of licensure is an independent ground for action, not a precondition to acting on a felony.",
+        "c": "No such limitation to dishonesty offences appears in the Introduction."
+      },
+      "topic": "Applicability of the Code",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section I.A, p. 58"
+    },
+    {
+      "id": "q05",
+      "type": "single",
+      "stem": "Dr. Feldman writes a series of intemperate political posts on a personal social media account that does not mention her profession. A colleague argues her conduct is subject to the Ethics Code. Under the Introduction, the colleague is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "incorrect, since the Code reaches only activities that are part of a psychologist’s scientific, educational, or professional roles"
+        },
+        {
+          "id": "b",
+          "text": "correct, since APA membership commits a member to the Code in all areas of their life and conduct"
+        },
+        {
+          "id": "c",
+          "text": "correct, since conduct that could diminish public confidence in psychology falls within the Code"
+        },
+        {
+          "id": "d",
+          "text": "incorrect, but only because the posts did not identify her as a psychologist by name or title"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The Introduction states that the Code applies only to psychologists' activities that are part of their scientific, educational, or professional roles as psychologists. Purely private conduct falls outside it, though felony conviction is a separate ground on which APA may act.",
+      "whyWrong": {
+        "b": "Membership commits a member to the Code, but it does not extend the Code past the professional roles it defines for itself.",
+        "c": "Reputational effect on the profession is a real concern, but it is not the test the Introduction sets for applicability.",
+        "d": "This reaches the right result for the wrong reason: what matters is the role the conduct belongs to, not whether she was identified."
+      },
+      "topic": "Applicability of the Code",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section I.A, p. 58"
+    },
+    {
+      "id": "q06",
+      "type": "single",
+      "stem": "Dr. Ibrahim discovers that a state regulation permits a disclosure that the Ethics Code prohibits. Under the Introduction, he should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "follow the state regulation, since law takes precedence over a professional code"
+        },
+        {
+          "id": "b",
+          "text": "meet the higher ethical standard set by the Code"
+        },
+        {
+          "id": "c",
+          "text": "follow whichever provision better serves the client in the particular case"
+        },
+        {
+          "id": "d",
+          "text": "seek a written opinion from the licensing board before acting either way"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The Introduction states that if the Ethics Code establishes a higher standard of conduct than is required by law, psychologists must meet the higher ethical standard.",
+      "whyWrong": {
+        "a": "The Code does not simply yield to law; where it is more demanding, the higher standard governs.",
+        "c": "This substitutes case-by-case preference for the rule the Introduction actually states.",
+        "d": "Consultation may be prudent, but the Introduction already supplies the answer."
+      },
+      "topic": "Ethical versus legal requirements",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section I.B, p. 58"
+    },
+    {
+      "id": "q07",
+      "type": "single",
+      "stem": "A newly enacted state law requires Dr. Achterberg to disclose information that the Ethics Code protects, and she cannot reconcile the two. Standards 1.02 and 1.03 require that she resolve the conflict in a manner that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "gives effect to the demands of the employing organization she works within"
+        },
+        {
+          "id": "b",
+          "text": "minimizes her own exposure to civil liability arising from the disclosure"
+        },
+        {
+          "id": "c",
+          "text": "is in keeping with basic principles of human rights"
+        },
+        {
+          "id": "d",
+          "text": "defers to the interpretation adopted by her state psychological association"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The Introduction and Standards 1.02 and 1.03 require that a conflict between ethical and legal requirements be resolved in a way that is in keeping with basic principles of human rights. Neither standard may ever be used to justify violating human rights.",
+      "whyWrong": {
+        "a": "Organizational demands are one side of a 1.03 conflict, not the criterion for resolving it.",
+        "b": "Managing personal liability is prudent but is not the standard the Code sets.",
+        "d": "No such deference to a state association appears in either standard."
+      },
+      "topic": "Ethical versus legal requirements",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section I.B, p. 58"
+    },
+    {
+      "id": "q08",
+      "type": "single",
+      "stem": "Dr. Sokolova is appointed to conduct a court-ordered evaluation and anticipates a conflict between the examinee's confidentiality and the court's need for her findings. Paragraph 6.03.02 of the Specialty Guidelines for Forensic Psychology (APA, 2011) directs her to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "seek a protective order limiting the court's access to the raw evaluation data"
+        },
+        {
+          "id": "b",
+          "text": "decline the appointment, since the conflict cannot be ethically resolved"
+        },
+        {
+          "id": "c",
+          "text": "obtain the examinee's written consent to release the findings after the evaluation concludes"
+        },
+        {
+          "id": "d",
+          "text": "inform the person of the limits of confidentiality before conducting the evaluation"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The Guidelines require psychologists to inform the person being evaluated of the limits of confidentiality prior to the evaluation, along with the nature and purpose of the service and any limitations on confidentiality and privilege.",
+      "whyWrong": {
+        "a": "A protective order is a legal tactic, not the step the Guidelines prescribe.",
+        "b": "The situation is anticipated and addressed by the Guidelines, so declining is unnecessary.",
+        "c": "Consent obtained afterwards comes too late; the disclosure must precede the evaluation."
+      },
+      "topic": "Ethical versus legal requirements",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section I.B, p. 58"
+    },
+    {
+      "id": "q09",
+      "type": "single",
+      "stem": "Which of the following is an example of conduct that would violate ethical requirements without being illegal (Koocher & Keith-Spiegel, 1998)?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Diagnosing the condition of a caller to a radio or television talk show"
+        },
+        {
+          "id": "b",
+          "text": "Billing an insurer for sessions that did not take place"
+        },
+        {
+          "id": "c",
+          "text": "Disclosing a client's records in response to a valid court order"
+        },
+        {
+          "id": "d",
+          "text": "Failing to report suspected child abuse in a mandated-reporting jurisdiction"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The text gives three examples of conduct that is unethical but not illegal: misrepresenting research results, accepting as a client a person with whom one previously had a sexual relationship, and diagnosing a caller to a radio or TV talk show.",
+      "whyWrong": {
+        "b": "Billing for services not rendered is insurance fraud, which is both unethical and illegal.",
+        "c": "Complying with a valid court order is not itself a violation.",
+        "d": "Failure to report where reporting is mandated is a legal violation as well as an ethical one."
+      },
+      "topic": "Ethical versus legal requirements",
+      "level": "application",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section I.B, p. 58"
+    },
+    {
+      "id": "q10",
+      "type": "single",
+      "stem": "A psychologist in private practice provides no services without charge. A colleague tells her this violates the Ethics Code. The colleague is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "correct, because General Principle B obliges every psychologist to contribute a portion of uncompensated time"
+        },
+        {
+          "id": "b",
+          "text": "incorrect, because pro bono service is addressed in the aspirational General Principles rather than the Standards"
+        },
+        {
+          "id": "c",
+          "text": "correct, but only in the case of psychologists who currently hold APA membership"
+        },
+        {
+          "id": "d",
+          "text": "incorrect, because the term pro bono does not itself appear anywhere in the text of the Ethics Code"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Pro bono service is addressed in General Principle B (Fidelity and Responsibility), which is aspirational. Because it appears in the Principles rather than the mandatory Ethical Standards, providing pro bono services is recommended but not required.",
+      "whyWrong": {
+        "a": "Principle B expresses an aspiration that psychologists strive to contribute such time; it does not impose an obligation.",
+        "c": "Membership determines APA's enforcement reach, but the provision is not enforceable against anyone.",
+        "d": "It is true that the term itself is not used in the Code, but that is not why the colleague is wrong — the substance of the aspiration is there in Principle B."
+      },
+      "topic": "Pro bono services",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section I.C, p. 58"
+    },
+    {
+      "id": "q11",
+      "type": "single",
+      "stem": "Pro bono services are best defined as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "services provided at a reduced fee on a published sliding scale"
+        },
+        {
+          "id": "b",
+          "text": "services delivered under a court appointment at a statutory rate"
+        },
+        {
+          "id": "c",
+          "text": "professional services provided without charge"
+        },
+        {
+          "id": "d",
+          "text": "supervision offered to trainees without academic credit"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Pro bono services are professional services provided without charge. General Principle B expresses the aspiration that psychologists contribute a portion of their time for little or no compensation or personal advantage.",
+      "whyWrong": {
+        "a": "A reduced fee is still a fee; sliding-scale work is not the same as service without charge.",
+        "b": "Court-appointed work paid at a statutory rate is compensated.",
+        "d": "Uncredited supervision is not what the term denotes."
+      },
+      "topic": "Pro bono services",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 1,
+      "sourceRef": "Section I.C, p. 58"
+    },
+    {
+      "id": "q12",
+      "type": "single",
+      "stem": "A psychologist must choose between a course of action that best serves her client and one that better protects the reputation of the profession. According to the text, her first consideration should be:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the standing of the profession, since public trust enables all practice"
+        },
+        {
+          "id": "b",
+          "text": "the interests of colleagues who may be affected by the outcome"
+        },
+        {
+          "id": "c",
+          "text": "whichever interest the employing institution identifies as primary"
+        },
+        {
+          "id": "d",
+          "text": "the welfare of the client"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "While the welfare of non-clients, colleagues, and the profession matters, a psychologist's first consideration when choosing a course of action in a professional context is always the welfare of the client.",
+      "whyWrong": {
+        "a": "The profession's standing is a genuine interest but does not outrank client welfare.",
+        "b": "Colleagues' interests are secondary to the client's welfare.",
+        "c": "An employer's view does not determine the ethical priority."
+      },
+      "topic": "Client welfare",
+      "level": "application",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section I.A, p. 58"
+    },
+    {
+      "id": "q13",
+      "type": "single",
+      "stem": "A psychologist is designing a group intervention that carries a small but real risk of distress for some participants. Standard 3.04 (Avoiding Harm) requires that she:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "take reasonable steps to avoid and minimize harm to those she works with"
+        },
+        {
+          "id": "b",
+          "text": "guarantee that no participant experiences distress as a result of the intervention"
+        },
+        {
+          "id": "c",
+          "text": "obtain written acknowledgment of every foreseeable risk before the group begins"
+        },
+        {
+          "id": "d",
+          "text": "abandon any intervention for which distress can be foreseen in advance"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 3.04 states the obligation as taking reasonable steps to avoid and minimize harm to clients, students, research participants, and others with whom psychologists work. It is a standard of reasonable care, not of guaranteed outcomes.",
+      "whyWrong": {
+        "b": "The Code requires reasonable steps rather than a guarantee no practitioner could give.",
+        "c": "Documenting risks belongs to informed consent; it is not what 3.04 itself requires.",
+        "d": "Foreseeable distress does not bar an intervention, or most clinical work would be impossible."
+      },
+      "topic": "Client welfare",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section I.A, p. 58"
+    },
+    {
+      "id": "q14",
+      "type": "single",
+      "stem": "About two-thirds of the EPPP's ethics questions address the provisions of the APA Ethics Code. The remaining questions chiefly require a candidate to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "recall the number and the title of each Ethical Standard set out in the Code"
+        },
+        {
+          "id": "b",
+          "text": "recognize what the law or another APA document says, define a term, or know research on professional practice"
+        },
+        {
+          "id": "c",
+          "text": "compare the APA Ethics Code against the Canadian Code of Ethics provision by provision"
+        },
+        {
+          "id": "d",
+          "text": "apply state licensing statutes from the candidate's own jurisdiction"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The remaining questions require recognizing what the law or another APA document says about an issue, identifying the definition of a term such as privilege or vicarious liability, or knowing the results of research on professional practice.",
+      "whyWrong": {
+        "a": "The text says explicitly that memorizing the names and numbers of the Standards is not necessary.",
+        "c": "A candidate need be familiar with only one of the two codes; a correspondence table is supplied in an appendix.",
+        "d": "The exam is national rather than keyed to a single jurisdiction's statutes."
+      },
+      "topic": "Studying for the ethics domain",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section I, p. 57"
+    },
+    {
+      "id": "q15",
+      "type": "single",
+      "stem": "A Canadian candidate preparing for the EPPP asks whether she must study both the APA Ethics Code and the Canadian Code of Ethics. The text indicates that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "both codes must be studied in full, since exam questions may cite either one of them"
+        },
+        {
+          "id": "b",
+          "text": "only the Canadian Code applies to those candidates who sit the examination in Canada"
+        },
+        {
+          "id": "c",
+          "text": "familiarity with either code is sufficient, since the requirements are largely comparable"
+        },
+        {
+          "id": "d",
+          "text": "only the APA Code is tested, since the EPPP originates as an American examination"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Some questions refer to the ethics codes of the American and Canadian Psychological Associations, but the correct answer can be determined from familiarity with either code. For many issues the two are comparable and the language is sometimes similar.",
+      "whyWrong": {
+        "a": "Questions may refer to either, but studying both is expressly not necessary.",
+        "b": "The exam is administered in both countries and questions are not partitioned by the candidate's location.",
+        "d": "The EPPP is administered in the United States and Canada, and questions may refer to the Canadian Code."
+      },
+      "topic": "Studying for the ethics domain",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section I, p. 57"
+    },
+    {
+      "id": "q16",
+      "type": "single",
+      "stem": "The text recommends that a candidate aim for a domain score on practice exams that is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "exactly equal to the jurisdiction’s cutoff score, since that is what passing actually requires"
+        },
+        {
+          "id": "b",
+          "text": "at least 90%, regardless of the jurisdiction's cutoff"
+        },
+        {
+          "id": "c",
+          "text": "20 percentage points above the cutoff for heavily emphasized domains"
+        },
+        {
+          "id": "d",
+          "text": "5 to 10 percentage points above the EPPP cutoff score in their jurisdiction"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The recommended target is 5 to 10 percentage points above the jurisdiction's passing score — 75 to 80% where the cutoff is 70%. That cushion indicates mastery at the level needed to pass.",
+      "whyWrong": {
+        "a": "Scoring at the cutoff leaves no margin for variation in exam difficulty.",
+        "b": "A fixed 90% target ignores the jurisdiction's cutoff, which is what the recommendation is keyed to.",
+        "c": "The recommended cushion is 5 to 10 points, not 20."
+      },
+      "topic": "Studying for the ethics domain",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section I, p. 59"
+    },
+    {
+      "id": "q17",
+      "type": "single",
+      "stem": "A candidate finds she answers ethics questions incorrectly even on material she knows well. The text describes a diagnostic exercise in which she answers unfamiliar practice questions while speaking aloud and recording herself, then reviews the recording. This is the:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "think-aloud exercise"
+        },
+        {
+          "id": "b",
+          "text": "programmed review"
+        },
+        {
+          "id": "c",
+          "text": "study aid in Appendix B"
+        },
+        {
+          "id": "d",
+          "text": "section quiz method"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The think-aloud exercise involves answering unfamiliar practice questions while verbalizing one's reasoning and recording it, then listening back to identify what was done right on correct answers and wrong on incorrect ones.",
+      "whyWrong": {
+        "b": "The programmed review is the set of fill-in items closing each section of the chapter.",
+        "c": "The Appendix B study aid is an active tool for remembering key concepts, not a recorded diagnostic.",
+        "d": "Section quizzes are taken on the AATBS website alongside reading, and involve no recording."
+      },
+      "topic": "Studying for the ethics domain",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section I, p. 59"
+    },
+    {
+      "id": "q18",
+      "type": "single",
+      "stem": "According to the text, most EPPP questions on ethics will be:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "recall questions testing the numbering of the Standards"
+        },
+        {
+          "id": "b",
+          "text": "application questions"
+        },
+        {
+          "id": "c",
+          "text": "questions on the history of the Ethics Code's amendments"
+        },
+        {
+          "id": "d",
+          "text": "questions comparing ethical and legal obligations in specific states"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The text states that most EPPP ethics questions are application questions, and recommends study strategies suited to that — relating requirements to real dilemmas, and writing questions that apply the Code to hypothetical situations.",
+      "whyWrong": {
+        "a": "Memorizing the names and numbers of the Standards is expressly described as unnecessary.",
+        "c": "The amendment history is background rather than a major source of items.",
+        "d": "State-specific legal comparisons are not what the exam emphasizes."
+      },
+      "topic": "Studying for the ethics domain",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 1,
+      "sourceRef": "Section I, p. 59"
+    },
+    {
+      "id": "q19",
+      "type": "single",
+      "stem": "All of the following are accurate statements about the Ethics Code EXCEPT:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the current Code was published in 2002, with amendments added in 2010 and 2016"
+        },
+        {
+          "id": "b",
+          "text": "APA can enforce the Code against its own members, though other authorities may also act"
+        },
+        {
+          "id": "c",
+          "text": "a candidate must memorize the number and title of each Ethical Standard for the exam"
+        },
+        {
+          "id": "d",
+          "text": "the Preamble and General Principles guide decision-making without grounding discipline"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The text states directly that it is not necessary to memorize the names and numbers of the Code's Ethical Standards, though a candidate should know the Code well enough to apply its provisions to hypothetical situations.",
+      "whyWrong": {
+        "a": "This is accurate — the 2002 Code with 2010 and 2016 amendments.",
+        "b": "This is accurate — APA enforces against members, while licensing boards and courts may act independently.",
+        "d": "This is accurate — it states the aspirational character of those two parts."
+      },
+      "topic": "Structure of the Ethics Code",
+      "level": "recall",
+      "stemType": "negative",
+      "difficulty": 2,
+      "sourceRef": "Section I, pp. 57-59"
+    },
+    {
+      "id": "q20",
+      "type": "single",
+      "stem": "A psychologist's employer instructs her to release client records in a manner the Ethics Code forbids, and she cannot persuade the employer to change course. Reasoning from the Introduction's treatment of conflicts, her position is that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "an employer's lawful instruction relieves her of the conflicting ethical obligation"
+        },
+        {
+          "id": "b",
+          "text": "the Code yields to organizational demands where the employer bears legal responsibility"
+        },
+        {
+          "id": "c",
+          "text": "she must comply and then report the conflict to the Ethics Committee afterwards"
+        },
+        {
+          "id": "d",
+          "text": "the conflict must be resolved consistently with the Code and basic principles of human rights"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Conflicts with organizational demands are addressed alongside conflicts with law: the psychologist clarifies the conflict, makes known her commitment to the Code, and takes reasonable steps to resolve it in keeping with basic principles of human rights.",
+      "whyWrong": {
+        "a": "An employer's instruction does not dissolve an ethical obligation.",
+        "b": "The Code does not defer to organizational demands on the basis of where legal responsibility falls.",
+        "c": "Complying first and reporting later inverts the required sequence, which begins with clarifying the conflict."
+      },
+      "topic": "Ethical versus legal requirements",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section I.B, p. 58"
+    }
+  ]
+}
