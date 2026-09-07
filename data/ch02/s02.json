@@ -57,7 +57,7 @@
         },
         {
           "id": "b",
-          "text": "the prevailing professional judgment of psychologists engaged in similar activities in similar circumstances"
+          "text": "the prevailing professional judgment of psychologists in similar circumstances"
         },
         {
           "id": "c",
@@ -164,7 +164,7 @@
       "choices": [
         {
           "id": "a",
-          "text": "Principle A — Beneficence and Nonmaleficence, which asks psychologists to be alert to the effect of their own health on their ability to help"
+          "text": "Principle A — Beneficence and Nonmaleficence, on the effect of one’s own health on helping"
         },
         {
           "id": "b",
@@ -353,7 +353,7 @@
         },
         {
           "id": "b",
-          "text": "give an appropriate explanation, seek the person's assent, and obtain permission from a legally authorized person"
+          "text": "explain appropriately, seek the person's assent, and obtain substitute permission"
         },
         {
           "id": "c",
@@ -731,7 +731,7 @@
         },
         {
           "id": "d",
-          "text": "the second role could reasonably be expected to impair his objectivity or expose someone to harm or exploitation"
+          "text": "the second role could reasonably be expected to impair objectivity or risk harm"
         }
       ],
       "answer": [

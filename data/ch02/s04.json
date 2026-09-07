@@ -98,7 +98,7 @@
         },
         {
           "id": "c",
-          "text": "has closely related training or experience and makes a reasonable effort to obtain the needed competence"
+          "text": "has closely related training and makes a reasonable effort to obtain the competence"
         },
         {
           "id": "d",
@@ -246,7 +246,7 @@
         },
         {
           "id": "c",
-          "text": "meet the same subject-matter and professional-skill requirements that apply to doctoral training in the new specialty"
+          "text": "meet the subject-matter and skill requirements of doctoral training in the new specialty"
         },
         {
           "id": "d",
@@ -1052,7 +1052,7 @@
       "choices": [
         {
           "id": "a",
-          "text": "inadequate, because a specialty change requires the subject-matter and skill requirements of doctoral training in it"
+          "text": "inadequate: a specialty change requires doctoral-level subject-matter and skill preparation"
         },
         {
           "id": "b",

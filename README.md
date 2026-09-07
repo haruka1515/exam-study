@@ -32,7 +32,9 @@ question-set JSON schema.
 | `tools/validate.mjs` | CLI wrapper for the same checks (needs Node). |
 | `tools/validate.py` | The same checks in Python, for when Node isn't installed. |
 | `tools/extract.py` | PDF → text, or → page images when the PDF is a scan. |
+| `tools/inspect_set.py` | One look at a set: level mix vs profile, key spread, real length cues, topics, structural problems. |
 | `tools/polish.py` | Fixes both guessability cues in the one safe order. Start here. |
+| `tools/set_status.py` | Flips a section's status in the manifest. |
 | `tools/rebalance.py` | Evens out a skewed answer key by re-lettering choices. |
 | `tools/delength.py` | Finds questions where the correct answer is the longest choice. |
 | `pdfs/` | Your source PDFs. **Gitignored** — see below. |

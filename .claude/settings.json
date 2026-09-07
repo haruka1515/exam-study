@@ -14,7 +14,9 @@
       "Bash(python tools/migrate_levels.py)",
       "Bash(node tools/validate.mjs *)",
       "Bash(node tools/validate.mjs)",
-      "Bash(npm run validate)"
+      "Bash(npm run validate)",
+      "Bash(python tools/inspect_set.py *)",
+      "Bash(python tools/set_status.py *)"
     ]
   }
 }

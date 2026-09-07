@@ -164,7 +164,7 @@
       "choices": [
         {
           "id": "a",
-          "text": "incorrect, since the Code reaches only activities that are part of a psychologist’s scientific, educational, or professional roles"
+          "text": "incorrect: the Code reaches only scientific, educational, and professional roles"
         },
         {
           "id": "b",
@@ -501,7 +501,7 @@
         },
         {
           "id": "b",
-          "text": "recognize what the law or another APA document says, define a term, or know research on professional practice"
+          "text": "recognize what the law or another APA document says, or define a term"
         },
         {
           "id": "c",
