@@ -1,0 +1,753 @@
+{
+  "id": "ch02-s13",
+  "chapter": 2,
+  "chapterTitle": "Ethics and Professional Issues",
+  "section": 13,
+  "sectionTitle": "Other APA Guidelines",
+  "profile": "application-primary",
+  "sourceFile": "Ethics.pdf",
+  "generatedAt": "2026-09-07",
+  "questionTarget": 20,
+  "questions": [
+    {
+      "id": "q01",
+      "type": "single",
+      "stem": "A psychologist whose work is entirely teaching and writing scientific manuscripts asks whether the General Guidelines for Providers of Psychological Services apply to her. They:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "do not, since they exclude teaching, research, and manuscript work"
+        },
+        {
+          "id": "b",
+          "text": "apply in full, since they are intended for all psychologists without exception"
+        },
+        {
+          "id": "c",
+          "text": "apply only to the portions of her work involving graduate supervision"
+        },
+        {
+          "id": "d",
+          "text": "do not apply, because they were superseded by the 2017 Ethics Code"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The General Guidelines present aspirational guidelines for all providers of psychological services except those engaged in teaching psychology, conducting research, or writing and editing scientific manuscripts.",
+      "whyWrong": {
+        "b": "The exclusion for teaching, research and manuscript work is express.",
+        "c": "The exclusion is framed by activity, not by carving out supervision.",
+        "d": "The Guidelines were not superseded; they sit alongside the Code as aspirational material."
+      },
+      "topic": "General Guidelines for Providers",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIII.A, p. 109"
+    },
+    {
+      "id": "q02",
+      "type": "single",
+      "stem": "Under the General Guidelines, a professional psychologist is defined as someone holding a doctoral degree in psychology from:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "any institution recognized by the state licensing board"
+        },
+        {
+          "id": "b",
+          "text": "an organized, sequential program in a regionally accredited institution"
+        },
+        {
+          "id": "c",
+          "text": "a program accredited specifically by the American Psychological Association"
+        },
+        {
+          "id": "d",
+          "text": "an institution offering supervised clinical training in the final year"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The General Guidelines define professional psychologists as holding a doctoral degree in psychology from an organized, sequential program in a regionally accredited university or professional school.",
+      "whyWrong": {
+        "a": "Board recognition is a licensing matter rather than the definition used here.",
+        "c": "The definition turns on regional accreditation, not APA accreditation.",
+        "d": "A supervised final year is not what the definition specifies."
+      },
+      "topic": "General Guidelines for Providers",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section XIII.A, p. 109"
+    },
+    {
+      "id": "q03",
+      "type": "single",
+      "stem": "The General Guidelines state that the primary principle guiding the professional activities of all members of a psychological service unit is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the maintenance of professional autonomy"
+        },
+        {
+          "id": "b",
+          "text": "the advancement of psychological science"
+        },
+        {
+          "id": "c",
+          "text": "the promotion of human welfare"
+        },
+        {
+          "id": "d",
+          "text": "the financial viability of the service unit"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Guideline 3.1 on accountability states that the promotion of human welfare is the primary principle guiding the professional activities of all members of the psychological service unit.",
+      "whyWrong": {
+        "a": "Autonomy is not named as the guiding principle.",
+        "b": "Advancing science is a professional value but not the principle stated here.",
+        "d": "Financial viability is not what the accountability guideline elevates."
+      },
+      "topic": "General Guidelines for Providers",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section XIII.B, p. 112"
+    },
+    {
+      "id": "q04",
+      "type": "single",
+      "stem": "A clinic serves a largely immigrant community. Under General Guideline 2, the psychological service unit should be composed so as to be responsive to the needs of those served, for instance by including staff experienced with clients':",
+      "choices": [
+        {
+          "id": "a",
+          "text": "immigration status and legal representation needs"
+        },
+        {
+          "id": "b",
+          "text": "preferred appointment times and transport arrangements"
+        },
+        {
+          "id": "c",
+          "text": "diagnostic profiles as recorded at intake"
+        },
+        {
+          "id": "d",
+          "text": "linguistic, attitudinal, and financial characteristics"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Guideline 2 emphasizes providing services responsive to the needs of the people and settings served, and gives as an example including staff experienced with the linguistic, attitudinal, and financial characteristics of clients.",
+      "whyWrong": {
+        "a": "Immigration status is not among the characteristics named.",
+        "b": "Scheduling and transport are practical matters rather than the characteristics listed.",
+        "c": "Diagnostic profiles are not what the guideline refers to."
+      },
+      "topic": "General Guidelines for Providers",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XIII.B, p. 112"
+    },
+    {
+      "id": "q05",
+      "type": "single",
+      "stem": "A cognitive psychologist with no forensic training is retained to apply her research on memory to a legal question. Under the Specialty Guidelines for Forensic Psychology, she:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "is practising forensic psychology: the Guidelines turn on the work, not the usual field"
+        },
+        {
+          "id": "b",
+          "text": "falls outside the Guidelines, which apply only to psychologists who identify as forensic practitioners"
+        },
+        {
+          "id": "c",
+          "text": "falls outside the Guidelines, since her sub-discipline is not a clinical one"
+        },
+        {
+          "id": "d",
+          "text": "is covered only if she holds board certification in forensic psychology"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Forensic psychology refers to professional practice by any psychologist working within any sub-discipline when applying the scientific, technical, or specialized knowledge of psychology to the law. Application does not depend on the practitioner's typical areas of practice or expertise.",
+      "whyWrong": {
+        "b": "Self-identification is not what brings a psychologist within the Guidelines.",
+        "c": "The definition expressly names developmental, social, and cognitive sub-disciplines.",
+        "d": "No certification requirement gates the Guidelines' application."
+      },
+      "topic": "Forensic Specialty Guidelines",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XIII.C-D, pp. 112, 116"
+    },
+    {
+      "id": "q06",
+      "type": "single",
+      "stem": "An attorney offers Dr. Halvorsen a fee contingent on the outcome of the case in which he will testify. Under the Specialty Guidelines, he should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "accept, provided the arrangement is disclosed to the court in advance"
+        },
+        {
+          "id": "b",
+          "text": "strive to avoid contingent fees, given the threat to impartiality"
+        },
+        {
+          "id": "c",
+          "text": "accept, provided the contingency is based on hours worked rather than outcome"
+        },
+        {
+          "id": "d",
+          "text": "accept only where the client could not otherwise afford an expert"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Paragraph 5.02 provides that because of the threat to impartiality presented by contingent fees, and associated legal prohibitions, forensic practitioners strive to avoid providing services on the basis of contingent fees.",
+      "whyWrong": {
+        "a": "Disclosure does not remove the threat to impartiality the Guidelines identify.",
+        "c": "A fee based on hours worked is not contingent at all, so this misdescribes the arrangement.",
+        "d": "Affordability does not change the impartiality concern."
+      },
+      "topic": "Forensic Specialty Guidelines",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIII.D, p. 116"
+    },
+    {
+      "id": "q07",
+      "type": "single",
+      "stem": "A forensic practitioner is asked to provide both forensic and therapeutic services to the same person. The Guidelines encourage her to disclose the potential risk and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "decline both roles outright, since the combination is prohibited"
+        },
+        {
+          "id": "b",
+          "text": "accept both roles provided the person consents in writing"
+        },
+        {
+          "id": "c",
+          "text": "make reasonable efforts to refer the request to another provider"
+        },
+        {
+          "id": "d",
+          "text": "seek the court's direction before undertaking either role"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Paragraph 4.02.01 provides that when requested or ordered to provide concurrent or sequential forensic and therapeutic services, practitioners are encouraged to disclose the potential risk and make reasonable efforts to refer the request to another qualified provider. Where referral is not feasible, they weigh risks and benefits and minimize negative effects.",
+      "whyWrong": {
+        "a": "The combination is not prohibited outright; referral is encouraged, with a fallback where it is not feasible.",
+        "b": "Written consent is not the mechanism the Guidelines specify.",
+        "d": "Court direction is not the step described."
+      },
+      "topic": "Forensic Specialty Guidelines",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIII.D, p. 116"
+    },
+    {
+      "id": "q08",
+      "type": "single",
+      "stem": "A journalist asks a forensic psychologist to comment publicly on a widely reported case in which he has had no involvement. The Guidelines direct that he:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "must decline, since commenting on any case is prohibited"
+        },
+        {
+          "id": "b",
+          "text": "may comment freely, since he holds no confidential information about it"
+        },
+        {
+          "id": "c",
+          "text": "must obtain the consent of the parties before making any statement"
+        },
+        {
+          "id": "d",
+          "text": "may comment where he has sufficient information, making the limitations clear"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "When offering public statements about specific cases in which they have not been involved, forensic practitioners offer opinions for which there is sufficient information or data, and make clear the limitations of their statements resulting from having had no direct knowledge of or involvement with the case.",
+      "whyWrong": {
+        "a": "The Guidelines permit such comment subject to conditions rather than prohibiting it.",
+        "b": "Absence of confidential information does not remove the duty to state limitations.",
+        "c": "Party consent is required for commenting on privileged material, not for public-record commentary."
+      },
+      "topic": "Forensic Specialty Guidelines",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XIII.C, p. 116"
+    },
+    {
+      "id": "q09",
+      "type": "single",
+      "stem": "A forensic practitioner wishes to use case material in a training workshop. Which is NOT one of the three routes the Guidelines give for protecting privacy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Limiting the audience to licensed psychologists bound by the Ethics Code"
+        },
+        {
+          "id": "b",
+          "text": "Disguising the personally identifiable information of those with a privacy interest"
+        },
+        {
+          "id": "c",
+          "text": "Using only those aspects of the case available in the public domain"
+        },
+        {
+          "id": "d",
+          "text": "Obtaining consent from the relevant clients, parties, and organizations"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Paragraph 8.04 gives three routes: disguising personally identifiable information, using only aspects in the public domain, or obtaining consent from relevant clients, parties, participants, and organizations. The composition of the audience is not among them.",
+      "whyWrong": {
+        "b": "This is the first of the three routes.",
+        "c": "This is the second of the three routes.",
+        "d": "This is the third of the three routes."
+      },
+      "topic": "Forensic Specialty Guidelines",
+      "level": "application",
+      "stemType": "negative",
+      "difficulty": 3,
+      "sourceRef": "Section XIII.D, p. 117"
+    },
+    {
+      "id": "q10",
+      "type": "single",
+      "stem": "Dr. Sue's colleague says she treats all clients identically regardless of race, describing this as a color-blind approach. Sue and Sue (2003) caution that this perspective:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "is the standard the diversity Guidelines set for equitable practice"
+        },
+        {
+          "id": "b",
+          "text": "denies the existence of important individual and group differences"
+        },
+        {
+          "id": "c",
+          "text": "is appropriate provided the psychologist has multicultural training"
+        },
+        {
+          "id": "d",
+          "text": "applies only in assessment contexts rather than in intervention"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Sue and Sue recommend actively challenging one's assumptions about race and culture and using consultation or supervision to monitor one's functioning. They caution against a color-blind perspective because it denies the existence of important individual and group differences.",
+      "whyWrong": {
+        "a": "The Guidelines call for awareness of cultural difference, not for ignoring it.",
+        "c": "Training does not make the color-blind stance appropriate.",
+        "d": "The caution is general rather than confined to assessment."
+      },
+      "topic": "Culturally diverse populations",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIII.F, p. 120"
+    },
+    {
+      "id": "q11",
+      "type": "single",
+      "stem": "A client requests services in a language Dr. Adeyemi does not speak, and no referral is possible. Under the diversity Guidelines, she should offer:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "a family member of the client who is fluent in both languages"
+        },
+        {
+          "id": "b",
+          "text": "written materials in the client's language in place of spoken sessions"
+        },
+        {
+          "id": "c",
+          "text": "a translator with cultural knowledge and a professional background"
+        },
+        {
+          "id": "d",
+          "text": "sessions in a language both parties partially share"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Paragraph 6 requires interacting in the language requested by the client and, if not feasible, making an appropriate referral. Where referral is not possible, the psychologist should offer a translator with cultural knowledge and an appropriate professional background, or if unavailable, a trained paraprofessional from the client's culture.",
+      "whyWrong": {
+        "a": "A family member would have a dual role with the client, which the Guidelines prohibit.",
+        "b": "Substituting written materials does not address the need for interaction.",
+        "d": "Partial shared fluency risks exactly the loss of validity the Guidelines guard against."
+      },
+      "topic": "Culturally diverse populations",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIII.F, p. 120"
+    },
+    {
+      "id": "q12",
+      "type": "single",
+      "stem": "The diversity Guidelines prohibit using translators who have a dual role with the client. The stated reason is to avoid:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "creating a billing arrangement the client cannot afford to sustain"
+        },
+        {
+          "id": "b",
+          "text": "breaching the confidentiality owed to the translator personally"
+        },
+        {
+          "id": "c",
+          "text": "exceeding the psychologist's own boundaries of competence"
+        },
+        {
+          "id": "d",
+          "text": "jeopardizing the validity of evaluation or effectiveness of intervention"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Paragraph 6 prohibits using translators who may have a dual role with the client, to avoid jeopardizing the validity of evaluation or the effectiveness of intervention.",
+      "whyWrong": {
+        "a": "Cost is not the concern the prohibition addresses.",
+        "b": "The confidentiality at stake is the client's, and it is not the stated reason.",
+        "c": "Competence is addressed separately in the Guidelines."
+      },
+      "topic": "Culturally diverse populations",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section XIII.F, p. 120"
+    },
+    {
+      "id": "q13",
+      "type": "single",
+      "stem": "A client from a minority background reports repeated difficulties at work and blames himself. Paragraph 3(d) of the diversity Guidelines suggests the psychologist should help him:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "determine whether the problem stems from racism or bias in others"
+        },
+        {
+          "id": "b",
+          "text": "identify the cognitive distortions maintaining his self-blame"
+        },
+        {
+          "id": "c",
+          "text": "consider whether a change of employment would resolve the difficulty"
+        },
+        {
+          "id": "d",
+          "text": "obtain legal advice about a possible discrimination complaint"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Paragraph 3(d) states that psychologists should help a client determine whether a problem stems from racism or bias in others, so the client does not inappropriately personalize problems.",
+      "whyWrong": {
+        "b": "Cognitive work may follow, but the Guidelines point first to the source of the problem.",
+        "c": "Changing jobs does not address whether the difficulty originates in others' bias.",
+        "d": "Legal referral is not what the paragraph directs."
+      },
+      "topic": "Culturally diverse populations",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XIII.F, p. 120"
+    },
+    {
+      "id": "q14",
+      "type": "single",
+      "stem": "Paragraph 5(b) of the diversity Guidelines notes that effective interventions may be aided by:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "matching the client with a psychologist of the same ethnic background"
+        },
+        {
+          "id": "b",
+          "text": "consultation with or inclusion of relevant religious or spiritual leaders"
+        },
+        {
+          "id": "c",
+          "text": "restricting treatment to interventions validated in the client's own culture"
+        },
+        {
+          "id": "d",
+          "text": "conducting all sessions in the presence of a community advocate"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Paragraph 5(b) notes that effective psychological interventions may be aided by consultation with and inclusion of religious or spiritual leaders and practitioners relevant to the client's cultural and belief systems, and psychologists should consider incorporating an indigenous healer or form of treatment.",
+      "whyWrong": {
+        "a": "Ethnic matching is not what the paragraph recommends.",
+        "c": "The Guidelines encourage considering cultural resources rather than restricting the treatment repertoire.",
+        "d": "No advocate presence requirement appears in the Guidelines."
+      },
+      "topic": "Culturally diverse populations",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section XIII.F, p. 120"
+    },
+    {
+      "id": "q15",
+      "type": "single",
+      "stem": "The Guidelines for Child Custody Evaluations identify the primary purpose of such an evaluation as determining:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "which parent has been the primary caregiver to date"
+        },
+        {
+          "id": "b",
+          "text": "whether either parent meets criteria for a mental disorder"
+        },
+        {
+          "id": "c",
+          "text": "the psychological best interests of the child"
+        },
+        {
+          "id": "d",
+          "text": "the arrangement each parent would prefer to see ordered"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The Guidelines state that determining the psychological best interests of the child is the primary purpose of a child custody evaluation, and that the child's welfare is always of paramount importance.",
+      "whyWrong": {
+        "a": "Caregiving history is evidence toward the question rather than the purpose itself.",
+        "b": "Parental diagnosis is not the purpose of the evaluation.",
+        "d": "Parental preferences are not what the evaluation seeks to determine."
+      },
+      "topic": "Child custody evaluations",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 1,
+      "sourceRef": "Section XIII.H, p. 123"
+    },
+    {
+      "id": "q16",
+      "type": "single",
+      "stem": "A psychologist planning a custody evaluation asks what her assessment should focus on. Under Guideline 3, the focus is parenting attributes, the child's psychological needs, and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the financial resources available in each household"
+        },
+        {
+          "id": "b",
+          "text": "the stated wishes of the child at the time of evaluation"
+        },
+        {
+          "id": "c",
+          "text": "the conduct of each parent during the marriage"
+        },
+        {
+          "id": "d",
+          "text": "the fit between those attributes and needs"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Guideline 3 notes that the focus of the evaluation should be on parenting attributes, the child's psychological needs, and the fit between those attributes and needs.",
+      "whyWrong": {
+        "a": "Financial resources are a matter for the court rather than the psychological focus.",
+        "b": "A child's wishes may inform the assessment but are not the third element named.",
+        "c": "Marital conduct is not the focus the Guideline identifies."
+      },
+      "topic": "Child custody evaluations",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIII.H, p. 123"
+    },
+    {
+      "id": "q17",
+      "type": "single",
+      "stem": "Dr. Petrov previously provided individual therapy to a child, and is now asked to conduct the custody evaluation for that family. Greenberg et al. (2004) indicate that he should ordinarily:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "avoid the evaluator role: the prior therapist role reduces objectivity"
+        },
+        {
+          "id": "b",
+          "text": "accept, since his knowledge of the child improves the evaluation"
+        },
+        {
+          "id": "c",
+          "text": "accept, provided he discloses the prior treatment to both parents"
+        },
+        {
+          "id": "d",
+          "text": "avoid the role only where the therapy ended within the past year"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Guideline 6 requires avoiding multiple relationships that can be expected to reduce impartiality, competence, or effectiveness. The example given is that a psychologist would ordinarily avoid serving as evaluator where a family member has been a client in individual therapy, since the prior role is likely to reduce objectivity.",
+      "whyWrong": {
+        "b": "Familiarity does not offset the loss of impartiality the prior role creates.",
+        "c": "Disclosure does not restore objectivity.",
+        "d": "The concern is the prior role itself rather than how recently it ended."
+      },
+      "topic": "Child custody evaluations",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIII.H, p. 123"
+    },
+    {
+      "id": "q18",
+      "type": "single",
+      "stem": "A psychologist conducting a custody evaluation was able to interview only the mother, as the father declined to participate. Asked for a recommendation, she should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "offer a recommendation based on the mother's account and collateral sources"
+        },
+        {
+          "id": "b",
+          "text": "refrain from offering one, or state the limitations and risks of doing so"
+        },
+        {
+          "id": "c",
+          "text": "offer a recommendation favouring the parent who participated"
+        },
+        {
+          "id": "d",
+          "text": "ask the court to compel the father's participation before reporting at all"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Guideline 12 directs psychologists to refrain from offering an opinion or recommendation where their information is insufficient, such as when unable to evaluate all parties, and if nonetheless requested, to state clearly the limitations of the data and the potential negative consequences of an opinion based on it.",
+      "whyWrong": {
+        "a": "Collateral sources do not cure the inability to evaluate one of the parties.",
+        "c": "Favouring the participating parent would penalize non-participation rather than assess the child's interests.",
+        "d": "Compelling participation is a matter for the court, and does not answer what she should do when asked."
+      },
+      "topic": "Child custody evaluations",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XIII.H, p. 123"
+    },
+    {
+      "id": "q19",
+      "type": "single",
+      "stem": "Dr. Kaur wants to be sure her custody evaluation will support the conclusions she draws. Guideline 12 directs her to use:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "a standardized battery prescribed by the Guidelines"
+        },
+        {
+          "id": "b",
+          "text": "at least two independent evaluators working separately"
+        },
+        {
+          "id": "c",
+          "text": "multiple methods of data collection"
+        },
+        {
+          "id": "d",
+          "text": "structured interviews to the exclusion of behavioral observation"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Guideline 12 directs psychologists to use multiple methods of data collection — tests, interviews, behavioral observations, record review, and collateral sources — to ensure the examination is adequate to support their statements and conclusions.",
+      "whyWrong": {
+        "a": "No prescribed battery is set out in the Guidelines.",
+        "b": "Independent co-evaluators are not required.",
+        "d": "Behavioral observation is expressly among the methods listed."
+      },
+      "topic": "Child custody evaluations",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIII.H, p. 123"
+    },
+    {
+      "id": "q20",
+      "type": "single",
+      "stem": "Considering the forensic and custody Guidelines together, which best states their status?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "They are enforceable standards whose breach grounds a disciplinary charge"
+        },
+        {
+          "id": "b",
+          "text": "They bind only psychologists holding a forensic or custody specialty"
+        },
+        {
+          "id": "c",
+          "text": "They replace the Ethics Code for psychologists practising in legal settings"
+        },
+        {
+          "id": "d",
+          "text": "They are aspirational, and a candidate need not know paragraph numbers or titles"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Both sets are aspirational guidelines rather than enforceable standards, and the book notes it is not necessary to know the numbers or titles of specific standards or paragraphs.",
+      "whyWrong": {
+        "a": "Only the Ethical Standards of the Code are enforceable.",
+        "b": "The forensic Guidelines expressly reach any psychologist applying psychology to the law.",
+        "c": "The Guidelines supplement rather than replace the Ethics Code."
+      },
+      "topic": "Forensic Specialty Guidelines",
+      "level": "application",
+      "stemType": "blended",
+      "difficulty": 2,
+      "sourceRef": "Section XIII, pp. 109, 116, 123"
+    }
+  ]
+}
