@@ -1,0 +1,753 @@
+{
+  "id": "ch02-s12",
+  "chapter": 2,
+  "chapterTitle": "Ethics and Professional Issues",
+  "section": 12,
+  "sectionTitle": "Standard 10: Therapy",
+  "profile": "application-primary",
+  "sourceFile": "Ethics.pdf",
+  "generatedAt": "2026-09-07",
+  "questionTarget": 20,
+  "questions": [
+    {
+      "id": "q01",
+      "type": "single",
+      "stem": "A doctoral trainee provides therapy under a supervisor who holds legal responsibility for the treatment. Under Standard 10.01, the client must be told that the therapist is supervised and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "given the supervisor's name"
+        },
+        {
+          "id": "b",
+          "text": "offered the option of transferring to the supervisor instead"
+        },
+        {
+          "id": "c",
+          "text": "given a copy of the trainee's academic transcript"
+        },
+        {
+          "id": "d",
+          "text": "asked to sign a waiver of claims against the training clinic"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 10.01 provides that where the therapist is a trainee and the supervisor has legal responsibility for the treatment, the client must be informed that the therapist is being supervised and be given the supervisor's name.",
+      "whyWrong": {
+        "b": "No right of transfer to the supervisor is created by the standard.",
+        "c": "Academic records are not among the required disclosures.",
+        "d": "A liability waiver is not something the standard contemplates."
+      },
+      "topic": "Informed consent for therapy",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XII.A, Standard 10.01, p. 106"
+    },
+    {
+      "id": "q02",
+      "type": "single",
+      "stem": "Standard 10.01 requires that information likely to influence a client's decision to participate in therapy be provided:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "before the end of the assessment phase"
+        },
+        {
+          "id": "b",
+          "text": "as early as is feasible"
+        },
+        {
+          "id": "c",
+          "text": "at whatever point the client asks about it"
+        },
+        {
+          "id": "d",
+          "text": "within thirty days of the first appointment"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 10.01 requires psychologists to provide clients with all information that might influence their decision to participate in therapy as early as is feasible, covering the nature of treatment, fees and financial arrangements, and confidentiality.",
+      "whyWrong": {
+        "a": "The standard is not tied to a phase of the work.",
+        "c": "The obligation does not wait on the client raising the question.",
+        "d": "No fixed period appears in the standard."
+      },
+      "topic": "Informed consent for therapy",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 1,
+      "sourceRef": "Section XII.A, Standard 10.01, p. 106"
+    },
+    {
+      "id": "q03",
+      "type": "single",
+      "stem": "Dr. Nakamura begins offering therapy by videoconference to clients in rural areas. Under Standard 10.01(b), she should treat informed consent as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "a single disclosure completed before the first remote session"
+        },
+        {
+          "id": "b",
+          "text": "unnecessary, since consent to therapy already covers the medium used"
+        },
+        {
+          "id": "c",
+          "text": "an ongoing discussion, since telepsychology issues are evolving quickly"
+        },
+        {
+          "id": "d",
+          "text": "a matter governed entirely by the client's insurance carrier"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 10.01(b) covers treatments for which generally recognized techniques have not been established, which includes services delivered by e-mail, videoconferencing, or chat. Because telepsychology issues are evolving quickly, psychologists are advised to treat informed consent as an ongoing discussion with clients.",
+      "whyWrong": {
+        "a": "A one-time disclosure does not fit a rapidly changing area of practice.",
+        "b": "The medium is precisely what triggers the additional disclosures under 10.01(b).",
+        "d": "Insurance arrangements do not determine the consent obligation."
+      },
+      "topic": "Informed consent for therapy",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XII.A, Standard 10.01(b), p. 106"
+    },
+    {
+      "id": "q04",
+      "type": "single",
+      "stem": "For a treatment whose techniques are not generally recognized, Standard 10.01(b) requires informing the client of the developing nature of the treatment, potential risks, alternative treatments, and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the psychologist's own success rate with the method"
+        },
+        {
+          "id": "b",
+          "text": "the identity of the researchers who developed it"
+        },
+        {
+          "id": "c",
+          "text": "the date on which the method is expected to be validated"
+        },
+        {
+          "id": "d",
+          "text": "that participation is voluntary"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The four disclosures under 10.01(b) are the developing nature of the treatment, the potential risks involved, alternative treatments that may be available, and the voluntary nature of participation.",
+      "whyWrong": {
+        "a": "Personal success rates are not among the required disclosures.",
+        "b": "The provenance of the method is not something the standard requires be disclosed.",
+        "c": "No projected validation date is required."
+      },
+      "topic": "Informed consent for therapy",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section XII.A, Standard 10.01(b), p. 106"
+    },
+    {
+      "id": "q05",
+      "type": "single",
+      "stem": "A couple begins therapy: the husband hopes to save the marriage, the wife wants a divorce. Standard 10.02 requires the psychologist to clarify at the outset which individuals are clients and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the relationship he will have with each person"
+        },
+        {
+          "id": "b",
+          "text": "which partner's goals the therapy will pursue"
+        },
+        {
+          "id": "c",
+          "text": "how any dispute between them will be arbitrated"
+        },
+        {
+          "id": "d",
+          "text": "the likelihood that the marriage can be preserved"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 10.02 requires clarifying at the outset which of the individuals are clients or patients and the relationship the psychologist will have with each person, which is how conflicts of the kind described are avoided.",
+      "whyWrong": {
+        "b": "Choosing one partner's goals over the other's is not what the standard directs.",
+        "c": "The psychologist is not an arbitrator between the parties.",
+        "d": "Prognosis about the marriage is not a clarification the standard requires."
+      },
+      "topic": "Couple and family therapy",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XII.B, Standard 10.02, p. 106"
+    },
+    {
+      "id": "q06",
+      "type": "single",
+      "stem": "A systems-oriented family therapist is likely to view the client as the entire family, and may decline to see members individually or keep one member's disclosure secret. The section's point is that psychologists must:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "adopt a systems orientation whenever treating a whole family"
+        },
+        {
+          "id": "b",
+          "text": "make their position on such issues clear to everyone at the beginning"
+        },
+        {
+          "id": "c",
+          "text": "keep all individual disclosures confidential regardless of orientation"
+        },
+        {
+          "id": "d",
+          "text": "obtain a court order before declining to see a member individually"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Orientation shapes how a therapist handles individual sessions and secrets, and therapists differ. What the Code requires is that psychologists make their positions on such issues clear to all individuals at the beginning of treatment.",
+      "whyWrong": {
+        "a": "No orientation is prescribed by the Code.",
+        "c": "A systems-oriented therapist may decline to hold individual secrets, which is why the position must be stated in advance.",
+        "d": "No court involvement is contemplated."
+      },
+      "topic": "Couple and family therapy",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XII.B, Standard 10.02, p. 106"
+    },
+    {
+      "id": "q07",
+      "type": "single",
+      "stem": "Several years after Dr. Sandoval provided couples therapy, the husband asks her to testify on his behalf at a custody hearing. Her best course of action is to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "testify, provided she confines her evidence to what the husband disclosed"
+        },
+        {
+          "id": "b",
+          "text": "testify, since the therapy ended several years before the hearing"
+        },
+        {
+          "id": "c",
+          "text": "refuse, since her client had been the couple rather than the husband alone"
+        },
+        {
+          "id": "d",
+          "text": "seek the wife's consent and then testify on the husband's behalf"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 10.02 requires psychologists to clarify, adjust, or withdraw from potentially conflicting roles. The section's own example concludes the best course is to refuse, because the client had been the couple rather than just the husband.",
+      "whyWrong": {
+        "a": "Limiting the content does not resolve the conflict created by taking one party's side.",
+        "b": "Elapsed time does not change who the client was.",
+        "d": "Consent does not cure a role conflict of this kind."
+      },
+      "topic": "Couple and family therapy",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XII.B, Standard 10.02, p. 106"
+    },
+    {
+      "id": "q08",
+      "type": "single",
+      "stem": "A client in ongoing psychodynamic therapy asks Dr. Bhatt, a behavioral therapist, for help with nicotine dependence. Under Standard 10.04, Dr. Bhatt should most likely:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "decline, since the client is already receiving mental health services"
+        },
+        {
+          "id": "b",
+          "text": "require the client to terminate with the other therapist first"
+        },
+        {
+          "id": "c",
+          "text": "provide the treatment without contacting the other therapist at all"
+        },
+        {
+          "id": "d",
+          "text": "provide the treatment, consulting and cooperating with the other therapist"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 10.04 requires proceeding with caution and sensitivity where a client is receiving services elsewhere, with the client's welfare the overriding consideration. The section concludes it would probably be in the person's best interests to provide the desired treatment, consulting and cooperating fully with the other therapist.",
+      "whyWrong": {
+        "a": "Declining ignores the client's welfare, which is the overriding consideration.",
+        "b": "Requiring termination elsewhere is not what caution and sensitivity mean here.",
+        "c": "Proceeding without consultation is precisely the lack of care the standard guards against."
+      },
+      "topic": "Clients receiving other services",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XII.C, Standard 10.04, p. 107"
+    },
+    {
+      "id": "q09",
+      "type": "single",
+      "stem": "A person already in psychodynamic therapy approaches a second psychodynamic therapist about the same issues. The second therapist should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "discuss the situation to decide whether accepting him serves his interests"
+        },
+        {
+          "id": "b",
+          "text": "accept him, since clients are entitled to choose their own therapist"
+        },
+        {
+          "id": "c",
+          "text": "accept him provided the first therapist consents to the arrangement"
+        },
+        {
+          "id": "d",
+          "text": "refuse without discussion, since duplicate therapy is always prohibited"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Where the second clinician would address the same issues in the same modality, the section indicates the therapist should discuss the situation with the person to determine whether accepting him is in his best interests, and if not, explain why she cannot.",
+      "whyWrong": {
+        "b": "Client choice matters but does not displace the caution 10.04 requires.",
+        "c": "The first therapist's consent is not the governing consideration.",
+        "d": "Refusing without discussion skips the step the standard calls for, and duplication is not always prohibited."
+      },
+      "topic": "Clients receiving other services",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XII.C, Standard 10.04, p. 107"
+    },
+    {
+      "id": "q10",
+      "type": "single",
+      "stem": "Standard 10.08 prohibits a sexual relationship with a former therapy client for at least:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "one year after cessation of therapy"
+        },
+        {
+          "id": "b",
+          "text": "two years after cessation of therapy"
+        },
+        {
+          "id": "c",
+          "text": "five years after cessation of therapy"
+        },
+        {
+          "id": "d",
+          "text": "the duration of the therapy that was provided"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 10.08 forbids a sexual relationship with a former client for at least two years after cessation of therapy, and even then only in the most unusual circumstances.",
+      "whyWrong": {
+        "a": "One year understates the period the standard sets.",
+        "c": "Five years is longer than the standard requires.",
+        "d": "The bar is a fixed two years rather than a period matched to the therapy."
+      },
+      "topic": "Sexual intimacies",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 1,
+      "sourceRef": "Section XII.D, Standard 10.08, p. 107"
+    },
+    {
+      "id": "q11",
+      "type": "single",
+      "stem": "Three years after therapy ended, a psychologist considers a romantic relationship with a former client. Under Standard 10.08 the relationship may be acceptable only in the most unusual circumstances, and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the former client must attest in writing that she was not exploited"
+        },
+        {
+          "id": "b",
+          "text": "the Ethics Committee must review the circumstances beforehand"
+        },
+        {
+          "id": "c",
+          "text": "the psychologist bears the burden of showing it is not exploitative"
+        },
+        {
+          "id": "d",
+          "text": "the psychologist must first refer her records to another clinician"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 10.08 provides that even after the two-year period a sexual relationship may be acceptable only in the most unusual circumstances, and that the psychologist bears the burden of demonstrating the relationship is not exploitative.",
+      "whyWrong": {
+        "a": "The burden rests on the psychologist rather than on the former client's attestation.",
+        "b": "No advance Committee review is contemplated by the standard.",
+        "d": "Transferring records does not address the exploitation question."
+      },
+      "topic": "Sexual intimacies",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XII.D, Standard 10.08, p. 107"
+    },
+    {
+      "id": "q12",
+      "type": "single",
+      "stem": "Which is NOT among the seven factors Standard 10.08 lists for deciding whether to become involved with a former client?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The amount of time that has passed since therapy terminated"
+        },
+        {
+          "id": "b",
+          "text": "The circumstances of the termination of therapy"
+        },
+        {
+          "id": "c",
+          "text": "The likelihood of adverse impact on the former client"
+        },
+        {
+          "id": "d",
+          "text": "The psychologist's own current relationship status"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The seven factors concern the time elapsed; the nature, duration and intensity of the therapy; the circumstances of termination; the client's personal history and current mental status; the likelihood of adverse impact; and any statements by the therapist during therapy inviting a post-termination relationship. The psychologist's own relationship status is not among them.",
+      "whyWrong": {
+        "a": "This is the first of the seven factors.",
+        "b": "This is the third factor listed.",
+        "c": "This is the sixth factor listed."
+      },
+      "topic": "Sexual intimacies",
+      "level": "recall",
+      "stemType": "negative",
+      "difficulty": 3,
+      "sourceRef": "Section XII.D, Standard 10.08, p. 107"
+    },
+    {
+      "id": "q13",
+      "type": "single",
+      "stem": "A prospective client discloses that she and Dr. Whitfield had a brief sexual relationship eleven years ago, long before she sought treatment. Under Standard 10.07, Dr. Whitfield may:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "not provide therapy: the exclusion is absolute, with no time limit"
+        },
+        {
+          "id": "b",
+          "text": "provide therapy, since more than two years have elapsed"
+        },
+        {
+          "id": "c",
+          "text": "provide therapy if he documents that no exploitation occurred"
+        },
+        {
+          "id": "d",
+          "text": "provide therapy with the agreement of a consulting colleague"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 10.07 prohibits providing therapy to people with whom the psychologist has had a sexual relationship in the past. The section notes this exclusion is absolute: there is no time limit or other exception.",
+      "whyWrong": {
+        "b": "The two-year rule belongs to 10.08 and runs the other way, from therapy to a later relationship.",
+        "c": "Documentation cannot create an exception where none exists.",
+        "d": "Consultation does not lift an absolute prohibition."
+      },
+      "topic": "Sexual intimacies",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XII.D, Standard 10.07, p. 107"
+    },
+    {
+      "id": "q14",
+      "type": "single",
+      "stem": "Standard 10.06 prohibits psychologists from becoming sexually involved with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "anyone employed by the same organization as a current client"
+        },
+        {
+          "id": "b",
+          "text": "close relatives, guardians, or partners of current clients"
+        },
+        {
+          "id": "c",
+          "text": "former clients' relatives for two years after therapy ends"
+        },
+        {
+          "id": "d",
+          "text": "colleagues who have referred clients to the psychologist"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 10.06 prohibits sexual involvement with individuals psychologists know to be close relatives, guardians, or significant others of current clients or patients.",
+      "whyWrong": {
+        "a": "Shared employment with a client is not what the standard reaches.",
+        "c": "The standard addresses relatives of current clients rather than a post-termination period.",
+        "d": "Referring colleagues are not covered by this provision."
+      },
+      "topic": "Sexual intimacies",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section XII.D, Standard 10.06, p. 107"
+    },
+    {
+      "id": "q15",
+      "type": "single",
+      "stem": "A client loses her job and can no longer afford Dr. Adeyemi's usual fee. The best course of action is to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "terminate immediately, since continuing without payment risks exploitation"
+        },
+        {
+          "id": "b",
+          "text": "continue at the usual fee and refer the balance to a collection agency"
+        },
+        {
+          "id": "c",
+          "text": "continue at a mutually agreed reduced fee, or help her find alternative services"
+        },
+        {
+          "id": "d",
+          "text": "suspend sessions until her financial circumstances have improved"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "To avoid abandonment, psychologists discuss the situation and offer pretermination counseling or appropriate referrals. Where a client can no longer afford therapy, the section's stated best course is to continue at a mutually agreed reduced fee, or if that is not feasible, help the client locate alternative services.",
+      "whyWrong": {
+        "a": "Immediate termination is the abandonment 10.09 and 10.10 are designed to prevent.",
+        "b": "Accumulating debt she cannot pay does not address the clinical problem.",
+        "d": "Suspension leaves the client without care and without a referral."
+      },
+      "topic": "Interruption and termination",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XII.E, Standards 10.09 and 10.10, p. 107"
+    },
+    {
+      "id": "q16",
+      "type": "single",
+      "stem": "Standards 10.09 and 10.10 require psychologists to avoid abandoning clients and also to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "continue treatment until the client declares themselves satisfied"
+        },
+        {
+          "id": "b",
+          "text": "obtain supervisory approval before terminating any client"
+        },
+        {
+          "id": "c",
+          "text": "provide a minimum of three closing sessions in every case"
+        },
+        {
+          "id": "d",
+          "text": "discontinue therapy when the client is not benefiting or is being harmed"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The two obligations pull in opposite directions: psychologists must not abandon clients, and must not continue a therapeutic relationship where the client is not benefiting from it or is being harmed by it.",
+      "whyWrong": {
+        "a": "Continuing indefinitely conflicts with the duty to stop unhelpful treatment.",
+        "b": "Supervisory approval is not a requirement of these standards.",
+        "c": "No fixed number of closing sessions is prescribed."
+      },
+      "topic": "Interruption and termination",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section XII.E, Standards 10.09 and 10.10, p. 107"
+    },
+    {
+      "id": "q17",
+      "type": "single",
+      "stem": "A client's brother has threatened Dr. Lindholm at her office. Under Standard 10.10(b), she may terminate therapy and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "need not give advance notice or pretermination counseling"
+        },
+        {
+          "id": "b",
+          "text": "must still provide the usual pretermination counseling first"
+        },
+        {
+          "id": "c",
+          "text": "must obtain the client's written agreement to the termination"
+        },
+        {
+          "id": "d",
+          "text": "must continue until an appropriate referral has been accepted"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 10.10(b) permits termination where the client, or a person the client has a relationship with, poses a threat to the psychologist. In that situation psychologists are not required to provide advance notification of termination or pretermination counseling.",
+      "whyWrong": {
+        "b": "The threat exception removes the pretermination counseling requirement.",
+        "c": "No written agreement from the client is required.",
+        "d": "Requiring an accepted referral first would prolong the psychologist's exposure to the threat."
+      },
+      "topic": "Interruption and termination",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XII.E, Standard 10.10(b), p. 107"
+    },
+    {
+      "id": "q18",
+      "type": "single",
+      "stem": "Where a client poses a threat and the psychologist must contact police to obtain protection, the section notes (Fisher, 2003) that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the psychologist must first obtain the client's consent to the disclosure"
+        },
+        {
+          "id": "b",
+          "text": "the usual prohibitions against breaching confidentiality do not apply"
+        },
+        {
+          "id": "c",
+          "text": "only the fact of treatment, and no clinical content, may be disclosed"
+        },
+        {
+          "id": "d",
+          "text": "a court order is required before any contact with police is permitted"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "In the threat situation covered by 10.10(b), prohibitions against breaching client confidentiality do not apply where the psychologist needs to contact the police or others to obtain protection.",
+      "whyWrong": {
+        "a": "Requiring consent from the person posing the threat would defeat the protection.",
+        "c": "The section does not confine disclosure in this way.",
+        "d": "No court order is required in this situation."
+      },
+      "topic": "Interruption and termination",
+      "level": "application",
+      "stemType": "short",
+      "difficulty": 3,
+      "sourceRef": "Section XII.E, Standard 10.10(b), p. 107"
+    },
+    {
+      "id": "q19",
+      "type": "single",
+      "stem": "A case manager denies further coverage on the ground that continued treatment is not medically necessary, though Dr. Osei believes it is needed. Appelbaum (1993) recommends that her best initial course of action is to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "terminate treatment and document the insurer's decision"
+        },
+        {
+          "id": "b",
+          "text": "continue treatment and bill the client directly for the sessions"
+        },
+        {
+          "id": "c",
+          "text": "file an appeal on behalf of the client"
+        },
+        {
+          "id": "d",
+          "text": "report the case manager to the state insurance regulator"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Appelbaum suggests that where additional coverage has been denied and the clinician believes treatment should continue, the best initial course of action is to file an appeal on behalf of the client.",
+      "whyWrong": {
+        "a": "Terminating without appealing forgoes the step Appelbaum recommends first.",
+        "b": "Billing the client directly is one option to discuss later, after an appeal fails.",
+        "d": "A regulatory complaint is not the recommended first response."
+      },
+      "topic": "Interruption and termination",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XII.E, p. 108"
+    },
+    {
+      "id": "q20",
+      "type": "single",
+      "stem": "If an appeal against a coverage denial is unsuccessful, Appelbaum recommends that the clinician next:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "continue treatment indefinitely at no charge to the client"
+        },
+        {
+          "id": "b",
+          "text": "terminate immediately, since coverage determines the treatment plan"
+        },
+        {
+          "id": "c",
+          "text": "refer the matter to the client's employer for resolution"
+        },
+        {
+          "id": "d",
+          "text": "discuss options for alternative treatment and payment with the client"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Where the appeal is denied, Appelbaum recommends the clinician discuss the situation with the client to identify options regarding alternative treatment and payment.",
+      "whyWrong": {
+        "a": "Indefinite free treatment is not what is recommended, though a reduced fee may be one option discussed.",
+        "b": "Immediate termination risks the abandonment 10.09 and 10.10 forbid.",
+        "c": "Involving the employer would raise confidentiality problems and is not recommended."
+      },
+      "topic": "Interruption and termination",
+      "level": "application",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section XII.E, p. 108"
+    }
+  ]
+}
