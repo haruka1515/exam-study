@@ -1,0 +1,753 @@
+{
+  "id": "ch02-s10",
+  "chapter": 2,
+  "chapterTitle": "Ethics and Professional Issues",
+  "section": 10,
+  "sectionTitle": "Standard 8: Research and Publication",
+  "profile": "application-primary",
+  "sourceFile": "Ethics.pdf",
+  "generatedAt": "2026-09-07",
+  "questionTarget": 20,
+  "questions": [
+    {
+      "id": "q01",
+      "type": "single",
+      "stem": "Dr. Aluko is recruiting for a randomized trial of a new therapy. Beyond the standard disclosures, Standard 8.02 requires her to tell potential participants about the experimental nature of the intervention, the availability of alternative treatments, and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "that those assigned to the control group will not receive the treatment"
+        },
+        {
+          "id": "b",
+          "text": "the statistical power calculation used to determine the sample size"
+        },
+        {
+          "id": "c",
+          "text": "the names of the other clinicians participating in the trial"
+        },
+        {
+          "id": "d",
+          "text": "the funding source supporting the research programme"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "For research involving experimental interventions, 8.02 requires informing potential participants of the experimental nature of the intervention, that control-group participants will not receive the treatment, and that alternative treatments are available if they decline.",
+      "whyWrong": {
+        "b": "Power calculations are methodological detail the standard does not require be disclosed.",
+        "c": "The identity of other clinicians is not among the required disclosures.",
+        "d": "Funding disclosure is not one of the items 8.02 lists."
+      },
+      "topic": "Informed consent for research",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section X.A, Standard 8.02, p. 100"
+    },
+    {
+      "id": "q02",
+      "type": "single",
+      "stem": "Standard 8.02 requires that research participants be told of their right to decline to participate and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "to review the study's findings before publication"
+        },
+        {
+          "id": "b",
+          "text": "to withdraw once participation has begun"
+        },
+        {
+          "id": "c",
+          "text": "to nominate an alternative participant in their place"
+        },
+        {
+          "id": "d",
+          "text": "to receive a copy of the raw data collected from them"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The disclosures in 8.02 include the right to decline to participate and to withdraw from the research once participation has begun, along with the foreseeable consequences of doing either.",
+      "whyWrong": {
+        "a": "Pre-publication review by participants is not among the required disclosures.",
+        "c": "Nominating a substitute is not a right the standard confers.",
+        "d": "Access to one's own raw data is not one of the eight items listed."
+      },
+      "topic": "Informed consent for research",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 1,
+      "sourceRef": "Section X.A, Standard 8.02, p. 100"
+    },
+    {
+      "id": "q03",
+      "type": "single",
+      "stem": "A researcher plans an anonymous questionnaire about study habits, distributed to undergraduates and posing no foreseeable risk. Under Standard 8.05, informed consent:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "is required, since all research with human participants requires consent"
+        },
+        {
+          "id": "b",
+          "text": "may be waived only with prior approval from an institutional review board"
+        },
+        {
+          "id": "c",
+          "text": "may be unnecessary, since the study is low-risk and uses an anonymous survey"
+        },
+        {
+          "id": "d",
+          "text": "is required, but may be obtained after the questionnaires are returned"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 8.05 identifies situations where obtaining informed consent may be unnecessary, including studies not likely to cause harm or distress that involve only administering an anonymous survey or questionnaire.",
+      "whyWrong": {
+        "a": "The standard expressly identifies circumstances where consent is unnecessary.",
+        "b": "IRB approval governs the research separately; it is not what 8.05 conditions the exception on.",
+        "d": "Consent obtained after the fact would not be consent at all."
+      },
+      "topic": "Informed consent for research",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section X.A, Standard 8.05, p. 100"
+    },
+    {
+      "id": "q04",
+      "type": "single",
+      "stem": "A psychologist records ambient conversations in a public plaza for a study of speech patterns, with no intention of identifying anyone. Under Standard 8.03, consent to the recording:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "is required, since the standard admits no exception for recording voices"
+        },
+        {
+          "id": "b",
+          "text": "is required from anyone whose voice is audible on the recording"
+        },
+        {
+          "id": "c",
+          "text": "is not required, since public spaces carry no expectation of privacy at all"
+        },
+        {
+          "id": "d",
+          "text": "not required: a naturalistic recording not used to identify anyone"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 8.03 requires consent before recording voices or images, but lists exceptions. One is a recording made in a naturalistic setting that will not be used in a way that identifies or harms those recorded.",
+      "whyWrong": {
+        "a": "The standard expressly lists several exceptions to the consent requirement.",
+        "b": "This states the general rule while ignoring the naturalistic-setting exception.",
+        "c": "The exception turns on the naturalistic setting and non-identifying use, not on a blanket rule about public spaces."
+      },
+      "topic": "Informed consent for research",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section X.A, Standard 8.03, p. 100"
+    },
+    {
+      "id": "q05",
+      "type": "single",
+      "stem": "An introductory psychology course awards extra credit for taking part in departmental research. Under Standard 8.04, the department must:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "offer students equitable alternative activities"
+        },
+        {
+          "id": "b",
+          "text": "cap the proportion of the final grade that participation can affect"
+        },
+        {
+          "id": "c",
+          "text": "obtain written consent from each student's academic adviser"
+        },
+        {
+          "id": "d",
+          "text": "restrict participation to students who have completed the course"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Where participation in research is part of a course requirement, Standard 8.04 requires that students be offered equitable alternative activities. Students cannot be required to participate in a research study.",
+      "whyWrong": {
+        "b": "The standard does not cap the credit weighting; it requires an alternative route to it.",
+        "c": "No adviser consent is required.",
+        "d": "Restricting participation to those who finished the course is not what the standard directs."
+      },
+      "topic": "Inducements for participation",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section X.B, Standard 8.04, p. 100"
+    },
+    {
+      "id": "q06",
+      "type": "single",
+      "stem": "A researcher offers hospitalized psychiatric patients additional privileges in exchange for enrolling in a study. Under Standard 8.06, this inducement is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "acceptable, since non-financial inducements fall outside the standard"
+        },
+        {
+          "id": "b",
+          "text": "probably unacceptable, since it is likely to be coercive for this population"
+        },
+        {
+          "id": "c",
+          "text": "acceptable, provided the privileges are also available to non-participants"
+        },
+        {
+          "id": "d",
+          "text": "unacceptable, since Standard 8.06 forbids all inducements for participation"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 8.06 permits financial and other inducements only where they are not coercive. Giving prisoners or hospitalized psychiatric patients special privileges in return for taking part is the section's own example of a probably unacceptable inducement.",
+      "whyWrong": {
+        "a": "The standard covers financial and other inducements alike.",
+        "c": "Privileges available regardless of participation would not be an inducement at all.",
+        "d": "Inducements are permitted; the limit is that they must not be coercive."
+      },
+      "topic": "Inducements for participation",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section X.B, Standard 8.06, p. 100"
+    },
+    {
+      "id": "q07",
+      "type": "single",
+      "stem": "Which would most likely make a financial inducement coercive under Standard 8.06?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Offering a modest gift card for completing a thirty-minute survey"
+        },
+        {
+          "id": "b",
+          "text": "Reimbursing participants for their travel and parking costs"
+        },
+        {
+          "id": "c",
+          "text": "Offering $500 per hour for a study that causes physical pain"
+        },
+        {
+          "id": "d",
+          "text": "Entering all participants into a draw for a single small prize"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "An amount large enough to override a participant's judgment about accepting a painful procedure is the section's example of a probably unacceptable inducement. The concern is that the payment overwhelms free choice.",
+      "whyWrong": {
+        "a": "A modest payment proportionate to time and effort is not coercive.",
+        "b": "Reimbursement of expenses restores participants to their prior position rather than inducing them.",
+        "d": "A small prize draw does not carry coercive force."
+      },
+      "topic": "Inducements for participation",
+      "level": "application",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section X.B, Standard 8.06, p. 100"
+    },
+    {
+      "id": "q08",
+      "type": "single",
+      "stem": "A study uses confederates who pose as fellow participants. This is an example of deception, and the section notes that in such studies:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "informed consent is obtained as usual, since confederates are not participants"
+        },
+        {
+          "id": "b",
+          "text": "the study is prohibited, since the Code bars misrepresenting procedures"
+        },
+        {
+          "id": "c",
+          "text": "consent must be obtained from the confederates rather than the participants"
+        },
+        {
+          "id": "d",
+          "text": "a truly informed consent cannot be obtained, so special precautions apply"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Where a study involves deception, a truly informed consent cannot be obtained because participants are not informed about all aspects of the research. That is why Standard 8.07 imposes special precautions. Using confederates is one of the section's examples of deception.",
+      "whyWrong": {
+        "a": "The deception concerns what participants are told, so consent cannot be complete.",
+        "b": "Deception is permitted where 8.07's conditions are met rather than prohibited outright.",
+        "c": "Confederates are members of the research team, not the people whose consent is at issue."
+      },
+      "topic": "Deception in research",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section X.C, p. 100"
+    },
+    {
+      "id": "q09",
+      "type": "single",
+      "stem": "Standard 8.07 permits deception only where its use is justified by the study's prospective value and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "effective nondeceptive alternative procedures are not feasible"
+        },
+        {
+          "id": "b",
+          "text": "the deception is disclosed in the recruitment materials in general terms"
+        },
+        {
+          "id": "c",
+          "text": "participants are compensated at a higher rate than in non-deceptive studies"
+        },
+        {
+          "id": "d",
+          "text": "an institutional review board has certified the deception as minimal"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The first condition in 8.07 is that deception be justified by the study's significant prospective scientific, educational, or applied value and that effective nondeceptive alternative procedures are not feasible.",
+      "whyWrong": {
+        "b": "Disclosing the deception in advance would defeat it and is not what the standard requires.",
+        "c": "Higher compensation is not a condition, and could raise its own coercion concerns.",
+        "d": "IRB review operates separately from the conditions 8.07 states."
+      },
+      "topic": "Deception in research",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section X.C, Standard 8.07, pp. 100-101"
+    },
+    {
+      "id": "q10",
+      "type": "single",
+      "stem": "Under Standard 8.07, participants may never be deceived about conditions reasonably expected to cause:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "any inconvenience or loss of time whatsoever"
+        },
+        {
+          "id": "b",
+          "text": "physical pain or severe emotional distress"
+        },
+        {
+          "id": "c",
+          "text": "mild embarrassment during the experimental task"
+        },
+        {
+          "id": "d",
+          "text": "disagreement with the researcher's hypothesis"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 8.07(b) provides that prospective participants are not deceived about research reasonably expected to cause physical pain or severe emotional distress.",
+      "whyWrong": {
+        "a": "Ordinary inconvenience does not meet the threshold the standard sets.",
+        "c": "Mild embarrassment falls below severe emotional distress.",
+        "d": "Disagreement with a hypothesis is not a harm the provision addresses."
+      },
+      "topic": "Deception in research",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section X.C, Standard 8.07, p. 101"
+    },
+    {
+      "id": "q11",
+      "type": "single",
+      "stem": "A deception study runs for eight months. Dr. Bassett plans to debrief every participant at a single group session after all data are collected. Under Standard 8.07 this is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "impermissible: debriefing must occur immediately at the end of each session"
+        },
+        {
+          "id": "b",
+          "text": "permissible and preferred, since group debriefing ensures consistent information"
+        },
+        {
+          "id": "c",
+          "text": "permissible but not preferred: debriefing should if possible follow each participation"
+        },
+        {
+          "id": "d",
+          "text": "impermissible unless participants waive their right to an individual debriefing"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 8.07 requires debriefing preferably at the conclusion of a participant's own participation, but no later than at the conclusion of the data collection. A single debriefing at the end meets the outer limit but not the preference.",
+      "whyWrong": {
+        "a": "The outer limit is the conclusion of data collection, so the plan is not impermissible.",
+        "b": "Consistency is not the standard's concern; the preference runs the other way.",
+        "d": "No waiver mechanism appears in the standard."
+      },
+      "topic": "Deception in research",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section X.C, Standard 8.07, p. 101"
+    },
+    {
+      "id": "q12",
+      "type": "single",
+      "stem": "Under Standard 8.09, procedures that subject animals to pain, stress, or privation may be used only where they are justified by the study's potential findings and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the species used is not a primate or other higher mammal"
+        },
+        {
+          "id": "b",
+          "text": "the researcher holds a veterinary qualification"
+        },
+        {
+          "id": "c",
+          "text": "the number of animals is fewer than in comparable published work"
+        },
+        {
+          "id": "d",
+          "text": "alternative procedures are unavailable"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 8.09 permits procedures entailing pain, stress, or privation only when justified by the potential findings of the study and when alternative procedures are not available.",
+      "whyWrong": {
+        "a": "The standard does not turn on species classification.",
+        "b": "No veterinary qualification is required of the researcher by this provision.",
+        "c": "Comparative sample size is not the criterion stated."
+      },
+      "topic": "Animals in research",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section X.D, Standard 8.09, p. 101"
+    },
+    {
+      "id": "q13",
+      "type": "single",
+      "stem": "At the end of a study Dr. Halloran must euthanize the remaining animal subjects. Standard 8.09 requires that this be done:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "as rapidly and painlessly as possible"
+        },
+        {
+          "id": "b",
+          "text": "only by a licensed veterinarian in an accredited facility"
+        },
+        {
+          "id": "c",
+          "text": "only after the institutional animal committee has re-approved the protocol"
+        },
+        {
+          "id": "d",
+          "text": "only where no facility will accept the animals for rehoming"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 8.09 provides that if an animal's life is to be terminated, it should be done as rapidly and painlessly as possible.",
+      "whyWrong": {
+        "b": "The standard states the manner required rather than restricting who may carry it out.",
+        "c": "No re-approval requirement appears in the standard.",
+        "d": "Rehoming is not a condition the standard imposes."
+      },
+      "topic": "Animals in research",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section X.D, Standard 8.09, p. 101"
+    },
+    {
+      "id": "q14",
+      "type": "single",
+      "stem": "A laboratory assigns animal care duties to an undergraduate volunteer with no relevant training. Under Standard 8.09, the problem is that those involved in animal care must be:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "enrolled in a graduate programme in psychology or a related discipline"
+        },
+        {
+          "id": "b",
+          "text": "appropriately trained and given tasks that fit their knowledge and experience"
+        },
+        {
+          "id": "c",
+          "text": "supervised in person by the principal investigator at all times"
+        },
+        {
+          "id": "d",
+          "text": "certified by the institution's animal welfare committee each year"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 8.09 requires that all people involved in the care and handling of animals be appropriately trained and assigned tasks consistent with their knowledge and experience.",
+      "whyWrong": {
+        "a": "Enrolment status is not what the standard requires; training and task fit are.",
+        "c": "Continuous personal supervision is not the requirement stated.",
+        "d": "Annual certification is not what the standard specifies."
+      },
+      "topic": "Animals in research",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section X.D, Standard 8.09, p. 101"
+    },
+    {
+      "id": "q15",
+      "type": "single",
+      "stem": "After publication, Dr. Serrano notices the journal printed her result's significance level as .0001 when it was actually .10. Under Standard 8.10 she should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "leave the record as printed, since the error was the journal's rather than hers"
+        },
+        {
+          "id": "b",
+          "text": "withdraw the article from the published record entirely"
+        },
+        {
+          "id": "c",
+          "text": "request that the journal print a correction"
+        },
+        {
+          "id": "d",
+          "text": "note the discrepancy in her next publication on the same topic"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 8.10 prohibits fabricating data and requires taking reasonable steps to correct any errors that occur. Requesting a printed correction is the section's own example of that reasonable step.",
+      "whyWrong": {
+        "a": "The obligation to correct does not depend on who introduced the error.",
+        "b": "Retraction is disproportionate where a correction addresses the error.",
+        "d": "A note in a later paper would not correct the record where the error appeared."
+      },
+      "topic": "Research data and publication credit",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section X.E, Standard 8.10, p. 101"
+    },
+    {
+      "id": "q16",
+      "type": "single",
+      "stem": "A colleague asks Dr. Imani to share the dataset from a study she has completed but not yet published, so he can attempt a re-analysis. Under Standard 8.14 she:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "must share, since the data exist and the colleague is a competent professional"
+        },
+        {
+          "id": "b",
+          "text": "must share, provided he agrees in writing not to publish before she does"
+        },
+        {
+          "id": "c",
+          "text": "is not required to share unless the study was publicly funded"
+        },
+        {
+          "id": "d",
+          "text": "is not required to share, since the obligation arises once results are published"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 8.14 requires sharing data with competent professionals once research results are published. The section notes it does not require sharing data that have not yet been presented in a published research study.",
+      "whyWrong": {
+        "a": "Competence of the requester matters, but the obligation is triggered by publication.",
+        "b": "A non-publication agreement is not the condition the standard sets.",
+        "c": "Funding source is not what triggers the sharing obligation under this standard."
+      },
+      "topic": "Research data and publication credit",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section X.E, Standard 8.14, p. 101"
+    },
+    {
+      "id": "q17",
+      "type": "single",
+      "stem": "Dr. Okafor has published her results and a colleague requests the dataset for re-analysis. Before releasing it, Standard 8.14 requires that she first:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ensure participant confidentiality will be maintained"
+        },
+        {
+          "id": "b",
+          "text": "obtain fresh consent from each participant in the study"
+        },
+        {
+          "id": "c",
+          "text": "secure the agreement of every co-author on the paper"
+        },
+        {
+          "id": "d",
+          "text": "deposit the dataset with the publishing journal"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 8.14 conditions data sharing on the psychologist first ensuring that the confidentiality of participants will be maintained.",
+      "whyWrong": {
+        "b": "Fresh consent from participants is not required for verification sharing.",
+        "c": "Co-author agreement is a courtesy rather than a requirement of the standard.",
+        "d": "Journal deposit is not what the standard directs."
+      },
+      "topic": "Research data and publication credit",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section X.E, Standard 8.14, p. 101"
+    },
+    {
+      "id": "q18",
+      "type": "single",
+      "stem": "Standard 8.11 provides that taking credit for another person's work is unacceptable:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "only where the borrowed material is quoted verbatim"
+        },
+        {
+          "id": "b",
+          "text": "even if the work or data source is cited occasionally"
+        },
+        {
+          "id": "c",
+          "text": "only where the original author has objected to the use"
+        },
+        {
+          "id": "d",
+          "text": "unless the material appeared in an unpublished manuscript"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 8.11 prohibits plagiarism and notes it is unacceptable to take credit for someone else's work even if the work or data source is cited occasionally.",
+      "whyWrong": {
+        "a": "Plagiarism is not confined to verbatim quotation.",
+        "c": "The wrong does not depend on the original author objecting.",
+        "d": "Unpublished work is protected as much as published work."
+      },
+      "topic": "Research data and publication credit",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section X.F, Standard 8.11, p. 101"
+    },
+    {
+      "id": "q19",
+      "type": "single",
+      "stem": "An article is being prepared from a student's dissertation, with substantial input from her supervisor. Under Standard 8.12, the student should ordinarily be listed as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "second author, with the supervisor taking principal authorship"
+        },
+        {
+          "id": "b",
+          "text": "principal author only where she drafted the manuscript unaided"
+        },
+        {
+          "id": "c",
+          "text": "principal author, except under exceptional circumstances"
+        },
+        {
+          "id": "d",
+          "text": "an author whose position is determined by departmental convention"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 8.12 requires credit based on contribution rather than status, and provides that students must be listed as principal author on multiple-authored articles based substantially on their dissertations except under exceptional circumstances. Supervisors are ordinarily credited by second authorship or in acknowledgements.",
+      "whyWrong": {
+        "a": "This reverses the ordinary position the standard sets.",
+        "b": "Supervisory input on the manuscript does not displace the student's principal authorship.",
+        "d": "Departmental convention does not override the standard."
+      },
+      "topic": "Research data and publication credit",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section X.F, Standard 8.12, p. 101"
+    },
+    {
+      "id": "q20",
+      "type": "single",
+      "stem": "Eighteen months after defending, a student has produced no draft of the article and no other arrangement was negotiated in advance. Under the University of Victoria guideline the section cites, the supervisor may take the lead and be listed as principal author, and the student:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "is credited only in the acknowledgements section"
+        },
+        {
+          "id": "b",
+          "text": "loses any claim to authorship of the published work"
+        },
+        {
+          "id": "c",
+          "text": "must consent in writing before the article may be submitted"
+        },
+        {
+          "id": "d",
+          "text": "remains an author on the article"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The guideline provides that where a student does not produce a first draft within about twelve months of defending, absent another arrangement, the supervisor can take over the lead and be listed as principal author — but the student remains an author on the article. Timeliness is one consideration in judging whether a circumstance is exceptional.",
+      "whyWrong": {
+        "a": "Acknowledgement is how supervisors are ordinarily credited in the usual case, not how the student is treated here.",
+        "b": "The guideline preserves the student's authorship even when the lead changes.",
+        "c": "No written consent requirement appears in the guideline."
+      },
+      "topic": "Research data and publication credit",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section X.F, Standard 8.12, p. 101"
+    }
+  ]
+}
