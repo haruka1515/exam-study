@@ -1,0 +1,753 @@
+{
+  "id": "ch02-s08",
+  "chapter": 2,
+  "chapterTitle": "Ethics and Professional Issues",
+  "section": 8,
+  "sectionTitle": "Standard 6: Record Keeping and Fees",
+  "profile": "application-primary",
+  "sourceFile": "Ethics.pdf",
+  "generatedAt": "2026-09-07",
+  "questionTarget": 20,
+  "questions": [
+    {
+      "id": "q01",
+      "type": "single",
+      "stem": "Dr. Ferreira closes her practice and asks how long to keep records for an adult client last seen in March, and for a client she began seeing at age twelve. Absent superseding law, APA's Record Keeping Guidelines suggest:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "seven years after the last service for the adult, three years past majority for the minor"
+        },
+        {
+          "id": "b",
+          "text": "seven years after the last date of service for both clients regardless of age at intake"
+        },
+        {
+          "id": "c",
+          "text": "three years after the last date of service for the adult, and seven years for the minor"
+        },
+        {
+          "id": "d",
+          "text": "ten years for both, since the longer period always governs where a minor is involved"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "In the absence of superseding laws or institutional regulations, the Guidelines suggest retaining full records until seven years after the last date of service for adults, or until three years after a minor reaches the age of majority, whichever is later.",
+      "whyWrong": {
+        "b": "This ignores the separate rule for minors, which is keyed to the age of majority rather than the service date.",
+        "c": "The two periods are reversed here.",
+        "d": "Ten years appears nowhere in the Guidelines."
+      },
+      "topic": "Record maintenance and retention",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VIII.A, Standard 6.01, p. 94"
+    },
+    {
+      "id": "q02",
+      "type": "single",
+      "stem": "Under Guideline 2 of APA's Record Keeping Guidelines, a record of a substantive client contact should include the date and duration of the session, the type of service provided, the nature of the intervention, and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "a verbatim account of what the client disclosed"
+        },
+        {
+          "id": "b",
+          "text": "a summary of the client's status"
+        },
+        {
+          "id": "c",
+          "text": "the psychologist's countertransference reactions to the session"
+        },
+        {
+          "id": "d",
+          "text": "a projected date for the eventual termination of the treatment"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The Guidelines specify that for each substantive contact the record should include the date and duration of the session, the type of services provided, the nature of the intervention or contact, and a summary of the client's status.",
+      "whyWrong": {
+        "a": "A verbatim account is not required and would sit closer to psychotherapy notes than to the record.",
+        "c": "The psychologist's own reactions are not among the specified contents.",
+        "d": "No projected termination date is required by the Guidelines."
+      },
+      "topic": "Record maintenance and retention",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section VIII.A, Standard 6.01, p. 94"
+    },
+    {
+      "id": "q03",
+      "type": "single",
+      "stem": "Dr. Ivanov is drafting a plan for what happens to his client records if he dies or becomes unable to practise. This planning is required by:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Standard 6.01, which governs the creation and maintenance of records generally"
+        },
+        {
+          "id": "b",
+          "text": "Standard 3.12, which requires planning for the continuity of interrupted client services"
+        },
+        {
+          "id": "c",
+          "text": "Standard 6.02(c), which requires a plan for record confidentiality on death or withdrawal"
+        },
+        {
+          "id": "d",
+          "text": "HIPAA's Privacy Rule, which sets custodianship requirements for closing practices"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 6.02(c) requires psychologists to have a plan for protecting the confidentiality of records in the event of their death, illness, or withdrawal from practice — for instance through a professional will, an agreement with a colleague, or asking a professional association to assist.",
+      "whyWrong": {
+        "a": "6.01 addresses creating and maintaining records, not planning for the psychologist's incapacity.",
+        "b": "3.12 concerns continuity of services to clients rather than the confidentiality of records.",
+        "d": "The requirement here comes from the Ethics Code, not from HIPAA."
+      },
+      "topic": "Record maintenance and retention",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VIII.B, Standard 6.02, p. 94"
+    },
+    {
+      "id": "q04",
+      "type": "single",
+      "stem": "A client asks to see everything in her file. Client access to records is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "governed by Standard 6.01, which grants clients an unqualified right of inspection"
+        },
+        {
+          "id": "b",
+          "text": "prohibited by the Ethics Code except where a court has ordered disclosure"
+        },
+        {
+          "id": "c",
+          "text": "left entirely to the psychologist's clinical judgment in every jurisdiction"
+        },
+        {
+          "id": "d",
+          "text": "not covered by the Ethics Code, but addressed by law and institutional regulation"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Client access to records is not covered by the Ethics Code. It is addressed instead by federal, state, and provincial laws and by institutional regulations.",
+      "whyWrong": {
+        "a": "6.01 concerns record maintenance; it confers no right of access.",
+        "b": "The Code neither grants nor prohibits access; it is silent on the question.",
+        "c": "Many jurisdictions grant clients a right to inspect and amend, so it is not purely a matter of clinical judgment."
+      },
+      "topic": "Client access to records",
+      "level": "application",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section VIII.C, p. 95"
+    },
+    {
+      "id": "q05",
+      "type": "single",
+      "stem": "In many jurisdictions, laws governing psychological records provide that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the practitioner or institution owns the record, while the client may inspect and amend it"
+        },
+        {
+          "id": "b",
+          "text": "the client owns the physical record and may take possession of the original at any time"
+        },
+        {
+          "id": "c",
+          "text": "ownership passes to the client once the professional relationship has been terminated"
+        },
+        {
+          "id": "d",
+          "text": "neither party owns the record, which is held in trust by the licensing board"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "In many jurisdictions, laws grant ownership of physical records to the practitioner or institution but give clients the right to inspect and amend the information contained in them.",
+      "whyWrong": {
+        "b": "Ownership of the physical record generally rests with the practitioner or institution.",
+        "c": "Termination does not transfer ownership of the record.",
+        "d": "Licensing boards do not hold client records in trust."
+      },
+      "topic": "Client access to records",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section VIII.C, p. 95"
+    },
+    {
+      "id": "q06",
+      "type": "single",
+      "stem": "A patient asks Dr. Okonkwo for a copy of everything in her chart, including the notes he keeps separately to analyze the content of their sessions. Under HIPAA's Privacy Rule, he:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "must provide everything in the chart, since the Privacy Rule draws no distinction between kinds of record"
+        },
+        {
+          "id": "b",
+          "text": "must provide PHI in the designated record set, but need not release psychotherapy notes"
+        },
+        {
+          "id": "c",
+          "text": "may withhold both the medical records and the psychotherapy notes at his clinical discretion"
+        },
+        {
+          "id": "d",
+          "text": "must release the psychotherapy notes but may withhold the billing records as proprietary"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The Privacy Rule distinguishes protected health information from psychotherapy notes. Patients may inspect and obtain a copy of PHI in the designated record set — the medical and billing records used to make decisions about the patient — while psychotherapy notes need not be released unless state law requires it.",
+      "whyWrong": {
+        "a": "The distinction between PHI and psychotherapy notes is central to the Privacy Rule.",
+        "c": "PHI in the designated record set is accessible to the patient as of right.",
+        "d": "This inverts the rule: billing records are part of the designated record set."
+      },
+      "topic": "Client access to records",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section VIII.C, p. 95"
+    },
+    {
+      "id": "q07",
+      "type": "single",
+      "stem": "Psychotherapy notes, as HIPAA defines them, are notes that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "record the dates and durations of sessions along with the modality of treatment used"
+        },
+        {
+          "id": "b",
+          "text": "summarize the client's diagnosis and treatment plan for submission to third-party payors"
+        },
+        {
+          "id": "c",
+          "text": "document or analyze the content of a session and are kept separately from the medical record"
+        },
+        {
+          "id": "d",
+          "text": "the psychologist has designated as confidential in the client's signed consent form"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Psychotherapy notes are notes in any medium used by the practitioner to document or analyze the content of a therapy session, maintained separately from the patient's medical record. That separation is what distinguishes them from PHI.",
+      "whyWrong": {
+        "a": "Dates, durations and modality belong in the record itself and form part of PHI.",
+        "b": "Material prepared for payors is part of the billing and medical record.",
+        "d": "The category is defined by content and separate maintenance, not by designation in a consent form."
+      },
+      "topic": "Client access to records",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section VIII.C, p. 95"
+    },
+    {
+      "id": "q08",
+      "type": "single",
+      "stem": "A school psychologist at a federally funded district is asked by a parent to see her child's educational records. The statute governing this request is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "HIPAA's Privacy Rule, which covers all records held about minors"
+        },
+        {
+          "id": "b",
+          "text": "Standard 6.02 of the Ethics Code, which governs record confidentiality"
+        },
+        {
+          "id": "c",
+          "text": "the Individuals with Disabilities Education Act"
+        },
+        {
+          "id": "d",
+          "text": "FERPA, also known as the Buckley Amendment"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The Family Education Rights and Privacy Act, also known as FERPA and the Buckley Amendment, applies to records maintained by educational institutions receiving federal funds, and grants parents and eligible students the right to inspect and challenge educational records.",
+      "whyWrong": {
+        "a": "HIPAA governs health information rather than educational records held by a school.",
+        "b": "6.02 governs the psychologist's handling of records but does not create the parent's access right.",
+        "c": "IDEA concerns special education services rather than general records access."
+      },
+      "topic": "Client access to records",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VIII.C, p. 95"
+    },
+    {
+      "id": "q09",
+      "type": "single",
+      "stem": "A former client who owes Dr. Sarraf a substantial balance is admitted to hospital in crisis, and the treating team requests her records urgently. Under Standard 6.03, Dr. Sarraf:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "may not withhold the records, because they are needed for the client's emergency treatment"
+        },
+        {
+          "id": "b",
+          "text": "may withhold them until the balance is settled, since the debt is undisputed"
+        },
+        {
+          "id": "c",
+          "text": "may withhold them unless a court orders their release to the treating team"
+        },
+        {
+          "id": "d",
+          "text": "may release only a treatment summary until payment arrangements have been formally agreed"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 6.03 prohibits withholding records requested and needed for a client's emergency treatment solely because payment has not been received.",
+      "whyWrong": {
+        "b": "The emergency is precisely the circumstance in which withholding is prohibited.",
+        "c": "No court order is needed; the standard bars withholding outright in an emergency.",
+        "d": "Partial release does not satisfy the standard where the full record is needed for emergency care."
+      },
+      "topic": "Fees and financial matters",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 1,
+      "sourceRef": "Section VIII.D, Standard 6.03, p. 95"
+    },
+    {
+      "id": "q10",
+      "type": "single",
+      "stem": "Regarding withholding records for nonpayment outside an emergency, the section indicates that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "it is always acceptable, since the prohibition in 6.03 is confined to emergencies"
+        },
+        {
+          "id": "b",
+          "text": "it may be acceptable, though 3.04 and local law may still prohibit it"
+        },
+        {
+          "id": "c",
+          "text": "it is never acceptable, since the Ethics Code bars withholding under any circumstance"
+        },
+        {
+          "id": "d",
+          "text": "it is acceptable only where the client agreed to the practice in a signed fee agreement"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The emergency-only wording of 6.03 implies that withholding may be acceptable in non-emergency situations. But Standard 3.04 requires taking reasonable steps to avoid harming clients, and state, federal or provincial law may not recognize nonpayment as a legitimate reason under any circumstance.",
+      "whyWrong": {
+        "a": "This reads the implication without the two qualifications that immediately follow it.",
+        "c": "The Code's prohibition is expressly tied to emergency treatment.",
+        "d": "A signed agreement does not displace 3.04 or overriding law."
+      },
+      "topic": "Fees and financial matters",
+      "level": "application",
+      "stemType": "short",
+      "difficulty": 3,
+      "sourceRef": "Section VIII.D, Standard 6.03, p. 95"
+    },
+    {
+      "id": "q11",
+      "type": "single",
+      "stem": "Standard 6.04 requires that psychologists reach an agreement with clients about fees and financial arrangements:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "before the conclusion of the third scheduled session"
+        },
+        {
+          "id": "b",
+          "text": "at whatever point the client first raises the question of cost"
+        },
+        {
+          "id": "c",
+          "text": "as early as is feasible"
+        },
+        {
+          "id": "d",
+          "text": "once the assessment phase is complete and a treatment plan has been formed"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 6.04 requires discussing and reaching agreement about fees and other financial matters as early as is feasible in the professional relationship.",
+      "whyWrong": {
+        "a": "The standard sets no numbered session deadline.",
+        "b": "The obligation does not wait on the client raising it.",
+        "d": "Tying the discussion to the end of assessment would often be far later than feasible."
+      },
+      "topic": "Fees and financial matters",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 1,
+      "sourceRef": "Section VIII.D, Standard 6.04, p. 95"
+    },
+    {
+      "id": "q12",
+      "type": "single",
+      "stem": "Dr. Whitcombe intends to refer a client's unpaid balance to a collection agency. Before doing so, he must:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "obtain the client's written consent to the release of information to the agency"
+        },
+        {
+          "id": "b",
+          "text": "provide the agency with the complete file so it can substantiate the debt if challenged"
+        },
+        {
+          "id": "c",
+          "text": "wait until the account has been outstanding for at least one hundred and eighty days"
+        },
+        {
+          "id": "d",
+          "text": "notify the client and allow an opportunity to pay, then give the agency only what it needs"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "A collection agency may be used, but only after notifying clients of that intent and giving them an opportunity to pay. The psychologist must provide the agency with only the limited information it needs to seek payment.",
+      "whyWrong": {
+        "a": "Written consent is not required; notice and an opportunity to pay are.",
+        "b": "Providing the complete file contradicts the limited-information requirement.",
+        "c": "The Code prescribes no waiting period."
+      },
+      "topic": "Fees and financial matters",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VIII.D, p. 96"
+    },
+    {
+      "id": "q13",
+      "type": "single",
+      "stem": "Dr. Baptiste's supervisee provides therapy to a client, and Dr. Baptiste signs the insurance form as the service provider so the claim will be paid. This practice is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "prohibited: it bills a third party for services the signer did not render"
+        },
+        {
+          "id": "b",
+          "text": "acceptable, since a supervisor bears professional responsibility for a supervisee's work"
+        },
+        {
+          "id": "c",
+          "text": "acceptable, provided the supervisee is identified elsewhere in the client's record"
+        },
+        {
+          "id": "d",
+          "text": "prohibited only where the insurer has expressly refused to reimburse supervised services"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Psychologists must not bill third parties for services they have not actually rendered. Signing insurance forms as the provider of services actually delivered by a supervisee is the first of the six prohibited practices the section lists.",
+      "whyWrong": {
+        "b": "Supervisory responsibility for the work does not make the supervisor the provider for billing purposes.",
+        "c": "Noting the supervisee in the record does not cure a misrepresentation on the claim form.",
+        "d": "The prohibition does not depend on the insurer's stated reimbursement policy."
+      },
+      "topic": "Third-party billing",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VIII.D, p. 96"
+    },
+    {
+      "id": "q14",
+      "type": "single",
+      "stem": "A psychologist routinely waives clients' insurance co-payments without telling the insurers. The section identifies the problem as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the practice constitutes an impermissible sliding fee scale under Standard 6.04"
+        },
+        {
+          "id": "b",
+          "text": "the insurer effectively pays 100% of the fee, not the percentage it agreed to"
+        },
+        {
+          "id": "c",
+          "text": "waiving fees creates a multiple relationship with the client under Standard 3.05"
+        },
+        {
+          "id": "d",
+          "text": "the psychologist forfeits the right to pursue the balance through a collection agency"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Waiving a co-payment without the company's knowledge is among the prohibited third-party billing practices, because the insurer ends up paying the whole of the client's fee rather than the smaller agreed percentage.",
+      "whyWrong": {
+        "a": "Sliding scales are generally acceptable when fair; the issue here is what the insurer is told.",
+        "c": "No multiple relationship arises from a fee waiver.",
+        "d": "Loss of collection rights is not the ethical problem the section identifies."
+      },
+      "topic": "Third-party billing",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section VIII.D, p. 96"
+    },
+    {
+      "id": "q15",
+      "type": "single",
+      "stem": "Which billing practice would NOT necessarily be prohibited?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Billing an insurer for individual sessions when family therapy was what was actually provided"
+        },
+        {
+          "id": "b",
+          "text": "Changing the recorded onset date of a disorder to circumvent an insurance restriction"
+        },
+        {
+          "id": "c",
+          "text": "Billing an insurer for missed appointments where the company has agreed to that arrangement"
+        },
+        {
+          "id": "d",
+          "text": "Assigning an inaccurate DSM diagnosis so that the client qualifies for payment"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Billing for missed appointments is listed among the prohibited practices with an express exception: unless this arrangement has been agreed to by the company. The other three are prohibited without qualification.",
+      "whyWrong": {
+        "a": "Billing individual sessions for group, couple or family therapy misrepresents the service rendered.",
+        "b": "Changing the date of onset or of the beginning of therapy to circumvent restrictions is expressly prohibited.",
+        "d": "Assigning an inaccurate diagnosis to qualify for payment is expressly prohibited."
+      },
+      "topic": "Third-party billing",
+      "level": "application",
+      "stemType": "negative",
+      "difficulty": 3,
+      "sourceRef": "Section VIII.D, p. 96"
+    },
+    {
+      "id": "q16",
+      "type": "single",
+      "stem": "A client with limited funds proposes to clean Dr. Adeyemi's office each week in exchange for therapy. Canter et al. (1994) would regard this arrangement as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "acceptable, since barter is permitted whenever the client proposes it voluntarily"
+        },
+        {
+          "id": "b",
+          "text": "acceptable, provided the value of the services is documented in the client's record"
+        },
+        {
+          "id": "c",
+          "text": "prohibited outright, since Standard 6.05 bars all barter arrangements"
+        },
+        {
+          "id": "d",
+          "text": "clearly clinically contraindicated, given the consequences of unsatisfactory performance"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Canter et al. conclude that exchanging certain services for therapy, such as housekeeping or childcare, is clearly clinically contraindicated because of the potential negative consequences if those services are not performed satisfactorily.",
+      "whyWrong": {
+        "a": "The client's willingness does not resolve whether the arrangement is clinically contraindicated.",
+        "b": "Documenting value does not address the clinical contraindication.",
+        "c": "Standard 6.05 permits barter that is neither clinically contraindicated nor exploitative."
+      },
+      "topic": "Barter and referral fees",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VIII.D, Standard 6.05, p. 96"
+    },
+    {
+      "id": "q17",
+      "type": "single",
+      "stem": "In assessing the potential for exploitation in a barter arrangement, Canter et al. note that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "both the client and the psychologist should be considered, since either may feel exploited"
+        },
+        {
+          "id": "b",
+          "text": "only the client's position matters, since the psychologist holds the greater power"
+        },
+        {
+          "id": "c",
+          "text": "exploitation is presumed whenever the bartered goods exceed the standard fee in value"
+        },
+        {
+          "id": "d",
+          "text": "the question is resolved by whether the client initiated the proposal"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Exploitation of the client is of greatest concern, but the psychologist may also feel exploited if the client does not meet expectations, which may have a very negative impact on the psychological services rendered. Both parties are considered.",
+      "whyWrong": {
+        "b": "This captures the primary concern while missing the point the authors add about the psychologist.",
+        "c": "No such valuation presumption appears in the discussion.",
+        "d": "Who proposed the arrangement is not what settles the exploitation question."
+      },
+      "topic": "Barter and referral fees",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 3,
+      "sourceRef": "Section VIII.D, Standard 6.05, p. 96"
+    },
+    {
+      "id": "q18",
+      "type": "single",
+      "stem": "Dr. Lindholm refers clients to a colleague and allows the colleague to use her office to see them. Under Standard 6.07, she may charge the colleague a fee that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "represents a fixed percentage of the fees the colleague collects from those clients"
+        },
+        {
+          "id": "b",
+          "text": "represents the costs of the colleague's use of the office space"
+        },
+        {
+          "id": "c",
+          "text": "reflects the commercial value of the referrals she has generated for the colleague"
+        },
+        {
+          "id": "d",
+          "text": "the two of them agree upon, since referral fees between colleagues are unregulated"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Referral fees paid to an individual professional must be based on the actual costs of the services provided rather than on the referral itself. Charging for the colleague's use of office space is the section's own example of an acceptable arrangement.",
+      "whyWrong": {
+        "a": "A percentage of collections is permissible only where it stays within a reasonable range of the fair market value of services actually provided.",
+        "c": "Charging for the referral itself is exactly what 6.07 forbids.",
+        "d": "Referral fees are regulated by 6.07 even between colleagues."
+      },
+      "topic": "Barter and referral fees",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VIII.D, Standard 6.07, p. 96"
+    },
+    {
+      "id": "q19",
+      "type": "single",
+      "stem": "APA's 1995 statement clarifying its position on referral fees provides that the Ethics Code does not prohibit an independent contractor from paying a percentage of a fee to a colleague, so long as the payment is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "disclosed to the client before the first session takes place"
+        },
+        {
+          "id": "b",
+          "text": "no greater than one third of the total fee collected"
+        },
+        {
+          "id": "c",
+          "text": "within a reasonable range of the fair market value of services provided"
+        },
+        {
+          "id": "d",
+          "text": "documented in a written agreement filed with the state licensing board"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The 1995 statement provides that the Code does not prohibit an independent contractor from paying a percentage of a fee to a colleague as long as the payment is within a reasonable range of the fair market value of the services provided.",
+      "whyWrong": {
+        "a": "Client disclosure is not the condition the statement sets.",
+        "b": "No numerical cap appears in the statement.",
+        "d": "No filing with a licensing board is required."
+      },
+      "topic": "Barter and referral fees",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 3,
+      "sourceRef": "Section VIII.D, Standard 6.07, p. 96"
+    },
+    {
+      "id": "q20",
+      "type": "single",
+      "stem": "A psychologist operates a sliding fee scale for lower-income clients. Koocher and Keith-Spiegel would say that, from an ethical standpoint:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "sliding scales are impermissible because they charge different clients differently for identical services"
+        },
+        {
+          "id": "b",
+          "text": "the scale must be approved by the psychologist's professional association before use"
+        },
+        {
+          "id": "c",
+          "text": "the lowest rate on the scale must be offered to any client who requests it"
+        },
+        {
+          "id": "d",
+          "text": "how the fee is set, communicated, managed, and collected matters more than its amount"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Sliding fee scales are not addressed by the Ethics Code but are generally considered acceptable so long as their use is fair and serves the client's best interests. Koocher and Keith-Spiegel conclude the actual fee charged is not as important ethically as the manner in which it is set, communicated, managed, and collected.",
+      "whyWrong": {
+        "a": "Sliding scales are generally regarded as acceptable rather than impermissible.",
+        "b": "No association approval is required for a practice the Code does not address.",
+        "c": "Fairness does not require granting every request for the lowest rate."
+      },
+      "topic": "Barter and referral fees",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section VIII.D, p. 96"
+    }
+  ]
+}
