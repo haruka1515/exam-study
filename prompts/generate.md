@@ -1,11 +1,19 @@
 # Question generation prompt
 
-Attach the section PDF, fill in the four bracketed fields, and paste everything
-below the line. Output goes to `data/<chapterId>/<sectionId>.json`.
+Attach the section PDF, fill in the bracketed fields, and paste everything below
+the line.
+
+Two kinds of set, differing only in `[COUNT]` and scope:
+
+| Kind | `[COUNT]` | Scope | Output |
+| --- | --- | --- | --- |
+| **Section set** | 20 | One section | `data/<chapterId>/<sectionId>.json` |
+| **Chapter review** | 50 | The whole chapter | `data/<chapterId>/review.json` |
 
 Fill in from `data/manifest.json` and `prompts/profiles.json`:
 
-- `[SET ID]` — e.g. `ch03-s02`
+- `[COUNT]` — 20 for a section, 50 for a chapter review
+- `[SET ID]` — e.g. `ch03-s02`, or `ch03-review`
 - `[CHAPTER N / TITLE]`, `[SECTION N / TITLE]`
 - `[PROFILE KEY]` and `[PROFILE GUIDANCE]` — copy the `guidance` string
 - `[MIX]` — copy the `mix` object
@@ -13,11 +21,17 @@ Fill in from `data/manifest.json` and `prompts/profiles.json`:
 The profile is **fixed by the chapter's content domain** (Table 5 of the
 Orientation chapter — see `text/Orientation.md`). Do not pick one by taste.
 
+**For a chapter review**, attach the whole chapter and set `section` to `0` with
+`sectionTitle` "Chapter review". Spread the 50 questions across every section
+roughly in proportion to its length, and include 3-5 **blended** items that
+require combining two sections — these are the ones a section-by-section study
+pass will not have prepared you for.
+
 ---
 
 You are writing EPPP practice questions from the attached section PDF.
 
-Produce **50 multiple-choice questions** as a single JSON object matching
+Produce **[COUNT] multiple-choice questions** as a single JSON object matching
 `prompts/schema.json` exactly. Output JSON only — no prose, no code fence.
 
 **Set metadata:** id `[SET ID]`, chapter `[CHAPTER N]` "[CHAPTER TITLE]",
@@ -27,7 +41,7 @@ sourceFile the attached filename, generatedAt today's date.
 **Style profile — `[PROFILE KEY]`:**
 [PROFILE GUIDANCE]
 
-**Target level mix (approximate, ±5 questions per level):**
+**Target level mix (within ~15% of the set size per level):**
 [MIX]
 
 ## Writing like the real exam
@@ -62,7 +76,7 @@ but does not understand the concept should get it wrong.
 ### Stem variety
 
 Most stems are either short (a sentence or fragment, usually recall) or a
-vignette (several sentences describing a situation). Across the 50, also include
+vignette (several sentences describing a situation). Across the set, also include
 a few of these, and set `stemType` accordingly:
 
 - **negative** (2-4 per set) — "all of the following are true except", "which is
@@ -113,9 +127,10 @@ statements.
 - No two questions may test the same fact, even reworded.
 - Cover the whole section, not just its first few pages.
 - `topic`: a 3-6 word concept label. **Reuse labels across questions** so
-  results can be grouped — aim for 8-12 distinct topics across the 50, with
-  3-6 questions each. This is what makes the score report useful, so choose
-  the labels deliberately before you start writing questions.
+  results can be grouped. Aim for roughly one topic per 4 questions — about
+  5 topics in a 20-question section set, 8-12 in a 50-question chapter
+  review — with at least 3 questions each. This is what makes the score
+  report useful, so choose the labels deliberately before you start writing.
 
 **Feedback fields**
 
@@ -132,11 +147,11 @@ addresses each wrong option individually.
   it is accurate but misses the issue the question turns on.
 
 **Process**
-- First, list the 8-12 topic labels you will use and how many questions each
-  gets, and the recall/application split you are aiming for. Then generate the
-  questions in batches of 15 so quality does not degrade in the tail. Continue
-  until you have 50, then emit the final JSON.
-- Before emitting, self-check: 50 questions, unique ids (`q01`..`q50`), exactly
+- First, list the topic labels you will use and how many questions each gets,
+  and the recall/application split you are aiming for. Then generate the
+  questions in batches of about 15 so quality does not degrade in the tail.
+  Continue until you have [COUNT], then emit the final JSON.
+- Before emitting, self-check: [COUNT] questions, unique sequential ids, exactly
   4 choices each, every `answer` id present in that question's `choices`, a
   `whyWrong` entry for every non-answer choice, answer-key spread under 35% per
   letter, and the recall/application counts within ±5 of the target mix.

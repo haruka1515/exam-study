@@ -96,8 +96,11 @@ function renderChapters() {
     .map((ch) => {
       const rows = sections.filter((s) => s.chapterId === ch.id && matchesFilter(s));
       if (!rows.length) return "";
-      const ready = sections.filter((s) => s.chapterId === ch.id && s.status === "generated").length;
-      const total = sections.filter((s) => s.chapterId === ch.id).length;
+      // The review is a set of its own, not one of the chapter's sections, so
+      // it stays out of the "N of M generated" count.
+      const secs = sections.filter((s) => s.chapterId === ch.id && !s.isReview);
+      const ready = secs.filter((s) => s.status === "generated").length;
+      const total = secs.length;
 
       return `
         <article class="chapter">
@@ -127,11 +130,12 @@ function sectionChip(s) {
   const state = s.status !== "generated" ? "pending" : s.attempted ? scoreBand(s.ratio) : "ready";
   const label = isTodo(s.sectionTitle) ? `Section ${s.chapterNumber}.${s.sectionNumber}` : s.sectionTitle;
   const score = s.attempted ? `${Math.round(s.ratio * 100)}%` : s.status === "generated" ? "ready" : "—";
+  const key = s.isReview ? "★" : s.sectionNumber;
 
   return `
-    <li>
+    <li${s.isReview ? ' class="is-review"' : ""}>
       <button class="section" data-set="${s.setId}" data-state="${state}">
-        <span class="section-num">${s.sectionNumber}</span>
+        <span class="section-num">${key}</span>
         <span class="section-title">${escape(label)}</span>
         <span class="section-score">${score}</span>
       </button>

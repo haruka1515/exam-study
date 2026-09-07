@@ -53,6 +53,25 @@ export function flattenSections(manifest) {
         sectionTitle: sec.title,
         file: sec.file,
         status: sec.status ?? "pending",
+        isReview: false,
+      });
+    }
+
+    // The chapter review is its own generated set covering the whole chapter,
+    // so it rides alongside the sections rather than inside them.
+    if (ch.review) {
+      out.push({
+        setId: `${ch.id}-review`,
+        chapterId: ch.id,
+        chapterNumber: ch.number,
+        chapterTitle: ch.title,
+        profile: ch.profile,
+        sectionId: "review",
+        sectionNumber: 0,
+        sectionTitle: "Chapter review",
+        file: ch.review.file,
+        status: ch.review.status ?? "pending",
+        isReview: true,
       });
     }
   }

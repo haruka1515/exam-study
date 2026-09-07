@@ -39,13 +39,16 @@ def validate_set(s, profiles, expected):
     if isinstance(sid, str):
         import re
 
-        m = re.match(r"^ch(\d{2})-s(\d{2})$", sid)
+        # A chapter review covers the whole chapter rather than one section, so
+        # it is "chNN-review" and carries section 0.
+        m = re.match(r"^ch(\d{2})-(?:s(\d{2})|review)$", sid)
         if not m:
-            err(f'id "{sid}" should look like "ch03-s02"')
+            err(f'id "{sid}" should look like "ch03-s02" or "ch03-review"')
         else:
             if int(m.group(1)) != s.get("chapter"):
                 err(f'id "{sid}" disagrees with chapter {s.get("chapter")}')
-            if int(m.group(2)) != s.get("section"):
+            want_section = 0 if m.group(2) is None else int(m.group(2))
+            if want_section != s.get("section"):
                 err(f'id "{sid}" disagrees with section {s.get("section")}')
 
     if s.get("profile") and profiles and s["profile"] not in profiles:
@@ -170,10 +173,14 @@ def validate_set(s, profiles, expected):
                 f"({round(longest_is_answer/singles*100)}%) — guessable without reading the stem"
             )
 
+    # Roughly one topic per 4 questions keeps the results breakdown legible:
+    # ~5 topics in a 20-question section set, ~12 in a 50-question review.
     if topics and len(qs) >= 20:
-        if len(topics) < 6:
+        floor = max(3, round(len(qs) / 6))
+        ceiling = max(8, round(len(qs) / 3))
+        if len(topics) < floor:
             warn(f"only {len(topics)} distinct topics — results breakdown will be coarse")
-        if len(topics) > 15:
+        if len(topics) > ceiling:
             warn(f"{len(topics)} distinct topics — too fragmented to group results by")
         singletons = [t for t, n in topics.items() if n == 1]
         if len(singletons) > 3:
@@ -194,7 +201,7 @@ def validate_set(s, profiles, expected):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("files", nargs="*")
-    ap.add_argument("--expect", type=int, default=50)
+    ap.add_argument("--expect", type=int, default=20)
     args = ap.parse_args()
 
     try:

@@ -17,12 +17,12 @@ const BANNED = ["all of the above", "none of the above", "both a and b", "a and 
  * @param {object} set        parsed question-set JSON
  * @param {object} [opts]
  * @param {object} [opts.profiles]  contents of prompts/profiles.json
- * @param {number} [opts.expected]  expected question count (default 50)
+ * @param {number} [opts.expected]  expected count when a set omits questionTarget (default 20)
  * @returns {{errors: string[], warnings: string[]}}
  */
 export function validateSet(set, opts = {}) {
   const profiles = opts.profiles ?? {};
-  const expected = opts.expected ?? 50;
+  const expected = opts.expected ?? 20;
   const errors = [];
   const warnings = [];
   const err = (m) => errors.push(m);
@@ -41,12 +41,15 @@ export function validateSet(set, opts = {}) {
     return { errors, warnings };
   }
 
+  // A chapter review covers the whole chapter rather than one section, so it is
+  // "chNN-review" and carries section 0.
   if (typeof set.id === "string") {
-    const m = /^ch(\d{2})-s(\d{2})$/.exec(set.id);
-    if (!m) err(`id "${set.id}" should look like "ch03-s02"`);
+    const m = /^ch(\d{2})-(?:s(\d{2})|review)$/.exec(set.id);
+    if (!m) err(`id "${set.id}" should look like "ch03-s02" or "ch03-review"`);
     else {
       if (Number(m[1]) !== set.chapter) err(`id "${set.id}" disagrees with chapter ${set.chapter}`);
-      if (Number(m[2]) !== set.section) err(`id "${set.id}" disagrees with section ${set.section}`);
+      const wantSection = m[2] === undefined ? 0 : Number(m[2]);
+      if (wantSection !== set.section) err(`id "${set.id}" disagrees with section ${set.section}`);
     }
   }
   if (set.profile && Object.keys(profiles).length && !profiles[set.profile]) {
@@ -169,9 +172,13 @@ export function validateSet(set, opts = {}) {
     }
   }
 
+  // Roughly one topic per 4 questions keeps the results breakdown legible:
+  // ~5 topics in a 20-question section set, ~12 in a 50-question review.
   if (topics.size && qs.length >= 20) {
-    if (topics.size < 6) warn(`only ${topics.size} distinct topics — results breakdown will be coarse`);
-    if (topics.size > 15) warn(`${topics.size} distinct topics — too fragmented to group results by`);
+    const floor = Math.max(3, Math.round(qs.length / 6));
+    const ceiling = Math.max(8, Math.round(qs.length / 3));
+    if (topics.size < floor) warn(`only ${topics.size} distinct topics — results breakdown will be coarse`);
+    if (topics.size > ceiling) warn(`${topics.size} distinct topics — too fragmented to group results by`);
     const singletons = [...topics].filter(([, n]) => n === 1).map(([t]) => t);
     if (singletons.length > 3) {
       warn(`${singletons.length} topics have only one question (e.g. "${singletons[0]}")`);

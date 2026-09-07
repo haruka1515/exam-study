@@ -20,7 +20,7 @@ const GRN = "[32m";
 const OFF = "[0m";
 
 const args = process.argv.slice(2);
-let expected = 50;
+let expected = 20;
 const targets = [];
 for (let i = 0; i < args.length; i++) {
   if (args[i] === "--expect") expected = Number(args[++i]);

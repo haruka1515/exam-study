@@ -332,6 +332,28 @@ code {
   gap: 8px;
 }
 
+/* The chapter review covers everything, so it spans the row and sits apart
+   from the numbered section chips above it. */
+.sections .is-review {
+  grid-column: 1 / -1;
+  margin-top: 4px;
+}
+
+.sections .is-review .section {
+  background: var(--accent-soft);
+  border-color: transparent;
+}
+
+.sections .is-review .section-num {
+  background: var(--accent);
+  border-color: transparent;
+  color: #fff;
+}
+
+.sections .is-review .section-title {
+  font-weight: 600;
+}
+
 .section {
   width: 100%;
   font: inherit;
