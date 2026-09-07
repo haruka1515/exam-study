@@ -13,7 +13,9 @@ import pathlib
 import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-BLOOMS = ["recall", "understand", "apply", "analyze"]
+# The EPPP has exactly two cognitive levels, not a Bloom ladder: you either
+# retrieve the information or you apply it to a situation. See text/Orientation.md.
+LEVELS = ["recall", "application"]
 BANNED = ["all of the above", "none of the above", "both a and b", "a and b only"]
 
 
@@ -59,7 +61,7 @@ def validate_set(s, profiles, expected):
 
     seen_ids, seen_stems = set(), {}
     key_count = {k: 0 for k in "abcde"}
-    bloom_count = {b: 0 for b in BLOOMS}
+    level_count = {b: 0 for b in LEVELS}
     topics = {}
     singles = 0
     longest_is_answer = 0
@@ -140,10 +142,10 @@ def validate_set(s, profiles, expected):
         else:
             topics[topic.strip()] = topics.get(topic.strip(), 0) + 1
 
-        if q.get("bloom") not in BLOOMS:
-            err(f"{at}: bloom must be one of {', '.join(BLOOMS)}")
+        if q.get("level") not in LEVELS:
+            err(f"{at}: level must be one of {', '.join(LEVELS)}")
         else:
-            bloom_count[q["bloom"]] += 1
+            level_count[q["level"]] += 1
 
         diff = q.get("difficulty")
         if not isinstance(diff, int) or isinstance(diff, bool) or not 1 <= diff <= 3:
@@ -180,11 +182,11 @@ def validate_set(s, profiles, expected):
     prof = profiles.get(s.get("profile")) or {}
     mix = prof.get("mix")
     if mix and qs:
-        for b in BLOOMS:
+        for b in LEVELS:
             want = (mix.get(b, 0) / 100) * len(qs)
-            got = bloom_count[b]
+            got = level_count[b]
             if abs(got - want) > max(5, len(qs) * 0.15):
-                warn(f'bloom "{b}": {got} questions, profile "{s.get("profile")}" targets ~{round(want)}')
+                warn(f'level "{b}": {got} questions, profile "{s.get("profile")}" targets ~{round(want)}')
 
     return errors, warnings
 

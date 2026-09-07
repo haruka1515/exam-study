@@ -19,12 +19,13 @@ question-set JSON schema.
 | Path | What it is |
 | --- | --- |
 | `index.html` | The dashboard: progress, and a chip per section. |
-| `quiz.html`, `js/quiz*.js` | The quiz player — one question per screen, feedback as you go, score by topic and bloom level. |
+| `quiz.html`, `js/quiz*.js` | The quiz player — one question per screen, feedback as you go, score by topic and cognitive level. |
 | `css/`, `js/` | Plain CSS and ES modules — no build step, no dependencies. |
 | `data/manifest.json` | Every chapter and section: titles, question-style profile, file path, status. Edit this first. |
 | `data/chNN/sMM.json` | One generated question set per section. |
 | `prompts/generate.md` | The generation prompt. Paste with a PDF attached. |
-| `prompts/profiles.json` | Question-style profiles (knowledge-heavy, scenario-heavy, …) and their bloom mixes. |
+| `prompts/profiles.json` | Question-type profiles and their recall/application mixes, taken from Table 5 of the Orientation chapter. |
+| `text/Orientation.md` | What the exam actually looks like: question types, stem and answer patterns, and Table 5. The reference for question generation. |
 | `prompts/schema.json` | JSON Schema for a question set — the contract. |
 | `js/validate-core.js` | The quality checks, shared by the browser and CI. |
 | `tools/validate.mjs` | CLI wrapper for the same checks (needs Node). |
@@ -35,11 +36,27 @@ question-set JSON schema.
 | `pdfs/` | Your source PDFs. **Gitignored** — see below. |
 | `text/` | Extracted text and page images. **Gitignored** — same content, same copyright. |
 
+## Writing questions that look like the exam
+
+The EPPP tests two cognitive levels — **recall** (retrieve the information) and
+**application** (use it to judge a situation) — and the right mix is **fixed by
+the chapter's content domain**, not a matter of taste. Table 5 of the Orientation
+chapter sets it: Ethics is *primarily application*, Clinical Psychology is
+*primarily recall*, Physiological is *nearly all recall*, and so on. Generating
+every chapter the same way is the fastest route to a question set that doesn't
+resemble the exam. `text/Orientation.md` has the full table, plus the stem
+patterns (vignette, negative, recontextualized, blended, irrelevant-info) and the
+distractor conventions — chiefly that wrong options are usually *true statements
+that don't answer the question asked*, not false ones.
+
+The validator checks each set's actual split against its profile's target, so a
+set that drifts recall-heavy shows up as a warning.
+
 ## Setup, once
 
 1. Fill in `data/manifest.json`: course name, exam date, and the real chapter and
-   section titles. Set each chapter's `profile` to the question style that
-   chapter needs (see `prompts/profiles.json`).
+   section titles. Set each chapter's `profile` from `prompts/profiles.json` by
+   matching its content domain in Table 5 — this is a lookup, not a choice.
 2. Push to GitHub, then **Settings → Pages → Deploy from branch → `main` / root**.
    The site is live in about 30 seconds.
 

@@ -188,7 +188,7 @@ function finish() {
   $("#score-line").textContent = `${summary.score} of ${summary.total} correct — ${pct}%`;
 
   $("#breakdown").innerHTML =
-    table("By topic", summary.byTopic) + table("By level", summary.byBloom);
+    table("By topic", summary.byTopic) + table("By level", summary.byLevel);
 }
 
 function table(title, data) {

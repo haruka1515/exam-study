@@ -10,9 +10,12 @@ Fill in from `data/manifest.json` and `prompts/profiles.json`:
 - `[PROFILE KEY]` and `[PROFILE GUIDANCE]` — copy the `guidance` string
 - `[MIX]` — copy the `mix` object
 
+The profile is **fixed by the chapter's content domain** (Table 5 of the
+Orientation chapter — see `text/Orientation.md`). Do not pick one by taste.
+
 ---
 
-You are writing exam questions from the attached section PDF.
+You are writing EPPP practice questions from the attached section PDF.
 
 Produce **50 multiple-choice questions** as a single JSON object matching
 `prompts/schema.json` exactly. Output JSON only — no prose, no code fence.
@@ -24,22 +27,82 @@ sourceFile the attached filename, generatedAt today's date.
 **Style profile — `[PROFILE KEY]`:**
 [PROFILE GUIDANCE]
 
-**Target bloom mix (approximate, ±5 questions per level):**
+**Target level mix (approximate, ±5 questions per level):**
 [MIX]
+
+## Writing like the real exam
+
+The EPPP has **two** cognitive levels. Every question is one or the other, and
+`level` records which.
+
+- **recall** — retrieve stored information: a definition, the assumptions of a
+  theory, a research result, the content of a standard.
+- **application** — use that information to judge a concrete situation: what
+  should this psychologist do, what is this client's most likely diagnosis,
+  which technique is being demonstrated.
+
+The distinction is about the *task*, not the length of the stem. Asking "which
+of the following defines confabulation?" about a long vignette is still recall.
+
+**Application items are the ones that make a set feel like the exam.** They give
+a named practitioner or client, a specific situation, and enough detail to
+decide — then ask for the judgment. Model:
+
+> Dr. Kennedy is a skilled cognitive-behavioral psychologist. While attending a
+> conference, she stops to talk with a vendor selling biofeedback equipment. The
+> vendor, also a therapist, tells Dr. Kennedy his equipment is intuitive to use,
+> and that she can easily set it up and apply biofeedback with clients this
+> coming week. Dr. Kennedy decides to buy the equipment to try the technique
+> with some of her more challenging clients. Dr. Kennedy is _______.
+
+Rather than asking for the *definition* of a concept, an application item gives
+an *example* of it and asks what it is. A student who memorized the definition
+but does not understand the concept should get it wrong.
+
+### Stem variety
+
+Most stems are either short (a sentence or fragment, usually recall) or a
+vignette (several sentences describing a situation). Across the 50, also include
+a few of these, and set `stemType` accordingly:
+
+- **negative** (2-4 per set) — "all of the following are true except", "which is
+  least likely". Never more than this; they are a minority on the real exam.
+- **recontextualized** (2-3 per set) — put the concept in an unexpected setting
+  so it is not obvious which principle is being tested.
+- **blended** (0-2 per set) — require a fact from this section *plus* one from
+  another domain. Rare on the exam; do not force these.
+- **irrelevant-info** (1-2 per set) — include a detail in the stem that is not
+  needed to answer, without making the item ambiguous.
+
+### Distractors
+
+This is where generated sets usually fail. On the real exam, wrong options are
+mostly **true statements that do not answer the question asked** — not false
+statements.
+
+- Prefer distractors that are accurate about a *neighbouring* concept: a
+  different stage, an adjacent standard, another theory from the same framework.
+  In a Piaget item, three distractors were all real Piagetian terms.
+- Some items should turn on reading the stem precisely, where an option is
+  correct about the topic in general but not about what was asked.
+- Two or more options should share relevant vocabulary with the correct answer.
+  A student who recognizes only the topic word must not be able to pick it out.
+- For a "best answer" item, more than one option may be defensible; the
+  `explanation` must say why the keyed one is best, and each `whyWrong` must say
+  what makes its option weaker — not merely that it is wrong.
 
 ## Rules
 
 **Grounding**
 - Ground every question in the attached PDF. If it is not in the source, do not
   ask it. No outside knowledge, no "commonly known" facts from elsewhere.
-- Set `sourceRef` to the section/page the question comes from.
+- Application items may invent a *scenario*, but the principle being applied
+  must come from the source. Set `sourceRef` to the section/page it comes from.
 
 **Choices**
-- Exactly 4 choices per question. `type` is `single` unless the material
-  genuinely calls for multi-select; keep multi under 10% of the set.
-- Distractors must be plausible to someone who half-learned the material.
-  Draw them from adjacent concepts in this same section — never invent
-  terminology, never use obviously absurd options as filler.
+- Exactly 4 choices per question — always four, never three or five. `type` is
+  `single` unless the material genuinely calls for multi-select; keep multi
+  under 10% of the set.
 - No "all of the above", "none of the above", or "both A and B".
 - Do **not** make the correct answer systematically the longest, most detailed,
   or most hedged option. Vary choice length independently of correctness.
@@ -55,19 +118,28 @@ sourceFile the attached filename, generatedAt today's date.
   the labels deliberately before you start writing questions.
 
 **Feedback fields**
+
+Match the real exam's rationale structure: it explains the correct answer, then
+addresses each wrong option individually.
+
 - `explanation`: 1-3 sentences on *why* the answer is correct — the underlying
-  rule or mechanism. Never a restatement of the correct choice's text.
-- `whyWrong`: one entry per incorrect choice, naming the *specific*
-  misconception that would lead a student to pick it. "This is wrong" is not
-  acceptable; "this is the behavior of TCP Tahoe, not Reno" is.
+  rule or mechanism, citing the standard or concept by name where the source
+  does. Never a restatement of the correct choice's text.
+- `whyWrong`: one entry per incorrect choice, naming the *specific* misconception
+  that would lead a student to pick it. "This is wrong" is not acceptable. Good:
+  "Even though biofeedback is related to behavioral techniques, its use requires
+  specific training." Where an option is true but not responsive, say so — that
+  it is accurate but misses the issue the question turns on.
 
 **Process**
 - First, list the 8-12 topic labels you will use and how many questions each
-  gets. Then generate the questions in batches of 15 so quality does not
-  degrade in the tail. Continue until you have 50, then emit the final JSON.
-- Before emitting, self-check: 50 questions, unique `q` ids (`q01`..`q50`),
-  every `answer` id present in that question's `choices`, a `whyWrong` entry
-  for every non-answer choice, answer-key spread under 35% per letter.
+  gets, and the recall/application split you are aiming for. Then generate the
+  questions in batches of 15 so quality does not degrade in the tail. Continue
+  until you have 50, then emit the final JSON.
+- Before emitting, self-check: 50 questions, unique ids (`q01`..`q50`), exactly
+  4 choices each, every `answer` id present in that question's `choices`, a
+  `whyWrong` entry for every non-answer choice, answer-key spread under 35% per
+  letter, and the recall/application counts within ±5 of the target mix.
 
-After writing the file, run `node tools/validate.mjs data/<ch>/<s>.json` and
-fix anything it reports.
+After writing the file, run `python tools/validate.py data/<ch>/<s>.json` (or
+`node tools/validate.mjs`) and fix anything it reports.

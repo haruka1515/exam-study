@@ -47,7 +47,7 @@
         "explanation",
         "whyWrong",
         "topic",
-        "bloom",
+        "level",
         "difficulty"
       ],
       "additionalProperties": false,
@@ -61,13 +61,14 @@
         "choices": {
           "type": "array",
           "minItems": 4,
-          "maxItems": 5,
+          "maxItems": 4,
+          "description": "Every EPPP item has exactly four options.",
           "items": {
             "type": "object",
             "required": ["id", "text"],
             "additionalProperties": false,
             "properties": {
-              "id": { "enum": ["a", "b", "c", "d", "e"] },
+              "id": { "enum": ["a", "b", "c", "d"] },
               "text": { "type": "string", "minLength": 1 }
             }
           }
@@ -75,7 +76,7 @@
         "answer": {
           "type": "array",
           "minItems": 1,
-          "items": { "enum": ["a", "b", "c", "d", "e"] },
+          "items": { "enum": ["a", "b", "c", "d"] },
           "description": "Ids of correct choices. Length 1 when type is single."
         },
         "explanation": {
@@ -93,9 +94,13 @@
           "minLength": 3,
           "description": "3-6 word concept label, reused across questions so results can be grouped by topic"
         },
-        "bloom": {
-          "enum": ["recall", "understand", "apply", "analyze"],
-          "description": "Cognitive level, used for the per-level results breakdown"
+        "level": {
+          "enum": ["recall", "application"],
+          "description": "The EPPP's two cognitive levels: recall retrieves stored information, application uses it to judge a situation. Used for the per-level results breakdown."
+        },
+        "stemType": {
+          "enum": ["short", "vignette", "negative", "recontextualized", "blended", "irrelevant-info"],
+          "description": "Optional. The stem pattern from the Orientation chapter, so a set can be checked for variety."
         },
         "difficulty": { "type": "integer", "minimum": 1, "maximum": 3 },
         "sourceRef": {

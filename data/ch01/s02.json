@@ -4,7 +4,7 @@
   "chapterTitle": "Clinical Psychology",
   "section": 2,
   "sectionTitle": "Humanistic and Constructivist Psychotherapies",
-  "profile": "knowledge-heavy",
+  "profile": "recall-primary",
   "sourceFile": "Clinical1_dynamic_humanistic_constructivist.pdf",
   "generatedAt": "2026-08-23",
   "questionTarget": 68,
@@ -41,7 +41,7 @@
         "d": "Internalized object representations are the concern of object relations theory, a psychodynamic approach."
       },
       "topic": "Humanistic shared characteristics",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§II, Humanistic and Constructivist Psychotherapies, p. 8"
     },
@@ -77,7 +77,7 @@
         "d": "Humanistic therapies focus on current behaviors rather than on early childhood events."
       },
       "topic": "Humanistic shared characteristics",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§II, Humanistic and Constructivist Psychotherapies, p. 8"
     },
@@ -113,7 +113,7 @@
         "d": "In humanistic therapy the relationship itself is central; existential therapy calls it the most important therapeutic tool."
       },
       "topic": "Humanistic shared characteristics",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II, Humanistic and Constructivist Psychotherapies, p. 8"
     },
@@ -149,7 +149,7 @@
         "c": "Personal construct therapy is constructivist and analytical psychotherapy is Jung's psychodynamic approach."
       },
       "topic": "Humanistic shared characteristics",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II, Humanistic and Constructivist Psychotherapies, p. 8"
     },
@@ -185,7 +185,7 @@
         "d": "Constructivist therapies focus on the process of meaning creation rather than on the accuracy or rationality of the meanings created."
       },
       "topic": "Constructivist psychotherapies",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II, Humanistic and Constructivist Psychotherapies, p. 8"
     },
@@ -221,7 +221,7 @@
         "d": "Kelly notes that constructs may operate unconsciously, but uncovering unconscious origins is not the stated focus of constructivist therapy."
       },
       "topic": "Constructivist psychotherapies",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 3,
       "sourceRef": "§II, Humanistic and Constructivist Psychotherapies, p. 8"
     },
@@ -257,7 +257,7 @@
         "d": "Frankl developed logotherapy, an existential therapy."
       },
       "topic": "Constructivist psychotherapies",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§II, Humanistic and Constructivist Psychotherapies, p. 8"
     },
@@ -293,7 +293,7 @@
         "c": "The five basic innate needs are Glasser's in reality therapy."
       },
       "topic": "Person-centered theory of self",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§II.A, Person-Centered Therapy, p. 8"
     },
@@ -329,7 +329,7 @@
         "d": "Fixed-role therapy and the repertory grid are techniques within Kelly's personal construct therapy."
       },
       "topic": "Person-centered theory of self",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§II.A, Person-Centered Therapy, p. 8"
     },
@@ -365,7 +365,7 @@
         "d": "Rogers treats anxiety as a signal that the unified self is threatened, not as something that must be absent for self-actualization."
       },
       "topic": "Person-centered theory of self",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.A, Personality Theory, p. 8"
     },
@@ -401,7 +401,7 @@
         "d": "Events lying outside the range of one's construct system is Kelly's definition of anxiety."
       },
       "topic": "Person-centered theory of self",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§II.A, View of Maladaptive Behavior, p. 9"
     },
@@ -437,7 +437,7 @@
         "c": "Introjection is a Gestalt boundary disturbance involving swallowing concepts whole."
       },
       "topic": "Conditions of worth and incongruence",
-      "bloom": "apply",
+      "level": "application",
       "difficulty": 2,
       "sourceRef": "§II.A, View of Maladaptive Behavior, p. 9"
     },
@@ -473,7 +473,7 @@
         "d": "Irresponsible need satisfaction produces a failure identity in Glasser's reality therapy."
       },
       "topic": "Conditions of worth and incongruence",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.A, View of Maladaptive Behavior, p. 9"
     },
@@ -509,7 +509,7 @@
         "d": "Retroflection and confluence are two of the four Gestalt boundary disturbances."
       },
       "topic": "Conditions of worth and incongruence",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.A, View of Maladaptive Behavior, p. 9"
     },
@@ -545,7 +545,7 @@
         "d": "Revising maladaptive personal constructs is the goal of personal construct therapy."
       },
       "topic": "Facilitative conditions",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§II.A, Therapy Goals, p. 9"
     },
@@ -581,7 +581,7 @@
         "c": "Awareness is the primary curative factor in Gestalt therapy, and integration is its goal."
       },
       "topic": "Facilitative conditions",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§II.A, Therapy Techniques, p. 9"
     },
@@ -617,7 +617,7 @@
         "d": "The phenomenological stance is a characteristic of the humanistic approach, not a consequence of judging."
       },
       "topic": "Facilitative conditions",
-      "bloom": "analyze",
+      "level": "application",
       "difficulty": 3,
       "sourceRef": "§II.A, Therapy Techniques, p. 9"
     },
@@ -653,7 +653,7 @@
         "d": "The conclusion is right but the reason is wrong; conditions of worth arise from evaluation, not from self-disclosure."
       },
       "topic": "Facilitative conditions",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 3,
       "sourceRef": "§II.A, Therapy Techniques, p. 9"
     },
@@ -689,7 +689,7 @@
         "d": "Awareness is the primary curative factor in Gestalt therapy, not a person-centered condition."
       },
       "topic": "Facilitative conditions",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.A, Therapy Techniques, p. 9"
     },
@@ -725,7 +725,7 @@
         "c": "Attributing mental illness to the client's choices is Glasser's reality therapy assumption."
       },
       "topic": "Facilitative conditions",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.A, Therapy Techniques, p. 9"
     },
@@ -761,7 +761,7 @@
         "d": "Viewing transference as detrimental to progress is characteristic of reality therapy."
       },
       "topic": "Facilitative conditions",
-      "bloom": "analyze",
+      "level": "application",
       "difficulty": 3,
       "sourceRef": "§II.A, Therapy Techniques, p. 9"
     },
@@ -797,7 +797,7 @@
         "d": "Frankl developed logotherapy."
       },
       "topic": "Gestalt personality theory",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§II.B, Gestalt Therapy, p. 9"
     },
@@ -833,7 +833,7 @@
         "d": "Motivation by future goals is Adler's teleological approach."
       },
       "topic": "Gestalt personality theory",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.B, Gestalt Therapy, p. 10"
     },
@@ -869,7 +869,7 @@
         "c": "Mediating conflicting demands is the function of Freud's ego."
       },
       "topic": "Gestalt personality theory",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.B, Personality Theory, p. 10"
     },
@@ -905,7 +905,7 @@
         "d": "The inability to differentiate \"me\" from \"not-me\" characterizes Mahler's normal symbiotic phase."
       },
       "topic": "Gestalt personality theory",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 3,
       "sourceRef": "§II.B, Personality Theory, p. 10"
     },
@@ -941,7 +941,7 @@
         "d": "Preoccupation with personal power characterizes Adler's mistaken style of life."
       },
       "topic": "Gestalt view of pathology",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.B, View of Maladaptive Behavior, p. 10"
     },
@@ -977,7 +977,7 @@
         "d": "Perceiving others as separate and related is the achievement of object constancy in Mahler's model."
       },
       "topic": "Gestalt view of pathology",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.B, View of Maladaptive Behavior, p. 10"
     },
@@ -1013,7 +1013,7 @@
         "c": "Distortion and denial are Rogers's defensive maneuvers; splitting and projective identification are object relations defenses."
       },
       "topic": "Boundary disturbances",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.B, View of Maladaptive Behavior, p. 10"
     },
@@ -1049,7 +1049,7 @@
         "d": "Projection involves disowning aspects of the self by assigning them to other people."
       },
       "topic": "Boundary disturbances",
-      "bloom": "apply",
+      "level": "application",
       "difficulty": 2,
       "sourceRef": "§II.B, View of Maladaptive Behavior, p. 10"
     },
@@ -1085,7 +1085,7 @@
         "d": "Immobilizing neurotic anxiety is described in the existential account as resulting from avoidance of existential anxiety."
       },
       "topic": "Boundary disturbances",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.B, View of Maladaptive Behavior, p. 10"
     },
@@ -1121,7 +1121,7 @@
         "d": "Projection would involve the client attributing the anger to the supervisor rather than turning it inward."
       },
       "topic": "Boundary disturbances",
-      "bloom": "apply",
+      "level": "application",
       "difficulty": 2,
       "sourceRef": "§II.B, View of Maladaptive Behavior, p. 10"
     },
@@ -1157,7 +1157,7 @@
         "c": "Inability to recall previously conscious material relates to repression in the Freudian framework."
       },
       "topic": "Boundary disturbances",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.B, View of Maladaptive Behavior, p. 10"
     },
@@ -1193,7 +1193,7 @@
         "d": "Identifying responsible ways to satisfy needs is the goal of reality therapy."
       },
       "topic": "Gestalt technique and awareness",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§II.B, Therapy Goals, p. 10"
     },
@@ -1229,7 +1229,7 @@
         "d": "Identifying the content and process of construing is the goal of assessment in personal construct therapy."
       },
       "topic": "Gestalt technique and awareness",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.B, Therapy Techniques, p. 10"
     },
@@ -1265,7 +1265,7 @@
         "d": "Transference as a projection of the personal and collective unconscious is Jung's view."
       },
       "topic": "Gestalt technique and awareness",
-      "bloom": "analyze",
+      "level": "application",
       "difficulty": 3,
       "sourceRef": "§II.B, Therapy Techniques, p. 10"
     },
@@ -1301,7 +1301,7 @@
         "c": "The self-characterization sketch is a Kelly assessment technique in which the client describes themselves from another's perspective."
       },
       "topic": "Gestalt technique and awareness",
-      "bloom": "apply",
+      "level": "application",
       "difficulty": 2,
       "sourceRef": "§II.B, Therapy Techniques, p. 10"
     },
@@ -1337,7 +1337,7 @@
         "d": "Predictions derived from constructs belong to Kelly's theory, which does not treat dreams this way."
       },
       "topic": "Gestalt technique and awareness",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.B, Therapy Techniques, pp. 10-11"
     },
@@ -1373,7 +1373,7 @@
         "d": "Internalization of early object relations is the object relations emphasis."
       },
       "topic": "Existential therapy",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§II.C, Existential Therapy, p. 11"
     },
@@ -1409,7 +1409,7 @@
         "d": "Anxiety and hostility are forms of maladaptive behavior in Kelly's theory; guilt and resentment are associated with confluence in Gestalt therapy."
       },
       "topic": "Existential therapy",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.C, View of Maladaptive Behavior, p. 11"
     },
@@ -1445,7 +1445,7 @@
         "c": "A threat to the unified self is Rogers's account of anxiety, and id-superego conflict is Freud's; neither is the existential distinction."
       },
       "topic": "Existential therapy",
-      "bloom": "analyze",
+      "level": "application",
       "difficulty": 3,
       "sourceRef": "§II.C, View of Maladaptive Behavior, p. 11"
     },
@@ -1481,7 +1481,7 @@
         "d": "The repertory grid is an assessment method in personal construct therapy."
       },
       "topic": "Existential therapy",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.C, Therapy Goals and Techniques, p. 11"
     },
@@ -1517,7 +1517,7 @@
         "d": "Acting out the role of a psychologically different person is Kelly's fixed-role therapy."
       },
       "topic": "Existential therapy",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.C, Therapy Goals and Techniques, p. 11"
     },
@@ -1553,7 +1553,7 @@
         "d": "Drive theory is another name for Freud's structural theory."
       },
       "topic": "Reality therapy needs and identity",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.D, Reality Therapy, p. 11"
     },
@@ -1589,7 +1589,7 @@
         "c": "Death, freedom, isolation, and meaninglessness are the existential ultimate concerns."
       },
       "topic": "Reality therapy needs and identity",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.D, Personality Theory, p. 11"
     },
@@ -1625,7 +1625,7 @@
         "d": "Freedom is one of the five needs but is not the one singled out."
       },
       "topic": "Reality therapy needs and identity",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.D, Personality Theory, p. 11"
     },
@@ -1661,7 +1661,7 @@
         "d": "The fully functioning, self-actualizing person is Rogers's description of the goal of person-centered therapy."
       },
       "topic": "Reality therapy needs and identity",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.D, Personality Theory, p. 11"
     },
@@ -1697,7 +1697,7 @@
         "d": "Conditions of worth are the source of incongruence in Rogers's theory."
       },
       "topic": "Reality therapy needs and identity",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.D, Personality Theory, p. 11"
     },
@@ -1733,7 +1733,7 @@
         "c": "Abandoning the self for the self-image is the Gestalt view of neurotic behavior."
       },
       "topic": "Reality therapy goals and technique",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.D, View of Maladaptive Behavior, p. 11"
     },
@@ -1769,7 +1769,7 @@
         "d": "Avoidance of ultimate concerns produces neurotic anxiety in the existential account, not chosen depression."
       },
       "topic": "Reality therapy goals and technique",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 3,
       "sourceRef": "§II.D, View of Maladaptive Behavior, p. 11"
     },
@@ -1805,7 +1805,7 @@
         "d": "Reality therapy focuses on current behaviors and beliefs rather than historical causes."
       },
       "topic": "Reality therapy goals and technique",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.D, Therapy Goals and Techniques, p. 12"
     },
@@ -1841,7 +1841,7 @@
         "d": "These are the four main targets of psychoanalytic analysis."
       },
       "topic": "Reality therapy goals and technique",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.D, Therapy Goals and Techniques, p. 12"
     },
@@ -1877,7 +1877,7 @@
         "c": "All four components belong to total behavior, and the emphasis is justified by controllability rather than by any link to the five needs."
       },
       "topic": "Reality therapy goals and technique",
-      "bloom": "analyze",
+      "level": "application",
       "difficulty": 3,
       "sourceRef": "§II.D, Therapy Goals and Techniques, p. 12"
     },
@@ -1913,7 +1913,7 @@
         "d": "Integrating disowned aspects of the personality is the Gestalt goal."
       },
       "topic": "Reality therapy goals and technique",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.D, Therapy Goals and Techniques, p. 12"
     },
@@ -1949,7 +1949,7 @@
         "d": "Archetypes in the collective unconscious belong to Jung's analytical psychotherapy."
       },
       "topic": "Personal construct theory",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.E, Personal Construct Therapy, p. 12"
     },
@@ -1985,7 +1985,7 @@
         "d": "Perceptions of parts as wholes reflecting current needs describes gestalts."
       },
       "topic": "Personal construct theory",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.E, Personality Theory, p. 12"
     },
@@ -2021,7 +2021,7 @@
         "c": "Observational learning and imitation belong to social learning theory."
       },
       "topic": "Personal construct theory",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.E, Personality Theory, p. 12"
     },
@@ -2057,7 +2057,7 @@
         "d": "Conditions of worth produce incongruence in Rogers's theory."
       },
       "topic": "Personal construct theory",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.E, View of Maladaptive Behavior, p. 12"
     },
@@ -2093,7 +2093,7 @@
         "d": "A normal response to ultimate concerns describes existential anxiety."
       },
       "topic": "Constructs and maladaptive behavior",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 3,
       "sourceRef": "§II.E, View of Maladaptive Behavior, p. 12"
     },
@@ -2129,7 +2129,7 @@
         "d": "Events outside the range of one's construct system produce anxiety in Kelly's theory, not hostility."
       },
       "topic": "Constructs and maladaptive behavior",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 3,
       "sourceRef": "§II.E, View of Maladaptive Behavior, p. 12"
     },
@@ -2165,7 +2165,7 @@
         "c": "Confluence is a Gestalt boundary disturbance involving the absence of a boundary between self and environment."
       },
       "topic": "Constructs and maladaptive behavior",
-      "bloom": "apply",
+      "level": "application",
       "difficulty": 3,
       "sourceRef": "§II.E, View of Maladaptive Behavior, p. 12"
     },
@@ -2201,7 +2201,7 @@
         "d": "Constructivist therapy focuses on the process of meaning creation rather than on correcting irrationality."
       },
       "topic": "Personal construct technique",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.E, Therapy Goals and Techniques, p. 12"
     },
@@ -2237,7 +2237,7 @@
         "d": "Uncovering repressed childhood material is the psychoanalytic aim."
       },
       "topic": "Personal construct technique",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.E, Therapy Goals and Techniques, p. 12"
     },
@@ -2273,7 +2273,7 @@
         "d": "Reporting whatever comes to mind is free association in psychoanalysis."
       },
       "topic": "Personal construct technique",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.E, Therapy Goals and Techniques, p. 12"
     },
@@ -2309,7 +2309,7 @@
         "c": "Recording anxiety-provoking situations describes self-monitoring in behavioral approaches."
       },
       "topic": "Personal construct technique",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.E, Therapy Goals and Techniques, p. 12"
     },
@@ -2345,7 +2345,7 @@
         "d": "In-session behavioral rehearsal is not how the text describes fixed-role therapy, which is carried out in the client's daily life."
       },
       "topic": "Personal construct technique",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§II.E, Therapy Goals and Techniques, p. 12"
     },
@@ -2381,7 +2381,7 @@
         "d": "Brief psychodynamic therapies use early interpretation and target a specific interpersonal problem, retaining the psychodynamic framework."
       },
       "topic": "Humanistic shared characteristics",
-      "bloom": "analyze",
+      "level": "application",
       "difficulty": 2,
       "sourceRef": "§II, Humanistic and Constructivist Psychotherapies, p. 8"
     },
@@ -2417,7 +2417,7 @@
         "d": "Awareness exercises are Gestalt techniques, not person-centered ones, which avoid directive methods."
       },
       "topic": "Gestalt technique and awareness",
-      "bloom": "analyze",
+      "level": "application",
       "difficulty": 3,
       "sourceRef": "§II.A-B, Therapy Goals, pp. 9-10"
     },
@@ -2453,7 +2453,7 @@
         "c": "Glasser's account rests on choices and identity rather than on constructs."
       },
       "topic": "Constructs and maladaptive behavior",
-      "bloom": "analyze",
+      "level": "application",
       "difficulty": 3,
       "sourceRef": "§II.D-E, pp. 11-12"
     }

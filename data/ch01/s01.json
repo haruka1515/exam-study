@@ -4,7 +4,7 @@
   "chapterTitle": "Clinical Psychology",
   "section": 1,
   "sectionTitle": "Psychodynamic Psychotherapies",
-  "profile": "knowledge-heavy",
+  "profile": "recall-primary",
   "sourceFile": "Clinical1_dynamic_humanistic_constructivist.pdf",
   "generatedAt": "2026-08-23",
   "questionTarget": 68,
@@ -46,7 +46,7 @@
         "e": "This is Glasser's reality therapy position, which stresses conscious choice rather than unconscious process."
       },
       "topic": "Psychodynamic shared assumptions",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§I, Psychodynamic Psychotherapies, p. 1"
     },
@@ -82,7 +82,7 @@
         "d": "An egalitarian, collaborative stance describes recent modifications to the Freudian approach and the humanistic therapies, not Freud's original worldview."
       },
       "topic": "Freudian worldview and structure",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§I.A, Freudian Psychoanalysis, p. 2"
     },
@@ -118,7 +118,7 @@
         "d": "The self is a central concept in Rogers's and Perls's theories, not a structure in Freud's structural theory."
       },
       "topic": "Freudian worldview and structure",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§I.A, Personality Theory, p. 2"
     },
@@ -154,7 +154,7 @@
         "c": "Psychic determinism is the assumption that all behaviors are meaningful and serve a psychological function; it is a premise underlying analysis, not a principle of gratification."
       },
       "topic": "Freudian worldview and structure",
-      "bloom": "apply",
+      "level": "application",
       "difficulty": 2,
       "sourceRef": "§I.A, Personality Theory, p. 2"
     },
@@ -190,7 +190,7 @@
         "d": "Internalizing society's values as conveyed by parents through rewards and punishments describes the formation of the superego."
       },
       "topic": "Freudian worldview and structure",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.A, Personality Theory, p. 2"
     },
@@ -226,7 +226,7 @@
         "d": "This places latency before the phallic stage. Latency falls between the phallic and genital stages."
       },
       "topic": "Psychosexual development and anxiety",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.A, Personality Theory, p. 2"
     },
@@ -262,7 +262,7 @@
         "d": "Object constancy is a subphase in Mahler's separation-individuation model, not an outcome of Freud's oral stage."
       },
       "topic": "Psychosexual development and anxiety",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.A, Personality Theory, p. 2"
     },
@@ -298,7 +298,7 @@
         "c": "This describes existential anxiety, which existential therapists regard as a normal response to ultimate concerns."
       },
       "topic": "Psychosexual development and anxiety",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.A, Personality Theory, p. 2"
     },
@@ -334,7 +334,7 @@
         "d": "The text ties defenses to the ego's management of anxiety generally, not to a single psychosexual stage or an adolescent endpoint."
       },
       "topic": "Defense mechanisms",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§I.A, Personality Theory, p. 2"
     },
@@ -370,7 +370,7 @@
         "d": "Displacement appears in the text as the mechanism behind phobias, not as the most basic defense."
       },
       "topic": "Defense mechanisms",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§I.A, Personality Theory, p. 2"
     },
@@ -406,7 +406,7 @@
         "d": "Retroflection is a Gestalt boundary disturbance, not a Freudian defense, and involves doing to oneself what one wants to do to others."
       },
       "topic": "Defense mechanisms",
-      "bloom": "apply",
+      "level": "application",
       "difficulty": 2,
       "sourceRef": "§I.A, Personality Theory, p. 2"
     },
@@ -442,7 +442,7 @@
         "c": "The text does not tie the dysfunction of defenses to superego development."
       },
       "topic": "Defense mechanisms",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.A, Personality Theory, p. 2"
     },
@@ -478,7 +478,7 @@
         "d": "A mistaken style of life with a lack of social interest is Adler's view of mental disorders."
       },
       "topic": "Freudian view of pathology",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§I.A, View of Maladaptive Behavior, pp. 2-3"
     },
@@ -514,7 +514,7 @@
         "d": "Inadequate resolution of splitting is Kernberg's object-relations account of Borderline Personality Disorder."
       },
       "topic": "Freudian view of pathology",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.A, View of Maladaptive Behavior, pp. 2-3"
     },
@@ -550,7 +550,7 @@
         "d": "Failure to cope authentically with ultimate concerns such as meaninglessness is the existential account of maladaptive behavior."
       },
       "topic": "Freudian view of pathology",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.A, View of Maladaptive Behavior, pp. 2-3"
     },
@@ -586,7 +586,7 @@
         "c": "Identifying responsible and effective ways to satisfy needs is the primary goal of reality therapy."
       },
       "topic": "Analysis and psychoanalytic technique",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
     },
@@ -622,7 +622,7 @@
         "d": "These are the four subphases of Mahler's separation-individuation phase."
       },
       "topic": "Analysis and psychoanalytic technique",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
     },
@@ -658,7 +658,7 @@
         "d": "Phenomenology is the humanistic assumption that understanding a person requires understanding their subjective experience."
       },
       "topic": "Analysis and psychoanalytic technique",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
     },
@@ -694,7 +694,7 @@
         "d": "Boundary disturbances belong to Gestalt therapy, not to Freud's account of slips."
       },
       "topic": "Analysis and psychoanalytic technique",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
     },
@@ -730,7 +730,7 @@
         "c": "These describe person-centered technique, including the facilitative conditions."
       },
       "topic": "Analysis and psychoanalytic technique",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
     },
@@ -766,7 +766,7 @@
         "d": "Working through is the final and longest stage, in which the client gradually assimilates new insights into their personality."
       },
       "topic": "Analysis and psychoanalytic technique",
-      "bloom": "apply",
+      "level": "application",
       "difficulty": 2,
       "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
     },
@@ -802,7 +802,7 @@
         "d": "The principle concerns how close material is to consciousness, not which channel it appears in."
       },
       "topic": "Analysis and psychoanalytic technique",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 3,
       "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
     },
@@ -838,7 +838,7 @@
         "d": "These are three of the four components of analysis, which are techniques rather than the factors to which improvement is attributed."
       },
       "topic": "Analysis and psychoanalytic technique",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
     },
@@ -874,7 +874,7 @@
         "c": "This is the Jungian view of transference, not a definition of catharsis."
       },
       "topic": "Analysis and psychoanalytic technique",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
     },
@@ -910,7 +910,7 @@
         "d": "Free association is one of the targets of analysis rather than a stage of treatment."
       },
       "topic": "Analysis and psychoanalytic technique",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§I.A, Therapy Goals and Techniques, p. 3"
     },
@@ -946,7 +946,7 @@
         "d": "Reality therapy views transference as detrimental, but that is a different approach and concerns transference specifically rather than the relationship."
       },
       "topic": "Current status of psychoanalysis",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.A, Current Status, p. 3"
     },
@@ -982,7 +982,7 @@
         "d": "Acknowledging but not fostering or interpreting transference is the person-centered stance, not the modern psychoanalytic one."
       },
       "topic": "Current status of psychoanalysis",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 3,
       "sourceRef": "§I.A, Current Status, p. 3"
     },
@@ -1018,7 +1018,7 @@
         "c": "Nothing restricts this reconceptualization to brief therapy; it is presented as a general modification of the Freudian approach."
       },
       "topic": "Current status of psychoanalysis",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.A, Current Status, p. 3"
     },
@@ -1054,7 +1054,7 @@
         "d": "Rejecting the medical model is a feature of reality therapy and of Kelly's approach, not of brief psychodynamic therapy."
       },
       "topic": "Current status of psychoanalysis",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.A, Current Status, p. 3"
     },
@@ -1090,7 +1090,7 @@
         "d": "Nothing in the text treats negative transference as a criterion of unsuitability for brief treatment."
       },
       "topic": "Current status of psychoanalysis",
-      "bloom": "analyze",
+      "level": "application",
       "difficulty": 3,
       "sourceRef": "§I.A, Current Status, p. 3"
     },
@@ -1126,7 +1126,7 @@
         "d": "Freud used interpretation extensively, and the collaborative, egalitarian stance is a recent modification rather than Freud's own."
       },
       "topic": "Adlerian individual psychology",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.B, Adler's Individual Psychology, p. 4"
     },
@@ -1162,7 +1162,7 @@
         "c": "Reinforcement contingencies belong to behavioral theory, which is covered in a different chapter."
       },
       "topic": "Adlerian individual psychology",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§I.B, Adler's Individual Psychology, p. 4"
     },
@@ -1198,7 +1198,7 @@
         "d": "Congruence between self and experience is Rogers's concept."
       },
       "topic": "Adlerian individual psychology",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.B, Personality Theory, p. 4"
     },
@@ -1234,7 +1234,7 @@
         "d": "Self-actualization is central to Rogers's and Perls's theories rather than to Adler's distinction between styles of life."
       },
       "topic": "Adlerian individual psychology",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.B, Personality Theory, p. 4"
     },
@@ -1270,7 +1270,7 @@
         "d": "Growth after the mid-30s is what Jung was most interested in, and it concerns individuation rather than style of life."
       },
       "topic": "Adlerian individual psychology",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.B, Personality Theory, p. 4"
     },
@@ -1306,7 +1306,7 @@
         "c": "Adler singled out pampering and neglect as being of particular importance precisely because they impede healthy development."
       },
       "topic": "Adlerian individual psychology",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.B, Personality Theory, p. 4"
     },
@@ -1342,7 +1342,7 @@
         "d": "Symptoms as a task demanding fulfillment is the Jungian view of maladaptive behavior."
       },
       "topic": "Adlerian individual psychology",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.B, View of Maladaptive Behavior, p. 4"
     },
@@ -1378,7 +1378,7 @@
         "d": "Total behavior is attended to in Glasser's reality therapy."
       },
       "topic": "Adlerian therapy and application",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.B, Therapy Goals and Techniques, p. 4"
     },
@@ -1414,7 +1414,7 @@
         "d": "Inaccurate predictions from a construct system belong to Kelly's personal construct theory."
       },
       "topic": "Adlerian therapy and application",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.B, Therapy Goals and Techniques, p. 4"
     },
@@ -1450,7 +1450,7 @@
         "c": "These are the four boundary disturbances in Gestalt therapy."
       },
       "topic": "Adlerian therapy and application",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.B, Application, p. 4"
     },
@@ -1486,7 +1486,7 @@
         "d": "This belief corresponds to displaying deficiency."
       },
       "topic": "Adlerian therapy and application",
-      "bloom": "apply",
+      "level": "application",
       "difficulty": 3,
       "sourceRef": "§I.B, Application, p. 4"
     },
@@ -1522,7 +1522,7 @@
         "d": "The self-actualizing tendency is Rogers's central motivational concept."
       },
       "topic": "Jungian analytical psychotherapy",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.C, Jung's Analytical Psychotherapy, p. 4"
     },
@@ -1558,7 +1558,7 @@
         "d": "Jung's interest in growth after the mid-30s concerns individuation and wisdom, not the timing of the personal unconscious."
       },
       "topic": "Jungian analytical psychotherapy",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.C, Personality Theory, p. 5"
     },
@@ -1594,7 +1594,7 @@
         "c": "Perceptions of parts as wholes reflecting current needs describes gestalts in Gestalt psychology."
       },
       "topic": "Jungian analytical psychotherapy",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.C, Personality Theory, p. 5"
     },
@@ -1630,7 +1630,7 @@
         "d": "The anima is the feminine aspect of the personality, paired with the animus as the masculine aspect."
       },
       "topic": "Jungian analytical psychotherapy",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§I.C, Personality Theory, p. 5"
     },
@@ -1666,7 +1666,7 @@
         "d": "These four components make up total behavior in Glasser's reality therapy."
       },
       "topic": "Jungian analytical psychotherapy",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.C, Personality Theory, p. 5"
     },
@@ -1702,7 +1702,7 @@
         "d": "The first month of life is the normal infantile autism phase in Mahler's model."
       },
       "topic": "Jungian analytical psychotherapy",
-      "bloom": "analyze",
+      "level": "application",
       "difficulty": 2,
       "sourceRef": "§I.C, Personality Theory, p. 5"
     },
@@ -1738,7 +1738,7 @@
         "c": "Gradual assimilation of new insights defines working through in psychoanalysis."
       },
       "topic": "Jungian analytical psychotherapy",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.C, Personality Theory, p. 5"
     },
@@ -1774,7 +1774,7 @@
         "d": "Restoring the ability to relate to others in meaningful, realistic ways is the object relations goal."
       },
       "topic": "Jungian therapy and technique",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.C, Therapy Goals and Techniques, p. 5"
     },
@@ -1810,7 +1810,7 @@
         "d": "Fictional goals and basic mistakes are uncovered through Adlerian lifestyle investigation."
       },
       "topic": "Jungian therapy and technique",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.C, Therapy Goals and Techniques, p. 5"
     },
@@ -1846,7 +1846,7 @@
         "d": "Acknowledging transference without fostering or interpreting it is the person-centered stance."
       },
       "topic": "Jungian therapy and technique",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 3,
       "sourceRef": "§I.C, Therapy Goals and Techniques, p. 5"
     },
@@ -1882,7 +1882,7 @@
         "c": "The optimism is correct but the time focus is reversed; past material is sought only when it illuminates the present."
       },
       "topic": "Jungian therapy and technique",
-      "bloom": "analyze",
+      "level": "application",
       "difficulty": 3,
       "sourceRef": "§I.C, Therapy Goals and Techniques, p. 5"
     },
@@ -1918,7 +1918,7 @@
         "d": "The pleasure principle is the basis on which Freud's id operates, not an inborn drive in object relations theory."
       },
       "topic": "Object relations theory",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§I.D, Object Relations Theory, pp. 5-6"
     },
@@ -1954,7 +1954,7 @@
         "d": "Bipolar dimensions of meaning are Kelly's personal constructs."
       },
       "topic": "Object relations theory",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 3,
       "sourceRef": "§I.D, Object Relations Theory, pp. 5-6"
     },
@@ -1990,7 +1990,7 @@
         "d": "Kelly founded personal construct therapy, and the others are cited in connection with constructivist psychotherapies."
       },
       "topic": "Object relations theory",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.D, Object Relations Theory, p. 6"
     },
@@ -2026,7 +2026,7 @@
         "c": "Conflict between independence and dependence, manifested as separation anxiety, occurs during the separation-individuation subphases."
       },
       "topic": "Mahler's separation-individuation",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.D, Personality Theory, p. 6"
     },
@@ -2062,7 +2062,7 @@
         "d": "About three years of age is when the phase culminates in object constancy, not when it begins."
       },
       "topic": "Mahler's separation-individuation",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.D, Personality Theory, p. 6"
     },
@@ -2098,7 +2098,7 @@
         "d": "Autism and symbiosis are the two phases that precede separation-individuation."
       },
       "topic": "Mahler's separation-individuation",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 3,
       "sourceRef": "§I.D, Personality Theory, p. 6"
     },
@@ -2134,7 +2134,7 @@
         "d": "Anxiety as a signal alerting the ego to internal or external danger is Freud's account rather than Mahler's."
       },
       "topic": "Mahler's separation-individuation",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.D, Personality Theory, p. 6"
     },
@@ -2170,7 +2170,7 @@
         "c": "Blocking the id's socially unacceptable impulses is the superego's aim in Freud's structural theory."
       },
       "topic": "Mahler's separation-individuation",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.D, Personality Theory, p. 6"
     },
@@ -2206,7 +2206,7 @@
         "d": "Failure to cope authentically with ultimate concerns is the existential view."
       },
       "topic": "Object relations and pathology",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 1,
       "sourceRef": "§I.D, View of Maladaptive Behavior, p. 6"
     },
@@ -2242,7 +2242,7 @@
         "d": "Growth after the mid-30s is the period of Jung's interest in individuation, an unrelated concept."
       },
       "topic": "Object relations and pathology",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.D, View of Maladaptive Behavior, p. 6"
     },
@@ -2278,7 +2278,7 @@
         "d": "Displacement of anxiety onto symbolic objects is the Freudian explanation of phobias."
       },
       "topic": "Object relations and pathology",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.D, View of Maladaptive Behavior, p. 6"
     },
@@ -2314,7 +2314,7 @@
         "c": "Persisting with constructs despite invalidating evidence describes hostility in Kelly's personal construct theory."
       },
       "topic": "Object relations and pathology",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 3,
       "sourceRef": "§I.D, View of Maladaptive Behavior, p. 6"
     },
@@ -2350,7 +2350,7 @@
         "d": "Revising constructs that yield inaccurate predictions belongs to Kelly's personal construct therapy."
       },
       "topic": "Object relations and pathology",
-      "bloom": "understand",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.D, Therapy Goals and Techniques, p. 6"
     },
@@ -2386,7 +2386,7 @@
         "d": "Perceptual distortion and denial are the defensive maneuvers Rogers described for alleviating anxiety from incongruence."
       },
       "topic": "Object relations and pathology",
-      "bloom": "recall",
+      "level": "recall",
       "difficulty": 2,
       "sourceRef": "§I.D, Therapy Goals and Techniques, p. 6"
     },
@@ -2422,7 +2422,7 @@
         "d": "Jungian therapy aims at re-bridging the conscious and the personal and collective unconscious, primarily through interpretation."
       },
       "topic": "Object relations and pathology",
-      "bloom": "apply",
+      "level": "application",
       "difficulty": 2,
       "sourceRef": "§I.D, Therapy Goals and Techniques, p. 6"
     },
@@ -2458,7 +2458,7 @@
         "c": "Jung shared the view that behavior is influenced by future goals, but the emphasis on social interest is distinctively Adlerian."
       },
       "topic": "Adlerian therapy and application",
-      "bloom": "analyze",
+      "level": "application",
       "difficulty": 3,
       "sourceRef": "§I.B, Adler's Individual Psychology, p. 4"
     }

@@ -8,7 +8,9 @@
 // Errors are contract violations that would break the quiz or teach you
 // something false. Warnings are quality smells worth a look.
 
-export const BLOOMS = ["recall", "understand", "apply", "analyze"];
+// The EPPP has exactly two cognitive levels, not a Bloom ladder: you either
+// retrieve the information or you apply it to a situation. See text/Orientation.md.
+export const LEVELS = ["recall", "application"];
 const BANNED = ["all of the above", "none of the above", "both a and b", "a and b only"];
 
 /**
@@ -62,7 +64,7 @@ export function validateSet(set, opts = {}) {
   const seenIds = new Set();
   const seenStems = new Map();
   const keyCount = { a: 0, b: 0, c: 0, d: 0, e: 0 };
-  const bloomCount = Object.fromEntries(BLOOMS.map((b) => [b, 0]));
+  const levelCount = Object.fromEntries(LEVELS.map((b) => [b, 0]));
   const topics = new Map();
   let singles = 0;
   let longestIsAnswer = 0;
@@ -134,8 +136,8 @@ export function validateSet(set, opts = {}) {
       const t = q.topic.trim();
       topics.set(t, (topics.get(t) ?? 0) + 1);
     }
-    if (!BLOOMS.includes(q.bloom)) err(`${at}: bloom must be one of ${BLOOMS.join(", ")}`);
-    else bloomCount[q.bloom]++;
+    if (!LEVELS.includes(q.level)) err(`${at}: level must be one of ${LEVELS.join(", ")}`);
+    else levelCount[q.level]++;
     if (!Number.isInteger(q.difficulty) || q.difficulty < 1 || q.difficulty > 3) {
       err(`${at}: difficulty must be an integer 1-3`);
     }
@@ -178,11 +180,11 @@ export function validateSet(set, opts = {}) {
 
   const mix = profiles[set.profile] && profiles[set.profile].mix;
   if (mix && qs.length) {
-    for (const b of BLOOMS) {
+    for (const b of LEVELS) {
       const want = ((mix[b] ?? 0) / 100) * qs.length;
-      const got = bloomCount[b];
+      const got = levelCount[b];
       if (Math.abs(got - want) > Math.max(5, qs.length * 0.15)) {
-        warn(`bloom "${b}": ${got} questions, profile "${set.profile}" targets ~${Math.round(want)}`);
+        warn(`level "${b}": ${got} questions, profile "${set.profile}" targets ~${Math.round(want)}`);
       }
     }
   }

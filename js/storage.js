@@ -3,7 +3,7 @@
 // Shape:
 //   {
 //     version: 1,
-//     attempts: [ { setIds, mode, score, total, takenAt, byTopic, byBloom } ],
+//     attempts: [ { setIds, mode, score, total, takenAt, byTopic, byLevel } ],
 //     questions: { "ch03-s02:q07": { seen, wrong, lastSeen, box } }
 //   }
 //

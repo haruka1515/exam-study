@@ -1,5 +1,5 @@
 // The quiz runner: pick questions, answer them one at a time, see a score
-// broken down by topic and bloom level.
+// broken down by topic and cognitive level.
 //
 // Deliberately one question per screen with feedback shown immediately after
 // answering. The whyWrong text is the reason the question sets are expensive to
@@ -69,7 +69,7 @@ export function recordAttempt(results, setIds, mode) {
   const state = read();
   const now = Date.now();
   const byTopic = {};
-  const byBloom = {};
+  const byLevel = {};
 
   for (const { q, correct } of results) {
     const key = `${q.setId}:${q.id}`;
@@ -85,7 +85,7 @@ export function recordAttempt(results, setIds, mode) {
     state.questions[key] = rec;
 
     bump(byTopic, q.topic, correct);
-    bump(byBloom, q.bloom, correct);
+    bump(byLevel, q.level, correct);
   }
 
   const score = results.filter((r) => r.correct).length;
@@ -96,11 +96,11 @@ export function recordAttempt(results, setIds, mode) {
     total: results.length,
     takenAt: now,
     byTopic,
-    byBloom,
+    byLevel,
   });
 
   write(state);
-  return { score, total: results.length, byTopic, byBloom };
+  return { score, total: results.length, byTopic, byLevel };
 }
 
 function bump(acc, key, correct) {

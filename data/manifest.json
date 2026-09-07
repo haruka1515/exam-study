@@ -6,7 +6,7 @@
       "id": "ch01",
       "number": 1,
       "title": "Clinical Psychology",
-      "profile": "knowledge-heavy",
+      "profile": "recall-primary",
       "sections": [
         {
           "id": "s01",
@@ -28,7 +28,7 @@
       "id": "ch02",
       "number": 2,
       "title": "Ethics and Professional Issues",
-      "profile": "balanced",
+      "profile": "application-primary",
       "sections": [
         {
           "id": "s01",
