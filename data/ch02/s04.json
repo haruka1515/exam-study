@@ -4,1090 +4,1120 @@
   "chapterTitle": "Ethics and Professional Issues",
   "section": 4,
   "sectionTitle": "Standard 2: Competence",
-  "profile": "balanced",
+  "profile": "application-primary",
   "sourceFile": "Ethics.pdf",
-  "generatedAt": "2026-08-25",
+  "generatedAt": "2026-09-06",
   "questionTarget": 30,
   "questions": [
     {
       "id": "q01",
       "type": "single",
-      "stem": "Under Standard 2.01, what determines the boundaries of a psychologist's competence?",
+      "stem": "Dr. Kaur is a skilled cognitive-behavioral psychologist. At a conference she speaks with a vendor selling biofeedback equipment, who assures her the device is intuitive and that she could begin using it with clients the following week. She buys it and plans to try it with several treatment-resistant clients. Dr. Kaur is:",
       "choices": [
         {
           "id": "a",
-          "text": "Their education, training, supervised experience, consultation, study, or professional experience"
+          "text": "behaving unethically unless she obtains training in biofeedback before using it with clients"
         },
         {
           "id": "b",
-          "text": "The scope of practice defined by the licensing statute in force in their particular jurisdiction"
+          "text": "behaving ethically, since biofeedback rests on the behavioral principles she already commands"
         },
         {
           "id": "c",
-          "text": "The particular specialty area designated on the doctoral diploma they were awarded"
+          "text": "behaving ethically, since psychologists are expected to acquire new skills throughout a career"
         },
         {
           "id": "d",
-          "text": "The range of professional services covered by the terms of their malpractice insurance policy"
+          "text": "behaving unethically unless she offers clients a choice between biofeedback and her usual approach"
         }
       ],
       "answer": [
         "a"
       ],
-      "explanation": "The standard grounds competence in what the psychologist has actually done to acquire it, which is why competence can expand over a career through routes other than formal degree work.",
+      "explanation": "Standard 2.01 requires psychologists to provide services within their current level of competence, as established by education, training, and experience. Incorporating a new technique is one of the two situations the standard is written for; the training must come first.",
       "whyWrong": {
-        "b": "Licensing statutes set legal scope of practice, which is a separate question from the ethical boundary of competence.",
-        "c": "The degree specialty is not the measure; a psychologist may add a specialty by completing the required coursework and supervised training.",
-        "d": "Insurance coverage has no bearing on the ethical determination of competence."
+        "b": "Biofeedback is related to behavioral technique, but its use requires specific training that adjacent expertise does not supply.",
+        "c": "Psychologists must indeed acquire new skills under 2.01 and 2.03, but that duty does not license using a technique before the training is obtained.",
+        "d": "Offering a choice speaks to informed consent and overlooks the prior issue, which is that she is not yet competent to deliver the technique at all."
       },
       "topic": "Boundaries of competence",
-      "bloom": "recall",
+      "level": "application",
+      "stemType": "vignette",
       "difficulty": 1,
-      "sourceRef": "§IV.A, Standard 2.01, p. 81"
+      "sourceRef": "Section IV.A, Standard 2.01, p. 81"
     },
     {
       "id": "q02",
       "type": "single",
-      "stem": "Which two situations does the text identify as squarely covered by the boundaries-of-competence provisions?",
+      "stem": "Under Standards 2.01 and 2.03, a psychologist's acquisition of new knowledge and skills over the course of a career is best described as:",
       "choices": [
         {
           "id": "a",
-          "text": "Supervising doctoral trainees in a practicum placement, and testifying as an expert witness in a court proceeding"
+          "text": "permitted at the psychologist's own discretion, provided that existing clients are unaffected"
         },
         {
           "id": "b",
-          "text": "Incorporating a new technique into practice, and serving a population one has not previously served"
+          "text": "required, though expansion must be undertaken so as to minimize potential harm to clients"
         },
         {
           "id": "c",
-          "text": "Setting fees for professional services, and advertising one's practice to the public"
+          "text": "discouraged unless the psychologist first completes a formal respecialization programme"
         },
         {
           "id": "d",
-          "text": "Terminating therapy with a client, and referring that client on to other providers"
+          "text": "required only of psychologists who hold a specialty designation from a certifying board"
         }
       ],
       "answer": [
         "b"
       ],
-      "explanation": "Both situations put the psychologist outside their established base of education and experience, which is precisely what the standard is written to address.",
+      "explanation": "The text is explicit that maintaining and expanding competence is not merely permitted — psychologists must do so. The accompanying condition is that expansion minimize potential harm to clients.",
       "whyWrong": {
-        "a": "Supervision is addressed by 2.05 and forensic familiarity by 2.01(f), but these are not the two situations the text highlights here.",
-        "c": "Fees and advertising fall under Standards 6 and 5 respectively.",
-        "d": "Termination and referral fall under Standard 10.10 and related provisions."
+        "a": "Framing this as discretionary understates the obligation the two standards impose.",
+        "c": "Formal respecialization is required for changing specialties, not for ordinary skill acquisition.",
+        "d": "The obligation is general and does not depend on holding a board specialty designation."
       },
       "topic": "Boundaries of competence",
-      "bloom": "understand",
+      "level": "recall",
+      "stemType": "short",
       "difficulty": 2,
-      "sourceRef": "§IV.A, Standard 2.01, p. 81"
+      "sourceRef": "Section IV.A, Standards 2.01 and 2.03, p. 81"
     },
     {
       "id": "q03",
       "type": "single",
-      "stem": "According to the text, what do Standards 2.01 and 2.03 together require of psychologists regarding new knowledge and skills over the course of a career?",
+      "stem": "Dr. Oyelaran practices in a remote rural county. A family seeks services for a presentation he has limited experience treating, and no other qualified provider is available within a reasonable distance. Under Standard 2.01(d), he may provide the services if he:",
       "choices": [
         {
           "id": "a",
-          "text": "That they refrain from acquiring new skills unless a supervisor approves the expansion"
+          "text": "obtains written informed consent in which the client acknowledges his limited experience"
         },
         {
           "id": "b",
-          "text": "That they limit themselves to the techniques learned during doctoral training"
+          "text": "arranges for a qualified colleague to review each recorded session within seventy-two hours"
         },
         {
           "id": "c",
-          "text": "That they must acquire new knowledge and skills, consistent with maintaining competence"
+          "text": "has closely related training or experience and makes a reasonable effort to obtain the needed competence"
         },
         {
           "id": "d",
-          "text": "That they obtain a new license each time they add a technique"
+          "text": "limits his work to assessment and refers the family elsewhere for any treatment component"
         }
       ],
       "answer": [
         "c"
       ],
-      "explanation": "Read together, the standards make continuing development an obligation rather than an option: 2.03 requires maintaining competence, and 2.01 governs how the expansion is done responsibly.",
+      "explanation": "Standard 2.01(d) covers services that are requested when no one else is available and the psychologist lacks sufficient competence. It permits providing them where the psychologist has closely related training or experience and makes a reasonable effort to obtain the required knowledge and skills.",
       "whyWrong": {
-        "a": "Consultation is advisable when expanding services, but supervisory approval is not a precondition to acquiring skills.",
-        "b": "Confining oneself to doctoral-era techniques would conflict with the requirement to maintain competence.",
-        "d": "Adding a technique does not entail a new license."
+        "a": "Consent is good practice but is not the condition 2.01(d) attaches to providing the service.",
+        "b": "Consultation is advisable generally, but this specific supervisory arrangement is not what the provision requires.",
+        "d": "The provision permits the services rather than requiring that they be split in this way."
       },
-      "topic": "Boundaries of competence",
-      "bloom": "understand",
-      "difficulty": 3,
-      "sourceRef": "§IV.A, Standards 2.01 and 2.03, p. 81"
+      "topic": "Special-situation provisions",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section IV.A, Standard 2.01(d), p. 81"
     },
     {
       "id": "q04",
       "type": "single",
-      "stem": "A cognitive-behavioral therapist wants to begin using biofeedback with some of his clients. What course does the text describe as appropriate?",
+      "stem": "Standard 2.01(e) addresses emerging areas in which generally recognized preparatory training standards do not yet exist. It requires psychologists to:",
       "choices": [
         {
           "id": "a",
-          "text": "Refer all clients who might benefit from biofeedback to another provider permanently"
+          "text": "refrain from practising in the area until the profession establishes formal training standards"
         },
         {
           "id": "b",
-          "text": "Begin using it immediately, since biofeedback is an established rather than emerging technique"
+          "text": "obtain approval from an institutional review board before offering the services to clients"
         },
         {
           "id": "c",
-          "text": "Obtain a second doctoral degree in a specialty that includes biofeedback"
+          "text": "restrict the work to research contexts until the relevant training standards are published"
         },
         {
           "id": "d",
-          "text": "Complete relevant coursework and obtain consultation when first using the technique with clients"
+          "text": "take reasonable steps to protect the welfare of clients, students, and others involved"
         }
       ],
       "answer": [
         "d"
       ],
-      "explanation": "The pairing matters: coursework builds the knowledge base, and consultation during early use is what minimizes potential harm to clients while the psychologist is least experienced with the technique.",
+      "explanation": "Standard 2.01(e) directs psychologists working in emerging areas to take reasonable steps to protect the welfare of clients, students, and others. The implication drawn in the text is that a client must be made aware a technique is new or experimental, with special care taken to protect against harm.",
       "whyWrong": {
-        "a": "The standards permit expanding one's services; permanent referral is not required.",
-        "b": "That a technique is established elsewhere says nothing about this psychologist's competence in it.",
-        "c": "A second doctorate is not required even for changing specialties, let alone for adding a technique."
+        "a": "The provision contemplates practice in emerging areas rather than prohibiting it.",
+        "b": "IRB approval governs research, and 2.01(e) is not limited to research settings.",
+        "c": "Nothing in the provision confines emerging-area work to research contexts."
       },
-      "topic": "Boundaries of competence",
-      "bloom": "apply",
+      "topic": "Special-situation provisions",
+      "level": "recall",
+      "stemType": "short",
       "difficulty": 2,
-      "sourceRef": "§IV.A, Standard 2.01, p. 81"
+      "sourceRef": "Section IV.A, Standard 2.01(e), p. 81"
     },
     {
       "id": "q05",
       "type": "single",
-      "stem": "Standard 2.01(d) applies when a psychologist is asked to provide services that no one else is available to provide but for which they lack sufficient competence. What does it permit?",
+      "stem": "Dr. Menzies begins using a newly developed treatment protocol for which recognized training standards do not yet exist. Under Standard 2.01(e), the text indicates that she must in particular:",
       "choices": [
         {
           "id": "a",
-          "text": "Providing the services if they have closely related training or experience and make a reasonable effort to obtain the needed knowledge and skills"
+          "text": "make the client aware that the technique is new or experimental"
         },
         {
           "id": "b",
-          "text": "Providing the services without any additional conditions attached, on the ground that refusing them would leave the person without any care at all"
+          "text": "collect systematic outcome data so the protocol can be evaluated"
         },
         {
           "id": "c",
-          "text": "Providing the services only after completing formal certification in the area and documenting that credential in the client record"
+          "text": "obtain a second opinion confirming that no established treatment would serve"
         },
         {
           "id": "d",
-          "text": "Declining the services and documenting the unavailability of alternatives, since competence cannot be acquired while a case is ongoing"
+          "text": "charge a reduced fee reflecting the unproven status of the intervention"
         }
       ],
       "answer": [
         "a"
       ],
-      "explanation": "The provision balances access against competence by requiring an existing foundation of closely related training plus an active effort to close the remaining gap, rather than treating unavailability alone as sufficient justification.",
+      "explanation": "The implication the text draws from 2.01(e) is that when a new or experimental technique is used, the client must be made aware of that fact and special care taken to protect the client from harm.",
       "whyWrong": {
-        "b": "Unavailability of alternatives does not remove the conditions the standard attaches.",
-        "c": "Requiring completed formal certification first would defeat the purpose of a provision designed for situations where services would otherwise be denied.",
-        "d": "The standard is permissive; it exists so that services are not denied."
+        "b": "Systematic data collection is good scientific practice but is not what the provision requires of the practitioner.",
+        "c": "No second-opinion requirement appears in the provision.",
+        "d": "Fee adjustment is a matter for Standard 6 and is not part of 2.01(e)."
       },
-      "topic": "Competence in special situations",
-      "bloom": "understand",
+      "topic": "Special-situation provisions",
+      "level": "application",
+      "stemType": "vignette",
       "difficulty": 2,
-      "sourceRef": "§IV.A, Standard 2.01(d), p. 81"
+      "sourceRef": "Section IV.A, Standard 2.01(e), p. 81"
     },
     {
       "id": "q06",
       "type": "single",
-      "stem": "Standard 2.01(e) addresses emerging areas in which generally recognized standards for preparatory training do not yet exist. What does it require?",
+      "stem": "Following a factory fire, Dr. Sandoval provides crisis services to survivors despite lacking training in trauma intervention, because no trained provider is available. Under Standard 2.02, she must discontinue the services:",
       "choices": [
         {
           "id": "a",
-          "text": "That psychologists avoid working in such areas altogether until recognized training standards have been established"
+          "text": "as soon as she has completed an introductory continuing-education course in trauma work"
         },
         {
           "id": "b",
-          "text": "That psychologists take reasonable steps to ensure the competence of their work and protect clients and others from harm"
+          "text": "as soon as the emergency has ended or appropriate services become available"
         },
         {
           "id": "c",
-          "text": "That psychologists obtain approval from an institutional review board before proceeding with any such work"
+          "text": "within thirty days, regardless of whether other providers have become available"
         },
         {
           "id": "d",
-          "text": "That psychologists confine such work to research settings rather than offering it in clinical practice"
+          "text": "once each survivor has been given a written referral to a qualified trauma specialist"
         }
       ],
       "answer": [
         "b"
       ],
-      "explanation": "The absence of established training standards does not suspend the competence obligation; it shifts it to a reasonable-steps requirement so that innovation remains possible without leaving clients unprotected.",
+      "explanation": "Standard 2.02 permits providing services without the appropriate training in emergencies when alternative providers are unavailable, but requires that they be discontinued as soon as the emergency has ended or appropriate services are available.",
       "whyWrong": {
-        "a": "The provision contemplates working in emerging areas rather than prohibiting it.",
-        "c": "Institutional review board approval concerns research under Standard 8.01, not emerging practice areas generally.",
-        "d": "The standard names clients, students, supervisees, research participants, and organizational clients, so it is not confined to research settings."
+        "a": "A brief course does not establish competence and is not the endpoint the standard specifies.",
+        "c": "The standard sets no fixed period; it ties the endpoint to the emergency and to availability.",
+        "d": "Issuing referrals does not itself satisfy the condition, which turns on the emergency ending or services becoming available."
       },
-      "topic": "Competence in special situations",
-      "bloom": "understand",
-      "difficulty": 2,
-      "sourceRef": "§IV.A, Standard 2.01(e), p. 81"
+      "topic": "Emergencies",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 1,
+      "sourceRef": "Section IV.A, Standard 2.02, p. 81"
     },
     {
       "id": "q07",
       "type": "single",
-      "stem": "The text draws an implication from Standard 2.01(e) about the use of new or experimental techniques. What is it?",
+      "stem": "A psychologist trained and credentialed in educational psychology wishes to add clinical psychology to her practice. Under Section 1.7 of the General Guidelines for Providers of Psychological Services (APA, 1987), she must:",
       "choices": [
         {
           "id": "a",
-          "text": "The technique may be used only with those clients who have already tried and failed to respond to the well-established treatments"
+          "text": "earn a second doctoral degree in the new specialty before offering any of its services"
         },
         {
           "id": "b",
-          "text": "The psychologist must first obtain written approval from a recognized professional association before any use of it"
+          "text": "practise only under continuing supervision, since a change of specialty cannot be completed"
         },
         {
           "id": "c",
-          "text": "The client must be made aware that the technique is new or experimental, and special care must be taken to protect them from harm"
+          "text": "meet the same subject-matter and professional-skill requirements that apply to doctoral training in the new specialty"
         },
         {
           "id": "d",
-          "text": "The technique must be offered at a reduced fee for as long as its effectiveness remains unproven"
+          "text": "obtain a written endorsement from a board diplomate in the specialty she intends to enter"
         }
       ],
       "answer": [
         "c"
       ],
-      "explanation": "Disclosure follows from the reasonable-steps requirement: a client cannot meaningfully weigh participation in something experimental without knowing that is what it is. This parallels Standard 10.01(b) on consent to developing treatments.",
+      "explanation": "Psychologists changing or adding a specialty must meet the same subject-matter and professional-skill requirements that apply to doctoral education, training, and experience in the new specialty. Practically, this means completing the relevant coursework and supervised training — not earning a second degree.",
       "whyWrong": {
-        "a": "No requirement restricts experimental techniques to treatment-refractory clients.",
-        "b": "No association pre-approval is described in the provision.",
-        "d": "Fee level is not addressed by this standard."
+        "a": "The text is explicit that a second doctoral degree is not required.",
+        "b": "A change of specialty is achievable; indefinite supervision is not what the guideline contemplates.",
+        "d": "No endorsement requirement of this kind appears in the guideline."
       },
-      "topic": "Competence in special situations",
-      "bloom": "analyze",
-      "difficulty": 3,
-      "sourceRef": "§IV.A, Standard 2.01(e), p. 81"
+      "topic": "Changing specialties",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section IV.A, General Guidelines 1.7, pp. 81-82"
     },
     {
       "id": "q08",
       "type": "single",
-      "stem": "Standard 2.02 permits psychologists to provide services in emergencies without the appropriate training when alternative providers are unavailable. When must those services be discontinued?",
+      "stem": "Which statement best captures the practical reading of the specialty-change requirement described in the text?",
       "choices": [
         {
           "id": "a",
-          "text": "After a maximum of three sessions, regardless of circumstances"
+          "text": "A second doctoral degree is required, since specialty competence is conferred by the degree itself"
         },
         {
           "id": "b",
-          "text": "When the psychologist has completed sufficient study to attain competence"
+          "text": "Neither a degree nor coursework is required, provided the psychologist is supervised for one year"
         },
         {
           "id": "c",
-          "text": "When the client's insurance authorization for emergency care expires"
+          "text": "Only continuing-education credits in the new specialty are required before independent practice"
         },
         {
           "id": "d",
-          "text": "When the emergency has ended or appropriate services become available"
+          "text": "A second doctoral degree is not required, but the coursework and supervised training it would demand are"
         }
       ],
       "answer": [
         "d"
       ],
-      "explanation": "The permission exists only because care would otherwise be denied, so it lapses the moment either condition that created the necessity disappears.",
+      "explanation": "The requirement targets substance rather than credential: the psychologist must complete the coursework and supervised training that doctoral preparation in the new specialty would demand, without earning the degree again.",
       "whyWrong": {
-        "a": "The standard sets no fixed session limit.",
-        "b": "Attaining competence through study is the mechanism of 2.01(d), not the endpoint defined for emergency services.",
-        "c": "Insurance authorization is unrelated to the standard's requirement."
+        "a": "The text expressly rejects the need for a second doctoral degree.",
+        "b": "A fixed period of supervision does not substitute for the subject-matter requirements.",
+        "c": "Continuing education alone falls well short of doctoral-level subject-matter and skill requirements."
       },
-      "topic": "Emergency services",
-      "bloom": "understand",
+      "topic": "Changing specialties",
+      "level": "recall",
+      "stemType": "short",
       "difficulty": 2,
-      "sourceRef": "§IV.A, Standard 2.02, p. 81"
+      "sourceRef": "Section IV.A, General Guidelines 1.7, pp. 81-82"
     },
     {
       "id": "q09",
       "type": "single",
-      "stem": "A psychologist without training in crisis intervention is the only clinician present when a client presents in acute suicidal crisis and no other provider can be reached. Under Standard 2.02, she:",
+      "stem": "Dr. Achebe is asked to supervise a postdoctoral fellow conducting neuropsychological assessments. Standard 2.05 requires that he:",
       "choices": [
         {
           "id": "a",
-          "text": "May provide services so care is not denied, discontinuing when the emergency ends or appropriate services become available"
+          "text": "take reasonable steps to ensure the fellow can perform the delegated work competently"
         },
         {
           "id": "b",
-          "text": "Must decline to intervene at all, on the ground that she lacks the appropriate specialized training"
+          "text": "apply the criteria the Ethics Code specifies for determining a supervisee's competence"
         },
         {
           "id": "c",
-          "text": "May provide the services only if she first obtains telephone consultation from a colleague who is trained in crisis intervention work"
+          "text": "personally countersign every assessment report the fellow produces during the fellowship"
         },
         {
           "id": "d",
-          "text": "May provide services indefinitely from this point on, since the encounter established a treatment relationship"
+          "text": "verify that the fellow carries independent professional liability insurance"
         }
       ],
       "answer": [
         "a"
       ],
-      "explanation": "This is the paradigm case for the emergency provision: services are permitted so that care is not denied, and the permission is bounded by the emergency's duration and the availability of appropriate alternatives.",
+      "explanation": "Standard 2.05 requires psychologists to ensure that those to whom they delegate work can perform it competently. The Code provides no specific criteria; the judgment rests with the psychologist.",
       "whyWrong": {
-        "b": "Declining is what the standard is designed to prevent when alternatives are unavailable.",
-        "c": "Consultation is good practice but the standard does not make it a precondition for emergency intervention.",
-        "d": "The permission terminates when the emergency ends or appropriate services become available."
+        "b": "This is the trap: the Code deliberately supplies no criteria, leaving the judgment to the psychologist.",
+        "c": "Countersignature may be required by an employer or payer, but 2.05 does not impose it.",
+        "d": "Insurance is a risk-management matter rather than a requirement of 2.05."
       },
-      "topic": "Emergency services",
-      "bloom": "apply",
+      "topic": "Supervisors and employers",
+      "level": "application",
+      "stemType": "vignette",
       "difficulty": 2,
-      "sourceRef": "§IV.A, Standard 2.02, p. 81"
+      "sourceRef": "Section IV.B, Standard 2.05, p. 82"
     },
     {
       "id": "q10",
       "type": "single",
-      "stem": "A psychologist whose specialty is educational psychology wishes to change to a specialty in clinical psychology. According to Section 1.7 of the General Guidelines for Providers of Psychological Services, what is required?",
+      "stem": "Ladany, Lehrman-Waterman, Molinaro, and Wolgast (1999) asked beginning intern-level supervisees to identify ethical violations by their supervisors. The most frequently cited violation was:",
       "choices": [
         {
           "id": "a",
-          "text": "A second doctoral degree earned in clinical psychology from an accredited program"
+          "text": "supervisors' failure to maintain the confidentiality of the interns' clinical material"
         },
         {
           "id": "b",
-          "text": "Completion of the coursework and supervised training required for that degree, without a second doctorate"
+          "text": "inadequate performance evaluation and monitoring of the interns' activities"
         },
         {
           "id": "c",
-          "text": "Two years of postdoctoral practice under supervision, with no additional coursework requirement"
+          "text": "supervisors requiring interns to perform tasks beyond their level of training"
         },
         {
           "id": "d",
-          "text": "Nothing beyond the existing doctorate, provided that the psychologist consults regularly with a clinical colleague"
+          "text": "the formation of multiple relationships between supervisors and their supervisees"
         }
       ],
       "answer": [
         "b"
       ],
-      "explanation": "The guideline requires meeting the same subject-matter and professional-skill requirements that apply to doctoral education in the new specialty, which is satisfied by the coursework and supervised training rather than by earning the credential again.",
+      "explanation": "Inadequate performance evaluation and monitoring was the most frequently cited violation in that study, which is why the text treats regular performance feedback as a critical element of ensuring supervisee competence.",
       "whyWrong": {
-        "a": "A second doctoral degree is explicitly not required.",
-        "c": "The requirement encompasses coursework as well as supervised training.",
-        "d": "Consultation alone does not meet the subject-matter and skill requirements of the new specialty."
+        "a": "Confidentiality lapses are genuine supervisory violations but were not the most frequently cited in this study.",
+        "c": "Assigning work beyond a supervisee's training is a real 2.05 concern, but it was not the leading complaint reported.",
+        "d": "Multiple relationships appear in 2.05, but the study's leading finding concerned evaluation and monitoring."
       },
-      "topic": "Changing specialties",
-      "bloom": "apply",
-      "difficulty": 3,
-      "sourceRef": "§IV.A, General Guidelines §1.7, p. 81"
+      "topic": "Supervisors and employers",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section IV.B, Standard 2.05, p. 82"
     },
     {
       "id": "q11",
       "type": "single",
-      "stem": "Which document addresses the requirements for psychologists who change or add a specialty?",
+      "stem": "A psychologist is treating a client whose English is limited. The client's adult daughter offers to serve as interpreter for the sessions. Accepting the offer would be inappropriate primarily because it:",
       "choices": [
         {
           "id": "a",
-          "text": "APA's Rules and Procedures (2002)"
+          "text": "delegates clinical work to a person without professional interpreter certification"
         },
         {
           "id": "b",
-          "text": "The Specialty Guidelines for Forensic Psychology (APA, 2011)"
+          "text": "exceeds the psychologist's own boundaries of competence in cross-cultural practice"
         },
         {
           "id": "c",
-          "text": "The General Guidelines for Providers of Psychological Services (APA, 1987)"
+          "text": "creates a multiple relationship likely to limit objectivity or lead to exploitation"
         },
         {
           "id": "d",
-          "text": "The Ethical Principles of Psychologists and Code of Conduct, Standard 2.03"
+          "text": "requires the client to disclose protected information to an unauthorized third party"
         }
       ],
       "answer": [
         "c"
       ],
-      "explanation": "Section 1.7 of the General Guidelines is the source cited for the requirement that a changed or added specialty meet the same doctoral-level subject-matter and skill requirements.",
+      "explanation": "Standard 2.05 prohibits delegating work to a person where doing so creates a multiple relationship with the individual being served that is likely to limit objectivity or lead to exploitation. The daughter's familial role is exactly such a relationship.",
       "whyWrong": {
-        "a": "The Rules and Procedures supply examples of substantial harm for reporting purposes under Standard 1.05.",
-        "b": "The Specialty Guidelines for Forensic Psychology address matters such as informing evaluees of confidentiality limits.",
-        "d": "Standard 2.03 requires maintaining competence but does not set out the specialty-change requirements."
+        "a": "Lack of certification is a practical concern, but the ethical objection 2.05 raises is the relationship itself.",
+        "b": "The psychologist's own competence is not what the example turns on.",
+        "d": "The client could authorize the daughter's involvement; the objection survives that authorization."
       },
-      "topic": "Changing specialties",
-      "bloom": "recall",
-      "difficulty": 3,
-      "sourceRef": "§IV.A, General Guidelines §1.7, p. 81"
+      "topic": "Supervisors and employers",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section IV.B, Standard 2.05, p. 82"
     },
     {
       "id": "q12",
       "type": "single",
-      "stem": "Under Standard 2.05, what criteria does the Ethics Code provide for judging whether a supervisee or employee is competent to perform delegated work?",
+      "stem": "The legal doctrine under which supervisors and employers may be held legally responsible for the actions of their supervisees and employees is:",
       "choices": [
         {
           "id": "a",
-          "text": "A required minimum of supervised hours before independent tasks may be assigned"
+          "text": "contributory negligence, arising from the supervisor's own failure to act"
         },
         {
           "id": "b",
-          "text": "A checklist of skills that must be documented in the supervisee's file"
+          "text": "informed consent, extended to cover the supervisory relationship"
         },
         {
           "id": "c",
-          "text": "The credentialing requirements of the employing institution"
+          "text": "duty to protect, as articulated in the Tarasoff line of cases"
         },
         {
           "id": "d",
-          "text": "No specific criteria; the judgment rests with the psychologist"
+          "text": "vicarious liability, also known as respondeat superior"
         }
       ],
       "answer": [
         "d"
       ],
-      "explanation": "The Code imposes the obligation without specifying how to discharge it, which places the burden of judgment on the delegating psychologist rather than on an external benchmark.",
+      "explanation": "Vicarious liability, or respondeat superior, makes supervisors and employers legally responsible for their supervisees' and employees' actions. It is a legal concept distinct from the ethical requirements of Standard 2.05 itself.",
       "whyWrong": {
-        "a": "No minimum hour requirement appears in the standard.",
-        "b": "No documented skills checklist is prescribed.",
-        "c": "Institutional credentialing may inform the decision, but the standard assigns the judgment to the psychologist."
+        "a": "Contributory negligence concerns an injured party's own contribution to the harm, not a supervisor's liability for another's acts.",
+        "b": "Informed consent governs a client's agreement to services and has no bearing on supervisory liability.",
+        "c": "The duty to protect concerns third parties threatened by a client, a separate doctrine entirely."
       },
-      "topic": "Supervision and delegation",
-      "bloom": "understand",
-      "difficulty": 2,
-      "sourceRef": "§IV.B, Standard 2.05, p. 82"
+      "topic": "Vicarious liability",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 1,
+      "sourceRef": "Section IV.B, Standard 2.05, p. 82"
     },
     {
       "id": "q13",
       "type": "single",
-      "stem": "What does the text identify as a critical element in ensuring the competence of supervisees and employees?",
+      "stem": "According to Simon (1992), the legal determination of vicarious liability ordinarily rests on the disparity in training and experience between the parties and on:",
       "choices": [
         {
           "id": "a",
-          "text": "Providing them with regular performance feedback"
+          "text": "the supervisor's right, ability, or responsibility to control the supervisee's actions"
         },
         {
           "id": "b",
-          "text": "Limiting each supervisee's caseload to fewer than ten clients at any one time"
+          "text": "whether the supervisor received any direct financial benefit from the supervisee's work"
         },
         {
           "id": "c",
-          "text": "Requiring each supervisee to carry their own independent malpractice coverage"
+          "text": "the number of hours of face-to-face supervision that were provided in each working week"
         },
         {
           "id": "d",
-          "text": "Reviewing every one of their session recordings before the next scheduled appointment"
+          "text": "whether the supervisee held an independent licence at the time the conduct took place"
         }
       ],
       "answer": [
         "a"
       ],
-      "explanation": "Regular feedback is what allows a supervisee's actual performance to be monitored and corrected, and its absence has been identified as a source of many ethical complaints related to supervision.",
+      "explanation": "Simon identifies two factors: the disparity in training and experience between supervisor and supervisee, and the supervisor's right, ability, or responsibility to control the supervisee's actions.",
       "whyWrong": {
-        "b": "No caseload cap is specified in the standard or the discussion.",
-        "c": "Independent coverage is not identified as an element of ensuring competence.",
-        "d": "Reviewing every recording is not the element the text singles out."
+        "b": "Financial benefit can matter in other liability contexts, but it is not one of the two factors named.",
+        "c": "The frequency of supervision may bear on the control question but is not itself the stated factor.",
+        "d": "Licensure status is not among the two determinants Simon identifies."
       },
-      "topic": "Supervision and delegation",
-      "bloom": "recall",
-      "difficulty": 2,
-      "sourceRef": "§IV.B, Standard 2.05, p. 82"
+      "topic": "Vicarious liability",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 3,
+      "sourceRef": "Section IV.B, Standard 2.05, p. 82"
     },
     {
       "id": "q14",
       "type": "single",
-      "stem": "Ladany, Lehrman-Waterman, Molinaro, and Wolgast (1999) asked beginning intern-level supervisees to list ethical violations by their supervisors. What was the most frequently cited violation?",
+      "stem": "Dr. Ferreira's employee commits an error while performing delegated clinical work, and the affected client sues both the employee and Dr. Ferreira. Dr. Ferreira's potential exposure in that lawsuit is best understood as:",
       "choices": [
         {
           "id": "a",
-          "text": "Engaging in sexual relationships with the supervisees they were responsible for"
+          "text": "an ethical violation of Standard 2.05, from which legal liability then follows automatically"
         },
         {
           "id": "b",
-          "text": "Inadequate performance evaluation and monitoring of the interns' activities"
+          "text": "a legal question of vicarious liability, distinct from her obligations under Standard 2.05"
         },
         {
           "id": "c",
-          "text": "Breaching the confidentiality of information disclosed to them by supervisees"
+          "text": "an issue the Ethics Code resolves by allocating the responsibility to the employee alone"
         },
         {
           "id": "d",
-          "text": "Assigning clinical tasks that lay well beyond the interns' current level of training"
+          "text": "a matter outside both ethical and legal frameworks unless she directed the specific act"
         }
       ],
       "answer": [
         "b"
       ],
-      "explanation": "The finding is what grounds the emphasis on timely feedback: the most common supervisory failure reported by interns was not a dramatic boundary violation but a failure to evaluate and monitor their work.",
+      "explanation": "The text notes that vicarious liability is a legal liability concept, distinct from the ethical requirements of 2.05. A supervisor may face legal exposure for a supervisee's actions independently of whether the ethical standard was breached.",
       "whyWrong": {
-        "a": "Sexual relationships with supervisees are prohibited by Standard 7.07, but this was not the most frequently cited violation in the study.",
-        "c": "Breach of supervisee confidentiality was not the leading finding reported.",
-        "d": "Assigning work beyond a supervisee's competence is addressed by 2.05, but the study's leading finding concerned evaluation and monitoring."
+        "a": "The two frameworks are distinct; an ethical breach does not automatically generate legal liability, nor the reverse.",
+        "c": "The Ethics Code does not allocate legal responsibility, and 2.05 places duties on the delegating psychologist.",
+        "d": "Vicarious liability arises without the supervisor having directed the particular act."
       },
-      "topic": "Supervision and delegation",
-      "bloom": "recall",
+      "topic": "Vicarious liability",
+      "level": "application",
+      "stemType": "vignette",
       "difficulty": 3,
-      "sourceRef": "§IV.B, Standard 2.05, p. 82"
+      "sourceRef": "Section IV.B, Standard 2.05, p. 82"
     },
     {
       "id": "q15",
       "type": "single",
-      "stem": "A psychologist works with a client who has limited English skills and asks the client's daughter to serve as interpreter. Under Standard 2.05, why is this inappropriate?",
+      "stem": "Dr. Lindgren is going through a contentious divorce and finds that her concentration during sessions has deteriorated noticeably. Under Standard 2.06, appropriate measures would include all of the following EXCEPT:",
       "choices": [
         {
           "id": "a",
-          "text": "Because interpreters used in clinical settings must hold a professional credential in medical interpretation"
+          "text": "seeking her own therapy in order to address the personal difficulties she is experiencing"
         },
         {
           "id": "b",
-          "text": "Because a client cannot give valid informed consent to treatment while a close relative is present in the room"
+          "text": "referring the affected clients to other qualified professionals for their continuing care"
         },
         {
           "id": "c",
-          "text": "Because delegating the work creates a multiple relationship likely to limit objectivity or lead to exploitation"
+          "text": "disclosing the details of the divorce to clients so they can decide whether to continue"
         },
         {
           "id": "d",
-          "text": "Because family members are prohibited from attending any treatment sessions under Standard 10.02"
+          "text": "consulting a colleague in order to determine the most appropriate course of action to take"
         }
       ],
       "answer": [
         "c"
       ],
-      "explanation": "Standard 2.05 bars delegating work to someone whose existing relationship with the person served would compromise objectivity or invite exploitation, and a daughter interpreting for her parent's therapy is exactly that situation.",
+      "explanation": "Standard 2.06 lists appropriate measures as seeking therapy, referring clients to other professionals, and consulting another professional to identify the most appropriate action. Disclosing personal details to clients is not among them.",
       "whyWrong": {
-        "a": "The objection is the relational conflict rather than the absence of a formal interpreting credential.",
-        "b": "The provision concerns the propriety of the delegation, not the client's capacity to consent.",
-        "d": "Standard 10.02 concerns clarifying roles in couples and family therapy and does not prohibit family attendance."
+        "a": "Seeking therapy is expressly among the appropriate measures.",
+        "b": "Referral to other professionals is expressly among the appropriate measures.",
+        "d": "Consulting another professional to identify the appropriate action is expressly listed."
       },
-      "topic": "Supervision and delegation",
-      "bloom": "apply",
+      "topic": "Personal problems",
+      "level": "application",
+      "stemType": "negative",
       "difficulty": 2,
-      "sourceRef": "§IV.B, Standard 2.05, p. 82"
+      "sourceRef": "Section IV.C, Standard 2.06, p. 82"
     },
     {
       "id": "q16",
       "type": "single",
-      "stem": "What is vicarious liability?",
+      "stem": "Standard 2.06 directs psychologists to refrain from initiating a professional activity when:",
       "choices": [
         {
           "id": "a",
-          "text": "The ethical duty of psychologists to report ethical violations committed by their professional colleagues"
+          "text": "any personal difficulty is present, whatever its likely effect on the professional work"
         },
         {
           "id": "b",
-          "text": "A supervisee's own obligation to carry responsibility for the clinical decisions they make independently"
+          "text": "a colleague has formally advised the psychologist that he or she appears to be impaired"
         },
         {
           "id": "c",
-          "text": "The obligation of an employing institution to indemnify psychologists who are sued for malpractice"
+          "text": "the psychologist has begun receiving treatment for a diagnosed psychological condition"
         },
         {
           "id": "d",
-          "text": "The legal responsibility supervisors and employers may bear for the actions of their supervisees and employees"
+          "text": "there is a significant likelihood that personal problems will interfere with the activity"
         }
       ],
       "answer": [
         "d"
       ],
-      "explanation": "Also called respondeat superior, vicarious liability is a legal doctrine rather than an ethical standard, attaching responsibility upward from supervisee to supervisor.",
+      "explanation": "The threshold in 2.06 is a significant likelihood that personal problems will prevent the psychologist from performing the activity in a competent manner.",
       "whyWrong": {
-        "a": "Reporting colleagues' violations is governed by Standard 1.05 and is a separate matter.",
-        "b": "The doctrine assigns responsibility to the supervisor, not to the supervisee.",
-        "c": "Institutional indemnification is a contractual arrangement rather than this doctrine."
+        "a": "The standard is calibrated to likely interference, not to the mere existence of a personal difficulty.",
+        "b": "No colleague's formal advice is required to trigger the standard.",
+        "c": "Being in treatment does not itself bar a psychologist from initiating professional activities."
       },
-      "topic": "Vicarious liability",
-      "bloom": "understand",
-      "difficulty": 1,
-      "sourceRef": "§IV.B, Standard 2.05, p. 82"
+      "topic": "Personal problems",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section IV.C, Standard 2.06, p. 82"
     },
     {
       "id": "q17",
       "type": "single",
-      "stem": "By what other name is vicarious liability known?",
+      "stem": "A psychologist who has worked exclusively with adults is asked to begin treating adolescents at his clinic. Standard 2.01 addresses this situation because it covers:",
       "choices": [
         {
           "id": "a",
-          "text": "Respondeat superior"
+          "text": "serving a population the psychologist has not previously served"
         },
         {
           "id": "b",
-          "text": "Parens patriae"
+          "text": "the emergency provision of services when alternatives are unavailable"
         },
         {
           "id": "c",
-          "text": "Res ipsa loquitur"
+          "text": "delegating professional work to supervisees and employees"
         },
         {
           "id": "d",
-          "text": "Duty to protect"
+          "text": "practice in emerging areas without recognized training standards"
         }
       ],
       "answer": [
         "a"
       ],
-      "explanation": "Respondeat superior is the Latin term for the doctrine holding a superior answerable for the acts of those under their control.",
+      "explanation": "Standard 2.01 covers two situations the exam tests directly: incorporating a new technique into practice, and serving a population the psychologist has not previously served. A new age group is the second.",
       "whyWrong": {
-        "b": "Parens patriae concerns the state's authority to act on behalf of those unable to protect themselves.",
-        "c": "Res ipsa loquitur is an evidentiary doctrine about inferring negligence from the nature of an accident.",
-        "d": "Duty to protect concerns obligations toward identifiable potential victims."
+        "b": "The emergency provision is 2.02 and nothing here suggests an emergency.",
+        "c": "Delegation is governed by 2.05 and is not what this situation involves.",
+        "d": "Adolescent treatment is well established, so no emerging-area provision applies."
       },
-      "topic": "Vicarious liability",
-      "bloom": "recall",
-      "difficulty": 2,
-      "sourceRef": "§IV.B, Standard 2.05, p. 82"
+      "topic": "Boundaries of competence",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 1,
+      "sourceRef": "Section IV.A, Standard 2.01, p. 81"
     },
     {
       "id": "q18",
       "type": "single",
-      "stem": "According to Simon (1992), the legal determination of vicarious liability ordinarily rests on which two factors?",
+      "stem": "Dr. Bassett wishes to expand her practice into an area adjacent to her training. The text describes which step as advisable in determining what additional preparation she needs and when independent practice becomes appropriate?",
       "choices": [
         {
           "id": "a",
-          "text": "The severity of the harm that was caused to the client, and whether the supervisee carried their own independent malpractice insurance at the time of the incident"
+          "text": "completing a formal postdoctoral respecialization programme in the adjacent practice area"
         },
         {
           "id": "b",
-          "text": "The disparity in training and experience between the parties, and the supervisor's right, ability, or responsibility to control the supervisee's actions"
+          "text": "consulting another professional about the training required and the timing of independent work"
         },
         {
           "id": "c",
-          "text": "The overall duration of the supervisory relationship, and the frequency with which the supervision meetings between them were documented in writing"
+          "text": "notifying her state licensing board of the intended expansion of practice well in advance"
         },
         {
           "id": "d",
-          "text": "Whether the supervisee was paid for the work, and whether the setting in which it occurred was a public or a private institution"
+          "text": "restricting the new work to clients who give written experimental-treatment consent first"
         }
       ],
       "answer": [
         "b"
       ],
-      "explanation": "The doctrine tracks the reality of the hierarchy: a substantial gap in training and a genuine power to direct the supervisee's conduct are what justify assigning responsibility upward.",
+      "explanation": "The text advises consulting another professional to determine what additional training is needed and when independent practice in the area is appropriate, alongside the requirement that expansion minimize potential harm to clients.",
       "whyWrong": {
-        "a": "Harm severity and insurance status are not the factors identified for determining vicarious liability.",
-        "c": "Duration and meeting frequency may be evidence about supervision quality but are not the stated basis of the doctrine.",
-        "d": "Compensation and setting are not the cited determinants."
+        "a": "Formal respecialization pertains to changing specialties, a heavier requirement than expanding into an adjacent area.",
+        "c": "No advance notification to the licensing board is described.",
+        "d": "Experimental-treatment consent belongs to emerging-area practice under 2.01(e)."
       },
-      "topic": "Vicarious liability",
-      "bloom": "recall",
-      "difficulty": 3,
-      "sourceRef": "§IV.B, Standard 2.05, p. 82"
+      "topic": "Boundaries of competence",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section IV.A, Standards 2.01 and 2.03, p. 81"
     },
     {
       "id": "q19",
       "type": "single",
-      "stem": "A supervisor with fifteen years of experience directs a practicum student's caseload and reviews all treatment decisions. A client is harmed by the student's error. Which factor most directly supports a finding of vicarious liability?",
+      "stem": "Two days after a hurricane, Dr. Ramos provides psychological first aid at a shelter despite having no disaster-response training. Three weeks later the shelter closes and a trained disaster-response team is now operating in the area, but several people ask Dr. Ramos to continue seeing them. He should:",
       "choices": [
         {
           "id": "a",
-          "text": "The student's failure to carry any form of independent malpractice coverage of their own during the practicum placement"
+          "text": "continue, since a therapeutic relationship has formed and abrupt termination would cause them harm"
         },
         {
           "id": "b",
-          "text": "The fact that the harm to the client occurred during a scheduled session rather than outside of one"
+          "text": "continue, provided that he simultaneously enrols in disaster-response training coursework"
         },
         {
           "id": "c",
-          "text": "The supervisor's right and ability to control the student's actions, combined with the disparity in their training"
+          "text": "discontinue and assist in transferring their care, since appropriate services are now available"
         },
         {
           "id": "d",
-          "text": "The student's formal status as an unpaid practicum trainee rather than as a salaried employee"
+          "text": "continue with those clients who explicitly consent to being seen by an untrained provider"
         }
       ],
       "answer": [
         "c"
       ],
-      "explanation": "Both of the doctrine's ordinary determinants are present in the facts: a wide training gap and a supervisor who actually directs the trainee's clinical decisions.",
+      "explanation": "Standard 2.02 permits untrained emergency provision only while the emergency persists and alternatives are unavailable. Once the emergency has ended or appropriate services become available, the services must be discontinued.",
       "whyWrong": {
-        "a": "The trainee's insurance status is not among the determinants of the doctrine.",
-        "b": "When the harm occurred is not a factor identified in the analysis.",
-        "d": "Pay status is not the criterion; control and training disparity are."
+        "a": "Continuity of care matters, but 2.02 makes the authorization temporary and conditional by design.",
+        "b": "Enrolling in training does not confer present competence, and the condition permitting the work has lapsed.",
+        "d": "Client consent does not extend an authorization that 2.02 ties to the emergency and to availability."
       },
-      "topic": "Vicarious liability",
-      "bloom": "analyze",
-      "difficulty": 3,
-      "sourceRef": "§IV.B, Standard 2.05, p. 82"
+      "topic": "Emergencies",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section IV.A, Standard 2.02, p. 81"
     },
     {
       "id": "q20",
       "type": "single",
-      "stem": "Standard 2.06 requires psychologists to refrain from initiating an activity when there is a significant likelihood that:",
+      "stem": "A clinic director assigns intake interviews to a psychology technician whose training she has never reviewed, assuming the previous director vetted him. Under Standard 2.05, the director's assumption is problematic because the responsibility for judging the technician's competence:",
       "choices": [
         {
           "id": "a",
-          "text": "The activity falls outside the scope of their malpractice coverage"
+          "text": "rests with the credentialing body that issued the technician's certificate"
         },
         {
           "id": "b",
-          "text": "A client will be dissatisfied with the outcome of the service"
+          "text": "is discharged by the clinic's written scope-of-practice policy for technicians"
         },
         {
           "id": "c",
-          "text": "The activity will require skills acquired after their doctoral training"
+          "text": "transfers to the previous director, who made the original hiring decision"
         },
         {
           "id": "d",
-          "text": "Personal problems will interfere with performing that activity competently"
+          "text": "rests with the psychologist delegating the work, on her own judgment"
         }
       ],
       "answer": [
         "d"
       ],
-      "explanation": "The provision operates prospectively, blocking the start of work that the psychologist has reason to believe their own circumstances will prevent them from doing competently.",
+      "explanation": "Because the Code provides no specific criteria, the judgment of whether a supervisee or employee has the requisite knowledge and skills rests with the psychologist who delegates the work.",
       "whyWrong": {
-        "a": "Insurance scope is not the trigger for this standard.",
-        "b": "Anticipated dissatisfaction is not a basis for refraining under this provision.",
-        "c": "Acquiring skills after doctoral training is expected under 2.01 and 2.03 rather than prohibited."
+        "a": "A credential is evidence a psychologist may weigh, but it does not displace her own judgment.",
+        "b": "A written policy describes permitted tasks; it does not establish a particular person's competence.",
+        "c": "The duty attaches to the psychologist delegating the work now, not to a predecessor."
       },
-      "topic": "Personal problems",
-      "bloom": "understand",
+      "topic": "Supervisors and employers",
+      "level": "application",
+      "stemType": "vignette",
       "difficulty": 2,
-      "sourceRef": "§IV.C, Standard 2.06, p. 82"
+      "sourceRef": "Section IV.B, Standard 2.05, p. 82"
     },
     {
       "id": "q21",
       "type": "single",
-      "stem": "Which of the following does the text list as an \"appropriate measure\" under Standard 2.06 when a personal problem may adversely affect a psychologist's effectiveness?",
+      "stem": "A supervisor meets with her intern weekly but provides no evaluative feedback until the end-of-year written evaluation, which the intern finds highly critical and unexpected. Drawing on the text's discussion of 2.05, this pattern is best characterized as:",
       "choices": [
         {
           "id": "a",
-          "text": "Seeking therapy, referring clients to other professionals, or consulting another professional"
+          "text": "a known source of ethical complaints, since timely performance feedback is a critical element"
         },
         {
           "id": "b",
-          "text": "Reducing her fees for the whole duration of the personal difficulty that is affecting her work"
+          "text": "acceptable, since a formal written evaluation was in fact completed and delivered as required"
         },
         {
           "id": "c",
-          "text": "Notifying the state licensing board that her professional effectiveness has become impaired"
+          "text": "a multiple relationship problem arising from the supervisor's dual evaluative and teaching role"
         },
         {
           "id": "d",
-          "text": "Transferring her entire practice over to a colleague until the personal problem has resolved"
+          "text": "a question of vicarious liability rather than an ethical concern about supervisory practice"
         }
       ],
       "answer": [
         "a"
       ],
-      "explanation": "The measures range from addressing the problem directly to protecting clients by transferring their care, with consultation available to determine which response the situation calls for.",
+      "explanation": "The text identifies regular performance feedback as a critical element of ensuring supervisee competence and notes that a lack of timely feedback is a known source of ethical complaints — consistent with the Ladany et al. finding.",
       "whyWrong": {
-        "b": "Fee reduction is not among the measures identified.",
-        "c": "Self-reporting to the licensing board is not listed as an appropriate measure here.",
-        "d": "Referring individual clients is described; wholesale transfer of the practice is not the measure specified."
+        "b": "Completing the annual form does not supply the ongoing feedback the text treats as critical.",
+        "c": "Evaluation is intrinsic to supervision and does not by itself create a multiple relationship.",
+        "d": "Vicarious liability concerns legal responsibility for a supervisee's acts, not the adequacy of feedback."
       },
-      "topic": "Personal problems",
-      "bloom": "recall",
+      "topic": "Supervisors and employers",
+      "level": "application",
+      "stemType": "vignette",
       "difficulty": 2,
-      "sourceRef": "§IV.C, Standard 2.06, p. 82"
+      "sourceRef": "Section IV.B, Standard 2.05, p. 82"
     },
     {
       "id": "q22",
       "type": "single",
-      "stem": "A psychologist in the middle of a difficult divorce notices that she has become irritable with clients and is having trouble concentrating in sessions. Under Standard 2.06, what is her obligation?",
+      "stem": "Which provision would a psychologist rely on when asked to provide services she is not fully competent to deliver, where no other provider is available and the situation is not an emergency?",
       "choices": [
         {
           "id": "a",
-          "text": "To terminate all of her existing client relationships immediately and cease practicing altogether"
+          "text": "Standard 2.02, covering the provision of services in emergencies"
         },
         {
           "id": "b",
-          "text": "To take appropriate measures and determine whether to limit, suspend, or terminate her work-related duties"
+          "text": "Standard 2.01(d), covering services where no one else is available"
         },
         {
           "id": "c",
-          "text": "To disclose the divorce to each of her clients so that they may decide whether to continue treatment"
+          "text": "Standard 2.01(e), covering practice in newly emerging areas"
         },
         {
           "id": "d",
-          "text": "To continue practicing as usual unless and until one of her clients files a formal complaint about her performance"
+          "text": "Standard 2.06, covering the effect of personal problems on professional work"
         }
       ],
       "answer": [
         "b"
       ],
-      "explanation": "The standard addresses problems that emerge after work has begun by requiring active steps such as consultation, together with a judgment about whether duties should be limited, suspended, or ended.",
+      "explanation": "2.01(d) is the provision for services requested when no one else is available and the psychologist lacks sufficient competence, permitting them where closely related training exists and reasonable effort is made to obtain the needed competence.",
       "whyWrong": {
-        "a": "Immediate wholesale termination is not required and could itself harm clients; the standard contemplates a graded response.",
-        "c": "Disclosure of the psychologist's personal circumstances to clients is not what the standard directs.",
-        "d": "Waiting for a complaint inverts the standard, which requires acting on one's own awareness of the problem."
+        "a": "2.02 governs emergencies, and the stem specifies the situation is not one.",
+        "c": "2.01(e) concerns areas lacking recognized training standards, not unavailability of providers.",
+        "d": "2.06 concerns personal problems interfering with professional activity."
       },
-      "topic": "Personal problems",
-      "bloom": "apply",
+      "topic": "Special-situation provisions",
+      "level": "application",
+      "stemType": "short",
       "difficulty": 2,
-      "sourceRef": "§IV.C, Standard 2.06, p. 82"
+      "sourceRef": "Section IV.A, Standards 2.01 and 2.02, p. 81"
     },
     {
       "id": "q23",
       "type": "single",
-      "stem": "How do the two parts of Standard 2.06 differ in the situations they address?",
+      "stem": "Dr. Whitcombe, a school psychologist, is asked by a court to conduct a child custody evaluation, a forensic activity for which he has no training. Several qualified forensic psychologists practise in the region. He should:",
       "choices": [
         {
           "id": "a",
-          "text": "One addresses those problems that are physical in origin, while the other addresses those that are psychological in origin"
+          "text": "accept the appointment, since a court request carries an obligation to assist the tribunal"
         },
         {
           "id": "b",
-          "text": "One applies to work carried out in clinical practice settings, while the other applies to work in research and teaching settings"
+          "text": "accept it and retain a forensic psychologist to review his report before it is filed"
         },
         {
           "id": "c",
-          "text": "One addresses refraining from initiating an activity; the other addresses responding to problems that arise once work is underway"
+          "text": "decline and refer the court to a psychologist competent in forensic evaluation"
         },
         {
           "id": "d",
-          "text": "One applies to psychologists who are fully licensed; the other applies to trainees working under supervision"
+          "text": "accept it under 2.01(d), since a court appointment establishes that no one else is available"
         }
       ],
       "answer": [
         "c"
       ],
-      "explanation": "The provision is structured around timing: a prospective bar on starting work likely to be impaired, and a duty to respond once the psychologist becomes aware of interference with duties already assumed.",
+      "explanation": "Standard 2.01 limits practice to services within one's current competence, established by education, training, and experience. Forensic services are named among those the standard covers, and the exceptions do not apply where qualified providers are available.",
       "whyWrong": {
-        "a": "Both physical and psychological problems fall within the same responsive obligation.",
-        "b": "The standard refers to work-related activities generally rather than splitting by setting.",
-        "d": "No distinction by licensure status appears in the standard."
+        "a": "A court request does not confer competence or suspend the boundaries 2.01 imposes.",
+        "b": "Post hoc review does not make him competent to conduct the evaluation itself.",
+        "d": "2.01(d) requires that no one else be available; qualified forensic psychologists practise in the region."
       },
-      "topic": "Personal problems",
-      "bloom": "analyze",
-      "difficulty": 3,
-      "sourceRef": "§IV.C, Standard 2.06, p. 82"
+      "topic": "Boundaries of competence",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section IV.A, Standards 2.01 and 2.01(d), p. 81"
     },
     {
       "id": "q24",
       "type": "single",
-      "stem": "A psychologist is asked to provide a specialized service in a rural area where no other qualified provider practices. She has closely related training and makes a reasonable effort to obtain the additional knowledge required. Which standard authorizes her to proceed?",
+      "stem": "Dr. Yusuf recognizes that a chronic health condition has begun to affect his effectiveness with clients. Standard 2.06 directs him to take \"appropriate measures,\" which the text describes as:",
       "choices": [
         {
           "id": "a",
-          "text": "Standard 2.02, Providing Services in Emergencies, where alternatives are unavailable"
+          "text": "suspending his licence voluntarily until the health condition has been medically resolved"
         },
         {
           "id": "b",
-          "text": "Standard 2.03, Maintaining Competence, requiring ongoing efforts to develop skills"
+          "text": "notifying his state licensing board of the condition and awaiting its formal determination"
         },
         {
           "id": "c",
-          "text": "Standard 2.05, Delegation of Work to Others, governing supervisees and employees"
+          "text": "reducing his caseload by half and documenting that reduction in each affected client record"
         },
         {
           "id": "d",
-          "text": "Standard 2.01(d), governing services where no one else is available"
+          "text": "seeking therapy, referring clients elsewhere, or consulting another professional about what to do"
         }
       ],
       "answer": [
         "d"
       ],
-      "explanation": "The facts match 2.01(d) precisely: unavailability of other providers, closely related training, and a reasonable effort to acquire the needed competence. No emergency is described, which is what separates it from 2.02.",
+      "explanation": "Where a physical or psychological problem may adversely affect effectiveness, the appropriate measures the text lists are seeking therapy, referring clients to other professionals, and consulting another professional to identify the most appropriate action.",
       "whyWrong": {
-        "a": "Standard 2.02 requires an emergency and requires discontinuing when it ends, neither of which fits an ongoing rural service gap.",
-        "b": "Standard 2.03 states the general obligation to maintain competence rather than authorizing service in this situation.",
-        "c": "Standard 2.05 concerns delegating work to others, which is not what she is doing."
+        "a": "Voluntary licence suspension is not among the measures described and would often be disproportionate.",
+        "b": "No board-notification requirement is described in this standard.",
+        "c": "A fixed caseload reduction is not one of the listed measures."
       },
-      "topic": "Competence in special situations",
-      "bloom": "analyze",
-      "difficulty": 3,
-      "sourceRef": "§IV.A, Standards 2.01(d) and 2.02, p. 81"
+      "topic": "Personal problems",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section IV.C, Standard 2.06, p. 82"
     },
     {
       "id": "q25",
       "type": "single",
-      "stem": "What distinguishes the situation governed by Standard 2.01(d) from the one governed by Standard 2.02?",
+      "stem": "A hospital psychologist delegates psychological testing to a technician she supervises. The technician is competent, but she is also the technician's landlord and holds his lease. Under Standard 2.05, the arrangement is problematic if the relationship:",
       "choices": [
         {
           "id": "a",
-          "text": "2.01(d) requires closely related training and a reasonable effort to gain competence, while 2.02 covers emergencies and requires discontinuing once they end"
+          "text": "is likely to limit her objectivity or lead to exploitation of the person being served"
         },
         {
           "id": "b",
-          "text": "2.01(d) applies only to psychologists who are already fully licensed, while 2.02 applies only to trainees who are practicing under formal supervision"
+          "text": "has not been disclosed in writing to the hospital's compliance department for review"
         },
         {
           "id": "c",
-          "text": "2.01(d) applies only to assessment and evaluation services, while 2.02 applies only to the provision of ongoing therapy"
+          "text": "involves any financial dimension whatever between the supervisor and the supervisee"
         },
         {
           "id": "d",
-          "text": "2.01(d) permits the arrangement to continue on indefinitely, while 2.02 requires that the arrangement be formally renewed on an annual basis"
+          "text": "would be prohibited by the licensing statute of the jurisdiction in which she practises"
         }
       ],
       "answer": [
         "a"
       ],
-      "explanation": "Both provisions prevent services from being denied, but they attach different conditions: an existing foundation plus effort in the first, and a time-limited permission tied to the emergency in the second.",
+      "explanation": "2.05 prohibits delegating work to a person where the multiple relationship is likely to limit objectivity or lead to exploitation. The likelihood of that effect, rather than the mere existence of a second relationship, is the test.",
       "whyWrong": {
-        "b": "Neither provision is divided by licensure or trainee status.",
-        "c": "Neither is limited to a particular category of service.",
-        "d": "There is no annual renewal mechanism in 2.02; the limit is the end of the emergency or availability of appropriate services."
+        "b": "Disclosure to compliance is institutionally sensible but is not the test 2.05 sets.",
+        "c": "The standard is not a blanket bar on financial dimensions; it turns on the likely effect.",
+        "d": "The Ethics Code applies independently of whether a licensing statute reaches the arrangement."
       },
-      "topic": "Competence in special situations",
-      "bloom": "analyze",
+      "topic": "Supervisors and employers",
+      "level": "application",
+      "stemType": "vignette",
       "difficulty": 3,
-      "sourceRef": "§IV.A, Standards 2.01(d) and 2.02, p. 81"
+      "sourceRef": "Section IV.B, Standard 2.05, p. 82"
     },
     {
       "id": "q26",
       "type": "single",
-      "stem": "A psychologist assigns an unlicensed assistant to administer and interpret a complex neuropsychological battery, having done nothing to determine whether the assistant can do so competently. Which standard does this most directly violate?",
+      "stem": "Dr. Petrides, whose training is in health psychology, has agreed to see a client presenting with a condition she has treated only twice. She has related training, no other provider is available locally, and she has arranged weekly consultation with an expert while completing a relevant course. This arrangement is best described as:",
       "choices": [
         {
           "id": "a",
-          "text": "Standard 2.01, Boundaries of Competence, governing the psychologist's own scope"
+          "text": "inconsistent with 2.01, since she may not treat a condition she has encountered only twice"
         },
         {
           "id": "b",
-          "text": "Standard 2.05, Delegation of Work to Others"
+          "text": "consistent with 2.01(d), given closely related training and reasonable effort to obtain competence"
         },
         {
           "id": "c",
-          "text": "Standard 2.03, Maintaining Competence, governing ongoing professional development"
+          "text": "governed by 2.02, which permits services whenever alternative providers are unavailable"
         },
         {
           "id": "d",
-          "text": "Standard 2.06, Personal Problems and Conflicts, governing impairment of the psychologist"
+          "text": "permissible only where the client consents in writing to treatment by an inexperienced provider"
         }
       ],
       "answer": [
         "b"
       ],
-      "explanation": "Standard 2.05 places the obligation on the delegating psychologist to authorize only responsibilities the person can competently perform and to see that they are performed competently. Failing to make that determination is the breach.",
+      "explanation": "2.01(d) permits the services where the psychologist has closely related training or experience and makes a reasonable effort to obtain the needed knowledge and skills. Consultation plus coursework is the paradigm of that reasonable effort.",
       "whyWrong": {
-        "a": "Standard 2.01 concerns the boundaries of the psychologist's own competence rather than that of someone they delegate to.",
-        "c": "Standard 2.03 concerns the psychologist's ongoing efforts to maintain their own competence.",
-        "d": "Standard 2.06 concerns personal problems interfering with the psychologist's own work."
+        "a": "This reads 2.01 as an absolute bar and ignores the provision written for exactly this situation.",
+        "c": "2.02 concerns emergencies; unavailability alone in a non-emergency falls under 2.01(d).",
+        "d": "The written consent described is not the condition 2.01(d) imposes."
       },
-      "topic": "Supervision and delegation",
-      "bloom": "apply",
-      "difficulty": 2,
-      "sourceRef": "§IV.B, Standard 2.05, p. 82"
+      "topic": "Special-situation provisions",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section IV.A, Standard 2.01(d), p. 81"
     },
     {
       "id": "q27",
       "type": "single",
-      "stem": "Standard 2.01(f) addresses psychologists assuming forensic roles. What does it require?",
+      "stem": "All of the following accurately describe Standard 2.02 EXCEPT:",
       "choices": [
         {
           "id": "a",
-          "text": "That they hold current board certification in the specialty of forensic psychology"
+          "text": "it applies in circumstances where alternative mental health services are not available to the recipients"
         },
         {
           "id": "b",
-          "text": "That they decline to offer any testimony concerning a client they have previously treated clinically"
+          "text": "it permits services to be provided without the training that would ordinarily be required"
         },
         {
           "id": "c",
-          "text": "That they are or become reasonably familiar with the judicial or administrative rules governing their roles"
+          "text": "it permits services to continue after the emergency where the client prefers to remain in treatment"
         },
         {
           "id": "d",
-          "text": "That they obtain written authorization from the presiding court before conducting any such evaluation"
+          "text": "it requires that services end once the emergency has ended or appropriate services become available"
         }
       ],
       "answer": [
         "c"
       ],
-      "explanation": "Competence in a forensic role includes knowing the procedural framework the role operates within, which is a form of knowledge distinct from clinical skill.",
+      "explanation": "2.02 requires discontinuation as soon as the emergency has ended or appropriate services are available. Client preference does not extend the authorization.",
       "whyWrong": {
-        "a": "Board certification is not required by the standard.",
-        "b": "The standard concerns familiarity with governing rules rather than prohibiting testimony about treated clients.",
-        "d": "Court authorization is a procedural matter not addressed by this provision."
+        "a": "This is accurate — unavailability of alternatives is a condition of the provision.",
+        "b": "This is accurate — the provision permits service without the appropriate training in an emergency.",
+        "d": "This is accurate — it states the discontinuation requirement precisely."
       },
-      "topic": "Boundaries of competence",
-      "bloom": "recall",
-      "difficulty": 3,
-      "sourceRef": "§IV.A, Standard 2.01(f), p. 81"
+      "topic": "Emergencies",
+      "level": "recall",
+      "stemType": "negative",
+      "difficulty": 2,
+      "sourceRef": "Section IV.A, Standard 2.02, p. 81"
     },
     {
       "id": "q28",
       "type": "single",
-      "stem": "Standard 2.04 requires that psychologists' work be based upon:",
+      "stem": "A licensed psychologist retiring from clinical work joins a technology company to design a mental-health application, an area with no established training standards for psychologists. His obligations are governed chiefly by:",
       "choices": [
         {
           "id": "a",
-          "text": "The consensus of practitioners in their local professional community"
+          "text": "Standard 2.02, since users of the software cannot access alternative providers directly"
         },
         {
           "id": "b",
-          "text": "The preferences expressed by the client during informed consent"
+          "text": "Standard 2.05, since the company's engineering team performs work that he has delegated"
         },
         {
           "id": "c",
-          "text": "Techniques covered by the psychologist's continuing education credits"
+          "text": "Standard 2.01(d), since no other qualified psychologist is available at the company"
         },
         {
           "id": "d",
-          "text": "Established scientific and professional knowledge of the discipline"
+          "text": "Standard 2.01(e), requiring reasonable steps to protect the welfare of those involved"
         }
       ],
       "answer": [
         "d"
       ],
-      "explanation": "The standard anchors practice to the discipline's established knowledge base, which is what makes departures into experimental techniques require the additional safeguards of 2.01(e) and 10.01(b).",
+      "explanation": "2.01(e) governs work in emerging areas for which generally recognized preparatory training standards do not yet exist, requiring reasonable steps to protect the welfare of clients, students, and others involved.",
       "whyWrong": {
-        "a": "Local consensus is not the benchmark the standard sets.",
-        "b": "Client preferences inform treatment planning but do not establish the scientific basis for practice.",
-        "c": "Continuing education supports competence but is not itself the standard's criterion."
+        "a": "2.02 addresses emergencies, which product design is not.",
+        "b": "Engineers are not performing psychological work delegated by him in the sense 2.05 contemplates.",
+        "c": "2.01(d) concerns requested services where no other provider is available to the recipient, not staffing at an employer."
       },
-      "topic": "Boundaries of competence",
-      "bloom": "understand",
-      "difficulty": 2,
-      "sourceRef": "§IV.A, Standard 2.04, p. 81"
+      "topic": "Special-situation provisions",
+      "level": "application",
+      "stemType": "recontextualized",
+      "difficulty": 3,
+      "sourceRef": "Section IV.A, Standard 2.01(e), p. 81"
     },
     {
       "id": "q29",
       "type": "single",
-      "stem": "A psychologist begins seeing clients from a cultural background she has never worked with, where understanding culture-specific factors is essential to effective service. Under Standard 2.01(b), what must she do?",
+      "stem": "Dr. Nasser, who has practised industrial-organizational psychology for fifteen years, wants to add clinical practice. He has completed a weekend workshop series on psychotherapy and proposes to begin seeing clients under monthly consultation. This plan is:",
       "choices": [
         {
           "id": "a",
-          "text": "Obtain or already have the training, experience, consultation, or supervision necessary, or make appropriate referrals"
+          "text": "inadequate, because a specialty change requires the subject-matter and skill requirements of doctoral training in it"
         },
         {
           "id": "b",
-          "text": "Proceed without restriction, since cultural factors are addressed by aspirational General Principle E rather than by an enforceable Standard"
+          "text": "adequate, because ongoing consultation supplies the supervised experience a specialty change demands"
         },
         {
           "id": "c",
-          "text": "Limit her work with these clients to assessment activities rather than providing any ongoing treatment"
+          "text": "adequate, because 2.01 permits expansion of practice so long as potential harm to clients is minimized"
         },
         {
           "id": "d",
-          "text": "Require the clients to consent in writing to being seen by a psychologist unfamiliar with their cultural background"
+          "text": "inadequate, because a psychologist may never add a new specialty after completing the doctorate"
         }
       ],
       "answer": [
         "a"
       ],
-      "explanation": "Standard 2.01(b) makes the necessary competence a condition of providing the service, with referral as the alternative when it cannot be obtained. Because it is an Ethical Standard rather than a General Principle, it is enforceable.",
+      "explanation": "Adding a specialty requires meeting the same subject-matter and professional-skill requirements that apply to doctoral education, training, and experience in the new specialty. A workshop series and monthly consultation fall far short.",
       "whyWrong": {
-        "b": "General Principle E is aspirational, but 2.01(b) is a mandatory standard covering exactly this situation.",
-        "c": "No such restriction to assessment appears in the standard.",
-        "d": "A written waiver is not what the standard requires; obtaining competence or referring is."
+        "b": "Consultation supplements training; it does not substitute for doctoral-level preparation in a new specialty.",
+        "c": "2.01 does permit expansion, but a change of specialty carries the heavier requirement described in the General Guidelines.",
+        "d": "A specialty may be added; the requirement is substantive preparation, not a prohibition."
       },
-      "topic": "Boundaries of competence",
-      "bloom": "apply",
-      "difficulty": 3,
-      "sourceRef": "§IV.A, Standard 2.01(b), p. 81"
+      "topic": "Changing specialties",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section IV.A, General Guidelines 1.7, pp. 81-82"
     },
     {
       "id": "q30",
       "type": "single",
-      "stem": "Which statement best captures the relationship between the ethical requirements of Standard 2.05 and the doctrine of vicarious liability?",
+      "stem": "A psychologist supervising three practicum students learns that one has begun conducting a specialized assessment she has not trained him to administer, at the request of a school principal who says no one else can do it. The supervisor's obligation is best analysed under:",
       "choices": [
         {
           "id": "a",
-          "text": "They amount to fundamentally the same underlying requirement, expressed once in the language of professional ethics and once again in the language of the civil law"
+          "text": "2.01(d), because the principal has represented that no other provider is available"
         },
         {
           "id": "b",
-          "text": "Standard 2.05 imposes ethical obligations regarding delegation, while vicarious liability is a separate legal doctrine assigning responsibility for supervisees' actions"
+          "text": "2.05, because she must ensure delegated work is performed competently by the student"
         },
         {
           "id": "c",
-          "text": "Vicarious liability attaches only in those cases where the psychologist has already been formally found to have violated Standard 2.05"
+          "text": "2.02, because the principal's urgency establishes the conditions of an emergency"
         },
         {
           "id": "d",
-          "text": "Standard 2.05 supersedes the doctrine of vicarious liability for psychologists who hold membership in the APA"
+          "text": "2.06, because the student's willingness to exceed his training reflects a personal problem"
         }
       ],
       "answer": [
         "b"
       ],
-      "explanation": "The text presents them as distinct systems that happen to bear on the same relationship: one governs what the psychologist must ethically do when delegating, the other governs when courts may hold them legally answerable.",
+      "explanation": "2.05 places the duty on the psychologist who delegates work to ensure that the person performing it can do so competently, and the Code leaves that judgment to her. The student's competence to administer this assessment is hers to determine.",
       "whyWrong": {
-        "a": "They are not equivalents; the legal doctrine turns on control and training disparity rather than on the Code's delegation requirements.",
-        "c": "Legal liability does not depend on a prior ethical finding.",
-        "d": "The Ethics Code does not displace legal doctrines, and the Introduction notes it is not intended as a basis of civil liability."
+        "a": "2.01(d) concerns the psychologist's own provision of services, not her supervision of a trainee.",
+        "c": "Administrative urgency is not the emergency 2.02 contemplates.",
+        "d": "2.06 concerns personal problems interfering with professional activity, which is not what is described."
       },
-      "topic": "Vicarious liability",
-      "bloom": "analyze",
+      "topic": "Supervisors and employers",
+      "level": "application",
+      "stemType": "vignette",
       "difficulty": 3,
-      "sourceRef": "§IV.B, Standard 2.05, p. 82"
+      "sourceRef": "Section IV.B, Standard 2.05, p. 82"
     }
   ]
 }
