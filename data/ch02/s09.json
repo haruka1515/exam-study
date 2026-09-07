@@ -1,0 +1,753 @@
+{
+  "id": "ch02-s09",
+  "chapter": 2,
+  "chapterTitle": "Ethics and Professional Issues",
+  "section": 9,
+  "sectionTitle": "Standard 7: Education and Training",
+  "profile": "application-primary",
+  "sourceFile": "Ethics.pdf",
+  "generatedAt": "2026-09-07",
+  "questionTarget": 20,
+  "questions": [
+    {
+      "id": "q01",
+      "type": "single",
+      "stem": "A college needs someone to teach physiological psychology and no qualified instructor is available. Dr. Marsh, who knows very little about the field, offers to teach it so the course can run. Under Standards 7.01 through 7.06, this is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "unacceptable, since the unavailability of others does not excuse teaching outside one's competence"
+        },
+        {
+          "id": "b",
+          "text": "acceptable, since Standard 2.01(d) permits services where no other qualified provider is available"
+        },
+        {
+          "id": "c",
+          "text": "acceptable, provided he tells students at the outset that the field is new to him"
+        },
+        {
+          "id": "d",
+          "text": "unacceptable only if a student later complains about the quality of the instruction"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standards 7.01 through 7.06 require psychologists to act competently when teaching and to take reasonable steps not to misrepresent their work. The section gives teaching a physiological psychology class one knows little about, offered because no one else was available, as an example of what these standards forbid.",
+      "whyWrong": {
+        "b": "2.01(d) concerns providing psychological services to a recipient with no alternative provider, not staffing a course.",
+        "c": "Disclosure does not create competence to teach the material.",
+        "d": "The violation lies in undertaking the teaching, not in whether a complaint follows."
+      },
+      "topic": "Competence in teaching and supervision",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section IX.A, Standards 7.01-7.06, p. 98"
+    },
+    {
+      "id": "q02",
+      "type": "single",
+      "stem": "Dr. Petrov has successfully treated two clients with agoraphobia. He begins advertising himself as an expert on the disorder. This is best described as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "acceptable, since he has genuine treatment experience with the disorder"
+        },
+        {
+          "id": "b",
+          "text": "a misrepresentation of his work, contrary to Standards 7.01 through 7.06"
+        },
+        {
+          "id": "c",
+          "text": "acceptable, provided his advertising does not name the two clients"
+        },
+        {
+          "id": "d",
+          "text": "a breach of Standard 5.05, which governs the solicitation of testimonials"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The standards require reasonable steps to avoid misrepresenting oneself or one's work. Claiming expertise on the basis of two successful cases is the section's own example of such a misrepresentation.",
+      "whyWrong": {
+        "a": "Some experience is not expertise, and the claim is what makes the conduct a misrepresentation.",
+        "c": "Client confidentiality is a separate matter and does not cure an inflated claim of expertise.",
+        "d": "5.05 concerns testimonials from clients, which is not what is described."
+      },
+      "topic": "Competence in teaching and supervision",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section IX.A, Standards 7.01-7.06, p. 98"
+    },
+    {
+      "id": "q03",
+      "type": "single",
+      "stem": "Standards 7.01 through 7.06 are best characterized as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "creating obligations that appear nowhere else in the Ethics Code"
+        },
+        {
+          "id": "b",
+          "text": "applying only to psychologists holding full-time academic appointments"
+        },
+        {
+          "id": "c",
+          "text": "restating earlier provisions in the context of education and supervision"
+        },
+        {
+          "id": "d",
+          "text": "supplanting the competence requirements of Standard 2.01 for teaching work"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The section notes these standards largely reiterate earlier provisions but place them within the context of education and supervision — teaching, supervising, and designing training programs.",
+      "whyWrong": {
+        "a": "The point is that they restate obligations found elsewhere rather than creating new ones.",
+        "b": "They reach supervision and program design, not only academic appointments.",
+        "d": "They apply the competence requirement in this context rather than replacing it."
+      },
+      "topic": "Competence in teaching and supervision",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section IX.A, p. 98"
+    },
+    {
+      "id": "q04",
+      "type": "single",
+      "stem": "Six weeks into a semester, Dr. Achebe realizes the assigned final project will not meet the course's learning objectives and wants to replace it. Under Standard 7.03 she may do so if:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "a majority of the enrolled students vote to accept the proposed change"
+        },
+        {
+          "id": "b",
+          "text": "the syllabus reserved a general right to alter requirements during the term"
+        },
+        {
+          "id": "c",
+          "text": "she cannot: Standard 7.03 requires that syllabi be followed exactly as published"
+        },
+        {
+          "id": "d",
+          "text": "the change is pedagogically warranted and students are told in time to comply"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 7.03 requires accurate syllabi but does not preclude modifying course requirements where the modification is pedagogically necessary or desirable and students are made aware in a timely manner that allows them to complete the new requirements.",
+      "whyWrong": {
+        "a": "A student vote is not the condition the standard sets.",
+        "b": "A reserved right does not satisfy the two conditions the standard actually imposes.",
+        "c": "This misreads the standard, which expressly permits pedagogically warranted modification."
+      },
+      "topic": "Syllabi and program requirements",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section IX.A, Standard 7.03, p. 98"
+    },
+    {
+      "id": "q05",
+      "type": "single",
+      "stem": "Standard 7.03 permits modification of course requirements where the change is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "pedagogically necessary or desirable"
+        },
+        {
+          "id": "b",
+          "text": "administratively convenient for the department"
+        },
+        {
+          "id": "c",
+          "text": "requested in writing by the students affected"
+        },
+        {
+          "id": "d",
+          "text": "approved in advance by the program's accrediting body"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The standard's phrase is that the modification be pedagogically necessary or desirable, with timely notice to students so they can complete the new requirements.",
+      "whyWrong": {
+        "b": "Administrative convenience is not a pedagogical justification.",
+        "c": "Student request is not the criterion the standard names.",
+        "d": "No accreditor pre-approval is required for a change of course requirements."
+      },
+      "topic": "Syllabi and program requirements",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 1,
+      "sourceRef": "Section IX.A, Standard 7.03, p. 98"
+    },
+    {
+      "id": "q06",
+      "type": "single",
+      "stem": "A graduate program requires students to discuss their own family histories in a required group experience. Under Standard 7.04, this requirement is permissible if:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "each student signs a waiver acknowledging the disclosure requirement at enrolment"
+        },
+        {
+          "id": "b",
+          "text": "it is clearly stated in admissions or other promotional materials"
+        },
+        {
+          "id": "c",
+          "text": "the faculty member leading the group is not involved in grading those students"
+        },
+        {
+          "id": "d",
+          "text": "the disclosures are kept confidential within the group and not recorded"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 7.04 prohibits requiring students or supervisees to disclose personal information unless the requirement is clearly stated in admissions or other promotional materials, or the information is needed to evaluate or assist a student whose personal problems interfere with training or pose a threat to others.",
+      "whyWrong": {
+        "a": "A waiver signed at enrolment comes too late; the point is that applicants know before applying.",
+        "c": "Separating the evaluative role is prudent but is not the exception the standard provides.",
+        "d": "Confidentiality within the group does not address whether the requirement may be imposed."
+      },
+      "topic": "Requiring personal disclosure",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section IX.A, Standard 7.04, p. 98"
+    },
+    {
+      "id": "q07",
+      "type": "single",
+      "stem": "A student has told several friends he intends to die by suicide and has been making bizarre comments in class. Knapp and VandeCreek (2003) indicate that a faculty member questioning him about his mental state would be:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "unacceptable, since 7.04 bars requiring students to disclose personal information"
+        },
+        {
+          "id": "b",
+          "text": "acceptable only where the program's materials warned of such questioning"
+        },
+        {
+          "id": "c",
+          "text": "acceptable, as necessary to evaluate or obtain assistance for him"
+        },
+        {
+          "id": "d",
+          "text": "unacceptable unless the student first consents to discussing his mental state"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 7.04's second exception covers information necessary to evaluate or obtain assistance for a student whose personal problems may be interfering with education or training, or posing a threat to others. The example given is a student showing signs of depression and suicidal ideation.",
+      "whyWrong": {
+        "a": "This states the rule while ignoring the exception that squarely applies.",
+        "b": "Advance notice in program materials is the *other* exception; either alone suffices.",
+        "d": "Requiring consent would defeat the purpose of an exception aimed at students in difficulty."
+      },
+      "topic": "Requiring personal disclosure",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section IX.A, Standard 7.04, p. 98"
+    },
+    {
+      "id": "q08",
+      "type": "single",
+      "stem": "Standard 7.04's second exception permits requiring personal information where it is necessary to evaluate or assist a student whose personal problems may be interfering with training, or:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "affecting the student's academic standing in the program"
+        },
+        {
+          "id": "b",
+          "text": "causing conflict with other members of the student's cohort"
+        },
+        {
+          "id": "c",
+          "text": "likely to delay the student's expected date of graduation"
+        },
+        {
+          "id": "d",
+          "text": "posing a threat to others"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The exception reaches personal problems that may be interfering with education or training, or that pose a threat to others. Both limbs are stated in the standard.",
+      "whyWrong": {
+        "a": "Academic standing is not the trigger; interference with training or threat to others is.",
+        "b": "Interpersonal conflict alone does not meet the threshold stated.",
+        "c": "Delayed graduation is not one of the two conditions."
+      },
+      "topic": "Requiring personal disclosure",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section IX.A, Standard 7.04, p. 98"
+    },
+    {
+      "id": "q09",
+      "type": "single",
+      "stem": "At the end of the training year Dr. Nakamura dismisses an intern for inadequate performance. The intern had never been told what level of performance was expected, nor warned that hers was problematic. Under Standard 7.06 the dismissal is problematic because evaluations must:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "rest on actual performance against relevant, established program requirements"
+        },
+        {
+          "id": "b",
+          "text": "be conducted by at least two supervisors acting independently of one another"
+        },
+        {
+          "id": "c",
+          "text": "be subject to an appeal process specified in the training agreement"
+        },
+        {
+          "id": "d",
+          "text": "be delayed until the intern has completed a full year of supervised work"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 7.06 requires timely and adequate feedback and evaluations based on actual performance on relevant and established program requirements. The section notes a psychologist would not suddenly dismiss an intern who had received neither a statement of expectations nor prior warning.",
+      "whyWrong": {
+        "b": "The standard does not require two independent evaluators.",
+        "c": "An appeal process is good practice but is not what 7.06 requires.",
+        "d": "Nothing requires a full year before evaluation; the problem is the absence of expectations and warning."
+      },
+      "topic": "Feedback and evaluation",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section IX.A, Standard 7.06, p. 98"
+    },
+    {
+      "id": "q10",
+      "type": "single",
+      "stem": "Standard 7.06 requires that psychologists provide students with feedback that is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "written and countersigned by the student"
+        },
+        {
+          "id": "b",
+          "text": "timely and adequate"
+        },
+        {
+          "id": "c",
+          "text": "delivered at the midpoint and end of each training period"
+        },
+        {
+          "id": "d",
+          "text": "reviewed by the program director before being given"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 7.06 requires psychologists to provide students with timely and adequate feedback about their performance, alongside evaluations grounded in actual performance against established requirements.",
+      "whyWrong": {
+        "a": "No countersignature requirement appears in the standard.",
+        "c": "The standard sets no fixed schedule of feedback points.",
+        "d": "Director review is not required by the standard."
+      },
+      "topic": "Feedback and evaluation",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 1,
+      "sourceRef": "Section IX.A, Standard 7.06, p. 98"
+    },
+    {
+      "id": "q11",
+      "type": "single",
+      "stem": "Dr. Ferreira is attracted to a doctoral student in her own department whom she does not currently teach, but who will take her required seminar next year. Under Standard 7.07, a sexual relationship with this student would be:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "permitted, since she holds no evaluative authority over him at present"
+        },
+        {
+          "id": "b",
+          "text": "permitted if she arranges for a colleague to grade him in the seminar"
+        },
+        {
+          "id": "c",
+          "text": "prohibited, since she is likely to have evaluative authority over him"
+        },
+        {
+          "id": "d",
+          "text": "prohibited only once he has actually enrolled in her seminar"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 7.07 reaches students and supervisees over whom psychologists have, or are likely to have, evaluative authority — and those in their department, agency, or training center. The anticipated authority brings this within the prohibition.",
+      "whyWrong": {
+        "a": "This ignores the standard's forward-looking phrase, which covers authority that is likely to arise.",
+        "b": "Delegating grading does not remove the student from her department or the anticipated authority.",
+        "d": "Waiting for enrolment misreads a prohibition framed to cover likely future authority."
+      },
+      "topic": "Sexual relationships with students",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section IX.B, Standard 7.07, p. 98"
+    },
+    {
+      "id": "q12",
+      "type": "single",
+      "stem": "Standard 7.07 prohibits sexual relationships with students and supervisees who are in the psychologist's department, agency, or training center, or:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "who have been enrolled in the psychologist's program within the past two years"
+        },
+        {
+          "id": "b",
+          "text": "who are receiving any form of financial support from the institution"
+        },
+        {
+          "id": "c",
+          "text": "whose research the psychologist has agreed to review or examine"
+        },
+        {
+          "id": "d",
+          "text": "over whom the psychologist has or is likely to have evaluative authority"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "The standard's second limb reaches anyone over whom psychologists have or are likely to have evaluative authority, which is what makes evaluative authority rather than the label of student the operative element.",
+      "whyWrong": {
+        "a": "No two-year look-back appears in the standard.",
+        "b": "Financial support from the institution is not the criterion.",
+        "c": "Examining research may create evaluative authority, but the standard states the broader test."
+      },
+      "topic": "Sexual relationships with students",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section IX.B, Standard 7.07, p. 98"
+    },
+    {
+      "id": "q13",
+      "type": "single",
+      "stem": "Regarding former students and supervisees, and students in other departments, the prohibition in Standard 7.07:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "may not apply, since it is framed around current status and evaluative authority"
+        },
+        {
+          "id": "b",
+          "text": "applies with the same force, since the power differential persists indefinitely"
+        },
+        {
+          "id": "c",
+          "text": "applies for a fixed period of two years after the training relationship ends"
+        },
+        {
+          "id": "d",
+          "text": "is replaced by Standard 10.08, which governs relationships with former clients"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The section notes the prohibition clearly applies to a psychologist's current students and supervisees but may not apply to former students and supervisees, or to students in other departments.",
+      "whyWrong": {
+        "b": "The standard is framed around current status and evaluative authority rather than a permanent bar.",
+        "c": "The two-year period belongs to Standard 10.08 on former therapy clients, not to 7.07.",
+        "d": "10.08 concerns former therapy clients, a different relationship entirely."
+      },
+      "topic": "Sexual relationships with students",
+      "level": "application",
+      "stemType": "short",
+      "difficulty": 3,
+      "sourceRef": "Section IX.B, Standard 7.07, p. 98"
+    },
+    {
+      "id": "q14",
+      "type": "single",
+      "stem": "A psychologist with limited experience treating drug addiction is invited to lead a professional workshop on the topic. Accepting would most directly conflict with the requirement that psychologists:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "identify paid advertisements as such under Standard 5.02"
+        },
+        {
+          "id": "b",
+          "text": "take reasonable steps not to misrepresent their work when teaching"
+        },
+        {
+          "id": "c",
+          "text": "avoid multiple relationships with workshop participants"
+        },
+        {
+          "id": "d",
+          "text": "obtain informed consent from participants before instruction begins"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standards 7.01 through 7.06 require reasonable steps to ensure psychologists do not misrepresent themselves or their work when teaching, supervising, or designing programs. Leading a workshop on a problem one has limited experience with is the section's example.",
+      "whyWrong": {
+        "a": "5.02 concerns advertising identification, not competence to teach.",
+        "c": "No multiple relationship is described.",
+        "d": "Informed consent governs services to clients and research participants rather than workshop attendance."
+      },
+      "topic": "Competence in teaching and supervision",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section IX.A, Standards 7.01-7.06, p. 98"
+    },
+    {
+      "id": "q15",
+      "type": "single",
+      "stem": "All of the following are accurate statements about Standard 7.04 EXCEPT:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "it generally prohibits requiring personal disclosure in a course or program"
+        },
+        {
+          "id": "b",
+          "text": "an exception applies where the requirement appears in admissions materials"
+        },
+        {
+          "id": "c",
+          "text": "it bars any inquiry into a student's circumstances without written consent"
+        },
+        {
+          "id": "d",
+          "text": "an exception applies where a student's problems may threaten others"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 7.04 restricts requiring disclosure in a course or program and supplies two exceptions. It does not impose a blanket written-consent requirement on any inquiry into a student's circumstances.",
+      "whyWrong": {
+        "a": "This is accurate — it states the general rule.",
+        "b": "This is accurate — it is the first exception.",
+        "d": "This is accurate — it is part of the second exception."
+      },
+      "topic": "Requiring personal disclosure",
+      "level": "recall",
+      "stemType": "negative",
+      "difficulty": 2,
+      "sourceRef": "Section IX.A, Standard 7.04, p. 98"
+    },
+    {
+      "id": "q16",
+      "type": "single",
+      "stem": "A supervisor gives an intern no substantive feedback all year, then rates her as deficient in the final evaluation on criteria never previously mentioned. The clearest problem is that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the evaluation should have been conducted by the training director"
+        },
+        {
+          "id": "b",
+          "text": "the intern was not given the chance to evaluate her supervisor in turn"
+        },
+        {
+          "id": "c",
+          "text": "the supervisor failed to document the supervision sessions adequately"
+        },
+        {
+          "id": "d",
+          "text": "feedback was neither timely nor tied to established requirements"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 7.06 requires timely and adequate feedback and evaluations based on actual performance against relevant, established program requirements. Both elements fail where criteria are introduced only at the end.",
+      "whyWrong": {
+        "a": "Who conducts the evaluation is not what 7.06 addresses.",
+        "b": "Reciprocal evaluation is not a requirement of the standard.",
+        "c": "Documentation is a record-keeping matter under Standard 6."
+      },
+      "topic": "Feedback and evaluation",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section IX.A, Standard 7.06, p. 98"
+    },
+    {
+      "id": "q17",
+      "type": "single",
+      "stem": "A program's brochure states that all applicants must be prepared to discuss personal material in a required experiential course. A student objects after enrolling. Under Standard 7.04, the requirement is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "permissible: it was clearly stated in the program's promotional materials"
+        },
+        {
+          "id": "b",
+          "text": "impermissible, since students cannot waive the protection 7.04 provides"
+        },
+        {
+          "id": "c",
+          "text": "permissible only if the student's disclosures are excluded from grading"
+        },
+        {
+          "id": "d",
+          "text": "impermissible unless the student's personal problems threaten others"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The first exception in 7.04 applies where the disclosure requirement is clearly stated in admissions or other promotional materials, so applicants know of it before applying.",
+      "whyWrong": {
+        "b": "The standard supplies exceptions rather than an unwaivable protection.",
+        "c": "Excluding disclosures from grading is not the condition the exception sets.",
+        "d": "The threat-to-others limb is the second exception; the first suffices on these facts."
+      },
+      "topic": "Requiring personal disclosure",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section IX.A, Standard 7.04, p. 98"
+    },
+    {
+      "id": "q18",
+      "type": "single",
+      "stem": "Dr. Oyelaran supervises an intern at a community agency and begins a consensual sexual relationship with her. The relationship is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "permitted, since the relationship is fully consensual on both sides"
+        },
+        {
+          "id": "b",
+          "text": "prohibited, since she is a supervisee in his agency"
+        },
+        {
+          "id": "c",
+          "text": "permitted if he transfers her supervision to another psychologist first"
+        },
+        {
+          "id": "d",
+          "text": "prohibited only where the agency's own policy forbids such relationships"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 7.07 explicitly prohibits sexual relationships with students or supervisees who are in the psychologist's department, agency, or training center, or over whom the psychologist has or is likely to have evaluative authority.",
+      "whyWrong": {
+        "a": "Consent does not remove the prohibition, which exists because of the power differential.",
+        "c": "She remains in his agency, which the standard covers independently of who supervises her.",
+        "d": "The Ethics Code applies whatever the agency's internal policy says."
+      },
+      "topic": "Sexual relationships with students",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 1,
+      "sourceRef": "Section IX.B, Standard 7.07, p. 98"
+    },
+    {
+      "id": "q19",
+      "type": "single",
+      "stem": "Considering Standards 7.04 and 7.06 together, a training program that requires personal disclosure and then uses what students reveal to evaluate them should at minimum:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "obtain a signed waiver of confidentiality from every enrolled student"
+        },
+        {
+          "id": "b",
+          "text": "arrange for an external examiner to conduct all student evaluations"
+        },
+        {
+          "id": "c",
+          "text": "state the requirement in program materials and evaluate on set criteria"
+        },
+        {
+          "id": "d",
+          "text": "limit the disclosures to material the student volunteers spontaneously"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "7.04 permits requiring disclosure where the requirement is clearly stated in admissions or promotional materials, and 7.06 requires evaluations to rest on actual performance against relevant, established program requirements. Both conditions bear on this arrangement.",
+      "whyWrong": {
+        "a": "A waiver is not the mechanism either standard specifies.",
+        "b": "External examination is not required by either provision.",
+        "d": "Confining disclosure to volunteered material would leave the requirement itself unaddressed."
+      },
+      "topic": "Feedback and evaluation",
+      "level": "application",
+      "stemType": "blended",
+      "difficulty": 3,
+      "sourceRef": "Section IX.A, Standards 7.04 and 7.06, p. 98"
+    },
+    {
+      "id": "q20",
+      "type": "single",
+      "stem": "A department chair asks whether Standard 7.07 would reach a relationship between a faculty member and a student in an entirely separate department whom the faculty member will never teach or evaluate. The best answer is that the prohibition:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "applies, since any faculty-student relationship carries a power differential"
+        },
+        {
+          "id": "b",
+          "text": "applies, since the two are employed by the same institution"
+        },
+        {
+          "id": "c",
+          "text": "does not apply, and no other provision of the Code is relevant"
+        },
+        {
+          "id": "d",
+          "text": "may not apply, though the multiple-relationship standards may still bear on it"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "7.07 is framed around the psychologist's own department, agency, or training center and around evaluative authority held or likely to be held, so it may not reach students in other departments. Standard 3.05 on multiple relationships can still be relevant.",
+      "whyWrong": {
+        "a": "The standard is not framed around any faculty-student pairing but around department and evaluative authority.",
+        "b": "Shared employment is not the test the standard applies.",
+        "c": "This is right about 7.07 but wrong to conclude no other provision could bear on the situation."
+      },
+      "topic": "Sexual relationships with students",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section IX.B, Standard 7.07, p. 98"
+    }
+  ]
+}
