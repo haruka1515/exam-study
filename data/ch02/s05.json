@@ -1,0 +1,753 @@
+{
+  "id": "ch02-s05",
+  "chapter": 2,
+  "chapterTitle": "Ethics and Professional Issues",
+  "section": 5,
+  "sectionTitle": "Standard 3: Human Relations",
+  "profile": "application-primary",
+  "sourceFile": "Ethics.pdf",
+  "generatedAt": "2026-09-07",
+  "questionTarget": 20,
+  "questions": [
+    {
+      "id": "q01",
+      "type": "single",
+      "stem": "Dr. Vance finds that a particular client consistently provokes anger and frustration in her, to the point that she doubts she can work with him effectively. Drawing on Standards 3.01 and 3.03 and the discussion of them, she may:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "refer him to another practitioner, since the prohibition on discrimination does not require treating every person who seeks services"
+        },
+        {
+          "id": "b",
+          "text": "not refer him, since declining to treat a client who has sought out her services amounts to unfair discrimination under 3.01"
+        },
+        {
+          "id": "c",
+          "text": "refer him only where she can first document that his presentation falls outside her own area of demonstrated clinical competence"
+        },
+        {
+          "id": "d",
+          "text": "not refer him at all unless he first consents in writing to being transferred to some different practitioner"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The prohibition on unfair discrimination and harassment does not preclude refusing to serve individuals a psychologist does not feel competent to serve, or \"difficult\" individuals. Koocher and Keith-Spiegel note it is more appropriate to refer someone who stirs up troubling feelings or anger in the therapist than to treat them.",
+      "whyWrong": {
+        "b": "Unfair discrimination concerns protected characteristics such as age, gender, race, and sexual orientation — not a clinical judgment about workability.",
+        "c": "Competence is one legitimate ground for referral, but the discussion expressly extends this to \"difficult\" clients as well.",
+        "d": "No such consent requirement attaches to a referral decision."
+      },
+      "topic": "Discrimination and harassment",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section V.A, Standards 3.01 and 3.03, p. 83"
+    },
+    {
+      "id": "q02",
+      "type": "single",
+      "stem": "A supervisor makes a single, severe sexual remark to a supervisee. The supervisee argues it constitutes sexual harassment; the supervisor responds that one incident cannot qualify. Under Standard 3.02:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the supervisor is correct, since the standard requires persistent or pervasive conduct to establish a hostile environment"
+        },
+        {
+          "id": "b",
+          "text": "harassment may consist of a single intense or severe act, so the supervisor's defense fails"
+        },
+        {
+          "id": "c",
+          "text": "the question turns on whether the supervisee suffered a demonstrable effect on her training evaluation"
+        },
+        {
+          "id": "d",
+          "text": "a single act qualifies only where the supervisor holds direct evaluative authority over the supervisee"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Standard 3.02 states that sexual harassment may consist of a single intense or severe act, or of multiple persistent or pervasive acts. The number of incidents is not what settles the question.",
+      "whyWrong": {
+        "a": "This states half the standard as if it were the whole of it; the single-act branch is explicit.",
+        "c": "A tangible effect on employment is the hallmark of quid pro quo harassment, not a general precondition.",
+        "d": "Evaluative authority matters elsewhere in the Code, but it does not gate the single-act branch of 3.02."
+      },
+      "topic": "Sexual harassment",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section V.B, Standard 3.02, p. 83"
+    },
+    {
+      "id": "q03",
+      "type": "single",
+      "stem": "A department head tells a junior colleague that a favourable recommendation for promotion depends on her agreeing to a weekend away with him. This is best characterized as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "hostile environment harassment"
+        },
+        {
+          "id": "b",
+          "text": "an exploitative relationship under Standard 3.08 rather than harassment"
+        },
+        {
+          "id": "c",
+          "text": "quid pro quo harassment"
+        },
+        {
+          "id": "d",
+          "text": "a multiple relationship under Standard 3.05"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Quid pro quo — \"this for that\" — refers to an explicit or implicit requirement to trade sexual favors for a promotion, raise, or other tangible job benefit. That is precisely what is described.",
+      "whyWrong": {
+        "a": "A hostile environment involves sexually offensive behavior making it difficult to do the job — gestures, jokes, remarks, pictures — rather than a trade for a tangible benefit.",
+        "b": "The conduct is exploitative, but the section names this specific pattern quid pro quo harassment.",
+        "d": "A multiple relationship involves occupying two roles simultaneously, which is not what the demand itself constitutes."
+      },
+      "topic": "Sexual harassment",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 1,
+      "sourceRef": "Section V.B, Standard 3.02, p. 83"
+    },
+    {
+      "id": "q04",
+      "type": "single",
+      "stem": "An employee asks her supervisor to stop remarking on her physical appearance. He continues. According to the discussion of Standard 3.02, the significance of her request is that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "it converts what would otherwise have been quid pro quo harassment into hostile environment harassment instead"
+        },
+        {
+          "id": "b",
+          "text": "it establishes the kind of tangible job detriment that a finding of harassment would ordinarily require"
+        },
+        {
+          "id": "c",
+          "text": "it has no bearing at all, since whether conduct amounts to harassment is judged solely by an objective standard"
+        },
+        {
+          "id": "d",
+          "text": "she has defined the behavior as offensive, and his continuing may make him vulnerable to a harassment charge"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Where a behavior is ambiguous, the individual's response can help establish unreasonableness. By asking him to stop, she has defined the behavior as offensive; his failure to stop is what exposes him to a charge.",
+      "whyWrong": {
+        "a": "Her request does not reclassify the conduct; no trade for a job benefit is involved either way.",
+        "b": "A tangible job detriment is the hallmark of quid pro quo, and the section does not make it a general requirement.",
+        "c": "The reasonable-person standard is central, but the section says explicitly that in uncertain situations the individual's response may help establish unreasonableness."
+      },
+      "topic": "Sexual harassment",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section V.B, Standard 3.02, p. 83"
+    },
+    {
+      "id": "q05",
+      "type": "single",
+      "stem": "A psychologist practising in a small rural town regularly encounters clients at the local health club and at school events, and uses the town's only plumber, who is a former client. Under Standard 3.05(a), these circumstances:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "are not ethical violations so long as they are unlikely to be harmful or exploitative"
+        },
+        {
+          "id": "b",
+          "text": "are violations, since the standard prohibits any relationship with a person outside the professional role"
+        },
+        {
+          "id": "c",
+          "text": "are permissible only where the psychologist has documented the absence of alternatives in each case"
+        },
+        {
+          "id": "d",
+          "text": "require the psychologist to terminate treatment with any client encountered outside the office"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Standard 3.05(a) states that multiple relationships not reasonably expected to cause impairment or risk exploitation or harm are not unethical. The prohibition is not absolute, and the small-town situation is the section's own illustration.",
+      "whyWrong": {
+        "b": "This treats the prohibition as absolute, which the standard expressly denies.",
+        "c": "Documenting alternatives is not the test; the test is whether impairment or harm is reasonably expected.",
+        "d": "Termination on a chance encounter would be a disproportionate response the standard nowhere requires."
+      },
+      "topic": "Multiple relationships",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section V.C, Standard 3.05(a), p. 84"
+    },
+    {
+      "id": "q06",
+      "type": "single",
+      "stem": "Knapp and VandeCreek (2003) recommend that therapists adopt a \"you first\" policy. This means that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the client's interests are to be considered before the therapist's own whenever a conflict of interest arises"
+        },
+        {
+          "id": "b",
+          "text": "the client decides whether to acknowledge the therapist during a chance encounter outside the office"
+        },
+        {
+          "id": "c",
+          "text": "the client selects which of the two available roles the psychologist will occupy where both are possible"
+        },
+        {
+          "id": "d",
+          "text": "the client is offered the first available appointment following any interruption in the delivery of services"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The \"you first\" policy addresses chance encounters with clients: it leaves it to the client to decide whether they will acknowledge the therapist outside the therapy office, so the therapist does not disclose the relationship by greeting them.",
+      "whyWrong": {
+        "a": "Prioritizing client welfare is a genuine principle, but it is not what this named policy refers to.",
+        "c": "Role selection in multiple-role situations is governed by 3.05, not by this policy.",
+        "d": "Continuity of services after an interruption is addressed by Standard 3.12."
+      },
+      "topic": "Multiple relationships",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section V.C, Standard 3.05(a), p. 84"
+    },
+    {
+      "id": "q07",
+      "type": "single",
+      "stem": "Dr. Ellery is treating a client and is offered a share in a business venture by that client's brother. Under Standard 3.05(a), this proposal:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "falls outside the definition altogether, since the brother is not himself a client of the psychologist"
+        },
+        {
+          "id": "b",
+          "text": "falls outside the scope of the definition until such time as the business relationship actually begins"
+        },
+        {
+          "id": "c",
+          "text": "falls within the definition, which reaches relationships with a person closely associated with the client"
+        },
+        {
+          "id": "d",
+          "text": "falls within the definition only in the event that the client is made aware of the proposed venture"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "A multiple relationship arises where the psychologist is in a professional role with a person and simultaneously in another relationship with that person or with someone closely associated with or related to them. Going into business with the sibling of a current client is the section's own example.",
+      "whyWrong": {
+        "a": "The definition reaches relationships with individuals closely associated with the client, precisely so this case is covered.",
+        "b": "Even promising to enter such a relationship in the future falls within the definition.",
+        "d": "The client's awareness is not what brings the relationship within the definition."
+      },
+      "topic": "Multiple relationships",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section V.C, Standard 3.05(a), p. 84"
+    },
+    {
+      "id": "q08",
+      "type": "single",
+      "stem": "Midway through treatment, Dr. Adeyemi discovers that a new client is the sister-in-law of his business partner — a connection neither party anticipated. Standard 3.05(b) directs him to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "terminate the professional relationship with her immediately, since the multiple relationship now exists in fact"
+        },
+        {
+          "id": "b",
+          "text": "continue on without any change, since the relationship arose from factors that he could not possibly have foreseen"
+        },
+        {
+          "id": "c",
+          "text": "disclose the existence of the connection to his business partner so that the conflict may be managed jointly"
+        },
+        {
+          "id": "d",
+          "text": "take reasonable steps to resolve it with due regard for the affected person's best interests"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 3.05(b) addresses multiple relationships that arise due to unforeseen factors, requiring reasonable steps to resolve the situation with due regard for the best interests of the affected person and maximal compliance with the Ethics Code.",
+      "whyWrong": {
+        "a": "Immediate termination is not what the standard directs, and it may not serve the client's best interests.",
+        "b": "Unforeseeability is what triggers 3.05(b); it does not excuse inaction.",
+        "c": "Disclosing the client's identity to a third party would breach confidentiality."
+      },
+      "topic": "Multiple relationships",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section V.C, Standard 3.05(b), p. 84"
+    },
+    {
+      "id": "q09",
+      "type": "single",
+      "stem": "A psychologist is asked to serve as an expert witness for the court and simultaneously as an advocate for the defendant. According to Fisher and Younggren (1997), this arrangement is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "unacceptable, because of the likely conflict between the legal system's goals and the defendant's needs"
+        },
+        {
+          "id": "b",
+          "text": "acceptable, provided that the psychologist clarifies all role expectations at the outset as 3.05(c) directs"
+        },
+        {
+          "id": "c",
+          "text": "acceptable, provided that both the court and the defendant consent to the dual role in writing beforehand"
+        },
+        {
+          "id": "d",
+          "text": "unacceptable, because Standard 3.05 flatly prohibits occupying two distinct roles in any legal proceeding"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The section identifies this pairing as clearly inadvisable: there is likely to be a conflict between the goals of the legal system and the needs of the defendant, so the two roles cannot both be discharged properly.",
+      "whyWrong": {
+        "b": "Clarifying roles under 3.05(c) is required when multiple roles are accepted, but it cannot cure a combination that is itself untenable.",
+        "c": "Consent does not dissolve the structural conflict between the two roles.",
+        "d": "3.05(c) contemplates that multiple roles in legal proceedings are sometimes acceptable, so the prohibition is not general."
+      },
+      "topic": "Forensic multiple roles",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section V.C, Standard 3.05(c), p. 84"
+    },
+    {
+      "id": "q10",
+      "type": "single",
+      "stem": "A psychologist previously provided therapy to a child and her family. A child protection matter is now before the court. Under the Guidelines for Psychological Evaluations in Child Protection Matters (APA, 2011), she should ordinarily avoid conducting the evaluation, but is not precluded from:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "conducting the evaluation herself where no other qualified evaluator happens to be available in the jurisdiction"
+        },
+        {
+          "id": "b",
+          "text": "testifying as a fact or expert witness concerning the therapeutic treatment of the children, parents, or families"
+        },
+        {
+          "id": "c",
+          "text": "conducting the evaluation herself provided that she discloses the prior treating relationship to the court"
+        },
+        {
+          "id": "d",
+          "text": "recommending a particular custody arrangement based upon what she learned during the course of treatment"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The Guidelines state that while psychologists should ordinarily avoid conducting evaluations in child protection cases where they previously served as therapist to the child or immediate family, this does not preclude testifying as fact or expert witnesses concerning that therapeutic treatment.",
+      "whyWrong": {
+        "a": "Unavailability of alternatives is the 2.01(d) competence provision, not the carve-out these Guidelines supply.",
+        "c": "Disclosure does not convert the disfavoured evaluation role into an acceptable one.",
+        "d": "Offering a custody recommendation is the evaluative role the Guidelines direct her to avoid."
+      },
+      "topic": "Forensic multiple roles",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section V.C, Standard 3.05(c), p. 84"
+    },
+    {
+      "id": "q11",
+      "type": "single",
+      "stem": "Gottlieb (1993) proposes three factors for judging whether a multiple relationship is acceptable. They are:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "power differential, the client's diagnosis, and the availability of alternative providers"
+        },
+        {
+          "id": "b",
+          "text": "duration of the relationship, the psychologist's theoretical orientation, and informed consent"
+        },
+        {
+          "id": "c",
+          "text": "power differential, duration of the relationship, and clarity of termination"
+        },
+        {
+          "id": "d",
+          "text": "clarity of termination, the setting of the practice, and the presence of a written agreement"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Gottlieb's three factors are the power differential between the parties, the duration of each relationship, and the clarity of termination — how likely the individual is to want professional services again.",
+      "whyWrong": {
+        "a": "Diagnosis and provider availability bear on other provisions, such as barter under 6.05 and competence under 2.01(d).",
+        "b": "Theoretical orientation is a consideration for barter, not one of Gottlieb's factors.",
+        "d": "Practice setting and written agreements are not among the three factors."
+      },
+      "topic": "Gottlieb's three factors",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section V.C, Gottlieb (1993), p. 84"
+    },
+    {
+      "id": "q12",
+      "type": "single",
+      "stem": "Applying Gottlieb's factors, a psychologist considers befriending the parents of a child she once helped through a painful medical procedure that will not be repeated. The example is offered as one likely to be acceptable because:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the parents rather than the child were the actual recipients of her professional services throughout"
+        },
+        {
+          "id": "b",
+          "text": "a friendship is not itself a professional relationship and so falls outside the scope of Standard 3.05 entirely"
+        },
+        {
+          "id": "c",
+          "text": "sufficient time has now passed since the professional relationship ended for it to be disregarded entirely"
+        },
+        {
+          "id": "d",
+          "text": "her power was great but brief and bounded, termination was clear, and the new relationship carries little power differential"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "All three factors point the same way in this example: the psychologist held great power but only for a brief and clearly defined period, the professional relationship's termination was unambiguous, and the new relationship involves little or no power differential.",
+      "whyWrong": {
+        "a": "The parents were closely associated with the client, so the definition in 3.05(a) still reaches the relationship.",
+        "b": "A multiple relationship arises precisely when a non-professional relationship is added to a professional one.",
+        "c": "The elapsed time is not what the analysis turns on; clarity of termination is a distinct factor from duration."
+      },
+      "topic": "Gottlieb's three factors",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section V.C, Gottlieb (1993), pp. 84-85"
+    },
+    {
+      "id": "q13",
+      "type": "single",
+      "stem": "An employer hires Dr. Sandoval to evaluate staff for promotability. Under Standard 3.07, his obligations include telling the employer that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "he will provide only information about employees that is relevant to the purpose of the evaluation"
+        },
+        {
+          "id": "b",
+          "text": "no information about any individual employee may be released without that employee's own written consent"
+        },
+        {
+          "id": "c",
+          "text": "the employees rather than the company itself are to be regarded as his clients throughout the process"
+        },
+        {
+          "id": "d",
+          "text": "he will provide the complete evaluation record so that the company is able to make a fully informed decision"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "In the section's own example, the psychologist must inform each employee of the purpose and implications of the evaluation and what will be shared, and must let the employer know of his obligation to provide only information relevant to the evaluation's purpose.",
+      "whyWrong": {
+        "b": "This overstates the position: the evaluation is conducted for the employer, and relevant information is to be provided.",
+        "c": "Identifying the client is exactly the difficulty 3.07 addresses, and the section says there is no simple answer to it.",
+        "d": "Providing the complete record contradicts the relevance limit the standard imposes."
+      },
+      "topic": "Third-party requests",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section V.D, Standard 3.07, p. 85"
+    },
+    {
+      "id": "q14",
+      "type": "single",
+      "stem": "According to the discussion of Standard 3.07, the recurring difficulty in third-party requests for services is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "determining which party is responsible for payment of the psychologist's fee"
+        },
+        {
+          "id": "b",
+          "text": "defining who the client is, a question to which there is no simple answer"
+        },
+        {
+          "id": "c",
+          "text": "establishing whether the psychologist is competent to serve in the requested role"
+        },
+        {
+          "id": "d",
+          "text": "deciding whether the arrangement constitutes a prohibited multiple relationship"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The section identifies \"who is the client?\" as the problem common to court-ordered evaluations, employer-requested services, and seeing a minor at a parent's request. There is no simple answer, so the psychologist's recourse is to clarify the issues with all parties — most importantly the limits on confidentiality.",
+      "whyWrong": {
+        "a": "Fee responsibility is a real practical matter but is governed by Standard 6.04.",
+        "c": "Competence is addressed by Standard 2.01 and is not what makes third-party arrangements distinctively difficult.",
+        "d": "Multiple relationships are governed by 3.05; 3.07 concerns clarifying roles where a third party requests the service."
+      },
+      "topic": "Third-party requests",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section V.D, Standard 3.07, p. 85"
+    },
+    {
+      "id": "q15",
+      "type": "single",
+      "stem": "Legally, three conditions must be met for a consent to be truly informed. They are:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "capacity, documentation, and voluntariness"
+        },
+        {
+          "id": "b",
+          "text": "comprehension, documentation, and the absence of a third-party payor"
+        },
+        {
+          "id": "c",
+          "text": "capacity, comprehension, and voluntariness"
+        },
+        {
+          "id": "d",
+          "text": "capacity, comprehension, and the client's written signature"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The three legal conditions are capacity (able to make rational decisions), comprehension (given adequate information and understanding it well enough to decide), and voluntariness (consent given freely, without coercion).",
+      "whyWrong": {
+        "a": "Documentation is a requirement of Standard 3.10(d), but it is not one of the three conditions that make a consent informed.",
+        "b": "Third-party involvement is a disclosure item under 10.01(a), not a condition of valid consent.",
+        "d": "A signature is one permitted form of documentation, not a legal condition of informed consent."
+      },
+      "topic": "Informed consent and assent",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 1,
+      "sourceRef": "Section V.E, p. 85"
+    },
+    {
+      "id": "q16",
+      "type": "single",
+      "stem": "A psychologist's client belongs to a cultural group that regards verbal agreement as sufficient and finds signed forms offensive. Under Standard 3.10(d), the psychologist may:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "dispense with the documentation entirely, since the standard defers to the client's own cultural preferences here"
+        },
+        {
+          "id": "b",
+          "text": "proceed on the basis of verbal agreement alone, provided that a colleague witnesses the whole conversation"
+        },
+        {
+          "id": "c",
+          "text": "require the signed written form regardless, since 3.10(d) admits of no alternative method of documentation"
+        },
+        {
+          "id": "d",
+          "text": "document it in another permitted form, such as a note in the record, unless law requires a signature"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 3.10(d) requires consents to be \"documented,\" which permits several forms: a signed written form, an audio or video recording, or a note in the client's record. Alternative methods may be preferred for some cultural groups (Gostin, 1995), though a signed consent may still be required by law or institutional regulation.",
+      "whyWrong": {
+        "a": "Documentation itself is required; only its form is flexible.",
+        "b": "A witness is not one of the documentation methods the standard contemplates.",
+        "c": "This ignores the range of forms \"documented\" expressly allows."
+      },
+      "topic": "Informed consent and assent",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section V.E, Standard 3.10(d), p. 86"
+    },
+    {
+      "id": "q17",
+      "type": "single",
+      "stem": "Dr. Iqbal is treating an adult client who has not been declared legally incompetent, but whose capacity to make decisions about treatment she genuinely doubts. She should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "proceed with caution, and consider consultation or shared decision-making with the client's family or caregivers"
+        },
+        {
+          "id": "b",
+          "text": "obtain permission from a close family member, since her doubt establishes that this client cannot validly consent"
+        },
+        {
+          "id": "c",
+          "text": "seek the client's assent rather than his consent, following the same procedure prescribed for minors"
+        },
+        {
+          "id": "d",
+          "text": "suspend the treatment entirely until a court has formally determined the question of the client's competence"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Under state and provincial law adults are considered competent to give informed consent unless legally determined otherwise. Where an adult has not been declared incompetent but the psychologist is uncertain, the recommendation is to proceed with caution and consider consultation or a shared decision-making process with parents or caregivers (Fisher, 2003; Knapp & VandeCreek, 2003).",
+      "whyWrong": {
+        "b": "This treats the psychologist's doubt as if it were a legal determination, which is exactly the trap the presumption of competence guards against.",
+        "c": "Assent plus substitute permission is the procedure for those not legally capable of consent; this client is presumed capable.",
+        "d": "Suspending treatment pending a court determination is not what the sources recommend and could itself harm the client."
+      },
+      "topic": "Informed consent and assent",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section V.E, Standard 3.10(b), p. 86"
+    },
+    {
+      "id": "q18",
+      "type": "single",
+      "stem": "Standard 3.10(b) applies where an individual is a minor or otherwise not legally capable of giving consent. It requires that the psychologist:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "obtain permission from a legally authorized person, whose consent substitutes for the individual's involvement"
+        },
+        {
+          "id": "b",
+          "text": "provide an explanation, seek the individual's assent, and obtain permission from a legally authorized person"
+        },
+        {
+          "id": "c",
+          "text": "seek the individual's assent, which where given operates as a legally sufficient consent"
+        },
+        {
+          "id": "d",
+          "text": "provide an explanation and document the individual's understanding of it in the record"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The provision sets out three steps together: an appropriate explanation, seeking the individual's assent (agreement), and obtaining permission from a legally authorized person.",
+      "whyWrong": {
+        "a": "Substitute permission is required, but it does not displace explaining the service and seeking assent.",
+        "c": "Assent is agreement, not legally sufficient consent, which is why substitute permission is also required.",
+        "d": "An explanation alone omits both the assent and the substitute permission the standard requires."
+      },
+      "topic": "Informed consent and assent",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section V.E, Standard 3.10(b), p. 86"
+    },
+    {
+      "id": "q19",
+      "type": "single",
+      "stem": "Dr. Brennan is about to begin an emerging treatment whose evidence base is still developing. Standard 10.01(b) requires that she inform the client of all of the following EXCEPT:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the developing nature of the particular treatment that she is proposing to use"
+        },
+        {
+          "id": "b",
+          "text": "alternative treatments that may be available to the client in place of this one"
+        },
+        {
+          "id": "c",
+          "text": "the identity of the researchers whose work the emerging treatment is based upon"
+        },
+        {
+          "id": "d",
+          "text": "the entirely voluntary nature of the client's participation in the proposed treatment"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Standard 10.01(b) requires informing clients of the developing nature of the treatment, the potential risks involved, alternative treatments that may be available, and the voluntary nature of their participation. The provenance of the research is not among these.",
+      "whyWrong": {
+        "a": "This is required — it is the first item the provision lists.",
+        "b": "This is required, so the client can weigh established options against the emerging one.",
+        "d": "This is required, since participation in a developing treatment must be voluntary."
+      },
+      "topic": "Informed consent and assent",
+      "level": "application",
+      "stemType": "negative",
+      "difficulty": 2,
+      "sourceRef": "Section V.E, Standard 10.01(b), p. 85"
+    },
+    {
+      "id": "q20",
+      "type": "single",
+      "stem": "A psychologist obtains a signed consent form at the first session and considers the requirement discharged. Regarding the timing of informed consent, the section indicates that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "a single consent at the outset satisfies the requirement, since 10.01 fixes the obligation at that point"
+        },
+        {
+          "id": "b",
+          "text": "consent must be formally renewed in writing at fixed intervals throughout treatment"
+        },
+        {
+          "id": "c",
+          "text": "consent need only be revisited where the client's diagnosis changes during treatment"
+        },
+        {
+          "id": "d",
+          "text": "many experts view consent as an ongoing process warranting further discussion as needed"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Standard 10.01 requires consent to therapy as early as is feasible in the therapeutic relationship, but many experts view consent as an ongoing process and recommend that additional discussions about the nature of the treatment take place as needed.",
+      "whyWrong": {
+        "a": "This states the timing rule while ignoring the ongoing-process view the section reports alongside it.",
+        "b": "No fixed renewal schedule is prescribed; further discussion is as needed.",
+        "c": "A change of diagnosis is one occasion among many, not the stated trigger."
+      },
+      "topic": "Informed consent and assent",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section V.E, Standard 10.01, pp. 85-86"
+    }
+  ]
+}

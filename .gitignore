@@ -7,6 +7,10 @@ pdfs/*
 # tools/extract.py instead of committing.
 text/
 
+# Study guides synthesized from the chapters (NotebookLM exports and the like)
+# are derived from the same copyrighted material.
+Study note/
+
 # Local scratch
 tmp/
 *.local.json
