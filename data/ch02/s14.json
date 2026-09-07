@@ -1,0 +1,753 @@
+{
+  "id": "ch02-s14",
+  "chapter": 2,
+  "chapterTitle": "Ethics and Professional Issues",
+  "section": 14,
+  "sectionTitle": "Professional Issues",
+  "profile": "application-primary",
+  "sourceFile": "Ethics.pdf",
+  "generatedAt": "2026-09-07",
+  "questionTarget": 20,
+  "questions": [
+    {
+      "id": "q01",
+      "type": "single",
+      "stem": "The primary goal of psychology licensure, as stated by ASPPB, is to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "protect the public by limiting licensure to those qualified to practise"
+        },
+        {
+          "id": "b",
+          "text": "maintain uniform standards of training across jurisdictions"
+        },
+        {
+          "id": "c",
+          "text": "ensure that psychologists can practise across state lines"
+        },
+        {
+          "id": "d",
+          "text": "establish the profession's standing relative to other disciplines"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "ASPPB states the primary goal of licensure is to protect the public by limiting licensure to those persons who are qualified to practice psychology as defined by state or provincial law.",
+      "whyWrong": {
+        "b": "Uniformity across jurisdictions is not the stated goal, and standards in fact vary.",
+        "c": "Mobility is a separate concern from the protective purpose of licensure.",
+        "d": "Professional standing is not what licensure exists to secure."
+      },
+      "topic": "Licensure and the EPPP",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.A, p. 129"
+    },
+    {
+      "id": "q02",
+      "type": "single",
+      "stem": "A candidate asks how the two parts of the EPPP relate to one another. Part 1 is the foundational knowledge exam currently in place in all jurisdictions, and Part 2 is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "an optional supplement for candidates seeking specialty certification"
+        },
+        {
+          "id": "b",
+          "text": "a skills-based exam, required by all EPPP jurisdictions from January 2026"
+        },
+        {
+          "id": "c",
+          "text": "a jurisprudence exam covering the candidate's own state law"
+        },
+        {
+          "id": "d",
+          "text": "an oral examination administered by the state licensing board"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "The EPPP is one examination with two parts: Part 1 (Knowledge), the foundational exam currently in place in all jurisdictions, and Part 2 (Skills), a skills-based exam. Beginning January 2026, all jurisdictions requiring the EPPP include both parts.",
+      "whyWrong": {
+        "a": "Part 2 is not optional or tied to specialty certification.",
+        "c": "State jurisprudence exams are separate from the EPPP.",
+        "d": "Part 2 is a skills-based written examination rather than an oral board exam."
+      },
+      "topic": "Licensure and the EPPP",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.A, p. 129"
+    },
+    {
+      "id": "q03",
+      "type": "single",
+      "stem": "A defendant claims he did not appreciate that his act was wrong because of a mental disease. The rule most jurisdictions apply, from the American Law Institute, asks whether he lacked substantial capacity to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "consult with counsel and understand the proceedings against them"
+        },
+        {
+          "id": "b",
+          "text": "form the specific intent required by the offence charged"
+        },
+        {
+          "id": "c",
+          "text": "appreciate the wrongfulness of the act or conform to the law"
+        },
+        {
+          "id": "d",
+          "text": "recall the circumstances surrounding the act at the time of trial"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The ALI rule states a person is not guilty by reason of insanity if, because of a mental disease or defect, that person lacks substantial capacity to appreciate the wrongfulness of the act or to behave according to the requirements of the law.",
+      "whyWrong": {
+        "a": "This is the Dusky standard for competence to stand trial, a different question.",
+        "b": "Specific intent is a separate criminal law doctrine.",
+        "d": "Memory of the act is not the ALI criterion."
+      },
+      "topic": "Legal definitions",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.B, p. 130"
+    },
+    {
+      "id": "q04",
+      "type": "single",
+      "stem": "Dr. Feld evaluates a defendant who cannot follow what is happening in court and cannot give his lawyer a coherent account of events. The governing standard derives from:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the American Law Institute rule on criminal insanity"
+        },
+        {
+          "id": "b",
+          "text": "Tarasoff v. Regents, on the duty to protect third parties"
+        },
+        {
+          "id": "c",
+          "text": "Jaffee v. Redmond, on psychotherapist-patient privilege"
+        },
+        {
+          "id": "d",
+          "text": "Dusky v. United States, on competence to stand trial"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Laws on competence to stand trial derive from Dusky v. United States (1960), which defines a defendant as incompetent if, as a result of mental defect or illness, they lack sufficient present ability to consult with their lawyer with a reasonable degree of rational understanding and a rational as well as factual understanding of the proceedings.",
+      "whyWrong": {
+        "a": "The ALI rule concerns the defendant's state at the time of the offence, not at trial.",
+        "b": "Tarasoff concerns the duty to warn or protect an intended victim.",
+        "c": "Jaffee concerns federal recognition of privilege."
+      },
+      "topic": "Legal definitions",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.B, p. 130"
+    },
+    {
+      "id": "q05",
+      "type": "single",
+      "stem": "Dr. Adeyemi is called to describe what she personally observed during a session with a client, and is then asked to comment on a hypothetical scenario. As a fact witness she:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "may describe what she observed but may not respond to the hypothetical"
+        },
+        {
+          "id": "b",
+          "text": "may respond to the hypothetical, since she has relevant expertise"
+        },
+        {
+          "id": "c",
+          "text": "must decline to testify at all without being qualified as an expert"
+        },
+        {
+          "id": "d",
+          "text": "may respond to the hypothetical if she states her limitations first"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "A fact witness testifies to what they have seen, heard, or otherwise observed. Fact witnesses are generally not allowed to offer opinions, address issues they have no personal knowledge of, or respond to hypothetical situations.",
+      "whyWrong": {
+        "b": "Expertise does not convert a fact witness into an expert witness for this purpose.",
+        "c": "She may testify to her observations; only the hypothetical is out of bounds.",
+        "d": "Stating limitations does not extend what a fact witness may address."
+      },
+      "topic": "Legal definitions",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.B, p. 130"
+    },
+    {
+      "id": "q06",
+      "type": "single",
+      "stem": "A fact witness may provide information about a client in a legal proceeding only:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "after being qualified as an expert by the court"
+        },
+        {
+          "id": "b",
+          "text": "with the client's consent or a court order"
+        },
+        {
+          "id": "c",
+          "text": "where the information is already in the public record"
+        },
+        {
+          "id": "d",
+          "text": "when the client is a party to the proceeding"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "A fact witness may provide information about a client in a legal proceeding only with the consent of the client or a court order.",
+      "whyWrong": {
+        "a": "Expert qualification governs opinion evidence, not the confidentiality of client information.",
+        "c": "Public availability of some material does not release the psychologist from confidentiality.",
+        "d": "The client's status as a party does not by itself authorize disclosure."
+      },
+      "topic": "Legal definitions",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.B, p. 130"
+    },
+    {
+      "id": "q07",
+      "type": "single",
+      "stem": "In a civil proceeding involving a twelve-year-old, the court appoints an adult to represent the child and make decisions on her behalf. That person is a:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "conservator of the estate"
+        },
+        {
+          "id": "b",
+          "text": "court-appointed expert witness"
+        },
+        {
+          "id": "c",
+          "text": "guardian ad litem"
+        },
+        {
+          "id": "d",
+          "text": "legally authorized representative under HIPAA"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "A guardian ad litem is an adult appointed by the court to represent and make decisions for someone, such as a minor, who is legally incapable of doing so on their own in a civil legal proceeding.",
+      "whyWrong": {
+        "a": "A conservator manages property rather than representing a person in a proceeding.",
+        "b": "An expert witness provides opinion evidence rather than representing a party.",
+        "d": "That HIPAA term concerns health information decisions, not court representation."
+      },
+      "topic": "Legal definitions",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.B, p. 130"
+    },
+    {
+      "id": "q08",
+      "type": "single",
+      "stem": "Asked to assess a client's risk of future violence, Dr. Okonjo should give greatest weight to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "the client's current diagnosis and symptom severity"
+        },
+        {
+          "id": "b",
+          "text": "the client's self-reported intentions during interview"
+        },
+        {
+          "id": "c",
+          "text": "the clinician's overall impression formed across sessions"
+        },
+        {
+          "id": "d",
+          "text": "the client's past history of violent behavior"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Although predictions of violence are not particularly accurate, there is evidence that a past history of violent behavior is the single most accurate predictor of future violent behavior, and that the greater the number of past incidents, the greater the risk.",
+      "whyWrong": {
+        "a": "Comorbid psychiatric conditions are one static factor among several rather than the leading predictor.",
+        "b": "Self-report is unreliable and is not identified as the best predictor.",
+        "c": "Unstructured clinical impression is precisely what the research finds inaccurate."
+      },
+      "topic": "Prediction of violence",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.C, p. 130"
+    },
+    {
+      "id": "q09",
+      "type": "single",
+      "stem": "Which pairing correctly classifies risk factors for violence?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Age at first violent offense is static; substance abuse is dynamic"
+        },
+        {
+          "id": "b",
+          "text": "Substance abuse is static; social support is dynamic"
+        },
+        {
+          "id": "c",
+          "text": "Impulse control is static; parental criminality is dynamic"
+        },
+        {
+          "id": "d",
+          "text": "Comorbid psychiatric conditions are dynamic; impulse control is static"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Static factors are fixed and historical — age at first violent offense, history of parental criminality, comorbid psychiatric conditions. Dynamic risk factors are changeable — impulse control, substance abuse, social support.",
+      "whyWrong": {
+        "b": "Substance abuse is listed among the dynamic, changeable factors.",
+        "c": "This reverses both: impulse control is dynamic and parental criminality is static.",
+        "d": "This reverses both terms as well."
+      },
+      "topic": "Prediction of violence",
+      "level": "application",
+      "stemType": "short",
+      "difficulty": 3,
+      "sourceRef": "Section XIV.C, pp. 130-131"
+    },
+    {
+      "id": "q10",
+      "type": "single",
+      "stem": "A former client sues Dr. Whitcombe for malpractice. Which set of conditions must the plaintiff establish?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A duty of care, an ethics complaint upheld, harm suffered, and financial loss"
+        },
+        {
+          "id": "b",
+          "text": "A duty of care, a breached standard of care, harm suffered, and proximate cause"
+        },
+        {
+          "id": "c",
+          "text": "A breached standard of care, harm suffered, malice, and financial loss"
+        },
+        {
+          "id": "d",
+          "text": "A duty of care, a licensing board finding, harm suffered, and proximate cause"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Four conditions must be met: a professional relationship establishing a legal duty of care; a demonstrable standard of care that was breached; harm or injury suffered by the person; and the breach as the proximate cause of that harm.",
+      "whyWrong": {
+        "a": "An upheld ethics complaint is not one of the four conditions.",
+        "c": "Malice is not an element of a malpractice claim.",
+        "d": "A licensing board finding is not required to bring a civil claim."
+      },
+      "topic": "Malpractice",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.D, p. 131"
+    },
+    {
+      "id": "q11",
+      "type": "single",
+      "stem": "A client sues Dr. Marsh for malpractice. To succeed she must prove her claim by:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "proof beyond a reasonable doubt"
+        },
+        {
+          "id": "b",
+          "text": "clear and convincing evidence"
+        },
+        {
+          "id": "c",
+          "text": "a preponderance of the evidence"
+        },
+        {
+          "id": "d",
+          "text": "a finding of gross professional negligence"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "Malpractice cases are civil suits requiring the plaintiff to prove the claim by a preponderance of the evidence.",
+      "whyWrong": {
+        "a": "That is the criminal standard, not the civil one.",
+        "b": "Clear and convincing evidence is a higher civil standard used in other contexts.",
+        "d": "Gross negligence is not the standard of proof for the claim."
+      },
+      "topic": "Malpractice",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.D, p. 131"
+    },
+    {
+      "id": "q12",
+      "type": "single",
+      "stem": "Asked how best to protect herself against a future malpractice claim, Dr. Iqbal should be told that experts generally regard the best defense in litigation to be:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "comprehensive liability insurance"
+        },
+        {
+          "id": "b",
+          "text": "signed informed consent forms from every client"
+        },
+        {
+          "id": "c",
+          "text": "regular peer consultation on difficult cases"
+        },
+        {
+          "id": "d",
+          "text": "adequate records"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Methods for reducing malpractice risk include familiarity with legal and ethical standards, providing only services compatible with one's training, and maintaining careful records. Experts generally agree the best defense in litigation is adequate records (Knapp, 1997).",
+      "whyWrong": {
+        "a": "Insurance covers the cost of a claim but does not defend against its merits.",
+        "b": "Consent forms are valuable but are not what experts identify as the best defense.",
+        "c": "Consultation improves care but is not the stated best defense."
+      },
+      "topic": "Malpractice",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.D, p. 131"
+    },
+    {
+      "id": "q13",
+      "type": "single",
+      "stem": "Dr. Sandoval receives a subpoena for a client's records. Her first step should be to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "determine whether the subpoena is legally valid"
+        },
+        {
+          "id": "b",
+          "text": "contact the client to discuss the implications of disclosure"
+        },
+        {
+          "id": "c",
+          "text": "provide the records, since a subpoena is a legal mandate"
+        },
+        {
+          "id": "d",
+          "text": "have her attorney file a motion to quash the subpoena"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "The APA Committee on Legal Issues sets out a sequence whose first step is determining whether the subpoena is legally valid — it may not be, for instance where the court lacks jurisdiction or it was improperly served.",
+      "whyWrong": {
+        "b": "Contacting the client comes second, after validity is established.",
+        "c": "A subpoena is not a court order, and complying without checking skips the whole sequence.",
+        "d": "A motion to quash is a later step, used where the client does not consent and the requesting party persists."
+      },
+      "topic": "Responding to a subpoena",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.E, p. 131"
+    },
+    {
+      "id": "q14",
+      "type": "single",
+      "stem": "A client refuses to consent to disclosure and the party who issued the subpoena continues to demand the records. Negotiation has failed. Dr. Petrov may now:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "release the records, since she has exhausted the available options"
+        },
+        {
+          "id": "b",
+          "text": "seek informal guidance from the court, or move to quash"
+        },
+        {
+          "id": "c",
+          "text": "ignore the subpoena, since the client has withheld consent"
+        },
+        {
+          "id": "d",
+          "text": "release only the portions she judges not to be clinically sensitive"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Where the client does not consent and the requesting party persists, the psychologist can seek guidance from the court informally with a letter, or have their attorney file a motion to quash the subpoena or a motion for a protective order.",
+      "whyWrong": {
+        "a": "Options remain, and releasing without consent or an order would breach confidentiality.",
+        "c": "A valid subpoena requires a formal response; it cannot simply be ignored.",
+        "d": "Partial release on her own judgment is not among the steps the guidelines set out."
+      },
+      "topic": "Responding to a subpoena",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XIV.E, p. 131"
+    },
+    {
+      "id": "q15",
+      "type": "single",
+      "stem": "A court orders Dr. Bhatt to produce client documents, and his attorney's attempts to have the order vacated have failed. He must:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "continue to assert privilege, since confidentiality is a primary obligation"
+        },
+        {
+          "id": "b",
+          "text": "produce the documents only after obtaining the client's consent"
+        },
+        {
+          "id": "c",
+          "text": "comply with the order, to avoid being held in contempt of court"
+        },
+        {
+          "id": "d",
+          "text": "refer the matter to the APA Ethics Committee for a determination"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "When a court issues an order to provide testimony or produce documents and attempts to have it modified or vacated have been unsuccessful, the psychologist must comply to avoid being held in contempt of court.",
+      "whyWrong": {
+        "a": "Privilege may be asserted, but once an order issues and challenges fail, compliance is required.",
+        "b": "Consent is preferable but the order operates whether or not it is given.",
+        "d": "The Ethics Committee has no role in resolving a court order."
+      },
+      "topic": "Responding to a subpoena",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.E, p. 131"
+    },
+    {
+      "id": "q16",
+      "type": "single",
+      "stem": "According to ASPPB's summary of disciplinary actions from 1974 through 2023, the most common reason for disciplinary action by licensing boards is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "sexual misconduct"
+        },
+        {
+          "id": "b",
+          "text": "negligence"
+        },
+        {
+          "id": "c",
+          "text": "failure to maintain adequate records"
+        },
+        {
+          "id": "d",
+          "text": "unprofessional conduct"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "ASPPB's six most common reasons, from most to least, are unprofessional conduct, sexual misconduct, negligence, non-sexual dual relationship, conviction of a crime, and failure to maintain adequate or accurate records.",
+      "whyWrong": {
+        "a": "Sexual misconduct is second on the list rather than first.",
+        "b": "Negligence is third.",
+        "c": "Record-keeping failures are last of the six."
+      },
+      "topic": "Discipline and sexual misconduct",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 3,
+      "sourceRef": "Section XIV.F, p. 132"
+    },
+    {
+      "id": "q17",
+      "type": "single",
+      "stem": "Pope et al. (1993) found no consistent relationship between a therapist's risk for sexual misconduct and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "theoretical orientation, experience, or education"
+        },
+        {
+          "id": "b",
+          "text": "the gender of the therapist or of the client involved"
+        },
+        {
+          "id": "c",
+          "text": "the relative ages of the therapist and the client"
+        },
+        {
+          "id": "d",
+          "text": "the setting in which the therapy was being provided"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "explanation": "Pope et al. concluded there is no consistent relationship between risk for sexual misconduct and theoretical orientation, professional experience, or education. They did find gender and age patterns.",
+      "whyWrong": {
+        "b": "Gender was related: male therapists engaged in such relationships more often, most often with female clients.",
+        "c": "Age was related: therapists were typically older, averaging 42 to 44 against clients aged 30 to 33.",
+        "d": "Setting was not among the variables reported either way."
+      },
+      "topic": "Discipline and sexual misconduct",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 3,
+      "sourceRef": "Section XIV.F, p. 132"
+    },
+    {
+      "id": "q18",
+      "type": "single",
+      "stem": "Lamb and Catanzaro (1998) found that practitioners reporting sexual boundary violations were also more likely to have been involved in non-sexual boundary crossings and to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "work in solo rather than group practice settings"
+        },
+        {
+          "id": "b",
+          "text": "rate those crossings as less negative or problematic"
+        },
+        {
+          "id": "c",
+          "text": "report lower overall job satisfaction than their peers"
+        },
+        {
+          "id": "d",
+          "text": "have received less supervision during their training"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "explanation": "Respondents reporting sexual boundary violations were more likely to say they had been involved in non-sexual boundary crossings, such as becoming social friends with a former client, and to rate such crossings as less negative or problematic.",
+      "whyWrong": {
+        "a": "Practice setting was not among the reported findings.",
+        "c": "Job satisfaction was not measured in the study as described.",
+        "d": "Training supervision was not one of the reported associations."
+      },
+      "topic": "Discipline and sexual misconduct",
+      "level": "recall",
+      "stemType": "short",
+      "difficulty": 3,
+      "sourceRef": "Section XIV.F, p. 132"
+    },
+    {
+      "id": "q19",
+      "type": "single",
+      "stem": "A state law gives patients greater control over their health records than HIPAA's Privacy Rule provides. In that state, the Privacy Rule:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "takes precedence, since federal law governs where the two conflict"
+        },
+        {
+          "id": "b",
+          "text": "applies to psychologists while state law applies to other providers"
+        },
+        {
+          "id": "c",
+          "text": "is superseded by the more stringent state law"
+        },
+        {
+          "id": "d",
+          "text": "applies only to records transmitted electronically in that state"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "explanation": "The Privacy Rule takes precedence over state law only where the state law gives patients less control over their records. It is superseded by state law that is more stringent — that is, provides greater privacy protection or greater patient rights.",
+      "whyWrong": {
+        "a": "Federal preemption operates only in one direction here, in favour of whichever gives patients more protection.",
+        "b": "The rule does not split by profession in this way.",
+        "d": "Electronic transmission triggers the Privacy Rule's application, but does not determine which law prevails."
+      },
+      "topic": "HIPAA and cost analysis",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 3,
+      "sourceRef": "Section XIV.G, p. 133"
+    },
+    {
+      "id": "q20",
+      "type": "single",
+      "stem": "A clinic wants to compare two programmes with similar goals, but cannot assign a monetary value to their outcomes, so it measures dropout rates and symptom severity instead. This is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "cost-benefit analysis"
+        },
+        {
+          "id": "b",
+          "text": "cost-utility analysis"
+        },
+        {
+          "id": "c",
+          "text": "cost-feasibility analysis"
+        },
+        {
+          "id": "d",
+          "text": "cost-effectiveness analysis"
+        }
+      ],
+      "answer": [
+        "d"
+      ],
+      "explanation": "Cost-effectiveness analysis is used where interventions have similar goals but outcomes cannot be monetized. Costs are expressed in monetary terms while outcomes are expressed in measurable non-monetary terms such as dropout numbers or symptom severity scores.",
+      "whyWrong": {
+        "a": "Cost-benefit analysis expresses both costs and benefits in monetary terms.",
+        "b": "Cost-utility analysis expresses outcomes in healthy years of life, such as QALYs.",
+        "c": "Cost-feasibility analysis considers only the resources required and ignores outcomes."
+      },
+      "topic": "HIPAA and cost analysis",
+      "level": "application",
+      "stemType": "vignette",
+      "difficulty": 2,
+      "sourceRef": "Section XIV.H, p. 133"
+    }
+  ]
+}
